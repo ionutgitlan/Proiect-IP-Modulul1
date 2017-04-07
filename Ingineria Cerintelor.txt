@@ -1,0 +1,23 @@
+Ingineria Cerintelor - Modulul 1
+
+1) Descrierea problemei
+	Modulul 1 al proiectului se va ocupa de preluarea informatiilor din fisiere de diferite extensii cu ajutorul unor tool-uri externe si introducerea acestor informatii intr-o baza de date.
+
+2) Actori
+	A. Administrator baze de date
+	B. Modulele care utlizeaza API-ul (Modulele 2 si 3)
+	C. Serviciile externe care utilizeaza API-ul
+
+3) Scenarii
+	A. Administrator baze de date
+		- Introduce informatii din baza de date
+		- Sterge informatii din baza de date
+		- Modifica informatii din baza de date
+
+	B. Modulele care utilizeaza API-ul (Modulele 2 si 3)
+		- Acceseaza informatia din baza de date
+		- Nu pot modifica baza de date
+
+	C. Serviciile externe care utilizeaza API-ul
+		- Extrag informatia din baza de date si le proceseaza in aplicatiile personale
+		- Nu pot modifica baza de datea

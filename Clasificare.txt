@@ -1,0 +1,28 @@
+			   		Clasificare
+
+
+	Pornind de la urmatorul exemplu practic:"O firma doreste sa angajeze un specialist 
+ in Java cu o experienta de minim 3 ani si primeste un numar de 2000 de CV-uri",observam ca 
+ ar fi foarte util sa recurgem la o clasificare a CV-urilor, dupa anumite criterii,cu scopul de 
+ a reduce domeniul de cautare.
+ Un prim pas ar fi sa selectam toti candidatii care au trecut in rubrica de competente tehnice 
+ limbajul de programare Java,apoi dintre cei selectati sa verificam cati dintre ei au o experienta
+ relevanta in domeniu de minim 3 ani.
+
+	Procesul descris mai sus va avea la baza realizarea si utilizarea unor clustere.
+
+
+ O lista de criterii dupa care sa se realizeze clasificarea ar putea fi:
+	-competente tehnice
+	-experienta
+        -abilitatea de a lucra in echipa
+	-hobbies
+	-educatie
+	-stabilitate 
+	-nivel de limba 
+	-carnet de conducere
+	
+
+
+
+

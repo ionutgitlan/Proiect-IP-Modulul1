@@ -6,6 +6,6 @@ Negruser Tudor Gabriel
 Sandulache Denisa Alexandra
 Juravle Oana
 Iordache Marian
-Gatlan Ionut
+Gitlan Ionut
 Chirila Loredana
 Gavriliuc Samuel

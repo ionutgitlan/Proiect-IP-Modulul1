@@ -1,0 +1,53 @@
+				Risk Study on CV websites
+
+The database for the websites that offer free CVs is small and the search engine does not offer many options unlike for the websites that require money for access.
+
+Websites that require a certain amount of money to access their CV database:
+
+•	Bestjobs.eu 
+5 euro per applicant or 10 euro per CV you wish to unlock
+
+•	Myjob.ro 
+2 euro per CV you wish to unlock
+
+•	Totaljobs.com 
+250 pounds for 1week access to the CV database
+
+•	Careerstructure.com 
+190 pounds for 1day access
+
+•	Netjobs.ro 
+20 euro for 20CVs, 39 euro for 50 CVs,etc.
+
+•	Ecruiters.ukstaffsearch.com 
+offers a free search but if you want access to a CV you must pay a fee that depends on the expected salary put by the CV owner (example: 1.38 pounds for ES 15k-20k pounds, 0.92 pounds for ES 10k-15k pounds)
+
+
+Websites that are free of charge:
+•	Ejobs.ro 
+CV can be public or private, if an employer wants to see the personal content of the CV, they must send an email to the admin of the website asking for permission which will be sent to the CV owner that will either refuse or accept
+
+•	Indeed.com 
+free access to the CV database, offers relative searches (JAVA develper, PHP developer)
+
+•	Hiring.monster.co.uk 
+offers a free one time access to their DB
+
+•	Jobseeker.eresumex.com 
+offers free access to their DB but the search engine is not that good
+
+•	Jobs.bizoo.ro 
+just need to make a company account
+
+
+
+
+
+
+
+Websites that are offer a free test search with requirements:
+
+•	Cv-library.co.uk 
+can do a test search but you need a valid UK number and a company email to enter
+•	Ziprecruiter.com 
+must have a company account with details like name, number of employees, type of company (bank, factory)

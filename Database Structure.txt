@@ -1,5 +1,6 @@
 Table CurriculumVitae :
   ID NUMBER primary key - va fi generat la introducere
+  CLUSTER_ID VARCHAR2(3) - clusterul de care apartine CV-ul
   NAME VARCHAR2(256) - nume + prenume
   DATE_OF_BIRTH DATE - pe cat posibil toate in acelasi format
   ADDRESS VARCHAR2(256) - daca sunt in formate asemanatoare e mai bine
@@ -17,12 +18,12 @@ Table CurriculumVitae :
 Table Experience
   EXPERIENCE_ID NUMBER primary key - va fi generat la introducere
   JOB_TITLE VARCHAR2(256) - ceea ce pare
-  YEARS NUMBER - nr de ani de la acel job
+  EXPERIENCE_YEARS NUMBER - nr de ani de la acel job
 
 
 Table Studies
   STUDIES_ID NUMBER primary key - va fi generat la introducere
-  INSTITUTE_CERTIFICATE CLOB - unde a studiat
+  CERTIFICATE NUMBER  0-Liceu, 2-Licenta, 4-Master, 6-Doctorat
   STUDY_YEARS NUMBER - anii de studiu la institutia respectiva
 
 

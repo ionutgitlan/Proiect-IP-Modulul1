@@ -24,6 +24,7 @@ Table Studies
   STUDIES_ID NUMBER primary key - va fi generat la introducere
   INSTITUTE VARCHAR2(256) - unde a studiat
   CERTIFICATE VARCHAR2(256) - ce diploma/certificat a obtinut
+  STUDY_YEARS NUMBER - anii de studiu la institutia respectiva
 
 
 Table LanguageSkills

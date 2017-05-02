@@ -22,19 +22,18 @@ Table Experience
 
 Table Studies
   STUDIES_ID NUMBER primary key - va fi generat la introducere
-  INSTITUTE VARCHAR2(256) - unde a studiat
-  CERTIFICATE VARCHAR2(256) - ce diploma/certificat a obtinut
+  INSTITUTE_CERTIFICATE CLOB - unde a studiat
   STUDY_YEARS NUMBER - anii de studiu la institutia respectiva
 
 
 Table LanguageSkills
   LANGUAGE_ID NUMBER primary key - va fi generat la introducere
-  LANGUAGE VARCHAR2(256) ce limbi cunoaste
+  LANGUAGE CLOB ce limbi cunoaste
 
 
 Table Hobbies(
   HOBBY_ID NUMBER primary key- va fi generat la introducere
-  HOBBY VARCHAR2(256) ce hobbyuri are
+  HOBBY CLOB ce hobbyuri are
 
 
 Table SoftSkills(
@@ -45,9 +44,9 @@ Table SoftSkills(
 
 Table TECHNICAL_SKILLS(
    TECHNICAL_SKILL_ID NUMBER primary key - va fi generat la introducere
-   SKILL VARCHAR2(256) - ce abilitati tehnice are (limbaje de programare de ex)
+   SKILL CLOB - ce abilitati tehnice are (limbaje de programare de ex)
 
 
 Table SOCIAL_SKILLS(
   SOCIAL_SKILL_ID NUMBER primary key - va fi generat la introducere
-  SKILL VARCHAR2(256) - ce abilitati sociale are (munca in echipa, bun lucru sub presiune de ex)
+  SKILL CLOB - ce abilitati sociale are (munca in echipa, bun lucru sub presiune de ex)

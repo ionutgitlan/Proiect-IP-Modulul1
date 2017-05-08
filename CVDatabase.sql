@@ -8,10 +8,6 @@ ALTER TABLE Hobbies DROP CONSTRAINT fk_hob;
 /
 ALTER TABLE SoftSkills DROP CONSTRAINT fk_ssk;
 /
-ALTER TABLE Technical_Skills DROP CONSTRAINT fk_tec;
-/
-ALTER TABLE Social_Skills DROP CONSTRAINT fk_soc;
-/
 
 DROP TABLE CurriculumVitae;
 /
@@ -22,10 +18,6 @@ DROP TABLE Studies;
 DROP TABLE LanguageSkills;
 /
 DROP TABLE Hobbies;
-/
-DROP TABLE Technical_skills;
-/
-DROP TABLE Social_skills;
 /
 DROP TABLE SoftSkills;
 /
@@ -92,31 +84,10 @@ CREATE TABLE Hobbies(
 
 CREATE TABLE SoftSkills(
   CV_ID NUMBER,
-  TECHNICAL_SKILL_ID NUMBER unique not null,
-  SOCIAL_SKILL_ID NUMBER unique not null,
+  SKILL CLOB,
   
   CONSTRAINT fk_ssk
     FOREIGN KEY (CV_ID)
     REFERENCES CurriculumVitae(ID)
-);
-/
-
-CREATE TABLE TECHNICAL_SKILLS(
-   TECHNICAL_SKILL_ID NUMBER not null,
-   SKILL CLOB,
-   
-   CONSTRAINT fk_tec
-    FOREIGN KEY (TECHNICAL_SKILL_ID)
-    REFERENCES SoftSkills(TECHNICAL_SKILL_ID)
-);
-/
-
-CREATE TABLE SOCIAL_SKILLS(
-  SOCIAL_SKILL_ID NUMBER not null,
-  SKILL CLOB,
-  
-  CONSTRAINT fk_soc
-    FOREIGN KEY (SOCIAL_SKILL_ID)
-    REFERENCES SoftSkills(SOCIAL_SKILL_ID)
 );
 /

@@ -1,0 +1,53 @@
+Table CurriculumVitae :
+  ID NUMBER primary key - va fi generat la introducere
+  CLUSTER_ID VARCHAR2(3) - clusterul de care apartine CV-ul
+  NAME VARCHAR2(256) - nume + prenume
+  DATE_OF_BIRTH DATE - pe cat posibil toate in acelasi format
+  ADDRESS VARCHAR2(256) - daca sunt in formate asemanatoare e mai bine
+  PHONE_NUMBER NUMBER(10) - daca sunt mai lungi schumbam in bd
+  EMAIL VARCHAR2(256) - nimic in plus
+  EXPERIENCE_YEARS NUMBER - suma tuturor anilor de exprerienta in munca
+  IDEAL_JOB VARCHAR2(256) - zis si jobul pt care aplica
+  EXPERIENCE_ID NUMBER - cheie intr un tabel de mai jos
+  STUDIES_ID NUMBER, - cheie intr un tabel de mai jos
+  LANGUAGE_ID NUMBER - cheie intr un tabel de mai jos
+  HOBBY_ID NUMBER - cheie intr un tabel de mai jos
+  SOFTSKILL_ID NUMBER - cheie intr un tabel de mai jos
+
+
+Table Experience
+  EXPERIENCE_ID NUMBER primary key - va fi generat la introducere
+  JOB_TITLE VARCHAR2(256) - ceea ce pare
+  EXPERIENCE_YEARS NUMBER - nr de ani de la acel job
+
+
+Table Studies
+  STUDIES_ID NUMBER primary key - va fi generat la introducere
+  CERTIFICATE NUMBER  0-Liceu, 2-Licenta, 4-Master, 6-Doctorat
+  STUDY_YEARS NUMBER - anii de studiu la institutia respectiva
+
+
+Table LanguageSkills
+  LANGUAGE_ID NUMBER primary key - va fi generat la introducere
+  LANGUAGE CLOB ce limbi cunoaste
+
+
+Table Hobbies(
+  HOBBY_ID NUMBER primary key- va fi generat la introducere
+  HOBBY CLOB ce hobbyuri are
+
+
+Table SoftSkills(
+  SOFTSKILL_ID NUMBER primary key - va fi generat la introducere
+  TECHNICAL_SKILL_ID NUMBER - cheie intr un tabel de mai jos
+  SOCIAL_SKILL_ID NUMBER - cheie intr un tabel de mai jos
+
+
+Table TECHNICAL_SKILLS(
+   TECHNICAL_SKILL_ID NUMBER primary key - va fi generat la introducere
+   SKILL CLOB - ce abilitati tehnice are (limbaje de programare de ex)
+
+
+Table SOCIAL_SKILLS(
+  SOCIAL_SKILL_ID NUMBER primary key - va fi generat la introducere
+  SKILL CLOB - ce abilitati sociale are (munca in echipa, bun lucru sub presiune de ex)

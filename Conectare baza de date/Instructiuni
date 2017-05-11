@@ -1,0 +1,9 @@
+In SQL Developer, creati o noua conexiune si introduceti urmatoarele date:
+
+- username: stud
+- password: studip
+- connection type: basic
+- role: default
+- hostname: ec2-54-245-171-25.us-west-2.compute.amazonaws.com
+- port: 1521
+- sid: orcl

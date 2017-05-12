@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2915251501532"  usageLimitType="allocation" usageLimit="100" currentUsage="93" remainingUsage="7" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Benjamin Mariadas</FormattedName>
+<GivenName>Benjamin</GivenName>
+<FamilyName>Mariadas</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Benjamin-Mariadas/9edf8503c030f089</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>QuEST Global</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Senior Software Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2010-07-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Vellore Institute of Technology</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.Tech</DegreeName>
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Electronics and Communication</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="C# Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="5829" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C# Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Configuration Management">
+<CompetencyId description="HireAbility taxonomy" id="86" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Configuration Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Configure">
+<CompetencyId description="HireAbility taxonomy" id="4691" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Configure">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="DBMS">
+<CompetencyId description="HireAbility taxonomy" id="98" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="DBMS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Gdi">
+<CompetencyId description="HireAbility taxonomy" id="1947" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Gdi">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HyperText Markup Language">
+<CompetencyId description="HireAbility taxonomy" id="5174" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HyperText Markup Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Javascript">
+<CompetencyId description="HireAbility taxonomy" id="211" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Javascript">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="JUnit">
+<CompetencyId description="HireAbility taxonomy" id="11875" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="JUnit">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux">
+<CompetencyId description="HireAbility taxonomy" id="218" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Foundation Classes">
+<CompetencyId description="HireAbility taxonomy" id="6354" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Foundation Classes">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Visual C++">
+<CompetencyId description="HireAbility taxonomy" id="4471" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Visual C++">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Multithreading">
+<CompetencyId description="HireAbility taxonomy" id="2074" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Multithreading">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="MySQL Database">
+<CompetencyId description="HireAbility taxonomy" id="6401" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="MySQL Database">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="SAFE (Slab Analysis by the Finite Element Method)">
+<CompetencyId description="HireAbility taxonomy" id="7853" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="SAFE (Slab Analysis by the Finite Element Method)">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="SVN">
+<CompetencyId description="HireAbility taxonomy" id="18277" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="SVN">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Swing">
+<CompetencyId description="HireAbility taxonomy" id="399" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Swing">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="TFS">
+<CompetencyId description="HireAbility taxonomy" id="18418" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="TFS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QmVuamFtaW4gTWFyaWFkYXMKClNlbmlvciBTb2Z0d2FyZSBFbmdpbmVlciAtIFF1RVNUIEdsb2JhbAoKIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQmVuamFtaW4tTWFyaWFkYXMvOWVkZjg1MDNjMDMwZjA4OQoKV09SSyBFWFBFUklFTkNFCgpTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIKClF1RVNUIEdsb2JhbCAtIEp1bHkgMjAxMCB0byBQcmVzZW50CgpKdWx5IDIwMTAgVGlsbCBkYXRlCgpUZWNobmljYWwgU2tpbGxzCgpPcGVyYXRpbmcgU3lzdGVtcyAtIFdpbmRvd3MgLSA3LyBYUC8ySywgTGludXgKClByb2dyYW1taW5nIExhbmd1YWdlcyAtIEMrKywgVmlzdWFsIEMrKywgQyMsIENvcmUgSmF2YQoKR3JhcGhpY2FsIFVzZXIgSW50ZXJmYWNlcyAtIE1GQywgR0RJLCBTd2luZwoKQ29uY2VwdHMgLSBPT1BzLCBNdWx0aXRocmVhZGluZyBhbmQgU3luY2hyb25pemF0aW9uCgpDb25maWd1cmF0aW9uIE1hbmFnZW1lbnQgVG9vbHMgLSBNUy1Tb3VyY2UgU2FmZSwgU1ZOLCBURlMKCkRhdGFiYXNlIE1hbmFnZW1lbnQgU3lzdGVtIC0gTXlTUUwKCk90aGVycyAtIEphdmEgU2NyaXB0LCBIVE1MLCBKVW5pdAoKTWFqb3IgUHJvamVjdHMKClBhcmFtZXRyaWMgSW1hZ2UgVmlld2VyCgpTb2Z0d2FyZSBFbmdpbmVlcgoKWFN0cmVhbSBTb2Z0d2FyZSAtIEp1bHkgMjAwNyB0byBKdWx5IDIwMTAKClNlbmlvciBTb2Z0d2FyZSBFbmdpbmVlcgoKVG9vbC9UZWNobm9sb2d5IC0gMjAxMCB0byAyMDEwCgpQYXJhbWV0cmljIEltYWdpbmcgaXMgdGhlIHByb2Nlc3Mgb2YgYXBwbHlpbmcgY29sb3IgdG8gZWFjaCBwaXhlbHMgaW4gYW4gaW1hZ2UgYmFzZWQgb24gdGhlaXIgaW50ZW5zaXR5IGxldmVsCgooa25vd24gYXMgcGFyYW1ldGVyIHZhbHVlKS5Db2xvcmluZyBvZiB0aGUgaW1hZ2Ugd2lsbCBiZSBkb25lIGFmdGVyIHNvbWUgY2FsY3VsYXRpb25zIChhbGdvcml0aG0gcHJvY2VzcykKCm9uIHRoZSBwaXhlbCBkYXRhLiBJdCBpcyBhIHN0YW5kYWxvbmUgYXBwbGljYXRpb24gd2hpY2ggYWNjZXB0cyBYLVJheSBESUNPTSBpbWFnZXMgYW5kIGNvbnZlcnQgaXQgaW50byBjb2xvcgoKaW1hZ2UuIEFsZ29yaXRobSBQcm9jZXNzIGluY2x1ZGVzIHNvbWUgY2FsY3VsYXRpb25zIG9uIHRoZSBpbnB1dCBpbWFnZSAmbWFrZSB0aGUgaW1hZ2UgcmVhZHkgdG8gYmUgY29sb3IKCm1hcHBlZCwgYWZ0ZXIgYWxnb3JpdGhtIHByb2Nlc3Mgd2UgYXBwbHkgY29sb3IgdG8gZWFjaCBwaXhlbCBpbiB0aGUgYWxnb3JpdGhtIHByb2Nlc3NlZCBpbWFnZS4KCkkgd2FzIGludm9sdmVkIGluCgoqIEFsZ29yaXRobSBwcm9jZXNzaW5nIGFuZCByYXcgZmlsZSBnZW5lcmF0aW9uIGZvciBpbWFnZSBwcm9jZXNzaW5nLgoKKiBUZXN0aW5nIGFuZCBidWcgZml4aW5nLgoKUmV2b2x1dGlvbi1IaWdoIFNwZWVkIENUIC0gUGF0aWVudCBBcmVhCgpUb29sL1RlY2hub2xvZ3kgUGxhdGZvcm0gUm9sZSBUZWFtIFNpemUKCkNvcmUgSmF2YSwgU3dpbmcsIEpVbml0IExpbnV4IFNvZnR3YXJlIENvbnN1bHRhbnQgKCBPbnNpdGUgVVMgKSA1CgoiUmV2b2x1dGlvbiBIaWdoIFNwZWVkIENUIiBpcyBhIG1lZGljYWwgZGV2aWNlIHVzZWQgZm9yIHNjYW5uaW5nIGluIGhvc3BpdGFscy4gQWN0aXZlbHkgcGFydGljaXBhdGVkIGluIHRoZQoKZGV2ZWxvcG1lbnQgb2YgVUkgb2YgdGhpcyBzeXN0ZW0uIFRoZSBVSSBhcmNoaXRlY3R1cmUgY29uc2lzdHMgb2YgY2xlYXJseSBkZWZpbmVkIHNwYXRpYWwgem9uZXMgd2l0aGluIHRoZSBsZWZ0IGFuZAoKcmlnaHQgaGVhZCBkaXNwbGF5cy4gRWFjaCBhcmVhIGhhcyBhIHVuaXF1ZSBpZGVudGl0eSB0byBwcm92aWRlIGEgY29uc2lzdGVudCBwbGFjZSBmb3IgYSB0ZWNobm9sb2dpc3QgdG8gcGVyZm9ybQoKc3BlY2lmaWMgc3RlcHMuIFRoZSBkZXNpZ24gb2YgdGhlc2UgYXJlYXMgaXMgYmFzZWQgdXBvbiBhbiB1bmRlcnN0YW5kaW5nIG9mIHRoZSBmdW5jdGlvbmFsIGFuZCBlbW90aW9uYWwKCm5lZWRzIG9mIHRlY2hub2xvZ2lzdHMgYW5kIHdhcyB2YWxpZGF0ZWQgYnkgdXNlciBldmFsdWF0aW9ucy4KClBhdGllbnQgQXJlYQoKVGhpcyBhcmVhIGVuY2Fwc3VsYXRlcyBwYXRpZW50IHNwZWNpZmljIGluZm9ybWF0aW9uIGF0IHRoZSBleGFtIGxldmVsLiBJdCBmZWF0dXJlcyBhbiBpbGx1c3RyYXRpb24gb2YgYSBwYXRpZW50Cgp3aXRoIHNwZWNpZmljIGFuYXRvbWljYWwgc2VjdGlvbnMgaGlnaGxpZ2h0ZWQgaW5kaWNhdGluZyB0aGUgYXJlYXMgdG8gYmUgc2Nhbm5lZCBiYXNlZCB1cG9uIHRoZSBzZWxlY3RlZAoKcHJvdG9jb2wocykuCgpBcyBhIGNvbnN1bHRhbnQgSSB3YXMgcmVzcG9uc2libGUgZm9yIGRlc2lnbiwgZGV2ZWxvcG1lbnQgYW5kIHRlc3QgY2FzZSBwcmVwYXJhdGlvbiBvZiB0aGlzIGFwcGxpY2F0aW9uIHVzaW5nCgpzd2luZy4KCkRJQ09NIFZpZXdlciggSW50ZXJuYWwgKQoKVG9vbC9UZWNobm9sb2d5IFBsYXRmb3JtIFJvbGUgVGVhbSBTaXplCgpDb3JlIEphdmEsIFN3aW5nLCBKVW5pdCBXaW5kb3dzIFNvZnR3YXJlIEVuZ2luZWVyIDUKCkRJQ09NIFZpZXdlciBpcyBhIHN0YW5kYWxvbmUgYXBwbGljYXRpb24uIEl0IGFpbXMgdG8gcHJvdmlkZSBhIGNvbXByZWhlbnNpdmUgc3VpdGUgb2YgbWVkaWNhbCBkaWFnbm9zdGljCgpmZWF0dXJlcyBmb3IgMkQgbWVkaWNhbCBJbWFnZXMuIFRoZSBJbWFnZSBkaXNwbGF5IGFuZCBkaWFnbm9zdGljIGZlYXR1cmVzIHNoYWxsIG1lZXQgdGhlIGhpZ2ggcGVyZm9ybWFuY2UKCmFuZCBxdWFsaXR5IGV4cGVjdGVkIGJ5IHRoZSBlbmQgdXNlcnMgb2YgdGhlIHN5c3RlbS4KCkkgd2FzIGludm9sdmVkIGluCgoqIE1lYXN1cmVtZW50IGRyYXdpbmcuCgoqIERldmVsb3BlZCB0aHVtYiBuYWlsIGRpc3BsYXkgYXJlYSBvZiB2aWV3ZXIuCgoqIFBlcmZvcm1lZCBtYW51YWwgdGVzdGluZy4KClJhcGlkRXllIFZpZXdlcgoKU29mdHdhcmUgRW5naW5lZXIKClRvb2wvVGVjaG5vbG9neSAtIDIwMTAgdG8gMjAxMAoKUmFwaWRFeWUgVmlld2VyIGlzIGEgc3RhbmRhbG9uZSBhcHBsaWNhdGlvbi4gSXQgYWltcyB0byBwcm92aWRlIGEgY29tcHJlaGVuc2l2ZSBzdWl0ZSBvZiBtZWRpY2FsIGRpYWdub3N0aWMKCmZlYXR1cmVzIGZvciAyRCBtZWRpY2FsIEltYWdlcy4gTWVkaWNhbCBJbWFnZXMgYXJlIHN0b3JlZCBpbiBESUNPTSBmb3JtYXQgaW4gYSBQQUNTIFNlcnZlciwgd2hpY2ggbWF5CgpyZXNpZGUgaW4gdGhlIEludGVybmV0IG9yIGFuIEludHJhbmV0LiBUaGUgSW1hZ2UgZGlzcGxheSBhbmQgZGlhZ25vc3RpYyBmZWF0dXJlcyBzaGFsbCBtZWV0IHRoZSBoaWdoIHBlcmZvcm1hbmNlCgphbmQgcXVhbGl0eSBleHBlY3RlZCBieSB0aGUgZW5kIHVzZXJzIG9mIHRoZSBzeXN0ZW0uCgpJIHdhcyBpbnZvbHZlZCBpbgoKKiBNZWFzdXJlbWVudCBkcmF3aW5nLgoKKiBEZXZlbG9wZWQgdGh1bWIgbmFpbCBkaXNwbGF5IGFyZWEgb2Ygdmlld2VyLgoKKiBQZXJmb3JtZWQgTWFudWFsIHRlc3RpbmcgYW5kIEF1dG9tYXRpb24gdGVzdGluZyB1c2luZyAoVGVzdCBBdXRvbWF0aW9uIEZyYW1ld29yaykKClNBTkFLTyBFeGFtIFdpemFyZCBWMy4wCgpUb29sL1RlY2hub2xvZ3kgUGxhdGZvcm0gUm9sZSBUZWFtIFNpemUKClZDKyssIE1GQyBXaW5kb3dzIERldmVsb3BlciA0CgpUaGUgU0FOQUtPIFN0dWR5IEV4YW1pbmF0aW9uIG1vZHVsZSBpcyBhIHZhbHVhYmxlIHRvb2wgdGhhdCBoZWxwcyB0ZWFjaGVyIGNyZWF0ZSBleGFtaW5hdGlvbgoKcXVpY2tseSBhbmQgZWFzaWx5IHRvIHRlc3Qgc3R1ZGVudHMgaW4gYSBudW1iZXIgb2YgZGlmZmVyZW50IHdheXMuIFRoZSB0ZWFjaGVyIGludGVyZmFjZQoKKFNBTkFLTyBFeGFtIFdpemFyZCkgY2FuIGJlIGxhdW5jaGVkIGZyb20gdGhlIFN0dWR5IHRlYWNoaW5nIHNvZnR3YXJlLCBtYWtpbmcgaXQgZWFzeSB0byBxdWlja2x5IHNldCB1cAoKYW5kIGFkbWluaXN0ZXIgdGVzdHMgZnJvbSB0aGUgc2FtZSBpbnRlcmZhY2UgdXNlZCBmb3IgaW5zdHJ1Y3Rpb24uIFRoZSBTQU5BS08KCkV4YW0gV2l6YXJkIGd1aWRlcyB0ZWFjaGVycyB0aHJvdWdoIHRoZSBjcmVhdGlvbiBvZiB0aGUgdGVzdCwgb2ZmZXJpbmcgYSBudW1iZXIgb2Ygb3B0aW9ucyBmb3IgcXVlc3Rpb24gdHlwZXMsCgphbmQgcHJvdmlkaW5nIGEgZ3JlYXQgZGVhbCBvZiBmbGV4aWJpbGl0eSBpbiB0ZXN0aW5nIHN0dWRlbnRzJyBhYmlsaXRpZXMuIFNBTkFLTwoKRXhhbSBXaXphcmQgZmFjaWxpdGF0ZXMgc3RlcC1ieS1zdGVwIGFzc2VtYmx5IG9mIHF1ZXN0aW9ucyBhbmQgb3RoZXIgY29tcG9uZW50cy8KCmVsZW1lbnRzIG9mIGFuIGFzc2Vzc21lbnQuIFRoZSB3aXphcmQgZ3VpZGVzIHRoZSBkZXZlbG9wZXIgdGhyb3VnaCBlYWNoIG9mIHRoZSBzdGVwcyBpbnZvbHZlZCBpbiBjcmVhdGluZwoKYSBuZXcgYXNzZXNzbWVudCBvciBtb2RpZnlpbmcgYW4gZXhpc3RpbmcgYXNzZXNzbWVudC4gU2FuYWtvIEV4YW0gV2l6YXJkCgp2My4wIHN1cHBvcnRzIG11bHRpcGxlIGxhbmd1YWdlcyBhbmQgaXQgaGFzIHByaW50IGZ1bmN0aW9uYWxpdHkuCgpBcyBhIFNvZnR3YXJlIEVuZ2luZWVyLCBJIHdhcyByZXNwb25zaWJsZSBmb3I6CgoqIFJlc3BvbnNpYmxlIGZvciB0aGUgY29tcGxldGUgZGV2ZWxvcG1lbnQgcHJvY2VzcyBvZiBTQU5BS08gRXhhbSBXaXphcmQKClYzLjAgZnJvbSBleGlzdGluZyBTQU5BS08gRXhhbSBXaXphcmQgVjIuMQoKKiBSZXNwb25zaWJsZSBmb3IgbWFpbnRlbmFuY2Ugb2YgU2FuYWtvIEV4YW0gV2l6YXJkIFYzLjAKCiogVGVzdGluZyBhbmQgQ29kZSByZXZpZXcKCkEgZm91ci1tZW1iZXIgdGVhbSB3YXMgaW52b2x2ZWQgaW4gdGhlIGRldmVsb3BtZW50IG9mIHRoZSBTYW5ha28gRXhhbSBXaXphcmQgVjMuMCB1c2luZwoKVmlzdWFsIEMrKywgTUZDLCBhbmQgQ09NCgpSYXBpZEV4YW0gVjQKClRvb2wvVGVjaG5vbG9neSBQbGF0Zm9ybSBSb2xlIFRlYW0gU2l6ZQoKVkMrKywgTUZDIFdpbmRvd3MgRGV2ZWxvcGVyIDQKClJhcGlkRXhhbSB2NCBEZWx1eGUgaXMgWFN0cmVhbSBTb2Z0d2FyZSdzIDEwMCUgUHJvZ3JhbW1pbmctZnJlZSBBc3Nlc3NtZW50IGFuZCBDZXJ0aWZpY2F0aW9uIEF1dGhvcmluZwoKdGVjaG5vbG9neS4gSXQgZW5hYmxlcyBkZXZlbG9wZXJzIHRvIGNyZWF0ZSwgY3VzdG9taXplLCBhbmQgZGVwbG95IGludGVyYWN0aXZlIHF1ZXN0aW9uLWJhc2VkIGFzc2Vzc21lbnRzCgooaW5jbHVkaW5nIGNlcnRpZmljYXRpb25zLCBleGFtcywKCnByb2ZpY2llbmN5IHRlc3RzLCBxdWl6emVzLCBxdWVzdGlvbm5haXJlcywgc3VydmV5cywgZXRjLikgd2l0aCBmdWxsIHNjb3JpbmcsIHRyYWNraW5nLCBhbmQgYW5hbHlzaXMvcmVwb3J0aW5nCgpjYXBhYmlsaXRpZXMuCgpBcyBhIFNvZnR3YXJlIEVuZ2luZWVyLCBJIHdhcyByZXNwb25zaWJsZSBmb3I6CgoqIFJlc3BvbnNpYmxlIGZvciB0aGUgY29tcGxldGUgZGV2ZWxvcG1lbnQgcHJvY2VzcyBvZiBSYXBpZCBFeGFtIFY0IHByaW50CgpGdW5jdGlvbmFsaXR5LgoKKiBSZXNwb25zaWJsZSBmb3IgbWFpbnRlbmFuY2Ugb2YgUmFwaWQgRXhhbSBXaXphcmQgVjQuMAoKKiBUZXN0aW5nIGFuZCBDb2RlIHJldmlldwoKQSBmb3VyLW1lbWJlciB0ZWFtIHdhcyBpbnZvbHZlZCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YgdGhlIFJhcGlkRXhhbSB2NCB1c2luZwoKVmlzdWFsIEMrKywgTUZDLCBhbmQgQ09NCgpFRFVDQVRJT04KCkIuVGVjaCBpbiBFbGVjdHJvbmljcyBhbmQgQ29tbXVuaWNhdGlvbgoKVmVsbG9yZSBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neQoKMjAwNQ==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915251501532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

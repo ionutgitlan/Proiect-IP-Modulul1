@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2913512465432"  usageLimitType="allocation" usageLimit="100" currentUsage="32" remainingUsage="68" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Alan Jones</FormattedName>
+<GivenName>Alan</GivenName>
+<FamilyName>Jones</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>WV</Region>
+<Municipality>Morgantown</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Alan-Jones/62342d03ddcb1a3e</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>http://intrtek.com</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>IT Professional</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Produce Clerk</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WV</Region>
+<Municipality>Morgantown</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>clerical</IndustryDescription></OrgIndustry>
+<Description>intrTek iT - ianuarie 1994 până la Prezent - http://intrtek.com - Computing, IT Services - Business, Residential - In-house website email server (Linux) - Custom domain name, website development, maintenance, email - Technical support, remote administration, on-site support - Custom build personal computers, business workstations Produce Clerk Kroger Grocery Store - Morgantown, WV - iulie 2015 până la iulie 2016 - Produce Department Clerk - Unionized, UFCW Local 400 - Highest entire store sales volume within Kroger Mid-Atlantic Region
+</Description>
+<StartDate><AnyDate>notKnown</AnyDate></StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Bank of America</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Customer Service Agent</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>customer service</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2014-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>TeleTech Holdings</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WV</Region>
+<Municipality>Morgantown</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>februarie până la iulie 2014
+</Description>
+<StartDate>
+<AnyDate>2014-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Credit Card Customer Service</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>customer service</IndustryDescription></OrgIndustry>
+<Description>Telephone Support Call Center
+</Description>
+<StartDate>
+<AnyDate>1994-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Insurance Agent</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WV</Region>
+<Municipality>Morgantown</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Woodmen of the World - până la august 1996
+</Description>
+<StartDate>
+<AnyDate>1994-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Manager of Preston County Lodge</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WV</Region>
+<Municipality>Albright</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Life insurance and annuity products sales and servicing - Retirement and financial planning On-air Personality
+</Description>
+<StartDate>
+<AnyDate>1996-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>WKMM - FM Radio</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WV</Region>
+<Municipality>Kingwood</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>sales</IndustryDescription></OrgIndustry>
+<Description>noiembrie până la decembrie 1993, Kingwood, WV - On-air personality, music, news, sports, weather - Live broadcast of local business promotional events - Local high school football & basketball broadcasts - Sales, advertising copywriter, production of commercial ads, spots - Local civic events, government, election results, festivals, concerts
+</Description>
+<StartDate>
+<AnyDate>1987-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chevrolet Dealership "Marvin Ware Chevrolet"</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Body Shop Manager, New Car Sales</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WV</Region>
+<Municipality>Kingwood</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>aprilie 1987 până la noiembrie 1987 now defunct), Kingwood, WV - Started as body shop manager - Moved to new sales showroom
+</Description>
+<StartDate>
+<AnyDate>1982-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1987-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Fas-Chek Grocery Store</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Produce Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WV</Region>
+<Municipality>Marlinton</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>până la septembrie 1982 - Produce Department Manager - Ordering and stocking product - Setting price margins - Handling customers and vendors
+</Description>
+<StartDate>
+<AnyDate>1982-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1982-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Pizza Hut</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Shift Supervisor / Waiter / Cook</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WV</Region>
+<Municipality>Kingwood</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>până la septembrie 1981 - Hired as cook - Waited tables as needed - Promoted to shift supervisor
+</Description>
+<StartDate>
+<AnyDate>1981-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1981-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>West Virginia University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>WV</Region>
+<Municipality>Morgantown</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Science</DegreeName>
+<DegreeDate>
+<AnyDate>2017-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Business Administration</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Glenville State College</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>WV</Region>
+<Municipality>Glenville</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1981-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>General Studies</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>High School Graduate/Degree Central Preston HS</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>WV</Region>
+<Municipality>Kingwood</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1982-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>până la</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<MilitaryHistory>
+<ServiceDetail branch="Navy">
+<UnitOrDivision>Branch</UnitOrDivision>
+<RankAchieved>
+<CurrentOrEndRank>Corporal</CurrentOrEndRank>
+</RankAchieved>
+<DatesOfService>
+<StartDate>
+<AnyDate>1981-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1981-05-01</AnyDate>
+</EndDate>
+</DatesOfService>
+<AreaOfExpertise>United States Marine Corps 
+Service Country aprilie 1983 până la aprilie 1987 Commendations: Expert Rifle Badge, 3rd AwardGood Conduct Medal, 2nd AwardSea Service Deployment Ribbon, 2nd AwardHonorable Discharge
+</AreaOfExpertise>
+</ServiceDetail>
+</MilitaryHistory>
+<Qualifications>
+<Competency name="Advertising">
+<CompetencyId description="HireAbility taxonomy" id="37" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Advertising" lastUsed="1996-01-01">
+<NumericValue description="Range in years of experience">9</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Annuity">
+<CompetencyId description="HireAbility taxonomy" id="5357" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Annuity">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Call Center">
+<CompetencyId description="HireAbility taxonomy" id="1845" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Call Center">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Credit Card">
+<CompetencyId description="HireAbility taxonomy" id="15851" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Credit Card">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Customer Service">
+<CompetencyId description="HireAbility taxonomy" id="91" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Customer Service">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Email">
+<CompetencyId description="HireAbility taxonomy" id="1639" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Email">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Financial">
+<CompetencyId description="HireAbility taxonomy" id="1942" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Financial">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Insurance">
+<CompetencyId description="HireAbility taxonomy" id="1985" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Insurance">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Life Insurance">
+<CompetencyId description="HireAbility taxonomy" id="10128" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Life Insurance">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux">
+<CompetencyId description="HireAbility taxonomy" id="218" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Planning">
+<CompetencyId description="HireAbility taxonomy" id="7694" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Planning">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Sales">
+<CompetencyId description="HireAbility taxonomy" id="7733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Sales">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Technical Support">
+<CompetencyId description="HireAbility taxonomy" id="416" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Technical Support">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QWxhbiBKb25lcwoKTW9yZ2FudG93biwgV1YgLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9BbGFuLUpvbmVzLzYyMzQyZDAzZGRjYjFhM2UKCldPUksgRVhQRVJJRU5DRQoKSVQgUHJvZmVzc2lvbmFsCgppbnRyVGVrIGlUIC0gTW9yZ2FudG93biwgV1YgLSBpYW51YXJpZSAxOTk0IHDDom7EgyBsYSBQcmV6ZW50CgotIGh0dHA6Ly9pbnRydGVrLmNvbQoKLSBDb21wdXRpbmcsIElUIFNlcnZpY2VzCgotIEJ1c2luZXNzLCBSZXNpZGVudGlhbAoKLSBJbi1ob3VzZSB3ZWJzaXRlIGVtYWlsIHNlcnZlciAoTGludXgpCgotIEN1c3RvbSBkb21haW4gbmFtZSwgd2Vic2l0ZSBkZXZlbG9wbWVudCwgbWFpbnRlbmFuY2UsIGVtYWlsCgotIFRlY2huaWNhbCBzdXBwb3J0LCByZW1vdGUgYWRtaW5pc3RyYXRpb24sIG9uLXNpdGUgc3VwcG9ydAoKLSBDdXN0b20gYnVpbGQgcGVyc29uYWwgY29tcHV0ZXJzLCBidXNpbmVzcyB3b3Jrc3RhdGlvbnMKClByb2R1Y2UgQ2xlcmsKCktyb2dlciBHcm9jZXJ5IFN0b3JlIC0gTW9yZ2FudG93biwgV1YgLSBpdWxpZSAyMDE1IHDDom7EgyBsYSBpdWxpZSAyMDE2CgotIFByb2R1Y2UgRGVwYXJ0bWVudCBDbGVyawoKLSBVbmlvbml6ZWQsIFVGQ1cgTG9jYWwgNDAwCgotIEhpZ2hlc3QgZW50aXJlIHN0b3JlIHNhbGVzIHZvbHVtZSB3aXRoaW4gS3JvZ2VyIE1pZC1BdGxhbnRpYyBSZWdpb24KCkN1c3RvbWVyIFNlcnZpY2UgQWdlbnQKCkJhbmsgb2YgQW1lcmljYSwgVGVsZVRlY2ggSG9sZGluZ3MgLSBNb3JnYW50b3duLCBXViAtIGZlYnJ1YXJpZSAyMDE0IHDDom7EgyBsYSBpdWxpZSAyMDE0CgpDcmVkaXQgQ2FyZCBDdXN0b21lciBTZXJ2aWNlOyBUZWxlcGhvbmUgU3VwcG9ydDsgQ2FsbCBDZW50ZXIKCkluc3VyYW5jZSBBZ2VudAoKV29vZG1lbiBvZiB0aGUgV29ybGQgLSBNb3JnYW50b3duLCBXViAtIGF1Z3VzdCAxOTk0IHDDom7EgyBsYSBhdWd1c3QgMTk5NgoKLSBNYW5hZ2VyIG9mIFByZXN0b24gQ291bnR5IExvZGdlLCBBbGJyaWdodCwgV1YKCi0gTGlmZSBpbnN1cmFuY2UgYW5kIGFubnVpdHkgcHJvZHVjdHMgc2FsZXMgYW5kIHNlcnZpY2luZwoKLSBSZXRpcmVtZW50IGFuZCBmaW5hbmNpYWwgcGxhbm5pbmcKCk9uLWFpciBQZXJzb25hbGl0eQoKV0tNTS1GTSBSYWRpbyAtIEtpbmd3b29kLCBXViAtIG5vaWVtYnJpZSAxOTg3IHDDom7EgyBsYSBkZWNlbWJyaWUgMTk5MwoKOTYuNywgS2luZ3dvb2QsIFdWCgotIE9uLWFpciBwZXJzb25hbGl0eSwgbXVzaWMsIG5ld3MsIHNwb3J0cywgd2VhdGhlcgoKLSBMaXZlIGJyb2FkY2FzdCBvZiBsb2NhbCBidXNpbmVzcyBwcm9tb3Rpb25hbCBldmVudHMKCi0gTG9jYWwgaGlnaCBzY2hvb2wgZm9vdGJhbGwgJiBiYXNrZXRiYWxsIGJyb2FkY2FzdHMKCi0gU2FsZXMsIGFkdmVydGlzaW5nIGNvcHl3cml0ZXIsIHByb2R1Y3Rpb24gb2YgY29tbWVyY2lhbCBhZHMsIHNwb3RzCgotIExvY2FsIGNpdmljIGV2ZW50cywgZ292ZXJubWVudCwgZWxlY3Rpb24gcmVzdWx0cywgZmVzdGl2YWxzLCBjb25jZXJ0cwoKQm9keSBTaG9wIE1hbmFnZXIsIE5ldyBDYXIgU2FsZXMKCkNoZXZyb2xldCBEZWFsZXJzaGlwICJNYXJ2aW4gV2FyZSBDaGV2cm9sZXQiIC0gS2luZ3dvb2QsIFdWIC0gYXByaWxpZSAxOTg3IHDDom7EgyBsYSBub2llbWJyaWUgMTk4NwoKbm93IGRlZnVuY3QpLCBLaW5nd29vZCwgV1YKCi0gU3RhcnRlZCBhcyBib2R5IHNob3AgbWFuYWdlcgoKLSBNb3ZlZCB0byBuZXcgc2FsZXMgc2hvd3Jvb20KClByb2R1Y2UgTWFuYWdlcgoKRmFzLUNoZWsgR3JvY2VyeSBTdG9yZSAtIE1hcmxpbnRvbiwgV1YgLSBtYWkgMTk4MiBww6JuxIMgbGEgc2VwdGVtYnJpZSAxOTgyCgotIFByb2R1Y2UgRGVwYXJ0bWVudCBNYW5hZ2VyCgotIE9yZGVyaW5nIGFuZCBzdG9ja2luZyBwcm9kdWN0CgotIFNldHRpbmcgcHJpY2UgbWFyZ2lucwoKLSBIYW5kbGluZyBjdXN0b21lcnMgYW5kIHZlbmRvcnMKClNoaWZ0IFN1cGVydmlzb3IgLyBXYWl0ZXIgLyBDb29rCgpQaXp6YSBIdXQgLSBLaW5nd29vZCwgV1YgLSBtYWkgMTk4MSBww6JuxIMgbGEgc2VwdGVtYnJpZSAxOTgxCgotIEhpcmVkIGFzIGNvb2sKCi0gV2FpdGVkIHRhYmxlcyBhcyBuZWVkZWQKCi0gUHJvbW90ZWQgdG8gc2hpZnQgc3VwZXJ2aXNvcgoKRURVQ0FUSU9OCgpCYWNoZWxvciBvZiBTY2llbmNlIGluIEJ1c2luZXNzIEFkbWluaXN0cmF0aW9uCgpXZXN0IFZpcmdpbmlhIFVuaXZlcnNpdHkgLSBNb3JnYW50b3duLCBXVgoKc2VwdGVtYnJpZSAyMDE3IHDDom7EgyBsYSBtYWkgMjAyMQoKR2VuZXJhbCBTdHVkaWVzCgpHbGVudmlsbGUgU3RhdGUgQ29sbGVnZSAtIEdsZW52aWxsZSwgV1YKCnNlcHRlbWJyaWUgMTk4MSBww6JuxIMgbGEgbWFpIDE5ODIKCkhpZ2ggU2Nob29sIEdyYWR1YXRlL0RlZ3JlZQoKQ2VudHJhbCBQcmVzdG9uIEhTIC0gS2luZ3dvb2QsIFdWCgpzZXB0ZW1icmllIDE5NzcgcMOibsSDIGxhIG1haSAxOTgxCgpNSUxJVEFSWSBTRVJWSUNFCgpTZXJ2aWNlIENvdW50cnk6IFVTCgpCcmFuY2g6IFVuaXRlZCBTdGF0ZXMgTWFyaW5lIENvcnBzCgpSYW5rOiBDb3Jwb3JhbAoKYXByaWxpZSAxOTgzIHDDom7EgyBsYSBhcHJpbGllIDE5ODcKCkNvbW1lbmRhdGlvbnM6CgpFeHBlcnQgUmlmbGUgQmFkZ2UsIDNyZCBBd2FyZEdvb2QgQ29uZHVjdCBNZWRhbCwgMm5kIEF3YXJkU2VhIFNlcnZpY2UgRGVwbG95bWVudCBSaWJib24sIDJuZAoKQXdhcmRIb25vcmFibGUgRGlzY2hhcmdl</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913512465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

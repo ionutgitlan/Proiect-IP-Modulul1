@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2915114401532"  usageLimitType="allocation" usageLimit="100" currentUsage="73" remainingUsage="27" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Andrew Reed</FormattedName>
+<GivenName>Andrew</GivenName>
+<FamilyName>Reed</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<Region>Cornwall</Region>
+<Municipality>Trewidland</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Andrew-Reed/4144a2207b1df1ba</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Tavistock Community College - Tavistock</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Science and Engineering Teacher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>NQT teaching KS3 science, KS4 physics and KS5 electronic engineering. Initial teacher training in science
+</Description>
+<StartDate>
+<AnyDate>2016-07-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Peninsula SCITT</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Principal Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>St Austell</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>with a physics specialism.
+</Description>
+<StartDate>
+<AnyDate>2015-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>CleverSMART - Sheffield</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Using business management, marketing and electronic engineeringl skills, built and branded a car electronics installation and innovative car body and alloy wheel repair business.
+</Description>
+<StartDate>
+<AnyDate>2006-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>British Telecom plc - Leeds</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Business Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Technical Engineering Sales, Computer network design Engineering, Sales team management Business Manager Technical Sales-engineering team
+</Description>
+<StartDate>
+<AnyDate>1991-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>British Telecom plc</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Promoted to Business Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>with responsibility for managing a technical sales team into the retail, hospitality, distribution and property services vertical market sectors. Providing specialist support to Sales Account teams and marketing colleagues in targeted campaigns to sell converged business solutions for the corporate market. Supplying technical expertise and experience to help position BT as the prime choice for FTSE 100 and global customers.
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Sales Manager IP Data and Convergence Solutions</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Promoted to sales manager to build and manage a team of data and mobility solution specialists to support account teams in selling, education and proposition development of data and mobility solutions. Principal Role To provide specialist skills in the selling of BT data and mobility solutions to corporate accounts in the vertical markets for this diverse sector. To manage my team following the guidelines of Investors in People (IIP) and BT Human Resource Management procedures. To help educate the account teams in order to aid the recognition, prospecting and qualification of potential opportunities.
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Specialist Sales Data</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>sales</IndustryDescription></OrgIndustry>
+<Description>Developed and sold UK and global wide area networking solutions for, United Transport, Compass Group and other customers in this Sector. Received the Syncordia Specialist of the year award for the first BT sale of a combined ISDN Advantage and Managed Frame Relay solution to Compass Group.
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Specialist Sales Data</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>sales</IndustryDescription></OrgIndustry>
+<Description>Pre-Sales technical specialist in all aspects of computer networking: LANs - Hubs, Bridge/Routers, cabling WANs - ISDN, SMDS, Frame Relay and Private Circuits. MNS - Managed Routers, ISDN, SMDS, Frame Relay. Customer presentations, Cost Justification and ROI Workshops. Managed and developed data strategies allowing Branch/Head Office Enterprise LAN communication for Thomas Cook and National Australia Group (Clydesdale Bank, Yorkshire Bank and NAB). Worked with HSBC, Barclays Bank, Thorn and NAG to further develop their core data and IT infrastructures for both head office and branch networking.
+</Description>
+<StartDate>
+<AnyDate>1991-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Account Executive/Principal Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Leeds</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Presentations, customer training and technical sales. Design and development of FDDI/Ethernet multiport switch/router. Project Leader on a MiniHUB development.
+</Description>
+<StartDate>
+<AnyDate>1991-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1991-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Beale International Technology Limited</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Sales Product Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Promoted to take charge of the LAN sales group. Responsible for marketing and direct selling of networking products and fibre optic instruments. Product Manager for fibre optic IBM 802.5 token ring repeaters. Planning and operating the BIT stands for trade shows and exhibi tions. Involved in all aspects of a high technology business. Principal engineer and team leader
+</Description>
+<StartDate>
+<AnyDate>1988-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Company started following a management buy out with BIT holding the rights to, and a demonstration prototype for a fibre optic local area network system. The initial team was: the Managing Director the Chairman and myself. We grew the business to 35 people and £2.5M turnover before it went into liquidation in 1990.
+</Description>
+<StartDate>
+<AnyDate>1985-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType>Contractor</JobType>
+<PositionHistory>
+<Title>Principal Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Head hunted from Dowty. Developed to production the High Integrity Local Area Network (HILAN). Succeeded in attracting £500k venture capital, £125k DTI innovation grant and £2.5m contract to complete the development and produce a HILAN system for use in the Trident Submarine, Command and Control System, with Dowty Maritime Systems. Involved in hardware/software design and sales.
+</Description>
+<StartDate>
+<AnyDate>1985-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1988-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Dowty Electronics Limited Controls Division</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Senior Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Experience in system and board level design of digital engine control systems. Designed a semi-custom integrated circuit (LSI Logic 4200 gates) for use in a computer networking interface conforming to the military standard 1553B. Successfully completed within rigid time constraints, a number of electronic system designs for use with the in-house backplane/bus. These have now been used in a number of military vehicle and aeronautical engine control systems. Management Trainee/Sponsored Student at University
+</Description>
+<StartDate>
+<AnyDate>1983-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1985-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>British Steel Corporation</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1978-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1982-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Dip.Tech Integrated Circuit System Design</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>BSc</DegreeName>
+<DegreeMajor>
+<Name>Physics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Secondary Schools</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Business Management">
+<CompetencyId description="HireAbility taxonomy" id="16208" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Management" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">9</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4317" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cabling">
+<CompetencyId description="HireAbility taxonomy" id="1844" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cabling" lastUsed="1993-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Control Systems">
+<CompetencyId description="HireAbility taxonomy" id="1628" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Control Systems" lastUsed="1985-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Corporate Accounts">
+<CompetencyId description="HireAbility taxonomy" id="9491" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Corporate Accounts" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Digital Design">
+<CompetencyId description="HireAbility taxonomy" id="8928" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Digital Design">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Distribution">
+<CompetencyId description="HireAbility taxonomy" id="1907" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Distribution" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Electronic Engineering">
+<CompetencyId description="HireAbility taxonomy" id="8929" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Electronic Engineering" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Electronics">
+<CompetencyId description="HireAbility taxonomy" id="1929" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Electronics">
+<NumericValue description="Range in years of experience">9</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Engineering">
+<CompetencyId description="HireAbility taxonomy" id="1932" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Engineering">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Ethernet">
+<CompetencyId description="HireAbility taxonomy" id="133" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Ethernet" lastUsed="1991-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Firmware">
+<CompetencyId description="HireAbility taxonomy" id="144" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Firmware">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Firmware Design">
+<CompetencyId description="HireAbility taxonomy" id="6743" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Firmware Design">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Frame Relay">
+<CompetencyId description="HireAbility taxonomy" id="147" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Frame Relay" lastUsed="1997-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hub">
+<CompetencyId description="HireAbility taxonomy" id="173" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hub" lastUsed="1993-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="IBM">
+<CompetencyId description="HireAbility taxonomy" id="177" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="IBM" lastUsed="1990-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Technology">
+<CompetencyId description="HireAbility taxonomy" id="10107" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Technology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="ISDN">
+<CompetencyId description="HireAbility taxonomy" id="189" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="ISDN" lastUsed="1997-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Local Area Network">
+<CompetencyId description="HireAbility taxonomy" id="6329" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Local Area Network" lastUsed="1990-01-01">
+<NumericValue description="Range in years of experience">8</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="1985-01-01">
+<NumericValue description="Range in years of experience">9</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management Trainee">
+<CompetencyId description="HireAbility taxonomy" id="12841" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management Trainee" lastUsed="1985-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Military Standard">
+<CompetencyId description="HireAbility taxonomy" id="6949" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Military Standard" lastUsed="1985-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Networking">
+<CompetencyId description="HireAbility taxonomy" id="8" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Networking" lastUsed="1990-01-01">
+<NumericValue description="Range in years of experience">8</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Prime">
+<CompetencyId description="HireAbility taxonomy" id="1714" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Prime" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Leader">
+<CompetencyId description="HireAbility taxonomy" id="1718" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Leader" lastUsed="1991-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Management">
+<CompetencyId description="HireAbility taxonomy" id="337" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Management" lastUsed="1991-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Retail">
+<CompetencyId description="HireAbility taxonomy" id="2180" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Retail" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="ROI">
+<CompetencyId description="HireAbility taxonomy" id="8428" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="ROI" lastUsed="1993-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Router">
+<CompetencyId description="HireAbility taxonomy" id="6517" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Router" lastUsed="1991-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Routers">
+<CompetencyId description="HireAbility taxonomy" id="363" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Routers" lastUsed="1993-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Sales">
+<CompetencyId description="HireAbility taxonomy" id="7733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Sales" lastUsed="1990-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Science">
+<CompetencyId description="HireAbility taxonomy" id="11108" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Science" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software" lastUsed="1988-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software Design">
+<CompetencyId description="HireAbility taxonomy" id="6744" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software Design" lastUsed="1988-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Technical Sales">
+<CompetencyId description="HireAbility taxonomy" id="415" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Technical Sales" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Unix">
+<CompetencyId description="HireAbility taxonomy" id="439" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Unix">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Venture Capital">
+<CompetencyId description="HireAbility taxonomy" id="9421" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Venture Capital" lastUsed="1988-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW5kcmV3IFJlZWQKClRyZXdpZGxhbmQsIENvcm53YWxsLCBVSyAtIEVtYWlsIG1lIG9uIEluZGVlZDogaW5kZWVkLmNvbS9yL0FuZHJldy1SZWVkLzQxNDRhMjIwN2IxZGYxYmEKClByaW5jaXBhbCBlbmdpbmVlciBleHBlcmllbmNlZCBpbiBlbGVjdHJvbmljIHN5c3RlbSBhbmQgbG93IGxldmVsIGRlc2lnbiAoYW5hbG9nIGFuZCBkaWdpdGFsIGhhcmR3YXJlLAoKZmlybXdhcmUsIG1pY3JvLWNvbnRyb2xsZXJzLCBhbmQgc29mdHdhcmUgZGV2ZWxvcG1lbnQpLiBQcm9kdWN0IGRldmVsb3BtZW50LCB0ZWNobmljYWwgc2FsZXMsIGJ1c2luZXNzCgptYW5hZ2VtZW50LCB0ZWFtIG1hbmFnZW1lbnQgYW5kIGNvYWNoaW5nLCBlZHVjYXRpb24gYW5kIHRyYWluaW5nLgoKSVQsIGNvbXB1dGluZywgZWxlY3Ryb25pY3MgZGVzaWduIGFuZCBlbmdpbmVlcmluZywgVU5JWCwgQysrIGFuZCBhc3NlbWJsZXIuCgpXT1JLIEVYUEVSSUVOQ0UKClNjaWVuY2UgYW5kIEVuZ2luZWVyaW5nIFRlYWNoZXIKClRhdmlzdG9jayBDb21tdW5pdHkgQ29sbGVnZSAtIFRhdmlzdG9jayAtIEp1bHkgMjAxNiB0byBQcmVzZW50CgpOUVQgdGVhY2hpbmcgS1MzIHNjaWVuY2UsIEtTNCBwaHlzaWNzIGFuZCBLUzUgZWxlY3Ryb25pYyBlbmdpbmVlcmluZy4KCkluaXRpYWwgdGVhY2hlciB0cmFpbmluZyBpbiBzY2llbmNlCgpQZW5pbnN1bGEgU0NJVFQgLSBTdCBBdXN0ZWxsLCBVSyAtIDIwMTUgdG8gMjAxNgoKd2l0aCBhIHBoeXNpY3Mgc3BlY2lhbGlzbS4KClByaW5jaXBhbCBFbmdpbmVlcgoKQ2xldmVyU01BUlQgLSBTaGVmZmllbGQgLSBBdWd1c3QgMjAwNiB0byBBdWd1c3QgMjAxNQoKVXNpbmcgYnVzaW5lc3MgbWFuYWdlbWVudCwgbWFya2V0aW5nIGFuZCBlbGVjdHJvbmljIGVuZ2luZWVyaW5nbCBza2lsbHMsIGJ1aWx0IGFuZCBicmFuZGVkIGEgY2FyIGVsZWN0cm9uaWNzCgppbnN0YWxsYXRpb24gYW5kIGlubm92YXRpdmUgY2FyIGJvZHkgYW5kIGFsbG95IHdoZWVsIHJlcGFpciBidXNpbmVzcy4KCkJ1c2luZXNzIE1hbmFnZXIKCkJyaXRpc2ggVGVsZWNvbSBwbGMgLSBMZWVkcyAtIEFwcmlsIDE5OTEgdG8gQXVndXN0IDIwMDYKClRlY2huaWNhbCBFbmdpbmVlcmluZyBTYWxlcywgQ29tcHV0ZXIgbmV0d29yayBkZXNpZ24gRW5naW5lZXJpbmcsIFNhbGVzIHRlYW0gbWFuYWdlbWVudAoKQnVzaW5lc3MgTWFuYWdlciBUZWNobmljYWwgU2FsZXMtZW5naW5lZXJpbmcgdGVhbQoKQnJpdGlzaCBUZWxlY29tIHBsYyAtIDIwMDIgdG8gMjAwNgoKUHJvbW90ZWQgdG8gQnVzaW5lc3MgTWFuYWdlciB3aXRoIHJlc3BvbnNpYmlsaXR5IGZvciBtYW5hZ2luZyBhIHRlY2huaWNhbCBzYWxlcyB0ZWFtIGludG8gdGhlIHJldGFpbCwKCmhvc3BpdGFsaXR5LCBkaXN0cmlidXRpb24gYW5kIHByb3BlcnR5IHNlcnZpY2VzIHZlcnRpY2FsIG1hcmtldCBzZWN0b3JzLgoKUHJvdmlkaW5nIHNwZWNpYWxpc3Qgc3VwcG9ydCB0byBTYWxlcyBBY2NvdW50IHRlYW1zIGFuZCBtYXJrZXRpbmcgY29sbGVhZ3VlcyBpbiB0YXJnZXRlZCBjYW1wYWlnbnMgdG8gc2VsbAoKY29udmVyZ2VkIGJ1c2luZXNzIHNvbHV0aW9ucyBmb3IgdGhlIGNvcnBvcmF0ZSBtYXJrZXQuIFN1cHBseWluZyB0ZWNobmljYWwgZXhwZXJ0aXNlIGFuZCBleHBlcmllbmNlIHRvIGhlbHAKCnBvc2l0aW9uIEJUIGFzIHRoZSBwcmltZSBjaG9pY2UgZm9yIEZUU0UgMTAwIGFuZCBnbG9iYWwgY3VzdG9tZXJzLgoKU2FsZXMgTWFuYWdlciBJUCBEYXRhIGFuZCBDb252ZXJnZW5jZSBTb2x1dGlvbnMKCkJyaXRpc2ggVGVsZWNvbSBwbGMgLSAxOTk3IHRvIDIwMDIKClByb21vdGVkIHRvIHNhbGVzIG1hbmFnZXIgdG8gYnVpbGQgYW5kIG1hbmFnZSBhIHRlYW0gb2YgZGF0YSBhbmQgbW9iaWxpdHkgc29sdXRpb24gc3BlY2lhbGlzdHMgdG8gc3VwcG9ydAoKYWNjb3VudCB0ZWFtcyBpbiBzZWxsaW5nLCBlZHVjYXRpb24gYW5kIHByb3Bvc2l0aW9uIGRldmVsb3BtZW50IG9mIGRhdGEgYW5kIG1vYmlsaXR5IHNvbHV0aW9ucy4KClByaW5jaXBhbCBSb2xlIFRvIHByb3ZpZGUgc3BlY2lhbGlzdCBza2lsbHMgaW4gdGhlIHNlbGxpbmcgb2YgQlQgZGF0YSBhbmQgbW9iaWxpdHkgc29sdXRpb25zIHRvIGNvcnBvcmF0ZSBhY2NvdW50cwoKaW4gdGhlIHZlcnRpY2FsIG1hcmtldHMgZm9yIHRoaXMgZGl2ZXJzZSBzZWN0b3IuCgpUbyBtYW5hZ2UgbXkgdGVhbSBmb2xsb3dpbmcgdGhlIGd1aWRlbGluZXMgb2YgSW52ZXN0b3JzIGluIFBlb3BsZSAoSUlQKSBhbmQgQlQgSHVtYW4gUmVzb3VyY2UKCk1hbmFnZW1lbnQgcHJvY2VkdXJlcy4KClRvIGhlbHAgZWR1Y2F0ZSB0aGUgYWNjb3VudCB0ZWFtcyBpbiBvcmRlciB0byBhaWQgdGhlIHJlY29nbml0aW9uLCBwcm9zcGVjdGluZyBhbmQgcXVhbGlmaWNhdGlvbiBvZiBwb3RlbnRpYWwKCm9wcG9ydHVuaXRpZXMuCgpTcGVjaWFsaXN0IFNhbGVzIERhdGEKCkJyaXRpc2ggVGVsZWNvbSBwbGMgLSAxOTkzIHRvIDE5OTcKCkRldmVsb3BlZCBhbmQgc29sZCBVSyBhbmQgZ2xvYmFsIHdpZGUgYXJlYSBuZXR3b3JraW5nIHNvbHV0aW9ucyBmb3IsIFVuaXRlZCBUcmFuc3BvcnQsIENvbXBhc3MgR3JvdXAgYW5kCgpvdGhlciBjdXN0b21lcnMgaW4gdGhpcyBTZWN0b3IuCgpSZWNlaXZlZCB0aGUgU3luY29yZGlhIFNwZWNpYWxpc3Qgb2YgdGhlIHllYXIgYXdhcmQgZm9yIHRoZSBmaXJzdCBCVCBzYWxlIG9mIGEgY29tYmluZWQgSVNETiBBZHZhbnRhZ2UgYW5kCgpNYW5hZ2VkIEZyYW1lIFJlbGF5IHNvbHV0aW9uIHRvIENvbXBhc3MgR3JvdXAuCgpTcGVjaWFsaXN0IFNhbGVzIERhdGEKCkJyaXRpc2ggVGVsZWNvbSBwbGMgLSAxOTkxIHRvIDE5OTMKClByZS1TYWxlcyB0ZWNobmljYWwgc3BlY2lhbGlzdCBpbiBhbGwgYXNwZWN0cyBvZiBjb21wdXRlciBuZXR3b3JraW5nOgoKTEFOcyAtIEh1YnMsIEJyaWRnZS9Sb3V0ZXJzLCBjYWJsaW5nOwoKV0FOcyAtIElTRE4sIFNNRFMsIEZyYW1lIFJlbGF5IGFuZCBQcml2YXRlIENpcmN1aXRzLgoKTU5TIC0gTWFuYWdlZCBSb3V0ZXJzLCBJU0ROLCBTTURTLCBGcmFtZSBSZWxheS4KCkN1c3RvbWVyIHByZXNlbnRhdGlvbnMsIENvc3QgSnVzdGlmaWNhdGlvbiBhbmQgUk9JIFdvcmtzaG9wcy4KCk1hbmFnZWQgYW5kIGRldmVsb3BlZCBkYXRhIHN0cmF0ZWdpZXMgYWxsb3dpbmcgQnJhbmNoL0hlYWQgT2ZmaWNlIEVudGVycHJpc2UgTEFOIGNvbW11bmljYXRpb24gZm9yCgpUaG9tYXMgQ29vayBhbmQgTmF0aW9uYWwgQXVzdHJhbGlhIEdyb3VwIChDbHlkZXNkYWxlIEJhbmssIFlvcmtzaGlyZSBCYW5rIGFuZCBOQUIpLiBXb3JrZWQgd2l0aCBIU0JDLAoKQmFyY2xheXMgQmFuaywgVGhvcm4gYW5kIE5BRyB0byBmdXJ0aGVyIGRldmVsb3AgdGhlaXIgY29yZSBkYXRhIGFuZCBJVCBpbmZyYXN0cnVjdHVyZXMgZm9yIGJvdGggaGVhZCBvZmZpY2UKCmFuZCBicmFuY2ggbmV0d29ya2luZy4KCkFjY291bnQgRXhlY3V0aXZlL1ByaW5jaXBhbCBFbmdpbmVlcgoKQnJpdGlzaCBUZWxlY29tIHBsYyAtIExlZWRzLCBVSyAtIDE5OTEgdG8gMTk5MQoKUHJlc2VudGF0aW9ucywgY3VzdG9tZXIgdHJhaW5pbmcgYW5kIHRlY2huaWNhbCBzYWxlcy4KCkRlc2lnbiBhbmQgZGV2ZWxvcG1lbnQgb2YgRkRESS9FdGhlcm5ldCBtdWx0aXBvcnQgc3dpdGNoL3JvdXRlci4gUHJvamVjdCBMZWFkZXIgb24gYSBNaW5pSFVCIGRldmVsb3BtZW50LgoKU2FsZXMgUHJvZHVjdCBNYW5hZ2VyCgpCZWFsZSBJbnRlcm5hdGlvbmFsIFRlY2hub2xvZ3kgTGltaXRlZCAtIDE5ODggdG8gMTk5MAoKUHJvbW90ZWQgdG8gdGFrZSBjaGFyZ2Ugb2YgdGhlIExBTiBzYWxlcyBncm91cC4KClJlc3BvbnNpYmxlIGZvciBtYXJrZXRpbmcgYW5kIGRpcmVjdCBzZWxsaW5nIG9mIG5ldHdvcmtpbmcgcHJvZHVjdHMgYW5kIGZpYnJlIG9wdGljIGluc3RydW1lbnRzLgoKUHJvZHVjdCBNYW5hZ2VyIGZvciBmaWJyZSBvcHRpYyBJQk0gODAyLjUgdG9rZW4gcmluZyByZXBlYXRlcnMuCgpQbGFubmluZyBhbmQgb3BlcmF0aW5nIHRoZSBCSVQgc3RhbmRzIGZvciB0cmFkZSBzaG93cyBhbmQgZXhoaWJpIHRpb25zLgoKSW52b2x2ZWQgaW4gYWxsIGFzcGVjdHMgb2YgYSBoaWdoIHRlY2hub2xvZ3kgYnVzaW5lc3MuCgpQcmluY2lwYWwgZW5naW5lZXIgYW5kIHRlYW0gbGVhZGVyCgpCZWFsZSBJbnRlcm5hdGlvbmFsIFRlY2hub2xvZ3kgTGltaXRlZCAtIDE5ODUgdG8gMTk5MAoKQ29tcGFueSBzdGFydGVkIGZvbGxvd2luZyBhIG1hbmFnZW1lbnQgYnV5IG91dCB3aXRoIEJJVCBob2xkaW5nIHRoZSByaWdodHMgdG8sIGFuZCBhIGRlbW9uc3RyYXRpb24gcHJvdG90eXBlCgpmb3IgYSBmaWJyZSBvcHRpYyBsb2NhbCBhcmVhIG5ldHdvcmsgc3lzdGVtLiBUaGUgaW5pdGlhbCB0ZWFtIHdhczogdGhlIE1hbmFnaW5nIERpcmVjdG9yIHRoZSBDaGFpcm1hbiBhbmQKCm15c2VsZi4gV2UgZ3JldyB0aGUgYnVzaW5lc3MgdG8gMzUgcGVvcGxlIGFuZCDCozIuNU0gdHVybm92ZXIgYmVmb3JlIGl0IHdlbnQgaW50byBsaXF1aWRhdGlvbiBpbiAxOTkwLgoKUHJpbmNpcGFsIEVuZ2luZWVyCgpCZWFsZSBJbnRlcm5hdGlvbmFsIFRlY2hub2xvZ3kgTGltaXRlZCAtIDE5ODUgdG8gMTk4OAoKSGVhZCBodW50ZWQgZnJvbSBEb3d0eS4KCkRldmVsb3BlZCB0byBwcm9kdWN0aW9uIHRoZSBIaWdoIEludGVncml0eSBMb2NhbCBBcmVhIE5ldHdvcmsgKEhJTEFOKS4KClN1Y2NlZWRlZCBpbiBhdHRyYWN0aW5nIMKjNTAwayB2ZW50dXJlIGNhcGl0YWwsIMKjMTI1ayBEVEkgaW5ub3ZhdGlvbiBncmFudCBhbmQgwqMyLjVtIGNvbnRyYWN0IHRvIGNvbXBsZXRlIHRoZQoKZGV2ZWxvcG1lbnQgYW5kIHByb2R1Y2UgYSBISUxBTiBzeXN0ZW0gZm9yIHVzZSBpbiB0aGUgVHJpZGVudCBTdWJtYXJpbmUsIENvbW1hbmQgYW5kIENvbnRyb2wgU3lzdGVtLAoKd2l0aCBEb3d0eSBNYXJpdGltZSBTeXN0ZW1zLgoKSW52b2x2ZWQgaW4gaGFyZHdhcmUvc29mdHdhcmUgZGVzaWduIGFuZCBzYWxlcy4KClNlbmlvciBFbmdpbmVlcgoKRG93dHkgRWxlY3Ryb25pY3MgTGltaXRlZCBDb250cm9scyBEaXZpc2lvbiAtIDE5ODMgdG8gMTk4NQoKRXhwZXJpZW5jZSBpbiBzeXN0ZW0gYW5kIGJvYXJkIGxldmVsIGRlc2lnbiBvZiBkaWdpdGFsIGVuZ2luZSBjb250cm9sIHN5c3RlbXMuCgpEZXNpZ25lZCBhIHNlbWktY3VzdG9tIGludGVncmF0ZWQgY2lyY3VpdCAoTFNJIExvZ2ljIDQyMDAgZ2F0ZXMpIGZvciB1c2UgaW4gYSBjb21wdXRlciBuZXR3b3JraW5nIGludGVyZmFjZQoKY29uZm9ybWluZyB0byB0aGUgbWlsaXRhcnkgc3RhbmRhcmQgMTU1M0IuCgpTdWNjZXNzZnVsbHkgY29tcGxldGVkIHdpdGhpbiByaWdpZCB0aW1lIGNvbnN0cmFpbnRzLCBhIG51bWJlciBvZiBlbGVjdHJvbmljIHN5c3RlbSBkZXNpZ25zIGZvciB1c2Ugd2l0aCB0aGUKCmluLWhvdXNlIGJhY2twbGFuZS9idXMuIFRoZXNlIGhhdmUgbm93IGJlZW4gdXNlZCBpbiBhIG51bWJlciBvZiBtaWxpdGFyeSB2ZWhpY2xlIGFuZCBhZXJvbmF1dGljYWwgZW5naW5lCgpjb250cm9sIHN5c3RlbXMuCgpNYW5hZ2VtZW50IFRyYWluZWUvU3BvbnNvcmVkIFN0dWRlbnQgYXQgVW5pdmVyc2l0eQoKQnJpdGlzaCBTdGVlbCBDb3Jwb3JhdGlvbiAtIDE5NzggdG8gMTk4MgoKTWFuYWdlbWVudCB0cmFpbmluZyBwcm9ncmFtLgoKRURVQ0FUSU9OCgpCU2MuIGluIFBoeXNpY3MKCkRpcC5UZWNoIEludGVncmF0ZWQgQ2lyY3VpdCBTeXN0ZW0gRGVzaWduCgpUZWFjaCBpbiBTZWNvbmRhcnkgU2Nob29scwoKU0tJTExTCgpIaWdoIFNwZWVkIERpZ2l0YWwgRGVzaWduICgxMCsgeWVhcnMpLCBGaXJtd2FyZSBkZXNpZ24gQywgQysrLCBBc3NlbWJsZXIgKDEwKyB5ZWFycyk=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915114401532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

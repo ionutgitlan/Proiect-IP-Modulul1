@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2915645465432"  usageLimitType="allocation" usageLimit="100" currentUsage="40" remainingUsage="60" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Andrea Garrett MBA</FormattedName>
+<GivenName>Andrea</GivenName>
+<FamilyName>Garrett</FamilyName>
+<Affix type="qualification">MBA</Affix>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/f1aa3cd206e96911</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Delta Dental</EmployerOrgName>
+<JobType>Contractor</JobType>
+<PositionHistory>
+<Title>IT Service Management Analyst and Consultant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MI</Region>
+<Municipality>Okemos</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Supports the enterprise by providing first level approval for the change management process. Design and develop ITIL based workflows and enterprise based incident, knowledge, change, request, and HR processes Responsible for maintaining the integrity of configuration management data through the use of asset management tools and data analysis. Performs license reporting to assist in audits, budgeting, and contract compliance. Generates reports as requested on asset items residing in the CMDB. Documents all ISS internal and external polices for review by management. Assists business analysts and management for RFP's and RFI's. Cross trains on Workflows and CMS engineer duties to ensure coverage is available in those areas. IT Technician I, Health Department (Contract)
+</Description>
+<StartDate>
+<AnyDate>2016-05-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Genesee County Health Department</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Performed technical tasks that encompass Tier II system support</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MI</Region>
+<Municipality>Flint</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>the county network including the county health department's intranet/internet, following HIPAA regulations * Assisted in conducting studies with end user departments to determine their computer-related objectives * Trained and assisted users in the utilization of VoIP Telephone hardware and software * Provisioned and managed user accounts across a variety of hosted services using Microsoft Active Directory * Assisted in project development utilizing fourth generation programming languages and other software packages which concern databases, spreadsheets, and word processing * Assisted the IT Coordinator in preparing, deploying, and maintaining systems and software updates * Documented issues once resolved * Participated in the installation, monitoring, maintenance, support, and optimization of all host hardware, software, and communication links. * Assisted with and coordinated varying research/implementation projects and ensure proper documentation. * Provided additional departmental support for the deployment and implementation of eClinicalWorks EMR system * Managed and conducted rollout of Microsoft Surface Pro 3 tablets * Facilitated training workshops on new hardware and software
+</Description>
+<StartDate>
+<AnyDate>2015-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Substitute Teacher K-12 (Business/Tech)</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>PESG</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MI</Region>
+<Municipality>Caledonia</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Responsibilities * Implemented state curriculum in technology and business management. * Provided for individualized and small group assistance for students as indicated by lesson plans. * Troubleshot and installed hardware and software as needed. * Maintained established routines and procedures of the district, school, and classroom. * Maintained appropriate records including checking test papers, recording grades, student assignments for homework, and projects. * Oversaw pupil behavior in class, during lunch and other activities. * Followed all district and individual school policies, rules and procedures
+</Description>
+<StartDate>
+<AnyDate>2012-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Zeta Phi Beta Sorority Inc.</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2008-03-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Southern New Hampshire University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NH</Region>
+<Municipality>Manchester</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>MBA</DegreeName>
+<DegreeDate>
+<AnyDate>2016-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Information Technology Management</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2014-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>The University of Michigan</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MI</Region>
+<Municipality>Flint</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Arts</DegreeName>
+<DegreeDate>
+<AnyDate>2012-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Social Science and History</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Mott Community College</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MI</Region>
+<Municipality>Flint</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>Associate's</DegreeName>
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>General Studies and Early Childhood Education C.S</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>GASC Tech Center</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MI</Region>
+<Municipality>Flint</Municipality>
+</PostalAddress>
+<Degree degreeType="certificate">
+<DegreeName>Certificate of Proficiency</DegreeName>
+<DegreeDate>
+<AnyDate>1995-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Graphic Communication</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>Certificate of Proficiency</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="Accounting">
+<CompetencyId description="HireAbility taxonomy" id="4198" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Accounting">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Active Directory">
+<CompetencyId description="HireAbility taxonomy" id="19495" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Active Directory" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Adobe">
+<CompetencyId description="HireAbility taxonomy" id="5334" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Adobe Acrobat">
+<CompetencyId description="HireAbility taxonomy" id="1793" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe Acrobat">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Adobe Illustrator">
+<CompetencyId description="HireAbility taxonomy" id="34" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe Illustrator">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Adobe Photoshop">
+<CompetencyId description="HireAbility taxonomy" id="36" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe Photoshop">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Adobe Premiere">
+<CompetencyId description="HireAbility taxonomy" id="4266" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe Premiere">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Apple">
+<CompetencyId description="HireAbility taxonomy" id="25" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Apple">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Asset Management">
+<CompetencyId description="HireAbility taxonomy" id="4781" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Asset Management" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Budgeting">
+<CompetencyId description="HireAbility taxonomy" id="5721" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Budgeting" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Business Management">
+<CompetencyId description="HireAbility taxonomy" id="16208" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Management" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cascading Style Sheets">
+<CompetencyId description="HireAbility taxonomy" id="5838" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cascading Style Sheets">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Change Management">
+<CompetencyId description="HireAbility taxonomy" id="21061" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Change Management" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cms">
+<CompetencyId description="HireAbility taxonomy" id="65" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cms" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Configuration Management">
+<CompetencyId description="HireAbility taxonomy" id="86" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Configuration Management" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Configure">
+<CompetencyId description="HireAbility taxonomy" id="4691" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Configure" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CSS">
+<CompetencyId description="HireAbility taxonomy" id="12177" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CSS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Data Analysis">
+<CompetencyId description="HireAbility taxonomy" id="7614" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Data Analysis" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Desktop Computer">
+<CompetencyId description="HireAbility taxonomy" id="5163" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Desktop Computer">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Documentation">
+<CompetencyId description="HireAbility taxonomy" id="12375" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Documentation" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Drupal">
+<CompetencyId description="HireAbility taxonomy" id="18575" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Drupal">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Enterprise Resource Planning">
+<CompetencyId description="HireAbility taxonomy" id="131" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Enterprise Resource Planning">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Financial Industry">
+<CompetencyId description="HireAbility taxonomy" id="4790" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Financial Industry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Foundry">
+<CompetencyId description="HireAbility taxonomy" id="9416" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Foundry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Graphic Design">
+<CompetencyId description="HireAbility taxonomy" id="5" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Graphic Design">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hardware/Systems">
+<CompetencyId description="HireAbility taxonomy" id="6" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hardware/Systems">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Health Insurance Portability And Accountability Act">
+<CompetencyId description="HireAbility taxonomy" id="5120" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Health Insurance Portability And Accountability Act" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HR">
+<CompetencyId description="HireAbility taxonomy" id="19076" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HR" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Human Resources">
+<CompetencyId description="HireAbility taxonomy" id="7657" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Human Resources" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HyperText Markup Language">
+<CompetencyId description="HireAbility taxonomy" id="5174" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HyperText Markup Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hypertext Transfer Protocol">
+<CompetencyId description="HireAbility taxonomy" id="4566" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hypertext Transfer Protocol">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Imaging">
+<CompetencyId description="HireAbility taxonomy" id="7663" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Imaging">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Technology">
+<CompetencyId description="HireAbility taxonomy" id="10107" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Technology" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Internet">
+<CompetencyId description="HireAbility taxonomy" id="196" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Internet">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Intranet">
+<CompetencyId description="HireAbility taxonomy" id="198" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Intranet" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Inventory">
+<CompetencyId description="HireAbility taxonomy" id="7670" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Inventory">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Inventory Control">
+<CompetencyId description="HireAbility taxonomy" id="10161" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Inventory Control">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Itil">
+<CompetencyId description="HireAbility taxonomy" id="1670" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Itil" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux">
+<CompetencyId description="HireAbility taxonomy" id="218" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Messaging">
+<CompetencyId description="HireAbility taxonomy" id="1690" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Messaging">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Access">
+<CompetencyId description="HireAbility taxonomy" id="250" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Access">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Active Directory">
+<CompetencyId description="HireAbility taxonomy" id="4461" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Active Directory" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Change Management">
+<CompetencyId description="HireAbility taxonomy" id="12793" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Change Management" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Excel">
+<CompetencyId description="HireAbility taxonomy" id="252" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Excel">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Exchange Server">
+<CompetencyId description="HireAbility taxonomy" id="6353" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Exchange Server">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Frontpage">
+<CompetencyId description="HireAbility taxonomy" id="254" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Frontpage">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Mail">
+<CompetencyId description="HireAbility taxonomy" id="256" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Mail">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Outlook">
+<CompetencyId description="HireAbility taxonomy" id="259" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Outlook">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft PowerPoint">
+<CompetencyId description="HireAbility taxonomy" id="260" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft PowerPoint">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Project">
+<CompetencyId description="HireAbility taxonomy" id="261" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Project">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Word">
+<CompetencyId description="HireAbility taxonomy" id="266" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Word" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Monitoring">
+<CompetencyId description="HireAbility taxonomy" id="17822" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Monitoring" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Networking">
+<CompetencyId description="HireAbility taxonomy" id="8" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Networking">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Pbx">
+<CompetencyId description="HireAbility taxonomy" id="312" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Pbx">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="PCS">
+<CompetencyId description="HireAbility taxonomy" id="17163" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="PCS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Personal Conferencing Specification (PCS)">
+<CompetencyId description="HireAbility taxonomy" id="6483" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Personal Conferencing Specification (PCS)">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Planning">
+<CompetencyId description="HireAbility taxonomy" id="7694" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Planning">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Problem Solving">
+<CompetencyId description="HireAbility taxonomy" id="17842" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Problem Solving">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Process Control">
+<CompetencyId description="HireAbility taxonomy" id="17487" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Process Control">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Programming">
+<CompetencyId description="HireAbility taxonomy" id="10" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Programming" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Programming Languages">
+<CompetencyId description="HireAbility taxonomy" id="10962" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Programming Languages" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="System Support">
+<CompetencyId description="HireAbility taxonomy" id="13865" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="System Support" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Troubleshooting">
+<CompetencyId description="HireAbility taxonomy" id="2283" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Troubleshooting">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="VMWare">
+<CompetencyId description="HireAbility taxonomy" id="30853" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="VMWare">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web">
+<CompetencyId description="HireAbility taxonomy" id="1768" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web Technologies">
+<CompetencyId description="HireAbility taxonomy" id="13733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web Technologies">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Word Processing">
+<CompetencyId description="HireAbility taxonomy" id="7806" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Word Processing" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW5kcmVhIEdhcnJldHQsIE1CQSBJVAoKMjAxNiBncmFkdWF0ZSB3aXRoIG1hbmFnZW1lbnQgdHJhaW5pbmcgaW4gcHVyc3VpdCBvZiBsZWFkZXJzaGlwIG9wcG9ydHVuaXR5CgpGbGludCwgTUkgLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9mMWFhM2NkMjA2ZTk2OTExCgpPdmVyIHRlbiAoMTArKSB5ZWFycyBvZiBleHBlcmllbmNlIGluIHRyYWluaW5nLCBhZG1pbmlzdHJhdGlvbiwgcHJvY2VzcyBkZXNpZ24gYW5kIHByb2plY3QgbWFuYWdlbWVudAoKQXV0aG9yaXplZCB0byB3b3JrIGluIHRoZSBVUyBmb3IgYW55IGVtcGxveWVyCgpXT1JLIEVYUEVSSUVOQ0UKCklUIFNlcnZpY2UgTWFuYWdlbWVudCBBbmFseXN0IGFuZCBDb25zdWx0YW50CgpEZWx0YSBEZW50YWwgLSBPa2Vtb3MsIE1JIC0gTWF5IDIwMTYgdG8gUHJlc2VudAoKU3VwcG9ydHMgdGhlIGVudGVycHJpc2UgYnkgcHJvdmlkaW5nIGZpcnN0IGxldmVsIGFwcHJvdmFsIGZvciB0aGUgY2hhbmdlIG1hbmFnZW1lbnQgcHJvY2Vzcy4KCkRlc2lnbiBhbmQgZGV2ZWxvcCBJVElMIGJhc2VkIHdvcmtmbG93cyBhbmQgZW50ZXJwcmlzZSBiYXNlZCBpbmNpZGVudCwga25vd2xlZGdlLCBjaGFuZ2UsIHJlcXVlc3QsIGFuZAoKSFIgcHJvY2Vzc2VzCgpSZXNwb25zaWJsZSBmb3IgbWFpbnRhaW5pbmcgdGhlIGludGVncml0eSBvZiBjb25maWd1cmF0aW9uIG1hbmFnZW1lbnQgZGF0YSB0aHJvdWdoIHRoZSB1c2Ugb2YKCmFzc2V0IG1hbmFnZW1lbnQgdG9vbHMgYW5kIGRhdGEgYW5hbHlzaXMuCgpQZXJmb3JtcyBsaWNlbnNlIHJlcG9ydGluZyB0byBhc3Npc3QgaW4gYXVkaXRzLCBidWRnZXRpbmcsIGFuZCBjb250cmFjdCBjb21wbGlhbmNlLgoKR2VuZXJhdGVzIHJlcG9ydHMgYXMgcmVxdWVzdGVkIG9uIGFzc2V0IGl0ZW1zIHJlc2lkaW5nIGluIHRoZSBDTURCLgoKRG9jdW1lbnRzIGFsbCBJU1MgaW50ZXJuYWwgYW5kIGV4dGVybmFsIHBvbGljZXMgZm9yIHJldmlldyBieSBtYW5hZ2VtZW50LgoKQXNzaXN0cyBidXNpbmVzcyBhbmFseXN0cyBhbmQgbWFuYWdlbWVudCBmb3IgUkZQJ3MgYW5kIFJGSSdzLgoKQ3Jvc3MgdHJhaW5zIG9uIFdvcmtmbG93cyBhbmQgQ01TIGVuZ2luZWVyIGR1dGllcyB0byBlbnN1cmUgY292ZXJhZ2UgaXMgYXZhaWxhYmxlIGluIHRob3NlCgphcmVhcy4KCklUIFRlY2huaWNpYW4gSSwgSGVhbHRoIERlcGFydG1lbnQgKENvbnRyYWN0KQoKR2VuZXNlZSBDb3VudHkgSGVhbHRoIERlcGFydG1lbnQgLSBGbGludCwgTUkgLSBKYW51YXJ5IDIwMTUgdG8gQXByaWwgMjAxNQoKKiBQZXJmb3JtZWQgdGVjaG5pY2FsIHRhc2tzIHRoYXQgZW5jb21wYXNzIFRpZXIgSUkgc3lzdGVtIHN1cHBvcnQgZm9yIHRoZSBjb3VudHkgbmV0d29yayBpbmNsdWRpbmcgdGhlIGNvdW50eQoKaGVhbHRoIGRlcGFydG1lbnQncyBpbnRyYW5ldC9pbnRlcm5ldCwgZm9sbG93aW5nIEhJUEFBIHJlZ3VsYXRpb25zCgoqIEFzc2lzdGVkIGluIGNvbmR1Y3Rpbmcgc3R1ZGllcyB3aXRoIGVuZCB1c2VyIGRlcGFydG1lbnRzIHRvIGRldGVybWluZSB0aGVpciBjb21wdXRlci1yZWxhdGVkIG9iamVjdGl2ZXMKCiogVHJhaW5lZCBhbmQgYXNzaXN0ZWQgdXNlcnMgaW4gdGhlIHV0aWxpemF0aW9uIG9mIFZvSVAgVGVsZXBob25lIGhhcmR3YXJlIGFuZCBzb2Z0d2FyZQoKKiBQcm92aXNpb25lZCBhbmQgbWFuYWdlZCB1c2VyIGFjY291bnRzIGFjcm9zcyBhIHZhcmlldHkgb2YgaG9zdGVkIHNlcnZpY2VzIHVzaW5nIE1pY3Jvc29mdCBBY3RpdmUgRGlyZWN0b3J5CgoqIEFzc2lzdGVkIGluIHByb2plY3QgZGV2ZWxvcG1lbnQgdXRpbGl6aW5nIGZvdXJ0aCBnZW5lcmF0aW9uIHByb2dyYW1taW5nIGxhbmd1YWdlcyBhbmQgb3RoZXIgc29mdHdhcmUKCnBhY2thZ2VzIHdoaWNoIGNvbmNlcm4gZGF0YWJhc2VzLCBzcHJlYWRzaGVldHMsIGFuZCB3b3JkIHByb2Nlc3NpbmcKCiogQXNzaXN0ZWQgdGhlIElUIENvb3JkaW5hdG9yIGluIHByZXBhcmluZywgZGVwbG95aW5nLCBhbmQgbWFpbnRhaW5pbmcgc3lzdGVtcyBhbmQgc29mdHdhcmUgdXBkYXRlcwoKKiBEb2N1bWVudGVkIGlzc3VlcyBvbmNlIHJlc29sdmVkCgoqIFBhcnRpY2lwYXRlZCBpbiB0aGUgaW5zdGFsbGF0aW9uLCBtb25pdG9yaW5nLCBtYWludGVuYW5jZSwgc3VwcG9ydCwgYW5kIG9wdGltaXphdGlvbiBvZiBhbGwgaG9zdCBoYXJkd2FyZSwKCnNvZnR3YXJlLCBhbmQgY29tbXVuaWNhdGlvbiBsaW5rcy4KCiogQXNzaXN0ZWQgd2l0aCBhbmQgY29vcmRpbmF0ZWQgdmFyeWluZyByZXNlYXJjaC9pbXBsZW1lbnRhdGlvbiBwcm9qZWN0cyBhbmQgZW5zdXJlIHByb3BlciBkb2N1bWVudGF0aW9uLgoKKiBQcm92aWRlZCBhZGRpdGlvbmFsIGRlcGFydG1lbnRhbCBzdXBwb3J0IGZvciB0aGUgZGVwbG95bWVudCBhbmQgaW1wbGVtZW50YXRpb24gb2YgZUNsaW5pY2FsV29ya3MgRU1SCgpzeXN0ZW0KCiogTWFuYWdlZCBhbmQgY29uZHVjdGVkIHJvbGxvdXQgb2YgTWljcm9zb2Z0IFN1cmZhY2UgUHJvIDMgdGFibGV0cwoKKiBGYWNpbGl0YXRlZCB0cmFpbmluZyB3b3Jrc2hvcHMgb24gbmV3IGhhcmR3YXJlIGFuZCBzb2Z0d2FyZQoKU3Vic3RpdHV0ZSBUZWFjaGVyIEstMTIgKEJ1c2luZXNzL1RlY2gpCgpQRVNHIC0gQ2FsZWRvbmlhLCBNSSAtIEphbnVhcnkgMjAxMiB0byBBdWd1c3QgMjAxMwoKUmVzcG9uc2liaWxpdGllcwoKKiBJbXBsZW1lbnRlZCBzdGF0ZSBjdXJyaWN1bHVtIGluIHRlY2hub2xvZ3kgYW5kIGJ1c2luZXNzIG1hbmFnZW1lbnQuCgoqIFByb3ZpZGVkIGZvciBpbmRpdmlkdWFsaXplZCBhbmQgc21hbGwgZ3JvdXAgYXNzaXN0YW5jZSBmb3Igc3R1ZGVudHMgYXMgaW5kaWNhdGVkIGJ5IGxlc3NvbiBwbGFucy4KCiogVHJvdWJsZXNob3QgYW5kIGluc3RhbGxlZCBoYXJkd2FyZSBhbmQgc29mdHdhcmUgYXMgbmVlZGVkLgoKKiBNYWludGFpbmVkIGVzdGFibGlzaGVkIHJvdXRpbmVzIGFuZCBwcm9jZWR1cmVzIG9mIHRoZSBkaXN0cmljdCwgc2Nob29sLCBhbmQgY2xhc3Nyb29tLgoKKiBNYWludGFpbmVkIGFwcHJvcHJpYXRlIHJlY29yZHMgaW5jbHVkaW5nIGNoZWNraW5nIHRlc3QgcGFwZXJzLCByZWNvcmRpbmcgZ3JhZGVzLCBzdHVkZW50IGFzc2lnbm1lbnRzIGZvcgoKaG9tZXdvcmssIGFuZCBwcm9qZWN0cy4KCiogT3ZlcnNhdyBwdXBpbCBiZWhhdmlvciBpbiBjbGFzcywgZHVyaW5nIGx1bmNoIGFuZCBvdGhlciBhY3Rpdml0aWVzLgoKKiBGb2xsb3dlZCBhbGwgZGlzdHJpY3QgYW5kIGluZGl2aWR1YWwgc2Nob29sIHBvbGljaWVzLCBydWxlcyBhbmQgcHJvY2VkdXJlcwoKRURVQ0FUSU9OCgpNQkEgaW4gSW5mb3JtYXRpb24gVGVjaG5vbG9neSBNYW5hZ2VtZW50CgpTb3V0aGVybiBOZXcgSGFtcHNoaXJlIFVuaXZlcnNpdHkgLSBNYW5jaGVzdGVyLCBOSAoKMjAxNCB0byAyMDE2CgpCYWNoZWxvciBvZiBBcnRzIGluIFNvY2lhbCBTY2llbmNlIGFuZCBIaXN0b3J5CgpUaGUgVW5pdmVyc2l0eSBvZiBNaWNoaWdhbiAtIEZsaW50LCBNSQoKMjAxMgoKQXNzb2NpYXRlJ3MgaW4gR2VuZXJhbCBTdHVkaWVzIGFuZCBFYXJseSBDaGlsZGhvb2QgRWR1Y2F0aW9uCgpDLlMuIE1vdHQgQ29tbXVuaXR5IENvbGxlZ2UgLSBGbGludCwgTUkKCjIwMDUgdG8gMjAwNwoKQ2VydGlmaWNhdGUgb2YgUHJvZmljaWVuY3kgaW4gR3JhcGhpYyBDb21tdW5pY2F0aW9uCgpHQVNDIFRlY2ggQ2VudGVyIC0gRmxpbnQsIE1JCgoxOTk1CgpTS0lMTFMKCkVudGVycHJpc2UgUmVzb3VyY2UgUGxhbm5pbmcsIENoYW5nZSBNYW5hZ2VtZW50LCBJbmNpZGVudCBNYW5hZ2VtZW50IFJlcXVlc3QgTWFuYWdlbWVudCwKCkJ1ZGdldGluZy9BY2NvdW50aW5nLCBGaW5hbmNlLCBPcGVyYXRpb25zIE1hbmFnZW1lbnQsIFJlc291cmNlIFBsYW5uaW5nLCBXb3JrZmxvdyBEZXNpZ24sIFJlcG9ydGluZywKClN0cmF0ZWd5LCBUZWFtIEJ1aWxkaW5nLCBTb2NpYWwgUmVzcG9uc2liaWxpdHksIDhEIFByb2JsZW0gU29sdmluZywgU3RhdGlzdGljYWwgUHJvY2VzcyBDb250cm9sICwgR00KClFTQkFjcm9uaXMsIEFjdGl2ZSBEaXJlY3RvcnksIEFkb2JlIEFjcm9iYXQsIEFkb2JlIElsbHVzdHJhdG9yLCBBZG9iZSBQaG90b3Nob3AsIEFkb2JlIFByZW1pZXJlIFBybywKCkNvbW1hbmQgTGluZSwgRGV2aWNlIGRyaXZlcnMgLCBEaXNrIEltYWdpbmcgLCBEcm9wYm94LCBEcnVwYWwsIEV4Y2hhbmdlIFNlcnZlciwgSGVhbHRoU3BhY2UsIEludGVybmV0CgpFeHBsb3JlciwgTGludXgsIE1haWwgRm91bmRyeSwgTWFtYm8sIE1lc3NhZ2luZyBDbGllbnRzLCBNaWNyb3NvZnQgQWNjZXNzLCBNaWNyb3NvZnQgRXhjZWwsIE1pY3Jvc29mdAoKRnJvbnRwYWdlLCBNaWNyb3NvZnQgT25lTm90ZSwgTWljcm9zb2Z0IE1haWwsIE1pY3Jvc29mdCBPdXRsb29rLCBNaWNyb3NvZnQgUG93ZXJwb2ludCwgTWljcm9zb2Z0IFByb2plY3QsCgpNaWNyb3NvZnQgV29yZCwgTW96aWxsYSBGaXJlZm94LCBOZXR3b3JrIE1vbml0b3JpbmcsIHBocEJCLCBSZW1vdGUgRGVwbG95bWVudCwgUmVtb3RlIERlc2t0b3AKClN1cHBvcnQsIFNhZmFyaSwgU29uaWNXQUxMLCBTcGljZXdvcmtzLCBTeXNBaWQsIFRlYW1WaWV3ZXIsIFZNV2FyZSwgV0FTUCBJbnZlbnRvcnkgQ29udHJvbCwKCldpbmRvd3MgQ29tbWFuZCBMaW5lLCAsSGFyZHdhcmUgLFdpbmRvd3MgUENzLCBBcHBsZSBpUGFkIChhbGwgbW9kZWxzKSwgTWljcm9zb2Z0IFN1cmZhY2UgUHJvIDMsIFBCWCwKCk1pdGVsLCB1cGdyYWRlcyBhbmQgdHJvdWJsZXNob290aW5nLCBwcmludGVycyBhbmQgcGVyaXBoZXJhbHMsV2ViIERlc2lnbixIVE1MLCBMQU5EZXNrLCBDU1MgKDEwKwoKeWVhcnMpLCBYdHJhY3Rpb24gKExlc3MgdGhhbiAxIHllYXIpCgpMSU5LUwoKaHR0cDovL3d3dy5saW5rZWRpbi5jb20vaW4vYW5kcmVhbmdhcnJldHQKCkdST1VQUwoKWmV0YSBQaGkgQmV0YSBTb3Jvcml0eSwgSW5jLgoKTWFyY2ggMjAwOCB0byBQcmVzZW50CgpBRERJVElPTkFMIElORk9STUFUSU9OCgpDZXJ0aWZpY2F0ZSBvZiBQcm9maWNpZW5jeSwgR3JhcGhpYyBEZXNpZ24gYW5kIENvbW11bmljYXRpb247IEdBU0MgVGVjaCBDZW50ZXI=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915645465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2913335465432"  usageLimitType="allocation" usageLimit="100" currentUsage="38" remainingUsage="62" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Allen Green</FormattedName>
+<GivenName>Allen</GivenName>
+<FamilyName>Green</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>FL</Region>
+<Municipality>Fort Lauderdale</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Allen-Green/8b9171c81c48f25c</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>cook2, Multi-task on all Stations, Daily Food Production, Catering Events Cook II Worked Lunch/Dinner Shifts Worked all Stations Daily Food Production & Banquets</ExecutiveSummary>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>menu planning</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>on-call personal chef duties / Personal Chef</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>FL</Region>
+<Municipality>Fort Lauderdale</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>services</IndustryDescription></OrgIndustry>
+<Description>grocery shopping food preparation and delivery of meals. Executive Concierge Services - of the Palm Beach, boca raton, fl-Personal Chef * Catered for elite private jet catering, on-call personal chef, duties: menu planning, grocery shopping, food preparation, and delivery of meals. Chef/lead line cook Cjs java Lounge -
+</Description>
+<StartDate>
+<AnyDate>2016-02-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Opening of the cafe & lounge</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Chef/Owner</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Successful, * developed & priced out the menu for the owners. * Created food & supplies order lists, prep check list, etc * Inventory/ordering, scheduling, hire, train, Overseeing * kitchen staff and operations, Breakfast/lunch
+</Description>
+<StartDate>
+<AnyDate>2016-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Strawberry cream / restaurant & bakery</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>FL</Region>
+<Municipality>Hollywood</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Hire, train and plan the menu. Inventory/ordering, scheduling Overseeing kitchen staff and operations, Breakfast, lunch/dinner, daily prep production. Cook II
+</Description>
+<StartDate>
+<AnyDate>2016-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Sonesta Hotel</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>FL</Region>
+<Municipality>Fort Lauderdale</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>* Worked lunch /dinner shifts Line, Pre-Close Duties, Multi-Task On all Stations. Followed Recipes According to Chef Standards, handled, Executed several Banquet Functions.
+</Description>
+<StartDate>
+<AnyDate>2015-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Ramada Inn - Ft Laud</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Restaurant Supervisor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>FL</Region>
+<Municipality>Fort Lauderdale</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Assisting and Overseeing F&b Operations, Managing, Training, Scheduling, Ordering /Inventory, lowered labor cost do to proper scheduling, Maintained food cost with Excellent Control Roundsman
+</Description>
+<StartDate>
+<AnyDate>2013-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Atlantic Resort & Spa</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>FL</Region>
+<Municipality>Fort Lauderdale</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>services</IndustryDescription></OrgIndustry>
+<Description>lunch/dinner Shifts, Multi-task on all Stations, Daily Food Production, Catering Events Cook II
+</Description>
+<StartDate>
+<AnyDate>2007-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Boca Raton Resort & Club</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>fl</Region>
+<Municipality>boca raton</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2000-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Mcfatter techinical college</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>FL</Region>
+<Municipality>Davie</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>in Culinary arts</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="Chef">
+<CompetencyId description="HireAbility taxonomy" id="18487" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Chef">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Inventory">
+<CompetencyId description="HireAbility taxonomy" id="7670" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Inventory" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Scheduling">
+<CompetencyId description="HireAbility taxonomy" id="15881" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Scheduling" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QWxsZW4gR3JlZW4KCkZvcnQgTGF1ZGVyZGFsZSwgRkwgLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9BbGxlbi1HcmVlbi84YjkxNzFjODFjNDhmMjVjCgpIaWdobHkgU2tpbGxlZCAmIFRhbGVudGVkIFByb2Zlc3Npb25hbCBDaGVmIFdpdGggMTZ5cnMgb2YgUHJvZmVzc2lvbmFsIEN1bGluYXJ5IEV4cGVyaWVuY2UsCgpFbmVyZ2V0aWMgJiBIaWdobHkgTW90aXZhdGVkIFByb2Zlc3Npb25hbCBXaXRoIGEgQmxlbmQgT2YgQ3JlYXRpdml0eSwgUGFzc2lvbiBGb3IgRm9vZCBBbmQKCkV4Y2VwdGlvbmFsIENvb2tpbmcgU2tpbGxzLAoKV2lsbGluZyB0byByZWxvY2F0ZTogQW55d2hlcmUKCkF1dGhvcml6ZWQgdG8gd29yayBpbiB0aGUgVVMgZm9yIGFueSBlbXBsb3llcgoKV09SSyBFWFBFUklFTkNFCgpQZXJzb25hbCBDaGVmCgpTYWx0ZWQgY2hlZiAtIFN0LiBMb3VpcywgTU8gLSBPY3RvYmVyIDIwMTYgdG8gUHJlc2VudAoKb24tY2FsbCBwZXJzb25hbCBjaGVmLCBkdXRpZXM6IG1lbnUgcGxhbm5pbmcsIGdyb2Nlcnkgc2hvcHBpbmcsIGZvb2QgcHJlcGFyYXRpb24sIGFuZCBkZWxpdmVyeSBvZiBtZWFscy4KClBlcnNvbmFsIENoZWYKCkV4ZWN1dGl2ZSBDb25jaWVyZ2UgU2VydmljZXMgLSBGb3J0IExhdWRlcmRhbGUsIEZMIC0gRmVicnVhcnkgMjAxNiB0byBQcmVzZW50CgpvZiB0aGUgUGFsbSBCZWFjaCwgYm9jYSByYXRvbiwgZmwtUGVyc29uYWwgQ2hlZgoKKiBDYXRlcmVkIGZvciBlbGl0ZSBwcml2YXRlIGpldCBjYXRlcmluZywgb24tY2FsbCBwZXJzb25hbCBjaGVmLCBkdXRpZXM6IG1lbnUgcGxhbm5pbmcsIGdyb2Nlcnkgc2hvcHBpbmcsIGZvb2QKCnByZXBhcmF0aW9uLCBhbmQgZGVsaXZlcnkgb2YgbWVhbHMuCgpDaGVmL2xlYWQgbGluZSBjb29rCgpDanMgamF2YSBMb3VuZ2UgLSBGb3J0IExhdWRlcmRhbGUsIEZMIC0gQXVndXN0IDIwMTYgdG8gT2N0b2JlciAyMDE2CgpTdWNjZXNzZnVsIE9wZW5pbmcgb2YgdGhlIGNhZmUgJiBsb3VuZ2UsCgoqIGRldmVsb3BlZCAmIHByaWNlZCBvdXQgdGhlIG1lbnUgZm9yIHRoZSBvd25lcnMuCgoqIENyZWF0ZWQgZm9vZCAmIHN1cHBsaWVzIG9yZGVyIGxpc3RzLCBwcmVwIGNoZWNrIGxpc3QsIGV0YwoKKiBJbnZlbnRvcnkvb3JkZXJpbmcsIHNjaGVkdWxpbmcsIGhpcmUsIHRyYWluLCBPdmVyc2VlaW5nCgoqIGtpdGNoZW4gc3RhZmYgYW5kIG9wZXJhdGlvbnMsIEJyZWFrZmFzdC9sdW5jaAoKQ2hlZi9Pd25lcgoKU3RyYXdiZXJyeSBjcmVhbSAvIHJlc3RhdXJhbnQgJiBiYWtlcnkgLSBIb2xseXdvb2QsIEZMIC0gTWFyY2ggMjAxNiB0byBKdWx5IDIwMTYKCkhpcmUsIHRyYWluLCBhbmQgcGxhbiB0aGUgbWVudS4gSW52ZW50b3J5L29yZGVyaW5nLCBzY2hlZHVsaW5nIE92ZXJzZWVpbmcga2l0Y2hlbiBzdGFmZiBhbmQgb3BlcmF0aW9ucywKCkJyZWFrZmFzdCwgbHVuY2gvZGlubmVyLCBkYWlseSBwcmVwIHByb2R1Y3Rpb24uCgpDb29rIElJCgpTb25lc3RhIEhvdGVsIC0gRm9ydCBMYXVkZXJkYWxlLCBGTCAtIEFwcmlsIDIwMTUgdG8gSmFudWFyeSAyMDE2CgoqIFdvcmtlZCBsdW5jaCAvZGlubmVyIHNoaWZ0cyBMaW5lLCBQcmUtQ2xvc2UgRHV0aWVzLCBNdWx0aS1UYXNrIE9uIGFsbCBTdGF0aW9ucy4gRm9sbG93ZWQgUmVjaXBlcyBBY2NvcmRpbmcKCnRvIENoZWYgU3RhbmRhcmRzLCBoYW5kbGVkLCBFeGVjdXRlZCBzZXZlcmFsIEJhbnF1ZXQgRnVuY3Rpb25zLgoKUmVzdGF1cmFudCBTdXBlcnZpc29yCgpSYW1hZGEgSW5uIC0gRnQgTGF1ZCAtIEZvcnQgTGF1ZGVyZGFsZSwgRkwgLSBKdWx5IDIwMTMgdG8gTWFyY2ggMjAxNQoKQXNzaXN0aW5nIGFuZCBPdmVyc2VlaW5nIEYmYiBPcGVyYXRpb25zLCBNYW5hZ2luZywgVHJhaW5pbmcsIFNjaGVkdWxpbmcsIE9yZGVyaW5nIC9JbnZlbnRvcnksIGxvd2VyZWQgbGFib3IKCmNvc3QgZG8gdG8gcHJvcGVyIHNjaGVkdWxpbmcsIE1haW50YWluZWQgZm9vZCBjb3N0IHdpdGggRXhjZWxsZW50IENvbnRyb2wKClJvdW5kc21hbgoKQXRsYW50aWMgUmVzb3J0ICYgU3BhIC0gRm9ydCBMYXVkZXJkYWxlLCBGTCAtIEF1Z3VzdCAyMDA3IHRvIEp1bmUgMjAxMwoKbHVuY2gvZGlubmVyIFNoaWZ0cywgTXVsdGktdGFzayBvbiBhbGwgU3RhdGlvbnMsIERhaWx5IEZvb2QgUHJvZHVjdGlvbiwgQ2F0ZXJpbmcgRXZlbnRzCgpDb29rIElJCgpCb2NhIFJhdG9uIFJlc29ydCAmIENsdWIgLSBCb2NhIFJhdG9uLCBGTCAtIEF1Z3VzdCAyMDAwIHRvIEp1bHkgMjAwNwoKYm9jYSByYXRvbiwgZmwtY29vazIKCldvcmtlZCwgTHVuY2gvRGlubmVyIFNoaWZ0cywgV29ya2VkIGFsbCBTdGF0aW9ucywgRGFpbHkgRm9vZCBQcm9kdWN0aW9uLCAmIEJhbnF1ZXRzCgpFRFVDQVRJT04KCkNlcnRpZmljYXRpb24gaW4gQmFraW5nICYgcGFzdHJ5IGFydHMKCkVzY29mZmllciAtIEJvdWxkZXIgLSBCb3VsZGVyLCBDTwoKT2N0b2JlciAyMDE2IHRvIEphbnVhcnkgMjAxNwoKRXNjb2ZmaWVyIC0gQm91bGRlciAtIEJvdWxkZXIsIENPCgpPY3RvYmVyIDIwMTUgdG8gSnVuZSAyMDE2CgpDZXJ0aWZpY2F0aW9uIGluIEN1bGluYXJ5IGFydHMKCk1jZmF0dGVyIHRlY2hpbmljYWwgY29sbGVnZSAtIERhdmllLCBGTAoKQXVndXN0IDIwMDcgdG8gSmFudWFyeSAyMDA5CgpBRERJVElPTkFMIElORk9STUFUSU9OCgpTa2lsbHM6IENhdGVyaW5nICYgQmFucXVldHMsIEZpbmUgRGluaW5nLCBTYXVjaWVyLCBDYXN1YWwgRGluaW5nLiBwZXJzb25hbC9wcml2YXRlIGNoZWY=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913335465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

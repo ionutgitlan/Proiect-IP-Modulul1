@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2915516401532"  usageLimitType="allocation" usageLimit="100" currentUsage="81" remainingUsage="19" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Anna Lorenza</FormattedName>
+<GivenName>Anna</GivenName>
+<FamilyName>Lorenza</FamilyName>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>(0)7847949904</FormattedNumber>
+<InternationalCountryCode/>
+<AreaCityCode/>
+<SubscriberNumber>07847949904</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>onPerson</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Mobile>
+<FormattedNumber>(0)1772499224</FormattedNumber>
+<InternationalCountryCode/>
+<AreaCityCode/>
+<SubscriberNumber>01772499224</SubscriberNumber>
+</Mobile>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>lorenza.anna@yahoo.co.uk</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>Areas of Expertise * Customer Liaison * Negotiating * Microsoft Office * Database Management * Relationship Management * Sage 1 Computer System * Accounts Payable & Receivable * Inventory Control * Data Entry QUALIFICATIONS Carlette Park College Wirral, Physical Education</ExecutiveSummary>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>A D Systems Uk ltd - Preston</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Office Administrator/Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Anna Lorenza 07847949904 * 01772 499224 * lorenza.anna@yahoo.co.uk
+</Description>
+<StartDate>
+<AnyDate>2015-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Enthusiastic</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Administrative & Customer Service Professional</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>customer service</IndustryDescription></OrgIndustry>
+<Description>reliable and hardworking administrative professional with extensive experience within both commercial and public sectors. Demonstrated ability of oversee all aspects of day-to-day office management. Friendly and outgoing and always diplomatic when liaising with people. Highly organised, prioritise and multitask to ensure all deadlines are met. Excellent written and verbal communication skills. Innovative and creative problem solver.
+</Description>
+<StartDate>
+<AnyDate>2015-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Office Angels Recruitment</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Badenock & Clerk Recruitment</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>clerical</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2017-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Hays Recruitment & Clayton Recruitment</EmployerOrgName>
+<JobType>Temp/Seasonal</JobType>
+<PositionHistory>
+<Title>Temporary Employee</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>clerical</IndustryDescription></OrgIndustry>
+<Description>Worked for several local businesses performing the following duties: * Receptionist/Administrator * Customer Service Administrator - meet and greet customers, and answer phone and email inquiries * Direct telephone and email enquiries to relevant departments * Input data on to in house computer system * Updated customer surveys for monitoring purposes * Opened and distributed daily post
+</Description>
+<StartDate>
+<AnyDate>2016-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>A D Systems (UK) Ltd</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Office Manager/Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Performed all aspects of office administration using the latest Windows 16 package including excel spread sheets. * Served as customer liaison. * Processed invoices and staff expenses. * Negotiated best prices on stock and training course bookings. * Scheduled vehicle reports maintenance. * Updated legal documentation, company insurances, etc. * Renewed yearly contracts and applications for further business and legal legislation. * Purchased office equipment and consumables. * Met with clients taking minutes, providing weekly reports for client update. * Managed employee annual leave and sickness.
+</Description>
+<StartDate>
+<AnyDate>2015-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Cablespeed Ltd</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Purchasing Stock Control</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Assisted accounts and production manager with the smooth flow of stock control and any other administrative duties required. Oversaw inventory control. Used Sage 1 computer system, telephone and email services.
+</Description>
+<StartDate>
+<AnyDate>2015-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Fylde CNC Ltd</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Pre-Despatch Inspection</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Inspected products to ensure the goods were satisfactorily made without defect.
+</Description>
+<StartDate>
+<AnyDate>2014-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Homeserve UK</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>�-Jan
+</Description>
+<StartDate>
+<AnyDate>2013-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Yodel</EmployerOrgName>
+<JobType>Contractor</JobType>
+<PositionHistory>
+<Title>Customer Services Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>GB</CountryCode>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>customer service</IndustryDescription></OrgIndustry>
+<Description>Customer Services Administrator Liaised with outside contractor engineers to report and update on repairs carried out on insured homes..
+</Description>
+<StartDate>
+<AnyDate>2014-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Managed office and dealt with customer delivery and collection queries, liaised with drivers in the warehouse to ensure deliveries are on schedule to the customer. All work involved a fair amount of investigative work using up to date global positioning satellite to show when and where deliveries took place and re �directing drivers to locations.
+</Description>
+<StartDate>
+<AnyDate>2012-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Clarke & Partners</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Service Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Dealt with NHS patients who use wheel chairs, arranging over the telephone or via fax requests to repair, collect or deliver new wheel chairs. Processed work orders, prioritised work load, database maintenance, query resolution and general filing.
+</Description>
+<StartDate>
+<AnyDate>2012-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UK Good Deals Ltd</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Customer Service Advisor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>customer service</IndustryDescription></OrgIndustry>
+<Description>Answered telephone calls, kept accurate records of customers' accounts and set up new customer accounts.
+</Description>
+<StartDate>
+<AnyDate>2011-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>G4S</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Senior Custody Officer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Hertfordshire Magistrates Court Organised and oversaw day-to-day office management. Liaised with court officials, solicitors and company management to ensure prisoners were looked after and their needs were met. QUALIFICATIONS Carlette Park College Wirral, Physical Education Birkenhead Tech College, General Certificate in recognition for N.C.P.L.A (National Certificate of Play Leaders Association) Counselling Beginners Course, Level 1/6 Attained
+</Description>
+<StartDate>
+<AnyDate>2005-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>British Sign Language Course</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Level 1/6 Attained Neston County High School South Wirral Cheshire O Level - English - grade B, Mathematics - grade C, History - grade C, Biology - grade C, Commerce- grade C, Geography - grade D, Physical Education - grade A, Human Biology � - grade A
+</Description>
+<StartDate>
+<AnyDate>2005-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>General Certificate in recognition for N.C.P.L.A (National Certificate of Play Leaders Association</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="Accounts Payable">
+<CompetencyId description="HireAbility taxonomy" id="4200" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Accounts Payable">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Communication Skills">
+<CompetencyId description="HireAbility taxonomy" id="16264" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Communication Skills">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Custody">
+<CompetencyId description="HireAbility taxonomy" id="11552" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Custody" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Customer Accounts">
+<CompetencyId description="HireAbility taxonomy" id="8379" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Customer Accounts" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Customer Service">
+<CompetencyId description="HireAbility taxonomy" id="91" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Customer Service" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Data Entry">
+<CompetencyId description="HireAbility taxonomy" id="4786" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Data Entry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Database">
+<CompetencyId description="HireAbility taxonomy" id="4" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Database" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Database Maintenance">
+<CompetencyId description="HireAbility taxonomy" id="12339" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Database Maintenance" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Documentation">
+<CompetencyId description="HireAbility taxonomy" id="12375" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Documentation" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Email">
+<CompetencyId description="HireAbility taxonomy" id="1639" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Email" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Filing">
+<CompetencyId description="HireAbility taxonomy" id="1941" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Filing" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Inventory">
+<CompetencyId description="HireAbility taxonomy" id="7670" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Inventory" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Inventory Control">
+<CompetencyId description="HireAbility taxonomy" id="10161" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Inventory Control" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Purchasing">
+<CompetencyId description="HireAbility taxonomy" id="2158" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Purchasing" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Query">
+<CompetencyId description="HireAbility taxonomy" id="342" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Query" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Satellite">
+<CompetencyId description="HireAbility taxonomy" id="391" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Satellite" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Services">
+<CompetencyId description="HireAbility taxonomy" id="15611" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Services" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="sheets">
+<CompetencyId description="HireAbility taxonomy" id="9548" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="sheets" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Sign Language">
+<CompetencyId description="HireAbility taxonomy" id="15882" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Sign Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Staffing & Recruitment">
+<CompetencyId description="HireAbility taxonomy" id="14179" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Staffing & Recruitment">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Verbal Communication">
+<CompetencyId description="HireAbility taxonomy" id="17838" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Verbal Communication">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Verbal Communication Skills">
+<CompetencyId description="HireAbility taxonomy" id="7787" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Verbal Communication Skills">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW5uYSBMb3JlbnphCgpQcmVzdG9uIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQW5uYS1Mb3JlbnphL2M0ZjFmZTkzM2VlZTM1YzcKCldPUksgRVhQRVJJRU5DRQoKT2ZmaWNlIEFkbWluaXN0cmF0b3IvTWFuYWdlcgoKQSBEIFN5c3RlbXMgVWsgbHRkIC0gUHJlc3RvbiAtIE5vdmVtYmVyIDIwMTUgdG8gTWF5IDIwMTYKCkFubmEgTG9yZW56YQoKMDc4NDc5NDk5MDQgKiAwMTc3MiA0OTkyMjQgKiBsb3JlbnphLmFubmFAeWFob28uY28udWsKCkFkbWluaXN0cmF0aXZlICYgQ3VzdG9tZXIgU2VydmljZSBQcm9mZXNzaW9uYWwKCkVudGh1c2lhc3RpYywgcmVsaWFibGUgYW5kIGhhcmR3b3JraW5nIGFkbWluaXN0cmF0aXZlIHByb2Zlc3Npb25hbCB3aXRoIGV4dGVuc2l2ZSBleHBlcmllbmNlIHdpdGhpbiBib3RoCgpjb21tZXJjaWFsIGFuZCBwdWJsaWMgc2VjdG9ycy4gRGVtb25zdHJhdGVkIGFiaWxpdHkgb2Ygb3ZlcnNlZSBhbGwgYXNwZWN0cyBvZiBkYXktdG8tZGF5IG9mZmljZSBtYW5hZ2VtZW50LgoKRnJpZW5kbHkgYW5kIG91dGdvaW5nIGFuZCBhbHdheXMgZGlwbG9tYXRpYyB3aGVuIGxpYWlzaW5nIHdpdGggcGVvcGxlLiBIaWdobHkgb3JnYW5pc2VkLCBwcmlvcml0aXNlIGFuZAoKbXVsdGl0YXNrIHRvIGVuc3VyZSBhbGwgZGVhZGxpbmVzIGFyZSBtZXQuIEV4Y2VsbGVudCB3cml0dGVuIGFuZCB2ZXJiYWwgY29tbXVuaWNhdGlvbiBza2lsbHMuIElubm92YXRpdmUgYW5kCgpjcmVhdGl2ZSBwcm9ibGVtIHNvbHZlci4KCkFyZWFzIG9mIEV4cGVydGlzZQoKKiBDdXN0b21lciBMaWFpc29uICogTmVnb3RpYXRpbmcgKiBNaWNyb3NvZnQgT2ZmaWNlCgoqIERhdGFiYXNlIE1hbmFnZW1lbnQgKiBSZWxhdGlvbnNoaXAgTWFuYWdlbWVudCAqIFNhZ2UgMSBDb21wdXRlciBTeXN0ZW0KCiogQWNjb3VudHMgUGF5YWJsZSAmIFJlY2VpdmFibGUgKiBJbnZlbnRvcnkgQ29udHJvbCAqIERhdGEgRW50cnkKClBST0ZFU1NJT05BTCBFWFBFUklFTkNFCgpPZmZpY2UgQW5nZWxzIFJlY3J1aXRtZW50LCBCYWRlbm9jayAmIENsZXJrIFJlY3J1aXRtZW50LCBIYXlzIFJlY3J1aXRtZW50ICYgQ2xheXRvbiBSZWNydWl0bWVudCwgQXVnCgoyMDE2LU1hciAyMDE3CgpUZW1wb3JhcnkgRW1wbG95ZWUKCldvcmtlZCBmb3Igc2V2ZXJhbCBsb2NhbCBidXNpbmVzc2VzIHBlcmZvcm1pbmcgdGhlIGZvbGxvd2luZyBkdXRpZXM6CgoqIFJlY2VwdGlvbmlzdC9BZG1pbmlzdHJhdG9yCgoqIEN1c3RvbWVyIFNlcnZpY2UgQWRtaW5pc3RyYXRvciAtIG1lZXQgYW5kIGdyZWV0IGN1c3RvbWVycywgYW5kIGFuc3dlciBwaG9uZSBhbmQgZW1haWwgaW5xdWlyaWVzCgoqIERpcmVjdCB0ZWxlcGhvbmUgYW5kIGVtYWlsIGVucXVpcmllcyB0byByZWxldmFudCBkZXBhcnRtZW50cwoKKiBJbnB1dCBkYXRhIG9uIHRvIGluIGhvdXNlIGNvbXB1dGVyIHN5c3RlbQoKKiBVcGRhdGVkIGN1c3RvbWVyIHN1cnZleXMgZm9yIG1vbml0b3JpbmcgcHVycG9zZXMKCiogT3BlbmVkIGFuZCBkaXN0cmlidXRlZCBkYWlseSBwb3N0CgpBIEQgU3lzdGVtcyAoVUspIEx0ZCwgTm92IDIwMTUtTWF5IDIwMTYKCk9mZmljZSBNYW5hZ2VyL0FkbWluaXN0cmF0b3IKCiogUGVyZm9ybWVkIGFsbCBhc3BlY3RzIG9mIG9mZmljZSBhZG1pbmlzdHJhdGlvbiB1c2luZyB0aGUgbGF0ZXN0IFdpbmRvd3MgMTYgcGFja2FnZSBpbmNsdWRpbmcgZXhjZWwgc3ByZWFkCgpzaGVldHMuCgoqIFNlcnZlZCBhcyBjdXN0b21lciBsaWFpc29uLgoKKiBQcm9jZXNzZWQgaW52b2ljZXMgYW5kIHN0YWZmIGV4cGVuc2VzLgoKKiBOZWdvdGlhdGVkIGJlc3QgcHJpY2VzIG9uIHN0b2NrIGFuZCB0cmFpbmluZyBjb3Vyc2UgYm9va2luZ3MuCgoqIFNjaGVkdWxlZCB2ZWhpY2xlIHJlcG9ydHMgbWFpbnRlbmFuY2UuCgoqIFVwZGF0ZWQgbGVnYWwgZG9jdW1lbnRhdGlvbiwgY29tcGFueSBpbnN1cmFuY2VzLCBldGMuCgoqIFJlbmV3ZWQgeWVhcmx5IGNvbnRyYWN0cyBhbmQgYXBwbGljYXRpb25zIGZvciBmdXJ0aGVyIGJ1c2luZXNzIGFuZCBsZWdhbCBsZWdpc2xhdGlvbi4KCiogUHVyY2hhc2VkIG9mZmljZSBlcXVpcG1lbnQgYW5kIGNvbnN1bWFibGVzLgoKKiBNZXQgd2l0aCBjbGllbnRzIHRha2luZyBtaW51dGVzLCBwcm92aWRpbmcgd2Vla2x5IHJlcG9ydHMgZm9yIGNsaWVudCB1cGRhdGUuCgoqIE1hbmFnZWQgZW1wbG95ZWUgYW5udWFsIGxlYXZlIGFuZCBzaWNrbmVzcy4KCkNhYmxlc3BlZWQgTHRkLCBBcHItSnVuIDIwMTUKClB1cmNoYXNpbmcgU3RvY2sgQ29udHJvbAoKQXNzaXN0ZWQgYWNjb3VudHMgYW5kIHByb2R1Y3Rpb24gbWFuYWdlciB3aXRoIHRoZSBzbW9vdGggZmxvdyBvZiBzdG9jayBjb250cm9sIGFuZCBhbnkgb3RoZXIgYWRtaW5pc3RyYXRpdmUKCmR1dGllcyByZXF1aXJlZC4gT3ZlcnNhdyBpbnZlbnRvcnkgY29udHJvbC4gVXNlZCBTYWdlIDEgY29tcHV0ZXIgc3lzdGVtLCB0ZWxlcGhvbmUgYW5kIGVtYWlsIHNlcnZpY2VzLgoKRnlsZGUgQ05DIEx0ZCwgSmFuIDIwMTQtSnVuZSAyMDE1CgpQcmUtRGVzcGF0Y2ggSW5zcGVjdGlvbgoKSW5zcGVjdGVkIHByb2R1Y3RzIHRvIGVuc3VyZSB0aGUgZ29vZHMgd2VyZSBzYXRpc2ZhY3RvcmlseSBtYWRlIHdpdGhvdXQgZGVmZWN0LgoKSG9tZXNlcnZlIFVLLCBPY3QgMjAxMyDvv70tSmFuIDIwMTQKCkN1c3RvbWVyIFNlcnZpY2VzIEFkbWluaXN0cmF0b3IKCkxpYWlzZWQgd2l0aCBvdXRzaWRlIGNvbnRyYWN0b3IgZW5naW5lZXJzIHRvIHJlcG9ydCBhbmQgdXBkYXRlIG9uIHJlcGFpcnMgY2FycmllZCBvdXQgb24gaW5zdXJlZCBob21lcy4uCgpZb2RlbCBVSywgT2N0IDIwMTItQXVnIDIwMTMKCkFkbWluaXN0cmF0b3IKCk1hbmFnZWQgb2ZmaWNlIGFuZCBkZWFsdCB3aXRoIGN1c3RvbWVyIGRlbGl2ZXJ5IGFuZCBjb2xsZWN0aW9uIHF1ZXJpZXMsIGxpYWlzZWQgd2l0aCBkcml2ZXJzIGluIHRoZSB3YXJlaG91c2UKCnRvIGVuc3VyZSBkZWxpdmVyaWVzIGFyZSBvbiBzY2hlZHVsZSB0byB0aGUgY3VzdG9tZXIuIEFsbCB3b3JrIGludm9sdmVkIGEgZmFpciBhbW91bnQgb2YgaW52ZXN0aWdhdGl2ZSB3b3JrCgp1c2luZyB1cCB0byBkYXRlIGdsb2JhbCBwb3NpdGlvbmluZyBzYXRlbGxpdGUgdG8gc2hvdyB3aGVuIGFuZCB3aGVyZSBkZWxpdmVyaWVzIHRvb2sgcGxhY2UgYW5kIHJlIO+/vWRpcmVjdGluZwoKZHJpdmVycyB0byBsb2NhdGlvbnMuCgpDbGFya2UgJiBQYXJ0bmVycywgTWF5IDIwMTItQXVnIDIwMTIKClNlcnZpY2UgQWRtaW5pc3RyYXRvcgoKRGVhbHQgd2l0aCBOSFMgcGF0aWVudHMgd2hvIHVzZSB3aGVlbCBjaGFpcnMsIGFycmFuZ2luZyBvdmVyIHRoZSB0ZWxlcGhvbmUgb3IgdmlhIGZheCByZXF1ZXN0cyB0byByZXBhaXIsCgpjb2xsZWN0IG9yIGRlbGl2ZXIgbmV3IHdoZWVsIGNoYWlycy4gUHJvY2Vzc2VkIHdvcmsgb3JkZXJzLCBwcmlvcml0aXNlZCB3b3JrIGxvYWQsIGRhdGFiYXNlIG1haW50ZW5hbmNlLCBxdWVyeQoKcmVzb2x1dGlvbiBhbmQgZ2VuZXJhbCBmaWxpbmcuCgpVSyBHb29kIERlYWxzIEx0ZCwgTWF5LU5vdiAyMDExCgpDdXN0b21lciBTZXJ2aWNlIEFkdmlzb3IKCkFuc3dlcmVkIHRlbGVwaG9uZSBjYWxscywga2VwdCBhY2N1cmF0ZSByZWNvcmRzIG9mIGN1c3RvbWVycycgYWNjb3VudHMgYW5kIHNldCB1cCBuZXcgY3VzdG9tZXIgYWNjb3VudHMuCgpHNFMsIEZlYiAyMDA1LUFwciAyMDExCgpTZW5pb3IgQ3VzdG9keSBPZmZpY2VyLCBIZXJ0Zm9yZHNoaXJlIE1hZ2lzdHJhdGVzIENvdXJ0CgpPcmdhbmlzZWQgYW5kIG92ZXJzYXcgZGF5LXRvLWRheSBvZmZpY2UgbWFuYWdlbWVudC4gTGlhaXNlZCB3aXRoIGNvdXJ0IG9mZmljaWFscywgc29saWNpdG9ycyBhbmQgY29tcGFueQoKbWFuYWdlbWVudCB0byBlbnN1cmUgcHJpc29uZXJzIHdlcmUgbG9va2VkIGFmdGVyIGFuZCB0aGVpciBuZWVkcyB3ZXJlIG1ldC4KClFVQUxJRklDQVRJT05TCgpDYXJsZXR0ZSBQYXJrIENvbGxlZ2UgV2lycmFsLCBQaHlzaWNhbCBFZHVjYXRpb24KCkJpcmtlbmhlYWQgVGVjaCBDb2xsZWdlLCBHZW5lcmFsIENlcnRpZmljYXRlIGluIHJlY29nbml0aW9uIGZvciBOLkMuUC5MLkEgKE5hdGlvbmFsIENlcnRpZmljYXRlIG9mIFBsYXkgTGVhZGVycwoKQXNzb2NpYXRpb24pCgpDb3Vuc2VsbGluZyBCZWdpbm5lcnMgQ291cnNlLExldmVsIDEvNiBBdHRhaW5lZAoKQnJpdGlzaCBTaWduIExhbmd1YWdlIENvdXJzZSwgTGV2ZWwgMS82IEF0dGFpbmVkCgpOZXN0b24gQ291bnR5IEhpZ2ggU2Nob29sIFNvdXRoIFdpcnJhbCBDaGVzaGlyZQoKTyBMZXZlbCAtIEVuZ2xpc2ggLSBncmFkZSBCLCBNYXRoZW1hdGljcyAtIGdyYWRlIEMsIEhpc3RvcnkgLSBncmFkZSBDLCBCaW9sb2d5IC0gZ3JhZGUgQywgQ29tbWVyY2UtIGdyYWRlCgpDLCBHZW9ncmFwaHkgLSBncmFkZSBELCBQaHlzaWNhbCBFZHVjYXRpb24gLSBncmFkZSBBLCBIdW1hbiBCaW9sb2d5IO+/vSAtIGdyYWRlIEE=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915516401532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

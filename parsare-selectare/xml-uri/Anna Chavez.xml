@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2912306401532"  usageLimitType="allocation" usageLimit="100" currentUsage="80" remainingUsage="20" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Anna Chavez</FormattedName>
+<GivenName>Anna</GivenName>
+<FamilyName>Chavez</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>AZ</Region>
+<Municipality>Avondale</Municipality>
+<DeliveryAddress>
+<AddressLine>One IT</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Anna-Chavez/6abefec15cf82f51</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>IT Recruiter</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>AZ</Region>
+<Municipality>Tempe</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>customer service</IndustryDescription></OrgIndustry>
+<Description>* Work collaboratively with Account Managers and internal staff to match candidates with the right opportunity. * Interview candidates to assess skills, experience, availability, compensation requirements and willingness to travel. * Preform reference and background checks to verify hiring information. * Recruit, interview and place IT professionals in contract, contract-to-hire, and FTE positions with clients. * Provide the highest quality and customer service to both clients and candidates. * Provide consistent communication and career guidance to candidates. * Participate in industry trade associations to increase Company presence within the local IT community. * Perform in-person and phone interviews with candidates to obtain leads and market information. * Make recommendations to Account Managers. * Coordinate interviews with the hiring managers. * Follow up on the interview process status. * Maintaining relationships with both internal and external clients to ensure staffing goals are achieved. * Communicate employer information and benefits during screening process.
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Automobile Sales</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Internet Sales Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>AZ</Region>
+<Municipality>Phoenix</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Strong verbal and written communication via phone, email, text, face to face. * Convert phone call and internet leads to appointments to sales (10 - 12% close ratio). * Excellent organizational skills, follow up, and attention to detail. * Respond to customer inquiries relating to vehicles, products, and services via the internet, phone, text. * Present new and pre-owned vehicles to customers in an attractive and highly informative fashion that promoted a prompt sale. * Consultative approach to identify prospect's needs/wants. * Maintain an ongoing relationship with customers to encourage networking and repeat business. * Meet sales goals on commission pay structure.
+</Description>
+<StartDate>
+<AnyDate>2015-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Arizona Title / Escrow Companies</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Business Development Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>AZ</Region>
+<Municipality>Phoenix</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Acquire new customers for an assigned territory with business to business networking, cold calling, social media and other means to develop pipeline of new business for Company. * Entrepreneurial experience and goal-driven focus. * Drive sales revenue and market share by managing a defined territory to achieve quota. * Prospect new clients through cold and warm lead generation. * Work with clients to understand and identify their strategic vision, objectives and needs while aligning Company's products and services where business opportunities exist. * Develop strong relationships with clients and deliver high levels of client care. * Proposals, presentations, product demonstrations. * Strong client-facing skills and effective selling to an executive, owner, and/or decision maker with a consultative approach. * Excellent verbal and written communication skills. * Demonstrate fearless cold calling, prospecting and a business acumen including sales quota achievement and closing sales. * Ability to successfully work autonomously while demonstrating excellent time management skills. * Maintained client retention by enhancing relationships, presenting new products/services. * Set up meetings between client decision maker and Company's Leaders/Principals.
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Grand Canyon University</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Online Academic Advisor School of Education</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>AZ</Region>
+<Municipality>Phoenix</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>* Guidance counselor providing educational resources and assistance to student and prospects for enrollment into Bachelor and Master degree programs. * Plan schedules, recommend courses, determine appropriate education solutions/plan. * Follow through and track advancement of students. * Respond to complex inquiries relating to program requirements, curriculum and course offerings. * Advise undergraduate and graduate students on the development of individual learning outcomes based on their skills, goals, responsibilities and experiences. Residential Realtor, Arizona
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Phoenix</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>AZ</Region>
+<Municipality>Phoenix</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Science</DegreeName>
+<DegreeDate>
+<AnyDate>2001-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Business Management</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Benefits">
+<CompetencyId description="HireAbility taxonomy" id="1818" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Benefits" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Business Acumen">
+<CompetencyId description="HireAbility taxonomy" id="12117" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Acumen" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Business Development">
+<CompetencyId description="HireAbility taxonomy" id="4313" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Development" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Business Development Manager">
+<CompetencyId description="HireAbility taxonomy" id="12123" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Development Manager" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cold Calling">
+<CompetencyId description="HireAbility taxonomy" id="9099" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cold Calling" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Communication Skills">
+<CompetencyId description="HireAbility taxonomy" id="16264" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Communication Skills" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Compensation">
+<CompetencyId description="HireAbility taxonomy" id="10064" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Compensation" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Email">
+<CompetencyId description="HireAbility taxonomy" id="1639" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Email" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Technology">
+<CompetencyId description="HireAbility taxonomy" id="10107" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Technology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Internet">
+<CompetencyId description="HireAbility taxonomy" id="196" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Internet" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Lead Generation">
+<CompetencyId description="HireAbility taxonomy" id="9095" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Lead Generation" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Networking">
+<CompetencyId description="HireAbility taxonomy" id="8" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Networking" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Purchasing">
+<CompetencyId description="HireAbility taxonomy" id="2158" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Purchasing" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quote Achievement">
+<CompetencyId description="HireAbility taxonomy" id="9101" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quote Achievement" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Recruiter">
+<CompetencyId description="HireAbility taxonomy" id="13269" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Recruiter">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Sales">
+<CompetencyId description="HireAbility taxonomy" id="7733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Sales" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Strategic Vision">
+<CompetencyId description="HireAbility taxonomy" id="7976" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Strategic Vision" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Written Communication">
+<CompetencyId description="HireAbility taxonomy" id="17839" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Written Communication" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Written Communication Skills">
+<CompetencyId description="HireAbility taxonomy" id="7812" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Written Communication Skills" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW5uYSBDaGF2ZXoKCklUIFJlY3J1aXRlciAtIFRlY2ggT25lIElUCgpBdm9uZGFsZSwgQVogLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9Bbm5hLUNoYXZlei82YWJlZmVjMTVjZjgyZjUxCgpQcm8tYWN0aXZlLCBlbnRodXNpYXN0aWMgYW5kIGNvbXBldGl0aXZlIHRlYW0gcGxheWVyIHdpdGggYSBkaXZlcnNlIGJhY2tncm91bmQgaW4gc2FsZXMgYW5kIHBvc3Qtc2Vjb25kYXJ5CgplZHVjYXRpb24uIEFuIGFkdm9jYXRlIG9mIHNlcnZhbnQgbGVhZGVyc2hpcCBhbmQgY3VzdG9tZXIgc2VydmljZSwgd2l0aCBhIHN0cm9uZyByZWNvcmQgb2YgYWNoaWV2ZW1lbnQKCmluIGJ1aWxkaW5nIHBhcnRuZXJzaGlwcyBhbmQgY29tbXVuaXR5IHJlbGF0aW9ucy4gRXhwZXJ0IGNvbW11bmljYXRvciwgaGlnaGx5IG1vdGl2YXRlZCBhbmQgaW50dWl0aXZlIHdpdGgKCmVmZmVjdGl2ZSBodW1hbiByZWxhdGlvbnM7IGtub3duIGZvciAiaHVudGluZyIgc2tpbGxzLCBjb2xkIGNhbGxpbmcsIGFuZCBnZXR0aW5nIHRvIHRoZSBkZWNpc2lvbiBtYWtlci4KCiogU3Ryb25nIGRvY3VtZW50YXRpb24gYW5kIHdyaXRpbmcKCiogRXhwZXJ0aXNlIGluIHByb2JsZW0tc29sdmluZyBhbmQgYW5hbHlzaXMKCiogRXhoaWJpdHMgdGhlIGFiaWxpdHkgdG8gbWFrZSBzb3VuZCBkZWNpc2lvbnMgdW5kZXIgZGVtYW5kaW5nIGNvbmRpdGlvbnMKCiogQSBtZXRpY3Vsb3VzIHBsYW5uZXIgd2l0aCB0cmVtZW5kb3VzIHdvcmsgZXRoaWMgYW5kIGludGVncml0eQoKKiBQcm9maWNpZW50IGluIE1TIE9mZmljZSBTdWl0ZSBhbmQgQ1JNIGRhdGEgZW50cnkgYW5kIG1hbmFnZW1lbnQuCgoqIEV4Y2VsbGVudCB2ZXJiYWwsIHdyaXR0ZW4sIGFuZCBhbmFseXRpY2FsIGNvbW11bmljYXRpb24uCgoqIEFiaWxpdHkgdG8gYnVpbGQgY3VzdG9tZXIgcmVsYXRpb25zaGlwcyBhbmQgcHJvdmlkZSBleGNlcHRpb25hbCBmb2xsb3cgdGhyb3VnaC4KCiogT3V0Z29pbmcgcGVyc29uYWxpdHkgYW5kIGdyZWF0IHBvbGlzaGVkIGltcHJlc3Npb24uCgoqIE91dHN0YW5kaW5nIG9yZ2FuaXphdGlvbmFsIGFuZCBtdWx0aS10YXNraW5nIGFiaWxpdGllczsgdGltZSBtYW5hZ2VtZW50LgoKKiBTdHJvbmcgcHJlc2VudGF0aW9uIHNraWxscyAtIGdyb3VwIG9yIGluZGl2aWR1YWwgLSB3aXRoIGFiaWxpdHkgdG8gb3ZlcmNvbWUgb2JqZWN0aW9ucy4KCiogU3Ryb25nIHByb2JsZW0gc29sdmluZywgaW5mbHVlbmNpbmcsIG5lZ290aWF0aW5nLgoKKiBIaWdoIHZvbHVtZSBwaG9uZSBhbmQgd2ViIG1hcmtldGluZyBza2lsbHMgY29udmVydGluZyB0byBmYWNlIHRvIGZhY2Ugc2FsZXMgY2FsbHMuCgpXT1JLIEVYUEVSSUVOQ0UKCklUIFJlY3J1aXRlcgoKVGVjaCBPbmUgSVQgLSBUZW1wZSwgQVogLSAyMDE2IHRvIFByZXNlbnQKCiogV29yayBjb2xsYWJvcmF0aXZlbHkgd2l0aCBBY2NvdW50IE1hbmFnZXJzIGFuZCBpbnRlcm5hbCBzdGFmZiB0byBtYXRjaCBjYW5kaWRhdGVzIHdpdGggdGhlIHJpZ2h0IG9wcG9ydHVuaXR5LgoKKiBJbnRlcnZpZXcgY2FuZGlkYXRlcyB0byBhc3Nlc3Mgc2tpbGxzLCBleHBlcmllbmNlLCBhdmFpbGFiaWxpdHksIGNvbXBlbnNhdGlvbiByZXF1aXJlbWVudHMgYW5kIHdpbGxpbmduZXNzCgp0byB0cmF2ZWwuCgoqIFByZWZvcm0gcmVmZXJlbmNlIGFuZCBiYWNrZ3JvdW5kIGNoZWNrcyB0byB2ZXJpZnkgaGlyaW5nIGluZm9ybWF0aW9uLgoKKiBSZWNydWl0LCBpbnRlcnZpZXcgYW5kIHBsYWNlIElUIHByb2Zlc3Npb25hbHMgaW4gY29udHJhY3QsIGNvbnRyYWN0LXRvLWhpcmUsIGFuZCBGVEUgcG9zaXRpb25zIHdpdGggY2xpZW50cy4KCiogUHJvdmlkZSB0aGUgaGlnaGVzdCBxdWFsaXR5IGFuZCBjdXN0b21lciBzZXJ2aWNlIHRvIGJvdGggY2xpZW50cyBhbmQgY2FuZGlkYXRlcy4KCiogUHJvdmlkZSBjb25zaXN0ZW50IGNvbW11bmljYXRpb24gYW5kIGNhcmVlciBndWlkYW5jZSB0byBjYW5kaWRhdGVzLgoKKiBQYXJ0aWNpcGF0ZSBpbiBpbmR1c3RyeSB0cmFkZSBhc3NvY2lhdGlvbnMgdG8gaW5jcmVhc2UgQ29tcGFueSBwcmVzZW5jZSB3aXRoaW4gdGhlIGxvY2FsIElUIGNvbW11bml0eS4KCiogUGVyZm9ybSBpbi1wZXJzb24gYW5kIHBob25lIGludGVydmlld3Mgd2l0aCBjYW5kaWRhdGVzIHRvIG9idGFpbiBsZWFkcyBhbmQgbWFya2V0IGluZm9ybWF0aW9uLgoKKiBNYWtlIHJlY29tbWVuZGF0aW9ucyB0byBBY2NvdW50IE1hbmFnZXJzLgoKKiBDb29yZGluYXRlIGludGVydmlld3Mgd2l0aCB0aGUgaGlyaW5nIG1hbmFnZXJzLgoKKiBGb2xsb3cgdXAgb24gdGhlIGludGVydmlldyBwcm9jZXNzIHN0YXR1cy4KCiogTWFpbnRhaW5pbmcgcmVsYXRpb25zaGlwcyB3aXRoIGJvdGggaW50ZXJuYWwgYW5kIGV4dGVybmFsIGNsaWVudHMgdG8gZW5zdXJlIHN0YWZmaW5nIGdvYWxzIGFyZSBhY2hpZXZlZC4KCiogQ29tbXVuaWNhdGUgZW1wbG95ZXIgaW5mb3JtYXRpb24gYW5kIGJlbmVmaXRzIGR1cmluZyBzY3JlZW5pbmcgcHJvY2Vzcy4KCkludGVybmV0IFNhbGVzIE1hbmFnZXIKClBob2VuaXgsIEFaIC0gMjAxNSB0byAyMDE2CgpBdXRvbW9iaWxlIFNhbGVzCgoqIFN0cm9uZyB2ZXJiYWwgYW5kIHdyaXR0ZW4gY29tbXVuaWNhdGlvbiB2aWEgcGhvbmUsIGVtYWlsLCB0ZXh0LCBmYWNlIHRvIGZhY2UuCgoqIENvbnZlcnQgcGhvbmUgY2FsbCBhbmQgaW50ZXJuZXQgbGVhZHMgdG8gYXBwb2ludG1lbnRzIHRvIHNhbGVzICgxMCAtIDEyJSBjbG9zZSByYXRpbykuCgoqIEV4Y2VsbGVudCBvcmdhbml6YXRpb25hbCBza2lsbHMsIGZvbGxvdyB1cCwgYW5kIGF0dGVudGlvbiB0byBkZXRhaWwuCgoqIFJlc3BvbmQgdG8gY3VzdG9tZXIgaW5xdWlyaWVzIHJlbGF0aW5nIHRvIHZlaGljbGVzLCBwcm9kdWN0cywgYW5kIHNlcnZpY2VzIHZpYSB0aGUgaW50ZXJuZXQsIHBob25lLCB0ZXh0LgoKKiBQcmVzZW50IG5ldyBhbmQgcHJlLW93bmVkIHZlaGljbGVzIHRvIGN1c3RvbWVycyBpbiBhbiBhdHRyYWN0aXZlIGFuZCBoaWdobHkgaW5mb3JtYXRpdmUgZmFzaGlvbiB0aGF0Cgpwcm9tb3RlZCBhIHByb21wdCBzYWxlLgoKKiBDb25zdWx0YXRpdmUgYXBwcm9hY2ggdG8gaWRlbnRpZnkgcHJvc3BlY3QncyBuZWVkcy93YW50cy4KCiogTWFpbnRhaW4gYW4gb25nb2luZyByZWxhdGlvbnNoaXAgd2l0aCBjdXN0b21lcnMgdG8gZW5jb3VyYWdlIG5ldHdvcmtpbmcgYW5kIHJlcGVhdCBidXNpbmVzcy4KCiogTWVldCBzYWxlcyBnb2FscyBvbiBjb21taXNzaW9uIHBheSBzdHJ1Y3R1cmUuCgpCdXNpbmVzcyBEZXZlbG9wbWVudCBNYW5hZ2VyCgpBcml6b25hIFRpdGxlIC8gRXNjcm93IENvbXBhbmllcyAtIFBob2VuaXgsIEFaIC0gMjAxMCB0byAyMDE1CgoqIEFjcXVpcmUgbmV3IGN1c3RvbWVycyBmb3IgYW4gYXNzaWduZWQgdGVycml0b3J5IHdpdGggYnVzaW5lc3MgdG8gYnVzaW5lc3MgbmV0d29ya2luZywgY29sZCBjYWxsaW5nLCBzb2NpYWwKCm1lZGlhIGFuZCBvdGhlciBtZWFucyB0byBkZXZlbG9wIHBpcGVsaW5lIG9mIG5ldyBidXNpbmVzcyBmb3IgQ29tcGFueS4KCiogRW50cmVwcmVuZXVyaWFsIGV4cGVyaWVuY2UgYW5kIGdvYWwtZHJpdmVuIGZvY3VzLgoKKiBEcml2ZSBzYWxlcyByZXZlbnVlIGFuZCBtYXJrZXQgc2hhcmUgYnkgbWFuYWdpbmcgYSBkZWZpbmVkIHRlcnJpdG9yeSB0byBhY2hpZXZlIHF1b3RhLgoKKiBQcm9zcGVjdCBuZXcgY2xpZW50cyB0aHJvdWdoIGNvbGQgYW5kIHdhcm0gbGVhZCBnZW5lcmF0aW9uLgoKKiBXb3JrIHdpdGggY2xpZW50cyB0byB1bmRlcnN0YW5kIGFuZCBpZGVudGlmeSB0aGVpciBzdHJhdGVnaWMgdmlzaW9uLCBvYmplY3RpdmVzIGFuZCBuZWVkcyB3aGlsZSBhbGlnbmluZwoKQ29tcGFueSdzIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyB3aGVyZSBidXNpbmVzcyBvcHBvcnR1bml0aWVzIGV4aXN0LgoKKiBEZXZlbG9wIHN0cm9uZyByZWxhdGlvbnNoaXBzIHdpdGggY2xpZW50cyBhbmQgZGVsaXZlciBoaWdoIGxldmVscyBvZiBjbGllbnQgY2FyZS4KCiogUHJvcG9zYWxzLCBwcmVzZW50YXRpb25zLCBwcm9kdWN0IGRlbW9uc3RyYXRpb25zLgoKKiBTdHJvbmcgY2xpZW50LWZhY2luZyBza2lsbHMgYW5kIGVmZmVjdGl2ZSBzZWxsaW5nIHRvIGFuIGV4ZWN1dGl2ZSwgb3duZXIsIGFuZC9vciBkZWNpc2lvbiBtYWtlciB3aXRoIGEKCmNvbnN1bHRhdGl2ZSBhcHByb2FjaC4KCiogRXhjZWxsZW50IHZlcmJhbCBhbmQgd3JpdHRlbiBjb21tdW5pY2F0aW9uIHNraWxscy4KCiogRGVtb25zdHJhdGUgZmVhcmxlc3MgY29sZCBjYWxsaW5nLCBwcm9zcGVjdGluZyBhbmQgYSBidXNpbmVzcyBhY3VtZW4gaW5jbHVkaW5nIHNhbGVzIHF1b3RhIGFjaGlldmVtZW50CgphbmQgY2xvc2luZyBzYWxlcy4KCiogQWJpbGl0eSB0byBzdWNjZXNzZnVsbHkgd29yayBhdXRvbm9tb3VzbHkgd2hpbGUgZGVtb25zdHJhdGluZyBleGNlbGxlbnQgdGltZSBtYW5hZ2VtZW50IHNraWxscy4KCiogTWFpbnRhaW5lZCBjbGllbnQgcmV0ZW50aW9uIGJ5IGVuaGFuY2luZyByZWxhdGlvbnNoaXBzLCBwcmVzZW50aW5nIG5ldyBwcm9kdWN0cy9zZXJ2aWNlcy4KCiogU2V0IHVwIG1lZXRpbmdzIGJldHdlZW4gY2xpZW50IGRlY2lzaW9uIG1ha2VyIGFuZCBDb21wYW55J3MgTGVhZGVycy9QcmluY2lwYWxzLgoKT25saW5lIEFjYWRlbWljIEFkdmlzb3IgU2Nob29sIG9mIEVkdWNhdGlvbgoKR3JhbmQgQ2FueW9uIFVuaXZlcnNpdHkgLSBQaG9lbml4LCBBWiAtIDIwMDkgdG8gMjAxMAoKKiBHdWlkYW5jZSBjb3Vuc2Vsb3IgcHJvdmlkaW5nIGVkdWNhdGlvbmFsIHJlc291cmNlcyBhbmQgYXNzaXN0YW5jZSB0byBzdHVkZW50IGFuZCBwcm9zcGVjdHMgZm9yIGVucm9sbG1lbnQKCmludG8gQmFjaGVsb3IgYW5kIE1hc3RlciBkZWdyZWUgcHJvZ3JhbXMuCgoqIFBsYW4gc2NoZWR1bGVzLCByZWNvbW1lbmQgY291cnNlcywgZGV0ZXJtaW5lIGFwcHJvcHJpYXRlIGVkdWNhdGlvbiBzb2x1dGlvbnMvcGxhbi4KCiogRm9sbG93IHRocm91Z2ggYW5kIHRyYWNrIGFkdmFuY2VtZW50IG9mIHN0dWRlbnRzLgoKKiBSZXNwb25kIHRvIGNvbXBsZXggaW5xdWlyaWVzIHJlbGF0aW5nIHRvIHByb2dyYW0gcmVxdWlyZW1lbnRzLCBjdXJyaWN1bHVtIGFuZCBjb3Vyc2Ugb2ZmZXJpbmdzLgoKKiBBZHZpc2UgdW5kZXJncmFkdWF0ZSBhbmQgZ3JhZHVhdGUgc3R1ZGVudHMgb24gdGhlIGRldmVsb3BtZW50IG9mIGluZGl2aWR1YWwgbGVhcm5pbmcgb3V0Y29tZXMgYmFzZWQgb24KCnRoZWlyIHNraWxscywgZ29hbHMsIHJlc3BvbnNpYmlsaXRpZXMgYW5kIGV4cGVyaWVuY2VzLgoKUmVzaWRlbnRpYWwgUmVhbHRvciwgQXJpem9uYQoKIC0gMjAwNSB0byAyMDA5CgoqIFByb3ZpZGUgZ3VpZGFuY2UgYW5kIGFzc2lzdCBzZWxsZXJzIGFuZCBidXllcnMgaW4gbWFya2V0aW5nIGFuZCBwdXJjaGFzaW5nIHByb3BlcnR5IGZvciB0aGUgcmlnaHQgcHJpY2UgdW5kZXIKCnRoZSBiZXN0IHRlcm1zLgoKKiBJbnRlci1tZWRpYXRlIG5lZ290aWF0aW9uIHByb2Nlc3NlcywgY29uc3VsdCBjbGllbnRzIG9uIG1hcmtldCBjb25kaXRpb25zLCBwcmljZXMsIG1vcnRnYWdlcywgbGVnYWwKCnJlcXVpcmVtZW50cyBhbmQgcmVsYXRlZCBtYXR0ZXJzLCBlbnN1cmluZyBhIGZhaXIgYW5kIGhvbmVzdCBkZWFsaW5nLgoKKiBQZXJmb3JtIGNvbXBhcmF0aXZlIG1hcmtldCBhbmFseXNpcyB0byBlc3RpbWF0ZSBwcm9wZXJ0aWVzJyB2YWx1ZS4KCiogRGlzcGxheSBhbmQgbWFya2V0IHJlYWwgcmVzaWRlbnRpYWwgcHJvcGVydHkgdG8gcG9zc2libGUgYnV5ZXJzLgoKKiBEZXRlcm1pbmUgY2xpZW50cycgbmVlZHMgYW5kIGZpbmFuY2lhbCBhYmlsaXRpZXMgdG8gcHJvcG9zZSBzb2x1dGlvbnMgdGhhdCBzdWl0IHRoZW0uCgpFRFVDQVRJT04KCkJhY2hlbG9yIG9mIFNjaWVuY2UgaW4gQnVzaW5lc3MgTWFuYWdlbWVudAoKVW5pdmVyc2l0eSBvZiBQaG9lbml4IC0gUGhvZW5peCwgQVoKCjIwMDEKClJlbGlnaW91cyBFZHVjYXRpb24gVGVhY2hlcgoKU3QuIFRob21hcyAtIEdvb2R5ZWFyLCBBWg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912306401532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

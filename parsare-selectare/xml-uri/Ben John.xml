@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2913343501532"  usageLimitType="allocation" usageLimit="100" currentUsage="100" remainingUsage="0" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Ben John</FormattedName>
+<GivenName>Ben</GivenName>
+<FamilyName>John</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Ben-John-Dela-Cruz/05c883da59bc2dd6</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>www.floridafishing.com</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>TV</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>movies</IndustryDescription></OrgIndustry>
+<Description>Movie, and Theater Actor
+</Description>
+<StartDate>
+<AnyDate>1996-06-01</AnyDate>
+</StartDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Music Video Director</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Orlando</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>https://www.youtube.com/watch*v=fPwC6YoMWbE
+</Description>
+<StartDate>
+<AnyDate>2015-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Latest</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Director</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2013-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>GMA NEWS TV</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Guest Director</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Writer of Boy Pick-up, Mr. Assimo, and James Wang Segments
+</Description>
+<StartDate>
+<AnyDate>2013-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Creator & Writer of Tata Lino</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>* Segment Producer (Tropang Potchi) (GMA-7) - No longer connected
+</Description>
+<StartDate>
+<AnyDate>2012-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Writer (Bubble Gang)</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2012-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Game and Go</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Floor Director</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2011-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Reputasyon</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Writer/Actor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2011-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Reality Seminar</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Program Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2012-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>TV Portals</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Writer/Actor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>I Laugh Sabado)
+</Description>
+<StartDate>
+<AnyDate>2010-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>(Smashbox Productions)</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Creative Manager/Host/Actor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2011-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Techno Trip</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Writer (GMA-New Media)</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2011-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Comedy Show</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Content writer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2010-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>MyGMA.ph and WMN.ph</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>contributor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The UP Repertory Company and UP Alay Sining Plays</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Acting Workshop Facilitator and Trainor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Acting Workshop for Modeling (Modelo Pilipinas, UP Hotel. April2 7 & 29, 2004), 2nd Acting Workshop for Modeling (Modelo Pilipinas, St. Vincent School. October 23, 24, 30, 31, November 6, 7, 13, 14, 2004), 3rd Acting Workshop for Modeling (Modelo Pilipinas. Harmony Bar, Annapolis St.
+</Description>
+<StartDate>
+<AnyDate>2002-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Teatro Lakbay 1st Acting Workshop</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>the theater arm of Lakbay Kalikasan
+</Description>
+<StartDate>
+<AnyDate>2007-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-08-05</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>1st Acting</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Workshop
+</Description>
+<StartDate>
+<AnyDate>2007-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Makati Med College of Nursing</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>1st Acting Workshop for Christians (Alta Rios Resort, Cavite. May 2013) Goon in Agent Max Santiago
+</Description>
+<StartDate>
+<AnyDate>2010-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The UP Repertory Company and</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>UP Alay Sining Plays - in Kwek-Kwek, (Shorts 2004). Rapist in Danz Sport (Multi-awarded Short Film). Doctor in Mondo Manila, Award-winning Short Film, 1999). Played the role Badette in Joyce Bernal's The Anothers (Star Cinema), 2005. Had a guest appearance in Batad (Cinemalaya 2006), and had a cameo role in Tagapagligtas (Cinemalaya 2007). The Antagonist in 2009 Cinemalaya Movie: My Fake American Accent. Antagonist in 2010 Best Shorts: Kumot ng Panaginip. Bruno in 2011 Cinemalaya Best Shorts: Ang Umaatikabong Buhay ni Badong Aguirre. Gunman in Wala sa Gubat ang mga Hayop (Multi-awarded Short Film, 2014). Played the Director character in Kahit sa Anino (Short Film 2014)
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>International Institute for Film</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Science</DegreeName>
+<DegreeDate>
+<AnyDate>2013-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Secondary Education</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>College of Education</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of the Philippines</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Actor">
+<CompetencyId description="HireAbility taxonomy" id="1581" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Actor">
+<NumericValue description="Range in years of experience">21</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Facilitator">
+<CompetencyId description="HireAbility taxonomy" id="12463" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Facilitator" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Wang">
+<CompetencyId description="HireAbility taxonomy" id="467" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Wang" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QmVuIEpvaG4gRGVsYSBDcnV6CgpUViBEaXJlY3RvcgoKVGFsbGFoYXNzZWUsIEZMIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQmVuLUpvaG4tRGVsYS1DcnV6LzA1Yzg4M2RhNTliYzJkZDYKCkkgaGF2ZSBhIHJpY2ggZXhwZXJpZW5jZSBpbiBNZWRpYSBhbmQgVGVsZXZpc2lvbi4gSSBoYXZlIGJlZW4gYSBEaXJlY3RvciwgVFYgQWN0b3IsIERvY3VtZW50YXJ5IFNlZ21lbnQKClByb2R1Y2VyLCBDb21lZHkgV3JpdGVyLCBUZWxlbm92ZWxhIFdyaXRlciwgTXVzaWMgVmlkZW8gRGlyZWN0b3IsIGFuZCBJIGFtIGFsc28gYSBQaG90b2dyYXBoZXIuIEkgYWxzbyBnbwoKYnkgIkJpZHogRGVsYSBDcnV6IiBpZiB5b3UgbmVlZCB0byBjaGVjayBtZSBpbiBJTURCLmNvbS4KCkkgYW0gYSB3ZWxsLXJvdW5kZWQgcGVyc29uLiBJIGFtIG5vdCBvbmx5IGFydGlzdGljLCBJIGFtIGFsc28gYXRobGV0aWMgYW5kIGRydWctZnJlZS4gSSByYXJlbHkgZ2V0IHNpY2suIEkgYW0gYQoKbW91bnRhaW5lZXIsIG1vdW50YWluIGJpa2VyIGFuZCBhIHJvY2sgY2xpbWJlci4gSSB1c2VkIHRvIGJlIGEgY29tcGV0aXRpdmUgZHJhZ29uYm9hdCByb3dlciwgYW5kIHBvd2VybGlmdGVyCgp2YXJzaXR5IGluIENvbGxlZ2UuIEkgYW0gYWx3YXlzIGFjdGl2ZSwgaGF0ZXMgdG8gYmUgbGF0ZSwgYW5kIGlzIG5vdCBlYXNpbHkgbGV0IGRvd24uCgpJIGhhdmUgZ29vZCBhbmFseXRpY2FsIHNraWxscywgSSBhbSBhIGdvb2QgdGVhbSBwbGF5ZXIgd2l0aCBhIHZlcnkgZXh0cm92ZXJ0IHBlcnNvbmFsaXR5LCBJIGNhbiBlYXNpbHkgYWRhcHQgdG8KCnNpdHVhdGlvbnMsIEkgY2FuIGhhbmRsZSBwcmVzc3VyZXMgcHJvcGVybHksIGFuZCBJIGhhdmUgdGhlIGFiaWxpdHkgdG8gbmVnb3RpYXRlIHdpdGggaW5kaXZpZHVhbHMuIEkgYW0gYSBtZW1iZXIKCm9mIHRoZSBUYWxsYWhhc3NlZSBNb3VudGFpbiBCaWtlIEFzc29jaWF0aW9uLCB0aGUgbG9jYWwgbW91bnRhaW4gYmlraW5nIGdyb3VwIGhlcmUuIEkgaGF2ZSBnb29kIHRlbGVwaG9uZSwKCmNvbXB1dGVyIGFuZCBkZWNpc2lvbi1tYWtpbmcgc2tpbGxzLiBJIGNhbiBhbHNvIGVhc2lseSByZXBvcnQgdG8gYSBTZW5pb3IgUHJvZHVjZXIuIEkgYWxzbyBoYXZlIGEgZ29vZCBjb21tYW5kCgpvZiB0aGUgd3JpdHRlbiBsYW5ndWFnZS4gU29tZSBvZiBteSB3cml0dGVuIHdvcmtzIGNhbiBiZSBmb3VuZCBpbiB0aGUgaW50ZXJuZXQgaWYgeW91IHR5cGUgaW4gIkJpZHogRGVsYQoKQ3J1eiIgaW4gdGhlIGdvb2dsZSBzZWFyY2ggYm94LiBTb21lIG9mIHRoZSB3ZWJzaXRlcyBJIHVzZWQgdG8gcHJvdmlkZSBjb250ZW50IGFyZSB3d3cuZmxvcmlkYWZpc2hpbmcuY29tLAoKd3d3LnR1c2NhbnkuY29tLCB3d3cubm90dGluZ2hpbGwuY29tLiBGb3IgbXkgbW9zdCByZWNlbnQgcGhvdG9ncmFwaHkgd29ya3MsIHBsZWFzZSBmb2xsb3cgdGhlIGhhc2h0YWcKCiNDcmltcGZlc3RQcm9kdWN0aW9ucy4KCldpbGxpbmcgdG8gcmVsb2NhdGUgdG86IE5ldyBZb3JrLCBOWQoKQXV0aG9yaXplZCB0byB3b3JrIGluIHRoZSBVUyBmb3IgYW55IGVtcGxveWVyCgpXT1JLIEVYUEVSSUVOQ0UKClRWLCBNb3ZpZSwgYW5kIFRoZWF0ZXIgQWN0b3IKCiAtIEp1bmUgMTk5NiB0byBQcmVzZW50CgpNdXNpYyBWaWRlbyBEaXJlY3RvcgoKT3JsYW5kbyAtIDIwMTUgdG8gMjAxNQoKaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1mUHdDNllvTVdiRQoKRGlyZWN0b3IKCkxhdGVzdCAtIDIwMTMgdG8gMjAxNAoKR3Vlc3QgRGlyZWN0b3IKCkdNQSBORVdTIFRWIC0gMjAxMyB0byAyMDE0CgpXcml0ZXIgb2YgQm95IFBpY2stdXAsIE1yLiBBc3NpbW8sIGFuZCBKYW1lcyBXYW5nIFNlZ21lbnRzCgpHTUEgTkVXUyBUViAtIEphbnVhcnkgMjAxMiB0byBBcHJpbCAyMDEzCgpDcmVhdG9yICYgV3JpdGVyIG9mIFRhdGEgTGlubwoKKiBTZWdtZW50IFByb2R1Y2VyIChUcm9wYW5nIFBvdGNoaSkKCihHTUEtNykgLSBObyBsb25nZXIgY29ubmVjdGVkCgpXcml0ZXIgKEJ1YmJsZSBHYW5nKQoKR01BIE5FV1MgVFYgLSAyMDEyIHRvIDIwMTMKCkZsb29yIERpcmVjdG9yCgpHYW1lIGFuZCBHbyAtIEF1Z3VzdCAyMDExIHRvIE1hcmNoIDIwMTIKCldyaXRlci9BY3RvcgoKUmVwdXRhc3lvbiAtIE1hcmNoIDIwMTEgdG8gRmVicnVhcnkgMjAxMgoKUHJvZ3JhbSBEZXZlbG9wZXIKClJlYWxpdHkgU2VtaW5hciAtIDIwMTIgdG8gMjAxMgoKV3JpdGVyL0FjdG9yCgpUViBQb3J0YWxzIC0gQXVndXN0IDIwMTAgdG8gTm92ZW1iZXIgMjAxMQoKSSBMYXVnaCBTYWJhZG8pCgpDcmVhdGl2ZSBNYW5hZ2VyL0hvc3QvQWN0b3IgKFNtYXNoYm94IFByb2R1Y3Rpb25zKQoKVGVjaG5vIFRyaXAgLSBGZWJydWFyeSAyMDExIHRvIE1hcmNoIDIwMTEKCldyaXRlciAoR01BLU5ldyBNZWRpYSkKCkNvbWVkeSBTaG93IC0gQXByaWwgMjAxMCB0byBKYW51YXJ5IDIwMTEKCkNvbnRlbnQgd3JpdGVyCgpNeUdNQS5waCBhbmQgV01OLnBoIC0gQXVndXN0IDIwMDkgdG8gTm92ZW1iZXIgMjAwOQoKY29udHJpYnV0b3IKCkFjdGluZyBXb3Jrc2hvcCBGYWNpbGl0YXRvciBhbmQgVHJhaW5vcgoKVGhlIFVQIFJlcGVydG9yeSBDb21wYW55IGFuZCBVUCBBbGF5IFNpbmluZyBQbGF5cyAtIFNlcHRlbWJlciAyMDAyIHRvIFNlcHRlbWJlciAyMDAyCgpBY3RpbmcgV29ya3Nob3AgZm9yIE1vZGVsaW5nIChNb2RlbG8gUGlsaXBpbmFzLCBVUCBIb3RlbC4gQXByaWwyIDcgJiAyOSwgMjAwNCksIDJuZCBBY3RpbmcgV29ya3Nob3AgZm9yCgpNb2RlbGluZyAoTW9kZWxvIFBpbGlwaW5hcywgU3QuIFZpbmNlbnQgU2Nob29sLiBPY3RvYmVyIDIzLCAyNCwgMzAsIDMxLCBOb3ZlbWJlciA2LCA3LCAxMywgMTQsIDIwMDQpLCAzcmQKCkFjdGluZyBXb3Jrc2hvcCBmb3IgTW9kZWxpbmcgKE1vZGVsbyBQaWxpcGluYXMuIEhhcm1vbnkgQmFyLCBBbm5hcG9saXMgU3QuIEp1bHkgMjksIEF1Z3VzdCA1LCBBdWd1c3QgMTIsCgoyMDA2KSwgVGVhdHJvIExha2JheSAoMXN0IEFjdGluZyBXb3Jrc2hvcCBmb3IgdGhlIHRoZWF0ZXIgYXJtIG9mIExha2JheSBLYWxpa2FzYW4sIEF1Z3VzdCAyMDA3KSwgMXN0IEFjdGluZwoKV29ya3Nob3AgZm9yIE1ha2F0aSBNZWQgQ29sbGVnZSBvZiBOdXJzaW5nIChPY3QtRGVjIDIwMTApLCAxc3QgQWN0aW5nIFdvcmtzaG9wIGZvciBDaHJpc3RpYW5zIChBbHRhIFJpb3MKClJlc29ydCwgQ2F2aXRlLiBNYXkgMjAxMykKCkdvb24gaW4gQWdlbnQgTWF4IFNhbnRpYWdvCgpUaGUgVVAgUmVwZXJ0b3J5IENvbXBhbnkgYW5kIFVQIEFsYXkgU2luaW5nIFBsYXlzIC0gMTk5NyB0byAxOTk3CgppbiBLd2VrLUt3ZWssIChTaG9ydHMgMjAwNCkuIFJhcGlzdCBpbiBEYW56IFNwb3J0IChNdWx0aS1hd2FyZGVkIFNob3J0IEZpbG0pLiBEb2N0b3IgaW4gTW9uZG8gTWFuaWxhLAoKQXdhcmQtd2lubmluZyBTaG9ydCBGaWxtLCAxOTk5KS4gUGxheWVkIHRoZSByb2xlIEJhZGV0dGUgaW4gSm95Y2UgQmVybmFsJ3MgVGhlIEFub3RoZXJzIChTdGFyIENpbmVtYSksIDIwMDUuCgpIYWQgYSBndWVzdCBhcHBlYXJhbmNlIGluIEJhdGFkIChDaW5lbWFsYXlhIDIwMDYpLCBhbmQgaGFkIGEgY2FtZW8gcm9sZSBpbiBUYWdhcGFnbGlndGFzIChDaW5lbWFsYXlhCgoyMDA3KS4gVGhlIEFudGFnb25pc3QgaW4gMjAwOSBDaW5lbWFsYXlhIE1vdmllOiBNeSBGYWtlIEFtZXJpY2FuIEFjY2VudC4gQW50YWdvbmlzdCBpbiAyMDEwIEJlc3QgU2hvcnRzOgoKS3Vtb3QgbmcgUGFuYWdpbmlwLiBCcnVubyBpbiAyMDExIENpbmVtYWxheWEgQmVzdCBTaG9ydHM6IEFuZyBVbWFhdGlrYWJvbmcgQnVoYXkgbmkgQmFkb25nIEFndWlycmUuCgpHdW5tYW4gaW4gV2FsYSBzYSBHdWJhdCBhbmcgbWdhIEhheW9wIChNdWx0aS1hd2FyZGVkIFNob3J0IEZpbG0sIDIwMTQpLiBQbGF5ZWQgdGhlIERpcmVjdG9yIGNoYXJhY3RlcgoKaW4gS2FoaXQgc2EgQW5pbm8gKFNob3J0IEZpbG0gMjAxNCkKCkVEVUNBVElPTgoKQmFjaGVsb3Igb2YgU2NpZW5jZSBpbiBTZWNvbmRhcnkgRWR1Y2F0aW9uCgpJbnRlcm5hdGlvbmFsIEluc3RpdHV0ZSBmb3IgRmlsbQoKMjAxMwoKQ29sbGVnZSBvZiBFZHVjYXRpb24sIFVuaXZlcnNpdHkgb2YgdGhlIFBoaWxpcHBpbmVzCgoyMDA0</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913343501532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

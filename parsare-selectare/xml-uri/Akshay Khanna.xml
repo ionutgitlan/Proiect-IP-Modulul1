@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2915402465432"  usageLimitType="allocation" usageLimit="100" currentUsage="30" remainingUsage="70" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Akshay Khanna</FormattedName>
+<GivenName>Akshay</GivenName>
+<FamilyName>Khanna</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Akshay-Khanna/ba7f589c6e878396</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<Objective>a junior C++ developer role. I have top grades in my A-Levels in Chemistry, Biology & Economics. I am generally an intellectually curious person. This is proven and seen in my variegated roles in working life and student life. I have been a former medical student, postgraduate computer scientist and former corporate salesman. Objectively I am therefore generally quite a smart person and am exceptionally versatile given all my roles. I got my Computer Science Postgraduate Diploma from University of Birmingham three years ago in 2014 (Number one in Guardian UK University Ranking for Computer Science in 2014). I did machine learning, intelligent data analysis, data structures, software engineering, and other modules to name few. I re-entered into a MBBS Medicine course following that. I dropped out and entered into corporate sales in the City selling business intelligence to biotech/pharma. I did this to try and seek financial gains in the business world. I left the corporate sales job a few months ago due to lack of intellectual stimulation from cold-calling, badgering PA's and chasing arbitrary KPI's on the sales floor. Currently I do not have commercial programming experience however I have been writing a C++ game in Unreal Game engine applying my postgraduate compsci background. I am comfortable with C++ concepts, OPP, memory management, UML, refactoring, shell scripting, GNU/Linux, data structures, databases, subversion, software engineering, data analysis and machine learning. I use a variety of IDE's: in Windows VisualStudio, in OSX Eclipse, and in Linux Codelite. Business Development Manager GBI Research - London - October 2016 to November 2016 Global Biotech - Pharma Collaboration Consultant AMPP Group - London - August 2016 to September 2016 International B2B SaaS Corporate Sales Student Doctor NHS England - London - September 2013 to September 2016 Medicine & Surgery
+</Objective>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>C++ Developer</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Postgraduate Computer Scientist from a Redbrick University</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>London</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>I'm Akshay C Khanna a Postgraduate Computer Scientist from a Redbrick University, have two university degrees, a C++ developer, former clinical medical student and all-round versatile and intellectual individual.
+</Description>
+<StartDate>
+<AnyDate>2013-09-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Bart's & The London School of Medicine & Dentistry</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>MBBS</DegreeName>
+<DegreeDate>
+<AnyDate>2017-09-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Medicine</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2008-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-09-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Birmingham</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>Birmingham</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2014-09-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>PGDip in Computer Science</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2013-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-09-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Queen Mary's University of London</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>London</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>A-Levels</DegreeName>
+<DegreeDate>
+<AnyDate>2012-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Health Sciences BMedSci</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2011-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-06-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Solihull School</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>Solihull</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>GCSE</DegreeName>
+<DegreeDate>
+<AnyDate>2008-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>A, Economics</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>Driving License</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>GROUPS</Name>
+<EffectiveDate>
+<ValidFrom>
+<AnyDate>2007-01-01</AnyDate>
+</ValidFrom>
+</EffectiveDate>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>University of London Fencing Club</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>Vice-President</Name>
+<EffectiveDate>
+<ValidFrom>
+<AnyDate>2015-01-01</AnyDate>
+</ValidFrom>
+<ValidTo>
+<AnyDate>2016-01-01</AnyDate>
+</ValidTo>
+</EffectiveDate>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>Novice Captain</Name>
+<EffectiveDate>
+<ValidFrom>
+<AnyDate>2015-01-01</AnyDate>
+</ValidFrom>
+<ValidTo>
+<AnyDate>2016-01-01</AnyDate>
+</ValidTo>
+</EffectiveDate>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>Sabreur</Name>
+<EffectiveDate>
+</EffectiveDate>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>University of Birmingham Debating Society</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>Inter-varsity debater</Name>
+<EffectiveDate>
+<ValidFrom>
+<AnyDate>2013-01-01</AnyDate>
+</ValidFrom>
+<ValidTo>
+<AnyDate>2014-01-01</AnyDate>
+</ValidTo>
+</EffectiveDate>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>UKDC Novice Finals</Name>
+<EffectiveDate>
+<ValidTo>
+<AnyDate>2013-01-01</AnyDate>
+</ValidTo>
+</EffectiveDate>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>Bart's & The London Medical School Language and Culture Society</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>Treasurer</Name>
+<EffectiveDate>
+<ValidFrom>
+<AnyDate>2015-01-01</AnyDate>
+</ValidFrom>
+<ValidTo>
+<AnyDate>2016-01-01</AnyDate>
+</ValidTo>
+</EffectiveDate>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="C Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4317" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HTTPs">
+<CompetencyId description="HireAbility taxonomy" id="168" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HTTPs">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux">
+<CompetencyId description="HireAbility taxonomy" id="218" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Medical">
+<CompetencyId description="HireAbility taxonomy" id="8054" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Medical" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Structured Query Language">
+<CompetencyId description="HireAbility taxonomy" id="4806" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Structured Query Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2008-01-01</StringDate></Date>
+<Description>Duke of Edinburgh Gold Award</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-01-01</StringDate></Date>
+<Description>Duke of Edinburgh Silver Award</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-01-01</StringDate></Date>
+<Description>Duke of Edinburgh Bronze Award</Description>
+</Achievement>
+</Achievements>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QWtzaGF5IEtoYW5uYQoKTG9uZG9uIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQWtzaGF5LUtoYW5uYS9iYTdmNTg5YzZlODc4Mzk2CgpXT1JLIEVYUEVSSUVOQ0UKCkMrKyBEZXZlbG9wZXIKCi0gLSBMb25kb24gLSBTZXB0ZW1iZXIgMjAxMyB0byBQcmVzZW50CgpJJ20gQWtzaGF5IEMgS2hhbm5hLCBhIFBvc3RncmFkdWF0ZSBDb21wdXRlciBTY2llbnRpc3QgZnJvbSBhIFJlZGJyaWNrIFVuaXZlcnNpdHksIGhhdmUgdHdvIHVuaXZlcnNpdHkKCmRlZ3JlZXMsIGEgQysrIGRldmVsb3BlciwgZm9ybWVyIGNsaW5pY2FsIG1lZGljYWwgc3R1ZGVudCBhbmQgYWxsLXJvdW5kIHZlcnNhdGlsZSBhbmQgaW50ZWxsZWN0dWFsIGluZGl2aWR1YWwuCgpJIGFtIHNlZWtpbmcgYSBqdW5pb3IgQysrIGRldmVsb3BlciByb2xlLgoKSSBoYXZlIHRvcCBncmFkZXMgaW4gbXkgQS1MZXZlbHMgaW4gQ2hlbWlzdHJ5LCBCaW9sb2d5ICYgRWNvbm9taWNzLiBJIGFtIGdlbmVyYWxseSBhbiBpbnRlbGxlY3R1YWxseSBjdXJpb3VzCgpwZXJzb24uIFRoaXMgaXMgcHJvdmVuIGFuZCBzZWVuIGluIG15IHZhcmllZ2F0ZWQgcm9sZXMgaW4gd29ya2luZyBsaWZlIGFuZCBzdHVkZW50IGxpZmUuIEkgaGF2ZSBiZWVuIGEgZm9ybWVyCgptZWRpY2FsIHN0dWRlbnQsIHBvc3RncmFkdWF0ZSBjb21wdXRlciBzY2llbnRpc3QgYW5kIGZvcm1lciBjb3Jwb3JhdGUgc2FsZXNtYW4uIE9iamVjdGl2ZWx5IEkgYW0gdGhlcmVmb3JlCgpnZW5lcmFsbHkgcXVpdGUgYSBzbWFydCBwZXJzb24gYW5kIGFtIGV4Y2VwdGlvbmFsbHkgdmVyc2F0aWxlIGdpdmVuIGFsbCBteSByb2xlcy4KCkkgZ290IG15IENvbXB1dGVyIFNjaWVuY2UgUG9zdGdyYWR1YXRlIERpcGxvbWEgZnJvbSBVbml2ZXJzaXR5IG9mIEJpcm1pbmdoYW0gdGhyZWUgeWVhcnMgYWdvIGluIDIwMTQKCihOdW1iZXIgb25lIGluIEd1YXJkaWFuIFVLIFVuaXZlcnNpdHkgUmFua2luZyBmb3IgQ29tcHV0ZXIgU2NpZW5jZSBpbiAyMDE0KS4gSSBkaWQgbWFjaGluZSBsZWFybmluZywKCmludGVsbGlnZW50IGRhdGEgYW5hbHlzaXMsIGRhdGEgc3RydWN0dXJlcywgc29mdHdhcmUgZW5naW5lZXJpbmcsIGFuZCBvdGhlciBtb2R1bGVzIHRvIG5hbWUgZmV3LiBJIHJlLWVudGVyZWQKCmludG8gYSBNQkJTIE1lZGljaW5lIGNvdXJzZSBmb2xsb3dpbmcgdGhhdC4gSSBkcm9wcGVkIG91dCBhbmQgZW50ZXJlZCBpbnRvIGNvcnBvcmF0ZSBzYWxlcyBpbiB0aGUgQ2l0eSBzZWxsaW5nCgpidXNpbmVzcyBpbnRlbGxpZ2VuY2UgdG8gYmlvdGVjaC9waGFybWEuIEkgZGlkIHRoaXMgdG8gdHJ5IGFuZCBzZWVrIGZpbmFuY2lhbCBnYWlucyBpbiB0aGUgYnVzaW5lc3Mgd29ybGQuIEkgbGVmdAoKdGhlIGNvcnBvcmF0ZSBzYWxlcyBqb2IgYSBmZXcgbW9udGhzIGFnbyBkdWUgdG8gbGFjayBvZiBpbnRlbGxlY3R1YWwgc3RpbXVsYXRpb24gZnJvbSBjb2xkLWNhbGxpbmcsIGJhZGdlcmluZwoKUEEncyBhbmQgY2hhc2luZyBhcmJpdHJhcnkgS1BJJ3Mgb24gdGhlIHNhbGVzIGZsb29yLgoKQ3VycmVudGx5IEkgZG8gbm90IGhhdmUgY29tbWVyY2lhbCBwcm9ncmFtbWluZyBleHBlcmllbmNlIGhvd2V2ZXIgSSBoYXZlIGJlZW4gd3JpdGluZyBhIEMrKyBnYW1lIGluCgpVbnJlYWwgR2FtZSBlbmdpbmUgYXBwbHlpbmcgbXkgcG9zdGdyYWR1YXRlIGNvbXBzY2kgYmFja2dyb3VuZC4gSSBhbSBjb21mb3J0YWJsZSB3aXRoIEMrKyBjb25jZXB0cywKCk9QUCwgbWVtb3J5IG1hbmFnZW1lbnQsIFVNTCwgcmVmYWN0b3JpbmcsIHNoZWxsIHNjcmlwdGluZywgR05VL0xpbnV4LCBkYXRhIHN0cnVjdHVyZXMsIGRhdGFiYXNlcywKCnN1YnZlcnNpb24sIHNvZnR3YXJlIGVuZ2luZWVyaW5nLCBkYXRhIGFuYWx5c2lzIGFuZCBtYWNoaW5lIGxlYXJuaW5nLiBJIHVzZSBhIHZhcmlldHkgb2YgSURFJ3M6IGluIFdpbmRvd3MKClZpc3VhbFN0dWRpbywgaW4gT1NYIEVjbGlwc2UsIGFuZCBpbiBMaW51eCBDb2RlbGl0ZS4KCkJ1c2luZXNzIERldmVsb3BtZW50IE1hbmFnZXIKCkdCSSBSZXNlYXJjaCAtIExvbmRvbiAtIE9jdG9iZXIgMjAxNiB0byBOb3ZlbWJlciAyMDE2CgpHbG9iYWwgQmlvdGVjaC1QaGFybWEgQ29sbGFib3JhdGlvbgoKQ29uc3VsdGFudAoKQU1QUCBHcm91cCAtIExvbmRvbiAtIEF1Z3VzdCAyMDE2IHRvIFNlcHRlbWJlciAyMDE2CgpJbnRlcm5hdGlvbmFsIEIyQiBTYWFTIENvcnBvcmF0ZSBTYWxlcwoKU3R1ZGVudCBEb2N0b3IKCk5IUyBFbmdsYW5kIC0gTG9uZG9uIC0gU2VwdGVtYmVyIDIwMTMgdG8gU2VwdGVtYmVyIDIwMTYKCk1lZGljaW5lICYgU3VyZ2VyeQoKRURVQ0FUSU9OCgpNQkJTIGluIE1lZGljaW5lCgpCYXJ0J3MgJiBUaGUgTG9uZG9uIFNjaG9vbCBvZiBNZWRpY2luZSAmIERlbnRpc3RyeQoKU2VwdGVtYmVyIDIwMDggdG8gU2VwdGVtYmVyIDIwMTcKClBHRGlwIGluIENvbXB1dGVyIFNjaWVuY2UKClVuaXZlcnNpdHkgb2YgQmlybWluZ2hhbSAtIEJpcm1pbmdoYW0KClNlcHRlbWJlciAyMDEzIHRvIFNlcHRlbWJlciAyMDE0CgpIZWFsdGggU2NpZW5jZXMgQk1lZFNjaQoKUXVlZW4gTWFyeSdzIFVuaXZlcnNpdHkgb2YgTG9uZG9uIC0gTG9uZG9uCgpTZXB0ZW1iZXIgMjAxMSB0byBKdW5lIDIwMTIKCkEtTGV2ZWxzIGluIENoZW1pc3RyeSAoQSksIEJpb2xvZ3kgKEEpLCBFY29ub21pY3MgKEIpCgpTb2xpaHVsbCBTY2hvb2wgLSBTb2xpaHVsbAoKMjAwNyB0byAyMDA4CgpHQ1NFIGluIENoZW1pc3RyeQoKU29saWh1bGwgU2Nob29sCgpTZXB0ZW1iZXIgMjAwNiB0byBKdW5lIDIwMDcKClNLSUxMUwoKSmF2YSAoMyB5ZWFycyksIFNxbCAoMyB5ZWFycyksIEMrKyAoNCB5ZWFycyksIExpbnV4ICg0IHllYXJzKQoKTElOS1MKCmh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9ha3NoYXktYy1raGFubmEvCgpBV0FSRFMKCkR1a2Ugb2YgRWRpbmJ1cmdoIEdvbGQgQXdhcmQKCjIwMDgKCkR1a2Ugb2YgRWRpbmJ1cmdoIFNpbHZlciBBd2FyZAoKMjAwNwoKRHVrZSBvZiBFZGluYnVyZ2ggQnJvbnplIEF3YXJkCgoyMDA2CgpDRVJUSUZJQ0FUSU9OUy9MSUNFTlNFUwoKRHJpdmluZyBMaWNlbnNlCgoyMDA3IHRvIFByZXNlbnQKCkdST1VQUwoKVW5pdmVyc2l0eSBvZiBMb25kb24gRmVuY2luZyBDbHViCgoyMDE1IHRvIFByZXNlbnQKClZpY2UtUHJlc2lkZW50ICgyMDE1LTIwMTYpCgpOb3ZpY2UgQ2FwdGFpbiAoMjAxNS0yMDE2KQoKU2FicmV1ciAoUHJlc2VudCkKClVuaXZlcnNpdHkgb2YgQmlybWluZ2hhbSBEZWJhdGluZyBTb2NpZXR5CgoyMDEzIHRvIDIwMTQKCkludGVyLXZhcnNpdHkgZGViYXRlciAoMjAxMy0yMDE0KQoKVUtEQyBOb3ZpY2UgRmluYWxzICgyMDEzKQoKQmFydCdzICYgVGhlIExvbmRvbiBNZWRpY2FsIFNjaG9vbCBMYW5ndWFnZSBhbmQgQ3VsdHVyZSBTb2NpZXR5CgoyMDE1IHRvIDIwMTYKClRyZWFzdXJlciAoMjAxNS0yMDE2KQ==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915402465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

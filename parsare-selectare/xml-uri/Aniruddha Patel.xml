@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2915225401532"  usageLimitType="allocation" usageLimit="100" currentUsage="77" remainingUsage="23" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Aniruddha Patel</FormattedName>
+<GivenName>Aniruddha</GivenName>
+<FamilyName>Patel</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Aniruddha-Patel/bde5b28d58516766</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>TechSmith Solutions Private Limited - Ahmedabad</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Software Engineer (Intern)</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2016-08-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Gujarat</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Ahmedabad Gujarat India</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Developed software for Medical Instrument (Hematology Analyzer, Electrolyte Analyzer and Coagulation Analyzer) interfacing with Hospital Management System (LIMS) using C, C++, RS232, MySQL, ASTM 1381
+</Description>
+<StartDate>
+<AnyDate>2016-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType>Intern</JobType>
+<PositionHistory>
+<Title>Academic Internship</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Institute for Plasma Research, Department of Atomic Energy, Government of India - Gujarat, IN -
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Gov. of India</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>IN</CountryCode>
+<Region>Gujarat</Region>
+<Municipality>Gandhinagar</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Designed and redeveloped circuit/controller for the Bayard- Alpert ionization gauge used for vacuum measurement. Previous Bayard - Alpert gauge controller was 25 years old and obsolete in market, hence it was needed to re-design and re-develop such controller with higher efficiency. (Languages: C, C++ Software Tools: OrCAD, Keil uVision Controller: AT89C52)
+</Description>
+<StartDate>
+<AnyDate>2015-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>San Diego State University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>San Diego</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>Master of Science</DegreeName>
+<DegreeDate>
+<AnyDate>2018-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Electrical Engineering</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2016-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2018-05-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Dharmsinh Desai University</SchoolName>
+</School>
+<PostalAddress>
+<Region>IN</Region>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Technology</DegreeName>
+<DegreeDate>
+<AnyDate>2016-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Electronics & Communication Engineering</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2012-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-05-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="ASTM">
+<CompetencyId description="HireAbility taxonomy" id="17330" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="ASTM" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4317" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C Programming Language" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hematology">
+<CompetencyId description="HireAbility taxonomy" id="8802" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hematology" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hypertext Transfer Protocol">
+<CompetencyId description="HireAbility taxonomy" id="4566" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hypertext Transfer Protocol">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Intel 8051 microprocessor">
+<CompetencyId description="HireAbility taxonomy" id="6250" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Intel 8051 microprocessor">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Intel 8086 microprocessor">
+<CompetencyId description="HireAbility taxonomy" id="4401" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Intel 8086 microprocessor">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Matlab">
+<CompetencyId description="HireAbility taxonomy" id="9462" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Matlab">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="MySQL Database">
+<CompetencyId description="HireAbility taxonomy" id="6401" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="MySQL Database" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Protocol">
+<CompetencyId description="HireAbility taxonomy" id="338" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Protocol">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Python Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4521" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Python Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW5pcnVkZGhhIFBhdGVsCgpTb2Z0d2FyZSBFbmdpbmVlciAoSW50ZXJuKQoKU2FuIERpZWdvLCBDQSAtIEVtYWlsIG1lIG9uIEluZGVlZDogaW5kZWVkLmNvbS9yL0FuaXJ1ZGRoYS1QYXRlbC9iZGU1YjI4ZDU4NTE2NzY2CgpXaWxsaW5nIHRvIHJlbG9jYXRlOiBBbnl3aGVyZQoKQXV0aG9yaXplZCB0byB3b3JrIGluIHRoZSBVUyBmb3IgYW55IGVtcGxveWVyCgpXT1JLIEVYUEVSSUVOQ0UKClNvZnR3YXJlIEVuZ2luZWVyIChJbnRlcm4pCgpUZWNoU21pdGggU29sdXRpb25zIFByaXZhdGUgTGltaXRlZCAtIEFobWVkYWJhZCwgR3VqYXJhdCAtIE1heSAyMDE2IHRvIEF1Z3VzdCAyMDE2CgpBaG1lZGFiYWQsIEd1amFyYXQsIEluZGlhCgpEZXZlbG9wZWQgc29mdHdhcmUgZm9yIE1lZGljYWwgSW5zdHJ1bWVudCAoSGVtYXRvbG9neSBBbmFseXplciwgRWxlY3Ryb2x5dGUgQW5hbHl6ZXIgYW5kIENvYWd1bGF0aW9uCgpBbmFseXplcikKCmludGVyZmFjaW5nIHdpdGggSG9zcGl0YWwgTWFuYWdlbWVudCBTeXN0ZW0gKExJTVMpIHVzaW5nIEMsIEMrKywgUlMyMzIsIE15U1FMLCBBU1RNIDEzODEtMDIKCkFjYWRlbWljIEludGVybnNoaXAKCkluc3RpdHV0ZSBmb3IgUGxhc21hIFJlc2VhcmNoLCBEZXBhcnRtZW50IG9mIEF0b21pYyBFbmVyZ3ksIEdvdmVybm1lbnQgb2YgSW5kaWEgLSBHdWphcmF0LAoKSU4gLSBEZWNlbWJlciAyMDE1IHRvIEFwcmlsIDIwMTYKCkdvdi4gb2YgSW5kaWEsIEdhbmRoaW5hZ2FyLCBHdWphcmF0LCBJbmRpYQoKRGVzaWduZWQgYW5kIHJlZGV2ZWxvcGVkIGNpcmN1aXQvY29udHJvbGxlciBmb3IgdGhlIEJheWFyZC0gQWxwZXJ0IGlvbml6YXRpb24gZ2F1Z2UgdXNlZCBmb3IgdmFjdXVtCgptZWFzdXJlbWVudC4KClByZXZpb3VzIEJheWFyZCAtIEFscGVydCBnYXVnZSBjb250cm9sbGVyIHdhcyAyNSB5ZWFycyBvbGQgYW5kIG9ic29sZXRlIGluIG1hcmtldCwgaGVuY2UgaXQgd2FzIG5lZWRlZCB0bwoKcmUtZGVzaWduIGFuZCByZS1kZXZlbG9wIHN1Y2ggY29udHJvbGxlciB3aXRoIGhpZ2hlciBlZmZpY2llbmN5LgoKKExhbmd1YWdlczogQywgQysrOyBTb2Z0d2FyZSBUb29sczogT3JDQUQsIEtlaWwgdVZpc2lvbjsgQ29udHJvbGxlcjogQVQ4OUM1MikKCkVEVUNBVElPTgoKTWFzdGVyIG9mIFNjaWVuY2UgaW4gRWxlY3RyaWNhbCBFbmdpbmVlcmluZwoKU2FuIERpZWdvIFN0YXRlIFVuaXZlcnNpdHkgLSBTYW4gRGllZ28sIENBCgpBdWd1c3QgMjAxNiB0byBNYXkgMjAxOAoKQmFjaGVsb3Igb2YgVGVjaG5vbG9neSBpbiBFbGVjdHJvbmljcyAmIENvbW11bmljYXRpb24gRW5naW5lZXJpbmcKCkRoYXJtc2luaCBEZXNhaSBVbml2ZXJzaXR5IC0gR3VqYXJhdCwgSU4KCkp1bHkgMjAxMiB0byBNYXkgMjAxNgoKU0tJTExTCgpDICgxIHllYXIpLCBDKysgKExlc3MgdGhhbiAxIHllYXIpLCBQeXRob24gKExlc3MgdGhhbiAxIHllYXIpLCBBc3NlbWJseSAoTGVzcyB0aGFuIDEgeWVhcikKCkxJTktTCgpodHRwOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9hbmlydWRkaGEtcGF0ZWwKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KClNraWxscwoKUHJvZ3JhbW1pbmcgTGFuZ3VhZ2VzOiBDLCBDKyssIFB5dGhvbiwgQXNzZW1ibHkKClNvZnR3YXJlOiBNQVRMQUIsIEtlaWwgdVZpc2lvbiwgQ29kZWJsb2NrLCBPckNBRCwgUHJvdGV1cwoKRGV2ZWxvcG1lbnQgQm9hcmRzOiBBcmR1aW5vLCBSYXNwYmVycnkgUGkKCk1pY3JvY29udHJvbGxlci9Qcm9jZXNzb3I6IDgwNTEsIDgwODYsIEFSTTdURE1JCgpDb21tdW5pY2F0aW9uIFByb3RvY29sOiBBU1RNIFsgXSAoVXNlZCBpbiBDbGluaWNhbCBkYXRhIHRyYW5zZmVyKSwgU1BJLCBJMkMsIFVTQVJUCgpQbGF0Zm9ybTogUHJlZGl4IChHZW5lcmFsIEVsZWN0cmljKSAoQXMgYSBwYXJ0IG9mIEdFIENhbGlmb3JuaWEgU3RhdGUgVW5pdmVyc2l0eSBDaGFsbGVuZ2Up</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915225401532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

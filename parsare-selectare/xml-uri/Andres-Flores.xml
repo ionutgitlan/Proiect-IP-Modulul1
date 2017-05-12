@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2912165465432"  usageLimitType="allocation" usageLimit="100" currentUsage="41" remainingUsage="59" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Andres-Flores</FormattedName>
+<GivenName>Andres</GivenName>
+<FamilyName>Flores</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>AU</CountryCode>
+<Region>WA</Region>
+<Municipality>Bellevue</Municipality>
+<DeliveryAddress>
+<AddressLine>2015 până la Prezent</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Andres-Flores/df7fdc2e03e8651d</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Networkers</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>WA</Region>
+<Municipality>Bellevue</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>septembrie 2015 până la Prezent
+</Description>
+<StartDate><AnyDate>notKnown</AnyDate></StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Ericsson</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>WA</Region>
+<Municipality>Bellevue</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>as TIBCO Developer, on the integration of Ericsson Full stack solution with T-mobile. - Development of Tibco Web Services (SOAP), to join T-Mobile middleware layer, with Ericsson systems (around 9 different systems) - Played the role of web service integration layer specialist in charge of RCA for issues related to customer, orders, payments and purchase flows in QAT /DI environments - Collaborated with functional designers to create technical specifications out of user stories - Support for end to end testing interacting with all the involved teams (UI, Middleware, Backend) - Worked with Solution Owners and Architects to redefine processes when there was design or technical gaps between layers Agust2015 TIBCO Admin/Dev at IntraMart
+</Description>
+<StartDate>
+<AnyDate>2014-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>IntraMart</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>AZ</Region>
+<Municipality>Phoenix</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>aprilie până la aprilie 2014 US - Maintenance of GAL/GEH Listeners used for log/error management on BW interfaces - Implementation of RTView EM to monitor and measure performance of BW processes in order to shift from a 7/24 schema to a on call support, reducing the amount of resources needed from 5 to 2. - Support/Admin of 300+ TIBCO BW engines and 10+ servers, maintaining SLA's of 98% availability - Support/Admin of disaster recovery for Tibco servers. - Worked on a Proof of concept building interfaces from existing sources to Hadoop File system
+</Description>
+<StartDate>
+<AnyDate>2014-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Phoenix AZ</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>până la martie 2014 US Working for Petsmart Inc. as TIBCO Developer/Admin, leading the TIBCO effort in multidiscipline teams. - Development and design of Tibco Business Connect Interfaces transforming data from EDI to IDOC formats. - Integration using SAP adapters (R3 Adapters), Web Services (SOAP/JSON) and JDBC (MS SQL and Oracle). - Development of libraries to manage files between TIBCO BW and Informatica B2B. - Integration of IBM Initiate Customer data store and JANRAIN using REST Services (JSON). - Development of interfaces between Petsmart and GSI (Ebay) to enable capabilities of the new e-commerce platform, - Worked as developer on the integration of Cybergrants (payment platform) to SAP using Tibco business works - Design, development and execution of test cases to measure the throughput of interfaces connecting to remote locations Participated on the design of development guide lines as well on the redefinition of the team structure - Experience on Defining, Executing and validating Test cases, for unit and component testing using HP Quality Center to report, track issues. Consultant at OptaSmart
+</Description>
+<StartDate>
+<AnyDate>2012-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>HEB</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>TIBCO Technical leader</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Optasmart - Monterrey MX - ianuarie 2010 până la februarie Monterrey  2012 Mexico</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>mainly in process integration between an ERP and all the other applications. - Development of 50+ BW processes using TIBCO Designer 5.6 to deliver and transform information from Oracle to MS SQL using ADB adapters and EMS as bus. - Design and development of a monitoring process (50+) using TIBCO Hawk to integrate BW processes with Control M - Management and tuning of BW processes - TIBCO Upgrades to BW 5.6 - Redesign of processes to operate in real time instead of batch. - Optimization in TIBCO BW processes to manage high loads of information. - 2nd level Support during the implementation of the ERP (PMM of JDA) - Support to other processes like Digital Invoice or Pharmacy online pricing (Web services using SOAP and security certificates) Linux Engineer
+</Description>
+<StartDate>
+<AnyDate>2012-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Owner of the monthly integration</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>WIPRO - Monterrey MX - iulie 2008 până la septembrie Monterrey  2009 Mexico</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>in charge to deliver a consolidated package that included baseband software and the Linux kernel of smart phones that used the OMAP 3630 chipset.
+</Description>
+<StartDate>
+<AnyDate>2008-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>WIPRO</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>WinCe Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Dallas TX</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>până la iulie 2008 US System Integrator and Bug Fixing in Application layer of windows mobile 6.1 for embedded devices. Maintenance Engineer
+</Description>
+<StartDate>
+<AnyDate>2008-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Job</EmployerOrgName>
+<JobType>Intern</JobType>
+<PositionHistory>
+<Title>Physical layer Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>WIPRO - Monterrey MX - iunie 2007 până la  mai 2008 Monterrey Mexico / Bangalore India / Nice France</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>software maintenance working with low cost GSM/GPRS cell phones Intern
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>CEMEX</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Monterrey</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>MX - iunie până la iunie 2006 Monterrey MX Worked as .Net developer.
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>Tibco Businessworks Certified Profesional</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>octombrie</Name>
+<EffectiveDate>
+<ValidTo>
+<AnyDate>2013-01-01</AnyDate>
+</ValidTo>
+</EffectiveDate>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>până la Prezent</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>Certified on Tibco BW 5.X</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="C Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4317" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Chipset">
+<CompetencyId description="HireAbility taxonomy" id="16314" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Chipset">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Clearcase">
+<CompetencyId description="HireAbility taxonomy" id="78" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Clearcase">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Control M (Scheduling Pkg)">
+<CompetencyId description="HireAbility taxonomy" id="1876" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Control M (Scheduling Pkg)">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Disaster Recovery">
+<CompetencyId description="HireAbility taxonomy" id="5960" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Disaster Recovery" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="e-Commerce">
+<CompetencyId description="HireAbility taxonomy" id="126" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="e-Commerce" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="EDI">
+<CompetencyId description="HireAbility taxonomy" id="19019" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="EDI" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Electronic Data Interchange">
+<CompetencyId description="HireAbility taxonomy" id="5964" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Electronic Data Interchange" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Error Management">
+<CompetencyId description="HireAbility taxonomy" id="12433" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Error Management" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Extensible Markup Language (XML)">
+<CompetencyId description="HireAbility taxonomy" id="5969" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Extensible Markup Language (XML)">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Global System for Mobile Communications (GSM)">
+<CompetencyId description="HireAbility taxonomy" id="6006" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Global System for Mobile Communications (GSM)">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HP">
+<CompetencyId description="HireAbility taxonomy" id="161" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HP" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HTTPs">
+<CompetencyId description="HireAbility taxonomy" id="168" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HTTPs">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="IBM">
+<CompetencyId description="HireAbility taxonomy" id="177" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="IBM" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="IDoc (Intermediate Document)">
+<CompetencyId description="HireAbility taxonomy" id="6233" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="IDoc (Intermediate Document)" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Informatica">
+<CompetencyId description="HireAbility taxonomy" id="1979" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Informatica" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Integrate">
+<CompetencyId description="HireAbility taxonomy" id="4712" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Integrate">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Server Pages">
+<CompetencyId description="HireAbility taxonomy" id="203" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Server Pages">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="JDBC">
+<CompetencyId description="HireAbility taxonomy" id="205" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="JDBC" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux">
+<CompetencyId description="HireAbility taxonomy" id="218" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux Kernel">
+<CompetencyId description="HireAbility taxonomy" id="6837" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux Kernel">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft .Net">
+<CompetencyId description="HireAbility taxonomy" id="5208" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft .Net" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows" lastUsed="2008-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Middleware">
+<CompetencyId description="HireAbility taxonomy" id="2055" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Middleware">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Monitoring">
+<CompetencyId description="HireAbility taxonomy" id="17822" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Monitoring">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Operating System Kernel">
+<CompetencyId description="HireAbility taxonomy" id="6846" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Operating System Kernel">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle">
+<CompetencyId description="HireAbility taxonomy" id="305" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Pricing">
+<CompetencyId description="HireAbility taxonomy" id="8469" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Pricing">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="R3">
+<CompetencyId description="HireAbility taxonomy" id="13255" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="R3" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Rational ClearQuest">
+<CompetencyId description="HireAbility taxonomy" id="6506" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Rational ClearQuest">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="SAP">
+<CompetencyId description="HireAbility taxonomy" id="364" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="SAP" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="SAP BW module">
+<CompetencyId description="HireAbility taxonomy" id="4525" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="SAP BW module">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Security">
+<CompetencyId description="HireAbility taxonomy" id="7096" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Security">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Structured Query Language">
+<CompetencyId description="HireAbility taxonomy" id="4806" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Structured Query Language" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="SVN">
+<CompetencyId description="HireAbility taxonomy" id="18277" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="SVN">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test">
+<CompetencyId description="HireAbility taxonomy" id="4723" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test Cases">
+<CompetencyId description="HireAbility taxonomy" id="13557" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test Cases" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="TIBCO">
+<CompetencyId description="HireAbility taxonomy" id="6994" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="TIBCO">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="TIBCO BusinessWorks">
+<CompetencyId description="HireAbility taxonomy" id="7002" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="TIBCO BusinessWorks">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="TIBCO Hawk">
+<CompetencyId description="HireAbility taxonomy" id="7005" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="TIBCO Hawk">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="TIBCO RTView">
+<CompetencyId description="HireAbility taxonomy" id="19308" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="TIBCO RTView" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Version Control">
+<CompetencyId description="HireAbility taxonomy" id="5295" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Version Control">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Visual Source Safe">
+<CompetencyId description="HireAbility taxonomy" id="5298" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Visual Source Safe">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="XHTML">
+<CompetencyId description="HireAbility taxonomy" id="5307" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="XHTML">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW5kcmVzIEZsb3JlcwoKRGV2ZWxvcGVyIC0gVElCQ08KCkF1c3RpbiwgVFggLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9BbmRyZXMtRmxvcmVzL2RmN2ZkYzJlMDNlODY1MWQKCldPUksgRVhQRVJJRU5DRQoKRGV2ZWxvcGVyCgpOZXR3b3JrZXJzIC0gUGxhbm8sIFRYIC0gc2VwdGVtYnJpZSAyMDE1IHDDom7EgyBsYSBQcmV6ZW50CgpCZWxsZXZ1ZSBXQQoKV29ya2luZyBmb3IgRXJpY3Nzb24gYXMgVElCQ08gRGV2ZWxvcGVyLCBvbiB0aGUgaW50ZWdyYXRpb24gb2YgRXJpY3Nzb24gRnVsbCBzdGFjayBzb2x1dGlvbiB3aXRoIFQtbW9iaWxlLgoKLSBEZXZlbG9wbWVudCBvZiBUaWJjbyBXZWIgU2VydmljZXMgKFNPQVApLCB0byBqb2luIFQtTW9iaWxlIG1pZGRsZXdhcmUgbGF5ZXIsIHdpdGggRXJpY3Nzb24gc3lzdGVtcwoKKGFyb3VuZCA5IGRpZmZlcmVudCBzeXN0ZW1zKQoKLSBQbGF5ZWQgdGhlIHJvbGUgb2Ygd2ViIHNlcnZpY2UgaW50ZWdyYXRpb24gbGF5ZXIgc3BlY2lhbGlzdCBpbiBjaGFyZ2Ugb2YgUkNBIGZvciBpc3N1ZXMgcmVsYXRlZCB0byBjdXN0b21lciwKCm9yZGVycywgcGF5bWVudHMgYW5kIHB1cmNoYXNlIGZsb3dzIGluIFFBVCAvREkgZW52aXJvbm1lbnRzCgotIENvbGxhYm9yYXRlZCB3aXRoIGZ1bmN0aW9uYWwgZGVzaWduZXJzIHRvIGNyZWF0ZSB0ZWNobmljYWwgc3BlY2lmaWNhdGlvbnMgb3V0IG9mIHVzZXIgc3RvcmllcwoKLSBTdXBwb3J0IGZvciBlbmQgdG8gZW5kIHRlc3RpbmcgaW50ZXJhY3Rpbmcgd2l0aCBhbGwgdGhlIGludm9sdmVkIHRlYW1zIChVSSwgTWlkZGxld2FyZSwgQmFja2VuZCkKCi0gV29ya2VkIHdpdGggU29sdXRpb24gT3duZXJzIGFuZCBBcmNoaXRlY3RzIHRvIHJlZGVmaW5lIHByb2Nlc3NlcyB3aGVuIHRoZXJlIHdhcyBkZXNpZ24gb3IgdGVjaG5pY2FsIGdhcHMKCmJldHdlZW4gbGF5ZXJzCgpBZ3VzdDIwMTUgVElCQ08gQWRtaW4vRGV2IGF0IEludHJhTWFydAoKSW50cmFNYXJ0IC0gUGhvZW5peCwgQVogLSBhcHJpbGllIDIwMTQgcMOibsSDIGxhIGFwcmlsaWUgMjAxNAoKVVMKCi0gTWFpbnRlbmFuY2Ugb2YgR0FML0dFSCBMaXN0ZW5lcnMgdXNlZCBmb3IgbG9nL2Vycm9yIG1hbmFnZW1lbnQgb24gQlcgaW50ZXJmYWNlcwoKLSBJbXBsZW1lbnRhdGlvbiBvZiBSVFZpZXcgRU0gdG8gbW9uaXRvciBhbmQgbWVhc3VyZSBwZXJmb3JtYW5jZSBvZiBCVyBwcm9jZXNzZXMgaW4gb3JkZXIgdG8gc2hpZnQgZnJvbQoKYSA3LzI0IHNjaGVtYSB0byBhIG9uIGNhbGwgc3VwcG9ydCwgcmVkdWNpbmcgdGhlIGFtb3VudCBvZiByZXNvdXJjZXMgbmVlZGVkIGZyb20gNSB0byAyLgoKLSBTdXBwb3J0L0FkbWluIG9mIDMwMCsgVElCQ08gQlcgZW5naW5lcyBhbmQgMTArIHNlcnZlcnMsIG1haW50YWluaW5nIFNMQSdzIG9mIDk4JSBhdmFpbGFiaWxpdHkKCi0gU3VwcG9ydC9BZG1pbiBvZiBkaXNhc3RlciByZWNvdmVyeSBmb3IgVGliY28gc2VydmVycy4KCi0gV29ya2VkIG9uIGEgUHJvb2Ygb2YgY29uY2VwdCBidWlsZGluZyBpbnRlcmZhY2VzIGZyb20gZXhpc3Rpbmcgc291cmNlcyB0byBIYWRvb3AgRmlsZSBzeXN0ZW0KCkRldmVsb3BlcgoKSW50cmFNYXJ0IC0gUGhvZW5peCwgQVogLSBtYWkgMjAxMiBww6JuxIMgbGEgbWFydGllIDIwMTQKClVTCgpXb3JraW5nIGZvciBQZXRzbWFydCBJbmMuIGFzIFRJQkNPIERldmVsb3Blci9BZG1pbiwgbGVhZGluZyB0aGUgVElCQ08gZWZmb3J0IGluIG11bHRpZGlzY2lwbGluZSB0ZWFtcy4KCi0gRGV2ZWxvcG1lbnQgYW5kIGRlc2lnbiBvZiBUaWJjbyBCdXNpbmVzcyBDb25uZWN0IEludGVyZmFjZXMgdHJhbnNmb3JtaW5nIGRhdGEgZnJvbSBFREkgdG8gSURPQyBmb3JtYXRzLgoKLSBJbnRlZ3JhdGlvbiB1c2luZyBTQVAgYWRhcHRlcnMoUjMgQWRhcHRlcnMpLCBXZWIgU2VydmljZXMgKFNPQVAvSlNPTikgYW5kIEpEQkMgKE1TIFNRTCBhbmQgT3JhY2xlKS4KCi0gRGV2ZWxvcG1lbnQgb2YgbGlicmFyaWVzIHRvIG1hbmFnZSBmaWxlcyBiZXR3ZWVuIFRJQkNPIEJXIGFuZCBJbmZvcm1hdGljYSBCMkIuCgotIEludGVncmF0aW9uIG9mIElCTSBJbml0aWF0ZSBDdXN0b21lciBkYXRhIHN0b3JlIGFuZCBKQU5SQUlOIHVzaW5nIFJFU1QgU2VydmljZXMoSlNPTikuCgotIERldmVsb3BtZW50IG9mIGludGVyZmFjZXMgYmV0d2VlbiBQZXRzbWFydCBhbmQgR1NJIChFYmF5KSB0byBlbmFibGUgY2FwYWJpbGl0aWVzIG9mIHRoZSBuZXcgZS1jb21tZXJjZQoKcGxhdGZvcm0sCgotIFdvcmtlZCBhcyBkZXZlbG9wZXIgb24gdGhlIGludGVncmF0aW9uIG9mIEN5YmVyZ3JhbnRzKHBheW1lbnQgcGxhdGZvcm0pIHRvIFNBUCB1c2luZyBUaWJjbyBidXNpbmVzcyB3b3JrcwoKLSBEZXNpZ24sIGRldmVsb3BtZW50IGFuZCBleGVjdXRpb24gb2YgdGVzdCBjYXNlcyB0byBtZWFzdXJlIHRoZSB0aHJvdWdocHV0IG9mIGludGVyZmFjZXMgY29ubmVjdGluZyB0bwoKcmVtb3RlIGxvY2F0aW9ucyBQYXJ0aWNpcGF0ZWQgb24gdGhlIGRlc2lnbiBvZiBkZXZlbG9wbWVudCBndWlkZSBsaW5lcyBhcyB3ZWxsIG9uIHRoZSByZWRlZmluaXRpb24gb2YgdGhlIHRlYW0KCnN0cnVjdHVyZQoKLSBFeHBlcmllbmNlIG9uIERlZmluaW5nLCBFeGVjdXRpbmcgYW5kIHZhbGlkYXRpbmcgVGVzdCBjYXNlcywgZm9yIHVuaXQgYW5kIGNvbXBvbmVudCB0ZXN0aW5nIHVzaW5nIEhQIFF1YWxpdHkKCkNlbnRlciB0byByZXBvcnQsIHRyYWNrIGlzc3Vlcy4KCkNvbnN1bHRhbnQgYXQgT3B0YVNtYXJ0CgpPcHRhc21hcnQgLSBNb250ZXJyZXksIE1YIC0gaWFudWFyaWUgMjAxMCBww6JuxIMgbGEgZmVicnVhcmllIDIwMTIKCk1vbnRlcnJleSBNZXhpY28KCldvcmtpbmcgZm9yIEhFQiBhcyBhIFRJQkNPIFRlY2huaWNhbCBsZWFkZXIsIG1haW5seSBpbiBwcm9jZXNzIGludGVncmF0aW9uIGJldHdlZW4gYW4gRVJQIGFuZCBhbGwgdGhlCgpvdGhlciBhcHBsaWNhdGlvbnMuCgotIERldmVsb3BtZW50IG9mIDUwKyBCVyBwcm9jZXNzZXMgdXNpbmcgVElCQ08gRGVzaWduZXIgNS42IHRvIGRlbGl2ZXIgYW5kIHRyYW5zZm9ybSBpbmZvcm1hdGlvbiBmcm9tCgpPcmFjbGUgdG8gTVMgU1FMIHVzaW5nIEFEQiBhZGFwdGVycyBhbmQgRU1TIGFzIGJ1cy4KCi0gRGVzaWduIGFuZCBkZXZlbG9wbWVudCBvZiBhIG1vbml0b3JpbmcgcHJvY2Vzcyg1MCspIHVzaW5nIFRJQkNPIEhhd2sgdG8gaW50ZWdyYXRlIEJXIHByb2Nlc3NlcyB3aXRoCgpDb250cm9sIE0KCi0gTWFuYWdlbWVudCBhbmQgdHVuaW5nIG9mIEJXIHByb2Nlc3NlcwoKLSBUSUJDTyBVcGdyYWRlcyB0byBCVyA1LjYKCi0gUmVkZXNpZ24gb2YgcHJvY2Vzc2VzIHRvIG9wZXJhdGUgaW4gcmVhbCB0aW1lIGluc3RlYWQgb2YgYmF0Y2guCgotIE9wdGltaXphdGlvbiBpbiBUSUJDTyBCVyBwcm9jZXNzZXMgdG8gbWFuYWdlIGhpZ2ggbG9hZHMgb2YgaW5mb3JtYXRpb24uCgotIDJuZCBsZXZlbCBTdXBwb3J0IGR1cmluZyB0aGUgaW1wbGVtZW50YXRpb24gb2YgdGhlIEVSUChQTU0gb2YgSkRBKQoKLSBTdXBwb3J0IHRvIG90aGVyIHByb2Nlc3NlcyBsaWtlIERpZ2l0YWwgSW52b2ljZSBvciBQaGFybWFjeSBvbmxpbmUgcHJpY2luZyAoV2ViIHNlcnZpY2VzIHVzaW5nIFNPQVAgYW5kCgpzZWN1cml0eSBjZXJ0aWZpY2F0ZXMpCgpMaW51eCBFbmdpbmVlcgoKV0lQUk8gLSBNb250ZXJyZXksIE1YIC0gaXVsaWUgMjAwOCBww6JuxIMgbGEgc2VwdGVtYnJpZSAyMDA5CgpNb250ZXJyZXkgTWV4aWNvLgoKT3duZXIgb2YgdGhlIG1vbnRobHkgaW50ZWdyYXRpb24sIGluIGNoYXJnZSB0byBkZWxpdmVyIGEgY29uc29saWRhdGVkIHBhY2thZ2UgdGhhdCBpbmNsdWRlZCBiYXNlYmFuZCBzb2Z0d2FyZQoKYW5kIHRoZSBMaW51eCBrZXJuZWwgb2Ygc21hcnQgcGhvbmVzIHRoYXQgdXNlZCB0aGUgT01BUCAzNjMwIGNoaXBzZXQuCgpXaW5DZSBFbmdpbmVlcgoKV0lQUk8gLSBEYWxsYXMsIFRYIC0gbWFpIDIwMDggcMOibsSDIGxhIGl1bGllIDIwMDgKClVTCgpTeXN0ZW0gSW50ZWdyYXRvciBhbmQgQnVnIEZpeGluZyBpbiBBcHBsaWNhdGlvbiBsYXllciBvZiB3aW5kb3dzIG1vYmlsZSA2LjEgZm9yIGVtYmVkZGVkIGRldmljZXMuCgpNYWludGVuYW5jZSBFbmdpbmVlcgoKV0lQUk8gLSBNb250ZXJyZXksIE1YIC0gaXVuaWUgMjAwNyBww6JuxIMgbGEgbWFpIDIwMDgKCk1vbnRlcnJleSBNZXhpY28gLyBCYW5nYWxvcmUgSW5kaWEgLyBOaWNlIEZyYW5jZQoKSm9iIGFzIGEgUGh5c2ljYWwgbGF5ZXIgRW5naW5lZXIgZm9yIHNvZnR3YXJlIG1haW50ZW5hbmNlIHdvcmtpbmcgd2l0aCBsb3cgY29zdCBHU00vR1BSUyBjZWxsIHBob25lcwoKSW50ZXJuCgpDRU1FWCAtIE1vbnRlcnJleSwgTVggLSBpdW5pZSAyMDA1IHDDom7EgyBsYSBpdW5pZSAyMDA2CgpNb250ZXJyZXkgTVgKCldvcmtlZCBhcyAuTmV0IGRldmVsb3Blci4KClNLSUxMUwoKT1JBQ0xFICg0IHllYXJzKSwgU1FMICg0IHllYXJzKSwgU0FQICgxIHllYXIpLCBDKysgKExlc3MgdGhhbiAxIHllYXIpLCBDTEVBUiBDQVNFIChMZXNzIHRoYW4gMSB5ZWFyKQoKTElOS1MKCmh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9hbmRyZXNhbGFuaXMKCkNFUlRJRklDQVRJT05TL0xJQ0VOU0VTCgpUaWJjbyBCdXNpbmVzc3dvcmtzIENlcnRpZmllZCBQcm9mZXNpb25hbAoKb2N0b21icmllIDIwMTMgcMOibsSDIGxhIFByZXplbnQKCkNlcnRpZmllZCBvbiBUaWJjbyBCVyA1LlgKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KClRlY2huaWNhbCBTa2lsbHMKCiogVElCQ08gdG9vbHM6IEJ1c2luZXNzIFdvcmtzIDUuMTAsIEVNUyA3LjAuMSwgRGVzaWduZXIgNS43LCBIYXdrLCBCdXNpbmVzcyBDb25uZWN0LCBBREIgQWRhcHRlcnMgNi4yLjEsCgpTQVAgQWRhcHRlcnMgNi4zLgoKKiBNb25pdG9yaW5nIHRvb2xzOiBwZXJmaWNpZW50IEdFSCwgR0FMIGFuZCBSVFZpZXcKCiogTGFuZ3VhZ2VzOiBKc3AsIGphdmEsIHhodG1sLCBDKyssIEMKCiogREJTOiBPcmFjbGUsIE1TIFNxbAoKKiBWZXJzaW9uIENvbnRyb2w6IENsZWFyIENhc2UgLyBDbGVhciBRdWVzdCwgWE1MIENhbm5vbiwgVmlzdWFsIFNvdXJjZSBTYWZlLCBTVk4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912165465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

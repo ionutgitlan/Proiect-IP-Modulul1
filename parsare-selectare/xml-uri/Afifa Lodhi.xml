@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2914211465432"  usageLimitType="allocation" usageLimit="100" currentUsage="23" remainingUsage="77" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Afifa Lodhi</FormattedName>
+<GivenName>Afifa</GivenName>
+<FamilyName>Lodhi</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Afifa-Lodhi/207d8638db229f6e</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>King Faisal University Al-Ahsa</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Lecturer Computer Science</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Saudi Arabia Whilst working as a lecturer my role consisted of the following: * To contribute to taught programmes at all levels both within and beyond their particular specialism, * To undertake student support and assessment activities as appropriate. * Work with the team (and lead where possible) in the development of new modules, new programmes * Using innovative teaching and delivery methods. * Undertake original research in Computer Science, Information Systems or related disciplines * Prepare Research material for publication. * Participated in quality assurance activities as per universities requirements * To contribute to the international Computer Science community * To participate in departmental and faculty seminars aimed at sharing research outcomes * Refereeing and reviewing of project proposals and manuscripts. * Undertake the role of Personal Academic Tutor to a group of students * Contribute to the research environment of the Department, School and the University as appropriate. * Work flexibly as a member of the School undertaking routine additional tasks as necessary. * Contribute, appropriate to experience, to the broader work of the University.
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Mirpur University of Science & Technology</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Lecturer Computer Science</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Mirpur (A-K), Pakistan Whilst working as a lecturer my role consisted of the following * To teach at undergraduate and graduate level in areas allocated by the Head of Department and reviewed from time to time by the Head of Department. * To carry out research and produce publications, or other research outputs, * Work in line with personal objectives agreed in the Staff review process. * To engage with the broader scholarly and professional communities. * To contribute to the development, planning and implementation of a high quality curriculum. * To assist in the development of learning materials, preparing schemes of work and maintaining records * To monitor student progress, achievement and attendance. * To participate in departmental and faculty seminars aimed at sharing research outcomes * Interdisciplinary collaboration within and outside the department. * To participate in the development, administration and marking of exams and other assessments. I have taught the following courses to undergraduates: Software Engineering, Software Quality Assurance, Software Project Management, Software Design and Architecture, Database Systems, Operating Systems and Concepts, Object Oriented Programming using C+ +, Fundamentals of Programming, Web Design and Development using HTML/DHTML/JavaScript, Distributed
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Nottingham Trent University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Msc</DegreeName>
+<DegreeDate>
+<AnyDate>2017-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Computing System</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Iqra University Islamabad Campus</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>MSCS</DegreeName>
+<DegreeDate>
+<AnyDate>2010-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Computer Science</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Allama Iqbal Open University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.A</DegreeName>
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Education</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Azad Jammu & Kashmir University</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>Jammu</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Arts</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Assessments">
+<CompetencyId description="HireAbility taxonomy" id="8129" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Assessments" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Curriculum Development">
+<CompetencyId description="HireAbility taxonomy" id="17693" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Curriculum Development">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="DHTML">
+<CompetencyId description="HireAbility taxonomy" id="109" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="DHTML" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HyperText Markup Language">
+<CompetencyId description="HireAbility taxonomy" id="5174" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HyperText Markup Language" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Technology">
+<CompetencyId description="HireAbility taxonomy" id="10107" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Technology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Javascript">
+<CompetencyId description="HireAbility taxonomy" id="211" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Javascript" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Object Oriented Programming">
+<CompetencyId description="HireAbility taxonomy" id="7686" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Object Oriented Programming" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="OO">
+<CompetencyId description="HireAbility taxonomy" id="291" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="OO" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Operating Systems">
+<CompetencyId description="HireAbility taxonomy" id="9" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Operating Systems" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Programming">
+<CompetencyId description="HireAbility taxonomy" id="10" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Programming" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Management">
+<CompetencyId description="HireAbility taxonomy" id="337" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Management" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Publications">
+<CompetencyId description="HireAbility taxonomy" id="12" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Publications" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality Assurance">
+<CompetencyId description="HireAbility taxonomy" id="2163" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality Assurance" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Science">
+<CompetencyId description="HireAbility taxonomy" id="11108" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Science" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software Design">
+<CompetencyId description="HireAbility taxonomy" id="6744" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software Design" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software Quality Assurance">
+<CompetencyId description="HireAbility taxonomy" id="7746" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software Quality Assurance" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software Testing">
+<CompetencyId description="HireAbility taxonomy" id="6550" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software Testing" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test">
+<CompetencyId description="HireAbility taxonomy" id="4723" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QWZpZmEgTG9kaGkKClBldGVyYm9yb3VnaCAtIEVtYWlsIG1lIG9uIEluZGVlZDogaW5kZWVkLmNvbS9yL0FmaWZhLUxvZGhpLzIwN2Q4NjM4ZGIyMjlmNmUKCldPUksgRVhQRVJJRU5DRQoKTGVjdHVyZXIgQ29tcHV0ZXIgU2NpZW5jZQoKS2luZyBGYWlzYWwgVW5pdmVyc2l0eSBBbC1BaHNhIC0gMjAxMCB0byAyMDEyCgpTYXVkaSBBcmFiaWEKCldoaWxzdCB3b3JraW5nIGFzIGEgbGVjdHVyZXIgbXkgcm9sZSBjb25zaXN0ZWQgb2YgdGhlIGZvbGxvd2luZzoKCiogVG8gY29udHJpYnV0ZSB0byB0YXVnaHQgcHJvZ3JhbW1lcyBhdCBhbGwgbGV2ZWxzIGJvdGggd2l0aGluIGFuZCBiZXlvbmQgdGhlaXIgcGFydGljdWxhciBzcGVjaWFsaXNtLAoKKiBUbyB1bmRlcnRha2Ugc3R1ZGVudCBzdXBwb3J0IGFuZCBhc3Nlc3NtZW50IGFjdGl2aXRpZXMgYXMgYXBwcm9wcmlhdGUuCgoqIFdvcmsgd2l0aCB0aGUgdGVhbSAoYW5kIGxlYWQgd2hlcmUgcG9zc2libGUpIGluIHRoZSBkZXZlbG9wbWVudCBvZiBuZXcgbW9kdWxlcywgbmV3IHByb2dyYW1tZXMKCiogVXNpbmcgaW5ub3ZhdGl2ZSB0ZWFjaGluZyBhbmQgZGVsaXZlcnkgbWV0aG9kcy4KCiogVW5kZXJ0YWtlIG9yaWdpbmFsIHJlc2VhcmNoIGluIENvbXB1dGVyIFNjaWVuY2UsIEluZm9ybWF0aW9uIFN5c3RlbXMgb3IgcmVsYXRlZCBkaXNjaXBsaW5lcwoKKiBQcmVwYXJlIFJlc2VhcmNoIG1hdGVyaWFsIGZvciBwdWJsaWNhdGlvbi4KCiogUGFydGljaXBhdGVkIGluIHF1YWxpdHkgYXNzdXJhbmNlIGFjdGl2aXRpZXMgYXMgcGVyIHVuaXZlcnNpdGllcyByZXF1aXJlbWVudHMKCiogVG8gY29udHJpYnV0ZSB0byB0aGUgaW50ZXJuYXRpb25hbCBDb21wdXRlciBTY2llbmNlIGNvbW11bml0eQoKKiBUbyBwYXJ0aWNpcGF0ZSBpbiBkZXBhcnRtZW50YWwgYW5kIGZhY3VsdHkgc2VtaW5hcnMgYWltZWQgYXQgc2hhcmluZyByZXNlYXJjaCBvdXRjb21lcwoKKiBSZWZlcmVlaW5nIGFuZCByZXZpZXdpbmcgb2YgcHJvamVjdCBwcm9wb3NhbHMgYW5kIG1hbnVzY3JpcHRzLgoKKiBVbmRlcnRha2UgdGhlIHJvbGUgb2YgUGVyc29uYWwgQWNhZGVtaWMgVHV0b3IgdG8gYSBncm91cCBvZiBzdHVkZW50cwoKKiBDb250cmlidXRlIHRvIHRoZSByZXNlYXJjaCBlbnZpcm9ubWVudCBvZiB0aGUgRGVwYXJ0bWVudCwgU2Nob29sIGFuZCB0aGUgVW5pdmVyc2l0eSBhcyBhcHByb3ByaWF0ZS4KCiogV29yayBmbGV4aWJseSBhcyBhIG1lbWJlciBvZiB0aGUgU2Nob29sIHVuZGVydGFraW5nIHJvdXRpbmUgYWRkaXRpb25hbCB0YXNrcyBhcyBuZWNlc3NhcnkuCgoqIENvbnRyaWJ1dGUsIGFwcHJvcHJpYXRlIHRvIGV4cGVyaWVuY2UsIHRvIHRoZSBicm9hZGVyIHdvcmsgb2YgdGhlIFVuaXZlcnNpdHkuCgpMZWN0dXJlciBDb21wdXRlciBTY2llbmNlCgpNaXJwdXIgVW5pdmVyc2l0eSBvZiBTY2llbmNlICYgVGVjaG5vbG9neSAtIDIwMDYgdG8gMjAxMAoKTWlycHVyKEEtSyksIFBha2lzdGFuCgpXaGlsc3Qgd29ya2luZyBhcyBhIGxlY3R1cmVyIG15IHJvbGUgY29uc2lzdGVkIG9mIHRoZSBmb2xsb3dpbmcKCiogVG8gdGVhY2ggYXQgdW5kZXJncmFkdWF0ZSBhbmQgZ3JhZHVhdGUgbGV2ZWwgaW4gYXJlYXMgYWxsb2NhdGVkIGJ5IHRoZSBIZWFkIG9mIERlcGFydG1lbnQgYW5kIHJldmlld2VkCgpmcm9tIHRpbWUgdG8gdGltZSBieSB0aGUgSGVhZCBvZiBEZXBhcnRtZW50LgoKKiBUbyBjYXJyeSBvdXQgcmVzZWFyY2ggYW5kIHByb2R1Y2UgcHVibGljYXRpb25zLCBvciBvdGhlciByZXNlYXJjaCBvdXRwdXRzLAoKKiBXb3JrIGluIGxpbmUgd2l0aCBwZXJzb25hbCBvYmplY3RpdmVzIGFncmVlZCBpbiB0aGUgU3RhZmYgcmV2aWV3IHByb2Nlc3MuCgoqIFRvIGVuZ2FnZSB3aXRoIHRoZSBicm9hZGVyIHNjaG9sYXJseSBhbmQgcHJvZmVzc2lvbmFsIGNvbW11bml0aWVzLgoKKiBUbyBjb250cmlidXRlIHRvIHRoZSBkZXZlbG9wbWVudCwgcGxhbm5pbmcgYW5kIGltcGxlbWVudGF0aW9uIG9mIGEgaGlnaCBxdWFsaXR5IGN1cnJpY3VsdW0uCgoqIFRvIGFzc2lzdCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YgbGVhcm5pbmcgbWF0ZXJpYWxzLCBwcmVwYXJpbmcgc2NoZW1lcyBvZiB3b3JrIGFuZCBtYWludGFpbmluZyByZWNvcmRzCgoqIFRvIG1vbml0b3Igc3R1ZGVudCBwcm9ncmVzcywgYWNoaWV2ZW1lbnQgYW5kIGF0dGVuZGFuY2UuCgoqIFRvIHBhcnRpY2lwYXRlIGluIGRlcGFydG1lbnRhbCBhbmQgZmFjdWx0eSBzZW1pbmFycyBhaW1lZCBhdCBzaGFyaW5nIHJlc2VhcmNoIG91dGNvbWVzCgoqIEludGVyZGlzY2lwbGluYXJ5IGNvbGxhYm9yYXRpb24gd2l0aGluIGFuZCBvdXRzaWRlIHRoZSBkZXBhcnRtZW50LgoKKiBUbyBwYXJ0aWNpcGF0ZSBpbiB0aGUgZGV2ZWxvcG1lbnQsIGFkbWluaXN0cmF0aW9uIGFuZCBtYXJraW5nIG9mIGV4YW1zIGFuZCBvdGhlciBhc3Nlc3NtZW50cy4KCkkgaGF2ZSB0YXVnaHQgdGhlIGZvbGxvd2luZyBjb3Vyc2VzIHRvIHVuZGVyZ3JhZHVhdGVzOgoKU29mdHdhcmUgRW5naW5lZXJpbmcsIFNvZnR3YXJlIFF1YWxpdHkgQXNzdXJhbmNlLCBTb2Z0d2FyZSBQcm9qZWN0IE1hbmFnZW1lbnQsIFNvZnR3YXJlIERlc2lnbiBhbmQKCkFyY2hpdGVjdHVyZSwgRGF0YWJhc2UgU3lzdGVtcywgT3BlcmF0aW5nIFN5c3RlbXMgYW5kIENvbmNlcHRzLCBPYmplY3QgT3JpZW50ZWQgUHJvZ3JhbW1pbmcgdXNpbmcgQysKCissIEZ1bmRhbWVudGFscyBvZiBQcm9ncmFtbWluZywgV2ViIERlc2lnbiBhbmQgRGV2ZWxvcG1lbnQgdXNpbmcgSFRNTC9ESFRNTC9KYXZhU2NyaXB0LCBEaXN0cmlidXRlZAoKRGF0YWJhc2VzLCBIdW1hbiBDb21wdXRlciBJbnRlcmFjdGlvbiwgYW5kIElUIFByb2plY3QgTWFuYWdlbWVudC4KCkFkbWluaXN0cmF0aXZlL1N1cHBvcnRpdmUgV29yawoKQmVzaWRlcyBjb3Vyc2Ugd29yaywgSSBoYWQgY29uZHVjdGVkIHNldmVyYWwgZXhhbXMgb3IgYXNzZXNzbWVudCBzZXNzaW9ucywgbW9uaXRvcmVkIHRoZW0sCgpzZXR0bGVkIHF1ZXN0aW9uIHBhcGVycywgc3VwZXJ2aXNlZCAoc3R1ZGVudHMnKSBzZW1lc3RlciBwcm9qZWN0cywgcGFydGljaXBhdGVkIGluIGN1cnJpY3VsdW0gZGV2ZWxvcG1lbnQKCmNvbW1pdHRlZXMsIGRldmVsb3BlZCBjb3Vyc2UgcmVwb3J0cyAmIGNvdXJzZSBzcGVjaWZpY2F0aW9uLCBzdHVkZW50cycgZGlzY2lwbGluZXMgYW5kIHNjaG9sYXJzaGlwIG1hdHRlcnMuCgpFRFVDQVRJT04KCk1zYyBpbiBDb21wdXRpbmcgU3lzdGVtCgpOb3R0aW5naGFtIFRyZW50IFVuaXZlcnNpdHkKCjIwMTYgdG8gMjAxNwoKTVNDUyBpbiBDb21wdXRlciBTY2llbmNlCgpJcXJhIFVuaXZlcnNpdHkgSXNsYW1hYmFkIENhbXB1cwoKMjAwOCB0byAyMDEwCgpCLkVkLiBpbiBFZHVjYXRpb24KCkFsbGFtYSBJcWJhbCBPcGVuIFVuaXZlcnNpdHkgLSBJc2xhbWFiYWQsIFBLCgoyMDA2IHRvIDIwMDcKCkIuQSBpbiBBcnRzCgpBemFkIEphbW11ICYgS2FzaG1pciBVbml2ZXJzaXR5IC0gSmFtbXUsIEphbW11IGFuZCBLYXNobWlyCgoyMDAwIHRvIDIwMDI=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914211465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

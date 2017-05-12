@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2911402501532"  usageLimitType="allocation" usageLimit="100" currentUsage="94" remainingUsage="6" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Benjamin Parker</FormattedName>
+<GivenName>Benjamin</GivenName>
+<FamilyName>Parker</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Benjamin-Parker/29e8fd8f814c68a8</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>CGI</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Test Analyst (Deputy Test Lead)</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Over the past months I have been employed by a local large IT company as a test analyst. I have developed new skills in IT and have enjoyed learning a new aspect of IT. During my interview for the role I was lead to believe certain requests would be met but I have now discovered that this will not be the case. I have assisted with leading projects which has required me to delegate workloads to staff and also attend client sites around the country. Programs used and skills developed: HP Quality Centre/Application Lifecycle Management Testing Documentation - Test plans, Scripts, completion reports. Witness Testing Defect Management
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Bridgend Council</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>IT Technician</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>During my employment with Bridgend County Borough Council. I was employed by a local comprehensive school as an IT technician where I assist in the maintenance, development and general day to day running and problems of the school's IT systems. The primary part of my role is fixing computer hardware, software and networks within the school whilst also training staff members on software from Microsoft Office or specific school software. I also enrolled on a CompTIA A+ course to refresh and further my knowledge and skills but unfortunately did not have time to complete the course this is something I am keen to continue to improve on in the future. Technical Support
+</Description>
+<StartDate>
+<AnyDate>2012-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>A temporary call centre based</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>assisting customers with broadband, computer and mobile phone faults. IT Technical Support/Assistant Team Leader
+</Description>
+<StartDate>
+<AnyDate>2012-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Logica</EmployerOrgName>
+<JobType>Contractor</JobType>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>A temporary contract assisting customers with broadband and computer faults, diagnosing and correcting issues via the telephone. Duties also included assisting the team leader with team building and training new members of staff.
+</Description>
+<StartDate>
+<AnyDate>2011-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>ComputerXplorers</EmployerOrgName>
+<JobType>Full-Time</JobType>
+<PositionHistory>
+<Title>Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Responsible for organising staff rotas, developing the business, performing presentations at schools, attending meetings, liaising with Head teachers and teaching classes on a daily basis. I efficiently organised the day-to-day running of the franchise, was successful in promoting the business to local schools and gained considerable job satisfaction in transferring my knowledge and passion for I.T. to young pupils. The owner of the business eventually returned to full-time employment and did not extend his franchise agreement.
+</Description>
+<StartDate>
+<AnyDate>2010-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>ATEC Electrical Ltd</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>IT Assistant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Installing and maintaining computer network and systems. During my time at the company I assisted the office staff with the day to day running of the business, answering the telephone organising engineers' schedules, training staff in Microsoft products and assisting with office administration.
+</Description>
+<StartDate>
+<AnyDate>2008-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Sony</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>IT Assistant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Dismantling unused computers and salvaging the useful parts, upgrading computer hardware and software and also developing workstations and networks on the factory floor.
+</Description>
+<StartDate>
+<AnyDate>2007-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>WASP I.T</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>I.T Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Primarily developing and implementing IT systems for local businesses using ERP Syteline and also creating reports using Crystal Reports.
+</Description>
+<StartDate>
+<AnyDate>2005-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Bridgend College</SchoolName>
+</School>
+<Degree>
+<DegreeName>HNC</DegreeName>
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>ICT</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="broadband">
+<CompetencyId description="HireAbility taxonomy" id="4827" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="broadband" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4317" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Crystal Reports">
+<CompetencyId description="HireAbility taxonomy" id="90" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Crystal Reports" lastUsed="2007-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Documentation">
+<CompetencyId description="HireAbility taxonomy" id="12375" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Documentation" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="English Language">
+<CompetencyId description="HireAbility taxonomy" id="17622" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="English Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="French Language">
+<CompetencyId description="HireAbility taxonomy" id="8987" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="French Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HP">
+<CompetencyId description="HireAbility taxonomy" id="161" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HP" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Technology">
+<CompetencyId description="HireAbility taxonomy" id="10107" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Technology" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle">
+<CompetencyId description="HireAbility taxonomy" id="305" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Science">
+<CompetencyId description="HireAbility taxonomy" id="11108" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Science">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Structured Query Language">
+<CompetencyId description="HireAbility taxonomy" id="4806" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Structured Query Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Technical Support">
+<CompetencyId description="HireAbility taxonomy" id="416" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Technical Support" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test">
+<CompetencyId description="HireAbility taxonomy" id="4723" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test Plans">
+<CompetencyId description="HireAbility taxonomy" id="421" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test Plans" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Languages>
+<Language>
+<LanguageCode>EN</LanguageCode>
+<Read>false</Read>
+<Write>false</Write>
+<Speak>true</Speak>
+</Language>
+<Language>
+<LanguageCode>FR</LanguageCode>
+<Read>false</Read>
+<Write>false</Write>
+<Speak>true</Speak>
+</Language>
+</Languages>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QmVuamFtaW4gUGFya2VyCgpUZXN0IEFuYWx5c3QgKERlcHV0eSBUZXN0IExlYWQpCgpCcmlkZ2VuZCwgU291dGggV2FsZXMsIFVLIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQmVuamFtaW4tUGFya2VyLzI5ZThmZDhmODE0YzY4YTgKCldPUksgRVhQRVJJRU5DRQoKVGVzdCBBbmFseXN0IChEZXB1dHkgVGVzdCBMZWFkKQoKQ0dJIC0gSmFudWFyeSAyMDE2IHRvIFByZXNlbnQKCk92ZXIgdGhlIHBhc3QgbW9udGhzIEkgaGF2ZSBiZWVuIGVtcGxveWVkIGJ5IGEgbG9jYWwgbGFyZ2UgSVQgY29tcGFueSBhcyBhIHRlc3QgYW5hbHlzdC4gSSBoYXZlIGRldmVsb3BlZAoKbmV3IHNraWxscyBpbiBJVCBhbmQgaGF2ZSBlbmpveWVkIGxlYXJuaW5nIGEgbmV3IGFzcGVjdCBvZiBJVC4gRHVyaW5nIG15IGludGVydmlldyBmb3IgdGhlIHJvbGUgSSB3YXMgbGVhZCB0bwoKYmVsaWV2ZSBjZXJ0YWluIHJlcXVlc3RzIHdvdWxkIGJlIG1ldCBidXQgSSBoYXZlIG5vdyBkaXNjb3ZlcmVkIHRoYXQgdGhpcyB3aWxsIG5vdCBiZSB0aGUgY2FzZS4gSSBoYXZlIGFzc2lzdGVkCgp3aXRoIGxlYWRpbmcgcHJvamVjdHMgd2hpY2ggaGFzIHJlcXVpcmVkIG1lIHRvIGRlbGVnYXRlIHdvcmtsb2FkcyB0byBzdGFmZiBhbmQgYWxzbyBhdHRlbmQgY2xpZW50IHNpdGVzIGFyb3VuZAoKdGhlIGNvdW50cnkuCgpQcm9ncmFtcyB1c2VkIGFuZCBza2lsbHMgZGV2ZWxvcGVkOgoKSFAgUXVhbGl0eSBDZW50cmUvQXBwbGljYXRpb24gTGlmZWN5Y2xlIE1hbmFnZW1lbnQKClRlc3RpbmcgRG9jdW1lbnRhdGlvbiAtIFRlc3QgcGxhbnMsIFNjcmlwdHMsIGNvbXBsZXRpb24gcmVwb3J0cy4KCldpdG5lc3MgVGVzdGluZwoKRGVmZWN0IE1hbmFnZW1lbnQKClB1dHR5LCBXaW5TQ1AsIFNvYXBVSSwgU1FMLCBPcmFjbGUsIFZPTFQgREIKCklUIFRlY2huaWNpYW4KCkJyaWRnZW5kIENvdW5jaWwgLSBNYXkgMjAxMiB0byBKYW51YXJ5IDIwMTYKCkR1cmluZyBteSBlbXBsb3ltZW50IHdpdGggQnJpZGdlbmQgQ291bnR5IEJvcm91Z2ggQ291bmNpbC4gSSB3YXMgZW1wbG95ZWQgYnkgYSBsb2NhbCBjb21wcmVoZW5zaXZlCgpzY2hvb2wgYXMgYW4gSVQgdGVjaG5pY2lhbiB3aGVyZSBJIGFzc2lzdCBpbiB0aGUgbWFpbnRlbmFuY2UsIGRldmVsb3BtZW50IGFuZCBnZW5lcmFsIGRheSB0byBkYXkgcnVubmluZwoKYW5kIHByb2JsZW1zIG9mIHRoZSBzY2hvb2wncyBJVCBzeXN0ZW1zLiBUaGUgcHJpbWFyeSBwYXJ0IG9mIG15IHJvbGUgaXMgZml4aW5nIGNvbXB1dGVyIGhhcmR3YXJlLCBzb2Z0d2FyZQoKYW5kIG5ldHdvcmtzIHdpdGhpbiB0aGUgc2Nob29sIHdoaWxzdCBhbHNvIHRyYWluaW5nIHN0YWZmIG1lbWJlcnMgb24gc29mdHdhcmUgZnJvbSBNaWNyb3NvZnQgT2ZmaWNlIG9yIHNwZWNpZmljCgpzY2hvb2wgc29mdHdhcmUuCgpJIGFsc28gZW5yb2xsZWQgb24gYSBDb21wVElBIEErIGNvdXJzZSB0byByZWZyZXNoIGFuZCBmdXJ0aGVyIG15IGtub3dsZWRnZSBhbmQgc2tpbGxzIGJ1dCB1bmZvcnR1bmF0ZWx5IGRpZAoKbm90IGhhdmUgdGltZSB0byBjb21wbGV0ZSB0aGUgY291cnNlOyB0aGlzIGlzIHNvbWV0aGluZyBJIGFtIGtlZW4gdG8gY29udGludWUgdG8gaW1wcm92ZSBvbiBpbiB0aGUgZnV0dXJlLgoKVGVjaG5pY2FsIFN1cHBvcnQKCiAtIEphbnVhcnkgMjAxMiB0byBNYXkgMjAxMgoKQSB0ZW1wb3JhcnkgY2FsbCBjZW50cmUgYmFzZWQgcG9zaXRpb24sIGFzc2lzdGluZyBjdXN0b21lcnMgd2l0aCBicm9hZGJhbmQsIGNvbXB1dGVyIGFuZCBtb2JpbGUgcGhvbmUKCmZhdWx0cy4KCklUIFRlY2huaWNhbCBTdXBwb3J0L0Fzc2lzdGFudCBUZWFtIExlYWRlcgoKTG9naWNhIC0gQXByaWwgMjAxMSB0byBEZWNlbWJlciAyMDExCgpBIHRlbXBvcmFyeSBjb250cmFjdCBhc3Npc3RpbmcgY3VzdG9tZXJzIHdpdGggYnJvYWRiYW5kIGFuZCBjb21wdXRlciBmYXVsdHMsIGRpYWdub3NpbmcgYW5kIGNvcnJlY3RpbmcKCmlzc3VlcyB2aWEgdGhlIHRlbGVwaG9uZS4gRHV0aWVzIGFsc28gaW5jbHVkZWQgYXNzaXN0aW5nIHRoZSB0ZWFtIGxlYWRlciB3aXRoIHRlYW0gYnVpbGRpbmcgYW5kIHRyYWluaW5nIG5ldwoKbWVtYmVycyBvZiBzdGFmZi4KCk1hbmFnZXIKCkNvbXB1dGVyWHBsb3JlcnMgLSBGZWJydWFyeSAyMDEwIHRvIEFwcmlsIDIwMTEKClJlc3BvbnNpYmxlIGZvciBvcmdhbmlzaW5nIHN0YWZmIHJvdGFzLCBkZXZlbG9waW5nIHRoZSBidXNpbmVzcywgcGVyZm9ybWluZyBwcmVzZW50YXRpb25zIGF0IHNjaG9vbHMsIGF0dGVuZGluZwoKbWVldGluZ3MsIGxpYWlzaW5nIHdpdGggSGVhZCB0ZWFjaGVycyBhbmQgdGVhY2hpbmcgY2xhc3NlcyBvbiBhIGRhaWx5IGJhc2lzLiBJIGVmZmljaWVudGx5IG9yZ2FuaXNlZCB0aGUKCmRheS10by1kYXkgcnVubmluZyBvZiB0aGUgZnJhbmNoaXNlLCB3YXMgc3VjY2Vzc2Z1bCBpbiBwcm9tb3RpbmcgdGhlIGJ1c2luZXNzIHRvIGxvY2FsIHNjaG9vbHMgYW5kIGdhaW5lZAoKY29uc2lkZXJhYmxlIGpvYiBzYXRpc2ZhY3Rpb24gaW4gdHJhbnNmZXJyaW5nIG15IGtub3dsZWRnZSBhbmQgcGFzc2lvbiBmb3IgSS5ULiB0byB5b3VuZyBwdXBpbHMuIFRoZSBvd25lciBvZgoKdGhlIGJ1c2luZXNzIGV2ZW50dWFsbHkgcmV0dXJuZWQgdG8gZnVsbC10aW1lIGVtcGxveW1lbnQgYW5kIGRpZCBub3QgZXh0ZW5kIGhpcyBmcmFuY2hpc2UgYWdyZWVtZW50LgoKSVQgQXNzaXN0YW50CgpBVEVDIEVsZWN0cmljYWwgTHRkIC0gRGVjZW1iZXIgMjAwOCB0byBKYW51YXJ5IDIwMTAKCkluc3RhbGxpbmcgYW5kIG1haW50YWluaW5nIGNvbXB1dGVyIG5ldHdvcmsgYW5kIHN5c3RlbXMuIER1cmluZyBteSB0aW1lIGF0IHRoZSBjb21wYW55IEkgYXNzaXN0ZWQgdGhlIG9mZmljZQoKc3RhZmYgd2l0aCB0aGUgZGF5IHRvIGRheSBydW5uaW5nIG9mIHRoZSBidXNpbmVzcywgYW5zd2VyaW5nIHRoZSB0ZWxlcGhvbmUgb3JnYW5pc2luZyBlbmdpbmVlcnMnIHNjaGVkdWxlcywKCnRyYWluaW5nIHN0YWZmIGluIE1pY3Jvc29mdCBwcm9kdWN0cyBhbmQgYXNzaXN0aW5nIHdpdGggb2ZmaWNlIGFkbWluaXN0cmF0aW9uLgoKSVQgQXNzaXN0YW50CgpTb255IC0gRmVicnVhcnkgMjAwNyB0byBEZWNlbWJlciAyMDA4CgpEaXNtYW50bGluZyB1bnVzZWQgY29tcHV0ZXJzIGFuZCBzYWx2YWdpbmcgdGhlIHVzZWZ1bCBwYXJ0cywgdXBncmFkaW5nIGNvbXB1dGVyIGhhcmR3YXJlIGFuZCBzb2Z0d2FyZQoKYW5kIGFsc28gZGV2ZWxvcGluZyB3b3Jrc3RhdGlvbnMgYW5kIG5ldHdvcmtzIG9uIHRoZSBmYWN0b3J5IGZsb29yLgoKSS5UIERldmVsb3BlcgoKV0FTUCBJLlQgLSBOb3ZlbWJlciAyMDA1IHRvIEphbnVhcnkgMjAwNwoKUHJpbWFyaWx5IGRldmVsb3BpbmcgYW5kIGltcGxlbWVudGluZyBJVCBzeXN0ZW1zIGZvciBsb2NhbCBidXNpbmVzc2VzIHVzaW5nIEVSUCBTeXRlbGluZSBhbmQgYWxzbyBjcmVhdGluZwoKcmVwb3J0cyB1c2luZyBDcnlzdGFsIFJlcG9ydHMuCgpPdGhlciBJbmZvcm1hdGlvbjoKCkluIG15IGxlaXN1cmUgdGltZSBJIGFtIGEgcXVhbGlmaWVkIExldmVsIFR3byBydWdieSBjb2FjaC4gSSBzdGFydGVkIGNvYWNoaW5nIGZvdXIgeWVhcnMgYWdvIGZvciBhIGxvY2FsIHdvbWVuJ3MKCnJ1Z2J5IHRlYW0gYW5kLCBoYXZpbmcgZGV2ZWxvcGVkIG15IGV4cGVydGlzZSBhbmQgcmVwdXRhdGlvbiwgYW0gY3VycmVudGx5IGNvYWNoaW5nIGEgbG9jYWwgeW91dGggdGVhbSwKCmhhdmluZyBhbHNvIHdvcmtpbmcgZm9yIHRoZSBPc3ByZXlzIGFzIGEgZGlzdHJpY3QgZGV2ZWxvcG1lbnQgdGVhbSBjb2FjaCB3aXRoIHVuZGVyIDE0J3MsIDE2J3MgYW5kIHlvdXRoCgp0ZWFtcy4gSSBoYXZlIHN1Y2Nlc3NmdWxseSBhY2hpZXZlZCBjb2FjaGluZyBhd2FyZHMgYW5kIGFtIGtlZW4gdG8gZGV2ZWxvcCB0aGlzIGZ1cnRoZXIuCgpNeSBleHBlcmllbmNlIG9mIHRoZSB3b3JsZCBvZiB3b3JrIHRvIGRhdGUgaGFzIHRhdWdodCBtZSB0byB3b3JrIGVmZmVjdGl2ZWx5IHVuZGVyIHByZXNzdXJlIGFuZCB0byB1c2UgbXkgb3duCgppbml0aWF0aXZlLiBJIGFtIHB1bmN0dWFsLCByZWxpYWJsZSwgdHJ1c3R3b3J0aHkgYW5kIHdlbGwgb3JnYW5pc2VkIGFuZCBiZWxpZXZlIHRoYXQgSSBoYXZlIHRoZSBuZWNlc3Nhcnkgc2tpbGxzLAoKZW5lcmd5IGFuZCBlbnRodXNpYXNtIHRvIG1ha2UgYSBzdWNjZXNzIG9mIHRoZSB2YWNhbmN5IHlvdSBhcmUgY3VycmVudGx5IGxvb2tpbmcgdG8gZmlsbC4gSSB3b3VsZCBhcHByZWNpYXRlCgp0aGUgb3Bwb3J0dW5pdHkgdG8gZGlzY3VzcyB0aGlzIGZ1cnRoZXIgYXQgYW4gaW50ZXJ2aWV3LgoKRURVQ0FUSU9OCgpITkMgaW4gSUNUCgpCcmlkZ2VuZCBDb2xsZWdlCgoyMDAzIHRvIDIwMDUKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KCkdDU0VzIFBvcnRoY2F3bCBDb21wcmVoZW5zaXZlIFNjaG9vbCBbIF0KCk1hdGhlbWF0aWNzIEMKCkVuZ2xpc2ggQwoKU2NpZW5jZSBDQwoKR2VvZ3JhcGh5IEMKCklDVCBECgpGcmVuY2ggRAoKTXVzaWMgRAoKT3RoZXIgUXVhbGlmaWNhdGlvbnMKCjIwMTAgLSBMZXZlbCAxIENlcnRpZmljYXRlIGluIENvYWNoaW5nIFJ1Z2J5IFVuaW9uIEwxQ0MgKFJVKQoKMjAxMyAtIExldmVsIDIgQ2VydGlmaWNhdGUgaW4gQ29hY2hpbmcgUnVnYnkgVW5pb24gTDJDQyAoUlUpCgoyMDE0IC0gTGV2ZWwgMSBSZWZlcmVlIEZvdW5kYXRpb24gQ291cnNlCgoyMDE0IC0gTGV2ZWwgMSBJUkIgU3RyZW5ndGggYW5kIENvbmRpdGlvbmluZwoKMjAxNSAtIEZpcnN0IEFpZCBUcmFpbmVkCgoyMDE2IC0gRmlyZSBNYXJzaGFsIFRyYWluZWQKCjIwMTYgLSBDZXJ0aWZpZWQgQWdpbGUgVGVzdGVyCgoyMDE2IC0gSVNUUUIgKEN1cnJlbnRseSBzdHVkeWluZyk=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911402501532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

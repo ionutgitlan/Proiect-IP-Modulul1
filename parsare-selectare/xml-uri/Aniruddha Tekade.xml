@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2910245401532"  usageLimitType="allocation" usageLimit="100" currentUsage="78" remainingUsage="22" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Aniruddha Tekade</FormattedName>
+<GivenName>Aniruddha</GivenName>
+<FamilyName>Tekade</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Binghamton</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Aniruddha-Tekade/b84a5bd5d9d23f08</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>StandardWings Technologies Pvt. Ltd (Startup) - Nashik</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>SOFTWARE DEVELOPER</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Maharashtra</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>* Lead Java Developer. CMS Developer. Software Developer
+</Description>
+<StartDate>
+<AnyDate>2014-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>ContentSphere India Pvt. Ltd</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>JUNIOR SOFTWARE DEVELOPER</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Pune
+</Description>
+<StartDate>
+<AnyDate>2014-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Maharashtra</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2014-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Binghamton University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>MASTER OF SCIENCE</DegreeName>
+<DegreeMajor>
+<Name>COMPUTER SCIENCE</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>State University of New York</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Binghamton</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>MASTER OF TECHNOLOGY</DegreeName>
+<DegreeDate>
+<AnyDate>2018-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>COMPUTER ENGINEERING</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2018-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Veermata Jijabai Technological Institute</SchoolName>
+</School>
+<PostalAddress>
+<Region>Maharashtra</Region>
+<Municipality>Mumbai</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>BACHELOR OF ENGINEERING</DegreeName>
+<DegreeDate>
+<AnyDate>2013-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>INFORMATION TECHNOLOGY</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Rashtrasant Tukdoji Maharaj Nagpur University</SchoolName>
+</School>
+<PostalAddress>
+<Region>Maharashtra</Region>
+<Municipality>Nagpur</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="C Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4317" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cms">
+<CompetencyId description="HireAbility taxonomy" id="65" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cms" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hypertext Transfer Protocol">
+<CompetencyId description="HireAbility taxonomy" id="4566" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hypertext Transfer Protocol">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="IBM Mainframes">
+<CompetencyId description="HireAbility taxonomy" id="6212" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="IBM Mainframes">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Javascript">
+<CompetencyId description="HireAbility taxonomy" id="211" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Javascript">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux">
+<CompetencyId description="HireAbility taxonomy" id="218" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="NodeJS">
+<CompetencyId description="HireAbility taxonomy" id="18387" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="NodeJS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Operating Systems">
+<CompetencyId description="HireAbility taxonomy" id="9" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Operating Systems">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="PHP Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4512" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="PHP Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Python Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4521" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Python Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Structured Query Language">
+<CompetencyId description="HireAbility taxonomy" id="4806" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Structured Query Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Virtualization">
+<CompetencyId description="HireAbility taxonomy" id="19249" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Virtualization">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="VM">
+<CompetencyId description="HireAbility taxonomy" id="445" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="VM">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="VMWare">
+<CompetencyId description="HireAbility taxonomy" id="30853" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="VMWare">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW5pcnVkZGhhIFRla2FkZQoKQmluZ2hhbXRvbiwgTlkgLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9BbmlydWRkaGEtVGVrYWRlL2I4NGE1YmQ1ZDlkMjNmMDgKCldpbGxpbmcgdG8gcmVsb2NhdGU6IEFueXdoZXJlCgpBdXRob3JpemVkIHRvIHdvcmsgaW4gdGhlIFVTIGZvciBhbnkgZW1wbG95ZXIKCldPUksgRVhQRVJJRU5DRQoKU09GVFdBUkUgREVWRUxPUEVSCgpTdGFuZGFyZFdpbmdzIFRlY2hub2xvZ2llcyBQdnQuIEx0ZCAoU3RhcnR1cCkgLSBOYXNoaWssIE1haGFyYXNodHJhIC0gT2N0b2JlciAyMDE0IHRvIEp1bHkgMjAxNgoKKiBMZWFkIEphdmEgRGV2ZWxvcGVyLiBDTVMgRGV2ZWxvcGVyLiBTb2Z0d2FyZSBEZXZlbG9wZXIKCkpVTklPUiBTT0ZUV0FSRSBERVZFTE9QRVIKCkNvbnRlbnRTcGhlcmUgSW5kaWEgUHZ0LiBMdGQgLSBQdW5lLCBNYWhhcmFzaHRyYSAtIEp1bmUgMjAxNCB0byBTZXB0ZW1iZXIgMjAxNAoKKiBOb3RhYmxlIHByb2plY3RzOiBQbGFuemVua29lbGxlLCBUZWd1dCBJbnRlcm5hdGlvbmFsIGFuZCBTY2hvY2sgSGFuZG1hZGUKCiogRGVzaWduZWQgdXNlciBhY2Nlc3MgcmlnaHQgcGx1Z2lucyBmb3IgYWRtaW5pc3RyYXRvciBhbmQgdXNlciBwcm9maWxlcwoKKiBEZXZlbG9wZWQgY29kZSBmb3IgYXV0b21hdGVkIGdlbmVyYXRpb24gb2YgcGFtcGhsZXQgY29uc2lzdGluZyBSYWJhdHQgKGRpc2NvdW50KSBvbiBmb29kIGl0ZW1zCgpBU1NJU1RBTlQgUFJPRkVTU09SCgpQVlBQIENvbGxlZ2UgLSBNdW1iYWksIE1haGFyYXNodHJhIC0gSnVuZSAyMDEzIHRvIE1heSAyMDE0CgpURUFDSElORyBBU0lTVEFOVAoKVmVlcm1hdGEgSmlqYWJhaSBUZWNobm9sb2dpY2FsIEluc3RpdHV0ZSAoVkpUSSkgLSBNdW1iYWksIE1haGFyYXNodHJhIC0gSnVseSAyMDExIHRvIE1heSAyMDEzCgpDb3Vyc2VzIGFzc2lzdGVkIGluOiBDb21wdXRlciBTZWN1cml0eSwgT3BlbiBTb3VyY2UgTGFiLCBPcGVyYXRpbmcgU3lzdGVtLCBOZXR3b3JrIFByb2dyYW1taW5nIHdpdGgKCkphdmEKClNPRlRXQVJFIElOVEVSTgoKQXhpb20gU29mdGVjaCBQdnQuIEx0ZCAtIE5hZ3B1ciwgTWFoYXJhc2h0cmEgLSBKdW5lIDIwMDkgdG8gQXByaWwgMjAxMAoKKiBEZXNpZ25lZCBiYXNpYyBjcmVkZW50aWFsIHN5c3RlbSBtb2R1bGVzIGFuZCBwbHVnaW5zIGZvciBlLUdvdmVybmFuY2UgaW4gSmF2YQoKKiBDb21wbGV0ZWQgZmlyc3QgYWNhZGVtaWMgcHJvamVjdCBsaXZlIG9uICJTZWxmaXNoIFJvdXRpbmciIHRocm91Z2ggdGhpcyBpbnRlcm5zaGlwCgpFRFVDQVRJT04KCk1BU1RFUiBPRiBTQ0lFTkNFIGluIENPTVBVVEVSIFNDSUVOQ0UKCkJpbmdoYW10b24gVW5pdmVyc2l0eSwgU3RhdGUgVW5pdmVyc2l0eSBvZiBOZXcgWW9yayAtIEJpbmdoYW10b24sIE5ZCgoyMDE2IHRvIDIwMTgKCk1BU1RFUiBPRiBURUNITk9MT0dZIGluIENPTVBVVEVSIEVOR0lORUVSSU5HCgpWZWVybWF0YSBKaWphYmFpIFRlY2hub2xvZ2ljYWwgSW5zdGl0dXRlIC0gTXVtYmFpLCBNYWhhcmFzaHRyYQoKMjAxMSB0byAyMDEzCgpCQUNIRUxPUiBPRiBFTkdJTkVFUklORyBpbiBJTkZPUk1BVElPTiBURUNITk9MT0dZCgpSYXNodHJhc2FudCBUdWtkb2ppIE1haGFyYWogTmFncHVyIFVuaXZlcnNpdHkgLSBOYWdwdXIsIE1haGFyYXNodHJhCgoyMDA2IHRvIDIwMTAKClNLSUxMUwoKSmF2YSAoMyB5ZWFycyksIEMgKDMgeWVhcnMpLCBKYXZhc2NyaXB0ICgxIHllYXIpLCBOb2RlSlMgKExlc3MgdGhhbiAxIHllYXIpLCBDKysgKDEgeWVhciksIFB5dGhvbiAoMSB5ZWFyKSwKClBIUCAoTGVzcyB0aGFuIDEgeWVhciksIENNUyAoMSB5ZWFyKSwgU1FMICgyIHllYXJzKQoKTElOS1MKCmh0dHA6Ly9jcy5iaW5naGFtdG9uLmVkdS9+YXRla2FkZTEKCmh0dHA6Ly9naXRodWIuY29tL2FuaXJ0ZWsKCmh0dHA6Ly93d3cubGlua2VkaW4uY29tL2luL2FuaXJ0ZWsKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KClRlY2huaWNhbCBTa2lsbHMKClByb2dyYW1taW5nIExhbmd1YWdlcwoKKiBKYXZhLCBDIChtb2RlcmF0ZSksIFB5dGhvbiAoYmFzaWNzKQoKT3BlcmF0aW5nIFN5c3RlbXMgJiBQbGF0Zm9ybXMKCiogTGludXggKHByb2ZpY2llbnQpLCBXaW5kb3dzIChwcm9maWNpZW50KSwgTWFjIChtb2RlcmF0ZSkKCiogVmlydHVhbGl6YXRpb246IFZNd2FyZSBFU1ggNC4wIChtb2RlcmF0ZSksIElCTSBNYWluZnJhbWUgQ01TLCB6LU9TLCB6LVZNIChiYXNpY3Mp</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910245401532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

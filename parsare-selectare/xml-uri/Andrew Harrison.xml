@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2914106465432"  usageLimitType="allocation" usageLimit="100" currentUsage="42" remainingUsage="58" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Andrew Harrison</FormattedName>
+<GivenName>Andrew</GivenName>
+<FamilyName>Harrison</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Andrew-Harrison/a0209779e47be012</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Capita Asset Services</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Database Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Working within a divisional IT department responsible for the administration of Oracle databases in both production and non-production environments hosted within conventional data centres and Microsoft Azure Cloud * Support business critical Oracle RAC and Data Guard environments. * Perform refreshes of non-production environments. * Perform database upgrades to Oracle 12c * Plan and execute database patching. * Production support responding to incident tickets within agreed SLAs and provision of on-call services based on a weekly rota with other team members.
+</Description>
+<StartDate>
+<AnyDate>2012-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Pfizer Ltd</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Database Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Working in a global database team supporting over 9,000 databases on 900 + servers worldwide with sole responsibility for 100 + databases in data centres in Europe and America, routinely communicating with customers and taking escalations from 1st and 2nd line off-shore support. * Support business critical global compound ordering and management system consisting of five global databases in a multi master replicated environment at 11gR1. * Performance tuning of Siebel database environments using outlines to achieve plan stability. * Managed and implemented the upgrade of production Siebel database environments from 9iR2 to10gR2 in Europe. * Maintained and administered the EMEA RMAN environment until the regional team was fully integrated with the global team. * Involved in the design and installation of a number of Siebel database environments on Veritas Clusters. * Implemented Grid Control for the EMEA Region and later provided technical advice and hands-on help to configure and upgrade the global environment. * Escalation point for Managed Service Team - providing 3rd line troubleshooting and problem solving skills. * Mentoring and training provided for junior and off-shore DBAs.
+</Description>
+<StartDate>
+<AnyDate>2005-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NCR Ltd</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Database Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Production support DBA for Oracle on Solaris and Windows. In addition, specific responsibility for the development, test and production environments of two key global R & D application databases concerning registration of all clinical trials and clinical data of first trials in humans. * Implemented and maintained the first installation of Oracle Enterprise Manager (OEM) for the European based regional DBA team. * Managed and implemented the upgrade of 8i databases to 9iR2 for two validated global R & D application databases. Database Administrator 4
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Front Services Ltd</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Production support and project DBA</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Informix databases on Solaris. Later this was to include production support for Oracle on Solaris and Windows. * Wrote a number of shell scripts to monitor database activity for the Informix environment. * Cross trained to Oracle and fulfilled production support duties in this area. System Manager (Senior Executive Officer)
+</Description>
+<StartDate>
+<AnyDate>1998-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The Home Office</EmployerOrgName>
+<JobType>Contractor</JobType>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>accounting</IndustryDescription></OrgIndustry>
+<Description>Responsibility for the Prison Service Headquarters Financial Accounting IT Environment. * Management of a small team of system and database administrators including contract and permanent staff. * Unix AIX System Administration in production, test and development environments. * Informix Database Administration in production, test and development environments. * Assembling and installing new releases of the Prison Service Financial Accounting System using Tetra's Chameleon 2000 software. Project Technical Team Manager (Higher Executive Officer)
+</Description>
+<StartDate>
+<AnyDate>1997-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType>Contractor</JobType>
+<PositionHistory>
+<Title>Technical Assurance Coordinator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>on a PRINCE run project to implement a computerised financial accounting system for the Prison Service. * Management of a small team of IT contractors working on the development and implementation of a financial accounting system. * Hands on Unix AIX System Administration in the development and test environment. * Hands on Informix Database Administration in the development and test environment. Project Technical Team Member (Higher Executive Officer)
+</Description>
+<StartDate>
+<AnyDate>1996-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>accounting</IndustryDescription></OrgIndustry>
+<Description>Providing AIX system administration for the Bull DPX20/400 and 600 series servers used by the Prison Service Headquarters financial accounting development project. * UNIX shell scripting to automate implementation tasks. * Preparation and documentation of release media for the rollout of Chameleon 2000.
+</Description>
+<StartDate>
+<AnyDate>1994-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>Oracle Database 10g Administrator Certified Professional</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="Accounting">
+<CompetencyId description="HireAbility taxonomy" id="4198" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Accounting" lastUsed="1998-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Bull">
+<CompetencyId description="HireAbility taxonomy" id="52" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Bull" lastUsed="1996-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Clusters">
+<CompetencyId description="HireAbility taxonomy" id="80" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Clusters" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Configure">
+<CompetencyId description="HireAbility taxonomy" id="4691" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Configure" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Database">
+<CompetencyId description="HireAbility taxonomy" id="4" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Database" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Database Administration">
+<CompetencyId description="HireAbility taxonomy" id="10104" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Database Administration" lastUsed="1998-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Dba (Database Admin)">
+<CompetencyId description="HireAbility taxonomy" id="1899" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Dba (Database Admin)" lastUsed="2000-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Documentation">
+<CompetencyId description="HireAbility taxonomy" id="12375" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Documentation" lastUsed="1996-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Enterprise Manager">
+<CompetencyId description="HireAbility taxonomy" id="12423" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Enterprise Manager" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="IBM AIX">
+<CompetencyId description="HireAbility taxonomy" id="6194" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="IBM AIX" lastUsed="1998-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Informix">
+<CompetencyId description="HireAbility taxonomy" id="184" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Informix" lastUsed="2000-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Itil">
+<CompetencyId description="HireAbility taxonomy" id="1670" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Itil">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux">
+<CompetencyId description="HireAbility taxonomy" id="218" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">9</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle">
+<CompetencyId description="HireAbility taxonomy" id="305" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle 7">
+<CompetencyId description="HireAbility taxonomy" id="2104" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle 7">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle 8">
+<CompetencyId description="HireAbility taxonomy" id="2105" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle 8">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle 8i">
+<CompetencyId description="HireAbility taxonomy" id="4496" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle 8i">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle 9i">
+<CompetencyId description="HireAbility taxonomy" id="4497" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle 9i">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle Database">
+<CompetencyId description="HireAbility taxonomy" id="13035" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle Database">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle Database Administration">
+<CompetencyId description="HireAbility taxonomy" id="7155" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle Database Administration">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle Enterprise Manager">
+<CompetencyId description="HireAbility taxonomy" id="5036" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle Enterprise Manager" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle RAC">
+<CompetencyId description="HireAbility taxonomy" id="13055" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle RAC" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Performance Tuning">
+<CompetencyId description="HireAbility taxonomy" id="11571" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Performance Tuning" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Prince">
+<CompetencyId description="HireAbility taxonomy" id="1716" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Prince" lastUsed="1997-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Problem Solving">
+<CompetencyId description="HireAbility taxonomy" id="17842" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Problem Solving" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Problem Solving Skills">
+<CompetencyId description="HireAbility taxonomy" id="12439" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Problem Solving Skills" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Scripting Language">
+<CompetencyId description="HireAbility taxonomy" id="6525" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Scripting Language" lastUsed="1996-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Shell Script">
+<CompetencyId description="HireAbility taxonomy" id="392" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Shell Script" lastUsed="1996-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Shell Scripting">
+<CompetencyId description="HireAbility taxonomy" id="12135" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Shell Scripting" lastUsed="1996-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Siebel">
+<CompetencyId description="HireAbility taxonomy" id="1740" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Siebel" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Sun Solaris Operating System">
+<CompetencyId description="HireAbility taxonomy" id="5080" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Sun Solaris Operating System" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support" lastUsed="2000-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="System Administration">
+<CompetencyId description="HireAbility taxonomy" id="403" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="System Administration" lastUsed="1998-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Troubleshooting">
+<CompetencyId description="HireAbility taxonomy" id="2283" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Troubleshooting" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Unix">
+<CompetencyId description="HireAbility taxonomy" id="439" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Unix" lastUsed="1996-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="UNIX Shell Scripting">
+<CompetencyId description="HireAbility taxonomy" id="13611" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="UNIX Shell Scripting" lastUsed="1996-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Veritas">
+<CompetencyId description="HireAbility taxonomy" id="454" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Veritas" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW5kcmV3IEhhcnJpc29uCgpPcmFjbGUgRGF0YWJhc2UgQWRtaW5pc3RyYXRvcgoKTG9uZG9uIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQW5kcmV3LUhhcnJpc29uL2EwMjA5Nzc5ZTQ3YmUwMTIKCkEgcmVzdWx0cyBvcmllbnRhdGVkIGFuZCBjdXN0b21lciBmb2N1c2VkIE9yYWNsZSBEYXRhYmFzZSBBZG1pbmlzdHJhdG9yIHdpdGggZXh0ZW5zaXZlIGV4cGVyaWVuY2UgZ2FpbmVkCgp3b3JraW5nIGluIGdsb2JhbGx5IGZvY3VzZWQgc29sdXRpb25zLW9yaWVudGF0ZWQgcm9sZXMgd2l0aGluIElUSUwgYW5kIEcqUCBmcmFtZXdvcmtzLCBhIHN0cm9uZyB0ZWFtIHBsYXllcgoKd2l0aCBhICJjYW4gZG8iIGF0dGl0dWRlIHRvIGVuc3VyZSBidXNpbmVzcyBhbGlnbmVkIGRlbGl2ZXJ5IGFuZCBzdXBwb3J0OyBub3cgc2Vla2luZyBhIHNpbWlsYXIsIGNoYWxsZW5naW5nCgpyb2xlIHRoYXQgd2lsbCB1dGlsaXplIHN0cm9uZyBwcm9ibGVtIHNvbHZpbmcgYW5kIHJvb3QgY2F1c2UgYW5hbHlzaXMgc2tpbGxzLCBleGNlbGxlbnQgY29tbXVuaWNhdGlvbiBza2lsbHMgYW5kCgphIHNvdW5kIHRlY2huaWNhbCBrbm93bGVkZ2UuCgpXT1JLIEVYUEVSSUVOQ0UKCkRhdGFiYXNlIEFkbWluaXN0cmF0b3IKCkNhcGl0YSBBc3NldCBTZXJ2aWNlcyAtIFNlcHRlbWJlciAyMDEyIHRvIE1hcmNoIDIwMTcKCldvcmtpbmcgd2l0aGluIGEgZGl2aXNpb25hbCBJVCBkZXBhcnRtZW50IHJlc3BvbnNpYmxlIGZvciB0aGUgYWRtaW5pc3RyYXRpb24gb2YgT3JhY2xlIGRhdGFiYXNlcyBpbiBib3RoCgpwcm9kdWN0aW9uIGFuZCBub24tcHJvZHVjdGlvbiBlbnZpcm9ubWVudHMgaG9zdGVkIHdpdGhpbiBjb252ZW50aW9uYWwgZGF0YSBjZW50cmVzIGFuZCBNaWNyb3NvZnQgQXp1cmUKCkNsb3VkCgoqIFN1cHBvcnQgYnVzaW5lc3MgY3JpdGljYWwgT3JhY2xlIFJBQyBhbmQgRGF0YSBHdWFyZCBlbnZpcm9ubWVudHMuCgoqIFBlcmZvcm0gcmVmcmVzaGVzIG9mIG5vbi1wcm9kdWN0aW9uIGVudmlyb25tZW50cy4KCiogUGVyZm9ybSBkYXRhYmFzZSB1cGdyYWRlcyB0byBPcmFjbGUgMTJjCgoqIFBsYW4gYW5kIGV4ZWN1dGUgZGF0YWJhc2UgcGF0Y2hpbmcuCgoqIFByb2R1Y3Rpb24gc3VwcG9ydCByZXNwb25kaW5nIHRvIGluY2lkZW50IHRpY2tldHMgd2l0aGluIGFncmVlZCBTTEFzIGFuZCBwcm92aXNpb24gb2Ygb24tY2FsbCBzZXJ2aWNlcyBiYXNlZAoKb24gYSB3ZWVrbHkgcm90YSB3aXRoIG90aGVyIHRlYW0gbWVtYmVycy4KCkRhdGFiYXNlIEFkbWluaXN0cmF0b3IKClBmaXplciBMdGQgLSBNYXJjaCAyMDA1IHRvIEF1Z3VzdCAyMDEyCgpXb3JraW5nIGluIGEgZ2xvYmFsIGRhdGFiYXNlIHRlYW0gc3VwcG9ydGluZyBvdmVyIDksMDAwIGRhdGFiYXNlcyBvbiA5MDAgKyBzZXJ2ZXJzIHdvcmxkd2lkZSB3aXRoIHNvbGUKCnJlc3BvbnNpYmlsaXR5IGZvciAxMDAgKyBkYXRhYmFzZXMgaW4gZGF0YSBjZW50cmVzIGluIEV1cm9wZSBhbmQgQW1lcmljYSwgcm91dGluZWx5IGNvbW11bmljYXRpbmcgd2l0aAoKY3VzdG9tZXJzIGFuZCB0YWtpbmcgZXNjYWxhdGlvbnMgZnJvbSAxc3QgYW5kIDJuZCBsaW5lIG9mZi1zaG9yZSBzdXBwb3J0LgoKKiBTdXBwb3J0IGJ1c2luZXNzIGNyaXRpY2FsIGdsb2JhbCBjb21wb3VuZCBvcmRlcmluZyBhbmQgbWFuYWdlbWVudCBzeXN0ZW0gY29uc2lzdGluZyBvZiBmaXZlIGdsb2JhbAoKZGF0YWJhc2VzIGluIGEgbXVsdGkgbWFzdGVyIHJlcGxpY2F0ZWQgZW52aXJvbm1lbnQgYXQgMTFnUjEuCgoqIFBlcmZvcm1hbmNlIHR1bmluZyBvZiBTaWViZWwgZGF0YWJhc2UgZW52aXJvbm1lbnRzIHVzaW5nIG91dGxpbmVzIHRvIGFjaGlldmUgcGxhbiBzdGFiaWxpdHkuCgoqIE1hbmFnZWQgYW5kIGltcGxlbWVudGVkIHRoZSB1cGdyYWRlIG9mIHByb2R1Y3Rpb24gU2llYmVsIGRhdGFiYXNlIGVudmlyb25tZW50cyBmcm9tIDlpUjIgdG8xMGdSMgoKaW4gRXVyb3BlLgoKKiBNYWludGFpbmVkIGFuZCBhZG1pbmlzdGVyZWQgdGhlIEVNRUEgUk1BTiBlbnZpcm9ubWVudCB1bnRpbCB0aGUgcmVnaW9uYWwgdGVhbSB3YXMgZnVsbHkgaW50ZWdyYXRlZCB3aXRoCgp0aGUgZ2xvYmFsIHRlYW0uCgoqIEludm9sdmVkIGluIHRoZSBkZXNpZ24gYW5kIGluc3RhbGxhdGlvbiBvZiBhIG51bWJlciBvZiBTaWViZWwgZGF0YWJhc2UgZW52aXJvbm1lbnRzIG9uIFZlcml0YXMgQ2x1c3RlcnMuCgoqIEltcGxlbWVudGVkIEdyaWQgQ29udHJvbCBmb3IgdGhlIEVNRUEgUmVnaW9uIGFuZCBsYXRlciBwcm92aWRlZCB0ZWNobmljYWwgYWR2aWNlIGFuZCBoYW5kcy1vbiBoZWxwIHRvCgpjb25maWd1cmUgYW5kIHVwZ3JhZGUgdGhlIGdsb2JhbCBlbnZpcm9ubWVudC4KCiogRXNjYWxhdGlvbiBwb2ludCBmb3IgTWFuYWdlZCBTZXJ2aWNlIFRlYW0gLSBwcm92aWRpbmcgM3JkIGxpbmUgdHJvdWJsZXNob290aW5nIGFuZCBwcm9ibGVtIHNvbHZpbmcgc2tpbGxzLgoKKiBNZW50b3JpbmcgYW5kIHRyYWluaW5nIHByb3ZpZGVkIGZvciBqdW5pb3IgYW5kIG9mZi1zaG9yZSBEQkFzLgoKRGF0YWJhc2UgQWRtaW5pc3RyYXRvcgoKTkNSIEx0ZCAtIEphbnVhcnkgMjAwMSB0byBNYXJjaCAyMDA1CgpQcm9kdWN0aW9uIHN1cHBvcnQgREJBIGZvciBPcmFjbGUgb24gU29sYXJpcyBhbmQgV2luZG93cy4gSW4gYWRkaXRpb24sIHNwZWNpZmljIHJlc3BvbnNpYmlsaXR5IGZvciB0aGUKCmRldmVsb3BtZW50LCB0ZXN0IGFuZCBwcm9kdWN0aW9uIGVudmlyb25tZW50cyBvZiB0d28ga2V5IGdsb2JhbCBSICYgRCBhcHBsaWNhdGlvbiBkYXRhYmFzZXMgY29uY2VybmluZwoKcmVnaXN0cmF0aW9uIG9mIGFsbCBjbGluaWNhbCB0cmlhbHMgYW5kIGNsaW5pY2FsIGRhdGEgb2YgZmlyc3QgdHJpYWxzIGluIGh1bWFucy4KCiogSW1wbGVtZW50ZWQgYW5kIG1haW50YWluZWQgdGhlIGZpcnN0IGluc3RhbGxhdGlvbiBvZiBPcmFjbGUgRW50ZXJwcmlzZSBNYW5hZ2VyIChPRU0pIGZvciB0aGUgRXVyb3BlYW4KCmJhc2VkIHJlZ2lvbmFsIERCQSB0ZWFtLgoKKiBNYW5hZ2VkIGFuZCBpbXBsZW1lbnRlZCB0aGUgdXBncmFkZSBvZiA4aSBkYXRhYmFzZXMgdG8gOWlSMiBmb3IgdHdvIHZhbGlkYXRlZCBnbG9iYWwgUiAmIEQgYXBwbGljYXRpb24KCmRhdGFiYXNlcy4KCkRhdGFiYXNlIEFkbWluaXN0cmF0b3IKCjQgRnJvbnQgU2VydmljZXMgTHRkIC0gTm92ZW1iZXIgMTk5OCB0byBEZWNlbWJlciAyMDAwCgpQcm9kdWN0aW9uIHN1cHBvcnQgYW5kIHByb2plY3QgREJBIGZvciBJbmZvcm1peCBkYXRhYmFzZXMgb24gU29sYXJpcy4gTGF0ZXIgdGhpcyB3YXMgdG8gaW5jbHVkZSBwcm9kdWN0aW9uCgpzdXBwb3J0IGZvciBPcmFjbGUgb24gU29sYXJpcyBhbmQgV2luZG93cy4KCiogV3JvdGUgYSBudW1iZXIgb2Ygc2hlbGwgc2NyaXB0cyB0byBtb25pdG9yIGRhdGFiYXNlIGFjdGl2aXR5IGZvciB0aGUgSW5mb3JtaXggZW52aXJvbm1lbnQuCgoqIENyb3NzIHRyYWluZWQgdG8gT3JhY2xlIGFuZCBmdWxmaWxsZWQgcHJvZHVjdGlvbiBzdXBwb3J0IGR1dGllcyBpbiB0aGlzIGFyZWEuCgpTeXN0ZW0gTWFuYWdlciAoU2VuaW9yIEV4ZWN1dGl2ZSBPZmZpY2VyKQoKVGhlIEhvbWUgT2ZmaWNlIC0gQXByaWwgMTk5NyB0byBOb3ZlbWJlciAxOTk4CgpSZXNwb25zaWJpbGl0eSBmb3IgdGhlIFByaXNvbiBTZXJ2aWNlIEhlYWRxdWFydGVycyBGaW5hbmNpYWwgQWNjb3VudGluZyBJVCBFbnZpcm9ubWVudC4KCiogTWFuYWdlbWVudCBvZiBhIHNtYWxsIHRlYW0gb2Ygc3lzdGVtIGFuZCBkYXRhYmFzZSBhZG1pbmlzdHJhdG9ycyBpbmNsdWRpbmcgY29udHJhY3QgYW5kIHBlcm1hbmVudCBzdGFmZi4KCiogVW5peCBBSVggU3lzdGVtIEFkbWluaXN0cmF0aW9uIGluIHByb2R1Y3Rpb24sIHRlc3QgYW5kIGRldmVsb3BtZW50IGVudmlyb25tZW50cy4KCiogSW5mb3JtaXggRGF0YWJhc2UgQWRtaW5pc3RyYXRpb24gaW4gcHJvZHVjdGlvbiwgdGVzdCBhbmQgZGV2ZWxvcG1lbnQgZW52aXJvbm1lbnRzLgoKKiBBc3NlbWJsaW5nIGFuZCBpbnN0YWxsaW5nIG5ldyByZWxlYXNlcyBvZiB0aGUgUHJpc29uIFNlcnZpY2UgRmluYW5jaWFsIEFjY291bnRpbmcgU3lzdGVtIHVzaW5nIFRldHJhJ3MKCkNoYW1lbGVvbiAyMDAwIHNvZnR3YXJlLgoKUHJvamVjdCBUZWNobmljYWwgVGVhbSBNYW5hZ2VyIChIaWdoZXIgRXhlY3V0aXZlIE9mZmljZXIpCgpUaGUgSG9tZSBPZmZpY2UgLSBBcHJpbCAxOTk2IHRvIE1hcmNoIDE5OTcKClRlY2huaWNhbCBBc3N1cmFuY2UgQ29vcmRpbmF0b3Igb24gYSBQUklOQ0UgcnVuIHByb2plY3QgdG8gaW1wbGVtZW50IGEgY29tcHV0ZXJpc2VkIGZpbmFuY2lhbCBhY2NvdW50aW5nCgpzeXN0ZW0gZm9yIHRoZSBQcmlzb24gU2VydmljZS4KCiogTWFuYWdlbWVudCBvZiBhIHNtYWxsIHRlYW0gb2YgSVQgY29udHJhY3RvcnMgd29ya2luZyBvbiB0aGUgZGV2ZWxvcG1lbnQgYW5kIGltcGxlbWVudGF0aW9uIG9mIGEgZmluYW5jaWFsCgphY2NvdW50aW5nIHN5c3RlbS4KCiogSGFuZHMgb24gVW5peCBBSVggU3lzdGVtIEFkbWluaXN0cmF0aW9uIGluIHRoZSBkZXZlbG9wbWVudCBhbmQgdGVzdCBlbnZpcm9ubWVudC4KCiogSGFuZHMgb24gSW5mb3JtaXggRGF0YWJhc2UgQWRtaW5pc3RyYXRpb24gaW4gdGhlIGRldmVsb3BtZW50IGFuZCB0ZXN0IGVudmlyb25tZW50LgoKUHJvamVjdCBUZWNobmljYWwgVGVhbSBNZW1iZXIgKEhpZ2hlciBFeGVjdXRpdmUgT2ZmaWNlcikKClRoZSBIb21lIE9mZmljZSAtIFNlcHRlbWJlciAxOTk0IHRvIE1hcmNoIDE5OTYKClByb3ZpZGluZyBBSVggc3lzdGVtIGFkbWluaXN0cmF0aW9uIGZvciB0aGUgQnVsbCBEUFgyMC80MDAgYW5kIDYwMCBzZXJpZXMgc2VydmVycyB1c2VkIGJ5IHRoZSBQcmlzb24gU2VydmljZQoKSGVhZHF1YXJ0ZXJzIGZpbmFuY2lhbCBhY2NvdW50aW5nIGRldmVsb3BtZW50IHByb2plY3QuCgoqIFVOSVggc2hlbGwgc2NyaXB0aW5nIHRvIGF1dG9tYXRlIGltcGxlbWVudGF0aW9uIHRhc2tzLgoKKiBQcmVwYXJhdGlvbiBhbmQgZG9jdW1lbnRhdGlvbiBvZiByZWxlYXNlIG1lZGlhIGZvciB0aGUgcm9sbG91dCBvZiBDaGFtZWxlb24gMjAwMC4KCkFERElUSU9OQUwgSU5GT1JNQVRJT04KClRFQ0hOSUNBTCBTS0lMTFMKCiogT3JhY2xlIDcsIDgsIDhpLCA5aSwgMTBnLCAxMWcgYW5kIDEyYyBvbiBVbml4LCBMaW51eCBhbmQgV2luZG93cwoKKiBEYXRhIEd1YXJkCgoqIFJlYWwgQXBwbGljYXRpb24gQ2x1c3RlcnMgKFJBQykKCiogUk1BTgoKKiBFbnRlcnByaXNlIE1hbmFnZXIgKENsb3VkIENvbnRyb2wpCgoqIFVOSVggc2hlbGwgc2NyaXB0aW5nCgoqIE9yYWNsZSBEYXRhYmFzZSAxMGcgQWRtaW5pc3RyYXRvciBDZXJ0aWZpZWQgUHJvZmVzc2lvbmFsLgoKKiBJVElM</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914106465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

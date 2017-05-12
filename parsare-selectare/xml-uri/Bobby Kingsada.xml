@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2912413501532"  usageLimitType="allocation" usageLimit="100" currentUsage="98" remainingUsage="2" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Bobby Kingsada</FormattedName>
+<GivenName>Bobby</GivenName>
+<FamilyName>Kingsada</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>AU</CountryCode>
+<Region>WA</Region>
+<Municipality>Seattle</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Bobby-Kingsada/80354a658303e5e9</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Hawks IT</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>IT Support Technician</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>General It support for small business clients
+</Description>
+<StartDate>
+<AnyDate>2017-04-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>BootStrap</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Bootstrap Web Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>WA</Region>
+<Municipality>Seattle</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>JavaScript/JQuery * Developing web pages using bootstrap, HTML, CSS, and Jquery Python * Converting old company website to Bootstrap SQL
+</Description>
+<StartDate>
+<AnyDate>2016-02-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Serve First</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Wordpress Developer/intern</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>WA</Region>
+<Municipality>Seattle</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>HTML5 * Manage and maintain website CSS * Create images using photoshop and Gimp C
+</Description>
+<StartDate>
+<AnyDate>2016-12-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Freelance Unity Game Developer</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Developing Apps</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NV</Region>
+<Municipality>Las Vegas</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>on the Unity Game Engine * Asset creation in Photoshop and Gimp 2 * Script creation in C++
+</Description>
+<StartDate>
+<AnyDate>2014-04-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>BootStrap</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>IT Specialist</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NV</Region>
+<Municipality>Las Vegas</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Photoshop * Installation, maintenance, and repairs computers * Troubleshooting and resolving hardware, software and user Gimp problems Unity * Administrative duties such as account maintenance and recovery * Providing operational and technical support for end users Food Server
+</Description>
+<StartDate>
+<AnyDate>2016-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Alder & Birch</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NV</Region>
+<Municipality>Las Vegas</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Informed guest on wine and spirits * Performed serving and stocking duties * Received orders from guest with accuracy and efficiency
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NSTEC</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>IT Specialist (Internship)</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NV</Region>
+<Municipality>Las Vegas</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Installation, maintenance, and repairs computers. * Troubleshooting and resolving hardware, software and user problems * Providing operational and technical support for end users Food Server
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>WolfGang Puck</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NV</Region>
+<Municipality>Las Vegas</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Informed guest on wine and spirits * Performed serving and stocking duties * Received orders from guest with accuracy and efficiency
+</Description>
+<StartDate>
+<AnyDate>2012-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>WellsFargo</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Teller</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NV</Region>
+<Municipality>Las Vegas</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>sales</IndustryDescription></OrgIndustry>
+<Description>Opened new customer accounts * Processed daily transactions * Resolved customer issues regarding accounts * Consistently achieved sales goals
+</Description>
+<StartDate>
+<AnyDate>2010-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>Del Sol High School</SchoolName>
+</School>
+<Degree>
+<DegreeName>Associate</DegreeName>
+<DegreeMajor>
+<Name>Computer Science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Green River Community College</SchoolName>
+</School>
+<PostalAddress>
+<Region>WA</Region>
+<Municipality>Auburn</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Adobe Photoshop">
+<CompetencyId description="HireAbility taxonomy" id="36" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe Photoshop" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Bootstrap">
+<CompetencyId description="HireAbility taxonomy" id="19321" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Bootstrap" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cascading Style Sheets">
+<CompetencyId description="HireAbility taxonomy" id="5838" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cascading Style Sheets" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CSS">
+<CompetencyId description="HireAbility taxonomy" id="12177" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CSS" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Customer Accounts">
+<CompetencyId description="HireAbility taxonomy" id="8379" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Customer Accounts" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HyperText Markup Language">
+<CompetencyId description="HireAbility taxonomy" id="5174" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HyperText Markup Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Technology">
+<CompetencyId description="HireAbility taxonomy" id="10107" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Technology" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Javascript">
+<CompetencyId description="HireAbility taxonomy" id="211" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Javascript" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Programming">
+<CompetencyId description="HireAbility taxonomy" id="10" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Programming">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Structured Query Language">
+<CompetencyId description="HireAbility taxonomy" id="4806" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Structured Query Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Technical Support">
+<CompetencyId description="HireAbility taxonomy" id="416" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Technical Support" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Teller">
+<CompetencyId description="HireAbility taxonomy" id="15853" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Teller" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Troubleshooting">
+<CompetencyId description="HireAbility taxonomy" id="2283" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Troubleshooting" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Twitter Bootstrap">
+<CompetencyId description="HireAbility taxonomy" id="18422" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Twitter Bootstrap" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web">
+<CompetencyId description="HireAbility taxonomy" id="1768" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web Technologies">
+<CompetencyId description="HireAbility taxonomy" id="13733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web Technologies" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="WordPress">
+<CompetencyId description="HireAbility taxonomy" id="18431" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="WordPress" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Qm9iYnkgS2luZ3NhZGEKClNlYXR0bGUsIFdBIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQm9iYnktS2luZ3NhZGEvODAzNTRhNjU4MzAzZTVlOQoKQXV0aG9yaXplZCB0byB3b3JrIGluIHRoZSBVUyBmb3IgYW55IGVtcGxveWVyCgpXT1JLIEVYUEVSSUVOQ0UKCklUIFN1cHBvcnQgVGVjaG5pY2lhbgoKSGF3a3MgSVQgLSBBcHJpbCAyMDE3IHRvIFByZXNlbnQKCkdlbmVyYWwgSXQgc3VwcG9ydCBmb3Igc21hbGwgYnVzaW5lc3MgY2xpZW50cwoKQm9vdHN0cmFwIFdlYiBEZXZlbG9wZXIKCkJvb3RTdHJhcCAtIFNlYXR0bGUsIFdBIC0gRmVicnVhcnkgMjAxNiB0byBQcmVzZW50CgpKYXZhU2NyaXB0L0pRdWVyeQoKKiBEZXZlbG9waW5nIHdlYiBwYWdlcyB1c2luZyBib290c3RyYXAsIEhUTUwsIENTUywgYW5kIEpxdWVyeSBQeXRob24KCiogQ29udmVydGluZyBvbGQgY29tcGFueSB3ZWJzaXRlIHRvIEJvb3RzdHJhcAoKU1FMCgpTZXJ2ZSBGaXJzdCwgU2VhdHRsZSwgV0EgLSBXb3JkcHJlc3MgRGV2ZWxvcGVyL2ludGVybgoKRGVjIDIwMTYgLSBDdXJyZW50IEhUTUw1CgoqIE1hbmFnZSBhbmQgbWFpbnRhaW4gd2Vic2l0ZQoKQ1NTCgoqIENyZWF0ZSBpbWFnZXMgdXNpbmcgcGhvdG9zaG9wIGFuZCBHaW1wCgpDCgpGcmVlbGFuY2UgVW5pdHkgR2FtZSBEZXZlbG9wZXIKCkxhcyBWZWdhcywgTlYgLSBBcHJpbCAyMDE0IHRvIFByZXNlbnQKCkRldmVsb3BpbmcgQXBwcyBvbiB0aGUgVW5pdHkgR2FtZSBFbmdpbmUKCiogQXNzZXQgY3JlYXRpb24gaW4gUGhvdG9zaG9wIGFuZCBHaW1wIDIKCiogU2NyaXB0IGNyZWF0aW9uIGluIEMrKwoKSVQgU3BlY2lhbGlzdAoKQm9vdFN0cmFwIC0gTGFzIFZlZ2FzLCBOViAtIEp1bmUgMjAxNiB0byBBdWd1c3QgMjAxNgoKUGhvdG9zaG9wCgoqIEluc3RhbGxhdGlvbiwgbWFpbnRlbmFuY2UsIGFuZCByZXBhaXJzIGNvbXB1dGVycwoKKiBUcm91Ymxlc2hvb3RpbmcgYW5kIHJlc29sdmluZyBoYXJkd2FyZSwgc29mdHdhcmUgYW5kIHVzZXIgR2ltcAoKcHJvYmxlbXMgVW5pdHkKCiogQWRtaW5pc3RyYXRpdmUgZHV0aWVzIHN1Y2ggYXMgYWNjb3VudCBtYWludGVuYW5jZSBhbmQgcmVjb3ZlcnkKCiogUHJvdmlkaW5nIG9wZXJhdGlvbmFsIGFuZCB0ZWNobmljYWwgc3VwcG9ydCBmb3IgZW5kIHVzZXJzCgpGb29kIFNlcnZlcgoKQWxkZXIgJiBCaXJjaCAtIExhcyBWZWdhcywgTlYgLSBKYW51YXJ5IDIwMTYgdG8gSnVseSAyMDE2CgpJbmZvcm1lZCBndWVzdCBvbiB3aW5lIGFuZCBzcGlyaXRzCgoqIFBlcmZvcm1lZCBzZXJ2aW5nIGFuZCBzdG9ja2luZyBkdXRpZXMKCiogUmVjZWl2ZWQgb3JkZXJzIGZyb20gZ3Vlc3Qgd2l0aCBhY2N1cmFjeSBhbmQgZWZmaWNpZW5jeQoKSVQgU3BlY2lhbGlzdCAoSW50ZXJuc2hpcCkKCk5TVEVDIC0gTGFzIFZlZ2FzLCBOViAtIEphbnVhcnkgMjAxNiB0byBKdW5lIDIwMTYKCkluc3RhbGxhdGlvbiwgbWFpbnRlbmFuY2UsIGFuZCByZXBhaXJzIGNvbXB1dGVycy4KCiogVHJvdWJsZXNob290aW5nIGFuZCByZXNvbHZpbmcgaGFyZHdhcmUsIHNvZnR3YXJlIGFuZCB1c2VyCgpwcm9ibGVtcwoKKiBQcm92aWRpbmcgb3BlcmF0aW9uYWwgYW5kIHRlY2huaWNhbCBzdXBwb3J0IGZvciBlbmQgdXNlcnMKCkZvb2QgU2VydmVyCgpXb2xmR2FuZyBQdWNrIC0gTGFzIFZlZ2FzLCBOViAtIE5vdmVtYmVyIDIwMTIgdG8gRGVjZW1iZXIgMjAxNQoKSW5mb3JtZWQgZ3Vlc3Qgb24gd2luZSBhbmQgc3Bpcml0cwoKKiBQZXJmb3JtZWQgc2VydmluZyBhbmQgc3RvY2tpbmcgZHV0aWVzCgoqIFJlY2VpdmVkIG9yZGVycyBmcm9tIGd1ZXN0IHdpdGggYWNjdXJhY3kgYW5kIGVmZmljaWVuY3kKClRlbGxlcgoKV2VsbHNGYXJnbyAtIExhcyBWZWdhcywgTlYgLSBBcHJpbCAyMDEwIHRvIE5vdmVtYmVyIDIwMTIKCk9wZW5lZCBuZXcgY3VzdG9tZXIgYWNjb3VudHMKCiogUHJvY2Vzc2VkIGRhaWx5IHRyYW5zYWN0aW9ucwoKKiBSZXNvbHZlZCBjdXN0b21lciBpc3N1ZXMgcmVnYXJkaW5nIGFjY291bnRzCgoqIENvbnNpc3RlbnRseSBhY2hpZXZlZCBzYWxlcyBnb2FscwoKRURVQ0FUSU9OCgpEZWwgU29sIEhpZ2ggU2Nob29sCgpBc3NvY2lhdGUgaW4gQ29tcHV0ZXIgU2NpZW5jZQoKR3JlZW4gUml2ZXIgQ29tbXVuaXR5IENvbGxlZ2UgLSBBdWJ1cm4sIFdBCgpTZXB0ZW1iZXIgMjAxNiB0byBNYXJjaCAyMDE3CgpTS0lMTFMKClByb2dyYW1taW5nIChMZXNzIHRoYW4gMSB5ZWFyKSwgQysrIChMZXNzIHRoYW4gMSB5ZWFyKQ==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912413501532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

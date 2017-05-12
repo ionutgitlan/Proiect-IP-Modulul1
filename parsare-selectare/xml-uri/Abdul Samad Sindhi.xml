@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2911656365432"  usageLimitType="allocation" usageLimit="100" currentUsage="7" remainingUsage="93" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Abdul Samad Sindhi</FormattedName>
+<GivenName>Abdul</GivenName>
+<MiddleName>Samad</MiddleName>
+<FamilyName>Sindhi</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Abdul-Samad-Sindhi/7f5e301cd57870e3</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>JIWH College Blackburn - Blackburn</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Teacher of Science</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Initially I was teaching KS3 science. Now I have been teaching GCSE science since September 2013. I have managed to achieve 100% results (A - C) consecutively since I started teaching at GCSE level.
+</Description>
+<StartDate>
+<AnyDate>2010-10-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>VidyaMandir High School</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Assistant Teacher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>Gujarat</Region>
+<Municipality>Vadodara</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Science and Maths Teacher for age group 11 to 16 years
+</Description>
+<StartDate>
+<AnyDate>2009-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Sayaji Boys High School</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Assistant Teacher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>Gujarat</Region>
+<Municipality>Vadodara</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Science and Maths Teacher for age group 11 to 16 years
+</Description>
+<StartDate>
+<AnyDate>2007-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>M.E.S High School Binanagar</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Principal Incharge</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>Gujarat</Region>
+<Municipality>Vadodara</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2005-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>M.E</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Head Teacher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Assistant Teacher
+</Description>
+<StartDate>
+<AnyDate>2005-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>S School NGwada</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Science and Maths Teacher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>Gujarat</Region>
+<Municipality>Vadodara</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>age group 11 to 16 years
+</Description>
+<StartDate>
+<AnyDate>2004-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>M.E.S Boys High School</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Assistant Teacher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>Gujarat</Region>
+<Municipality>Vadodara</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Science and Maths Teacher for age group 11 to 16 years
+</Description>
+<StartDate>
+<AnyDate>2003-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Laboratory Assistant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>Gujarat</Region>
+<Municipality>Kosamba</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>GSFC (fu) Ltd. GSFC (FU) LTD. produces Nylon yarn from caprolactum.I received training here to perform routine chemical analysis e.g. water analysis including dissolve oxygen, turbidity, suspended solids, COD, BOD, density etc, caprolactam analysis, forming different solution with required strength, .testing finished product and raw material using UV, moisture tensity etc.
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>South Gujarat University India</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Science</DegreeName>
+<DegreeDate>
+<AnyDate>1994-04-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Chemistry</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>1991-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-04-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>IGNOU india</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Education</DegreeName>
+<DegreeMajor>
+<Name>Science and Maths</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>IGNOU india</SchoolName>
+</School>
+<Degree>
+<DegreeName>Honors diploma</DegreeName>
+<DegreeDate>
+<AnyDate>1999-08-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>computer science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>IGNOU india</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.Sc</DegreeName>
+<DegreeDate>
+<AnyDate>1994-04-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Chemistry</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>Driving License B</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>to</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="Analytical Skills">
+<CompetencyId description="HireAbility taxonomy" id="12025" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Analytical Skills">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Business Management">
+<CompetencyId description="HireAbility taxonomy" id="16208" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Chemistry">
+<CompetencyId description="HireAbility taxonomy" id="9193" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Chemistry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Technology">
+<CompetencyId description="HireAbility taxonomy" id="10107" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Technology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Laboratory Work">
+<CompetencyId description="HireAbility taxonomy" id="9065" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Laboratory Work">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Programming">
+<CompetencyId description="HireAbility taxonomy" id="10" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Programming">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Science">
+<CompetencyId description="HireAbility taxonomy" id="11108" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Science" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>1988-03-01</StringDate></Date>
+<Description>SSC</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1988-03-01</StringDate></Date>
+<Description>HSC</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1990-03-01</StringDate></Date>
+<Description>Certificate In Computing</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1999-06-01</StringDate></Date>
+<Description>computing course</Description>
+</Achievement>
+</Achievements>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QWJkdWwgU2FtYWQgU2luZGhpCgpCbGFja2J1cm4gLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9BYmR1bC1TYW1hZC1TaW5kaGkvN2Y1ZTMwMWNkNTc4NzBlMwoKV2lsbGluZyB0byByZWxvY2F0ZTogQW55d2hlcmUKCldPUksgRVhQRVJJRU5DRQoKVGVhY2hlciBvZiBTY2llbmNlCgpKSVdIIENvbGxlZ2UgQmxhY2tidXJuIC0gQmxhY2tidXJuIC0gT2N0b2JlciAyMDEwIHRvIFByZXNlbnQKCkluaXRpYWxseSBJIHdhcyB0ZWFjaGluZyBLUzMgc2NpZW5jZS4gTm93IEkgaGF2ZSBiZWVuIHRlYWNoaW5nIEdDU0Ugc2NpZW5jZSBzaW5jZSBTZXB0ZW1iZXIgMjAxMy4gSSBoYXZlCgptYW5hZ2VkIHRvIGFjaGlldmUgMTAwJSByZXN1bHRzIChBKi0gQykgY29uc2VjdXRpdmVseSBzaW5jZSBJIHN0YXJ0ZWQgdGVhY2hpbmcgYXQgR0NTRSBsZXZlbC4KCkFzc2lzdGFudCBUZWFjaGVyCgpWaWR5YU1hbmRpciBIaWdoIFNjaG9vbCAtIFZhZG9kYXJhLCBHdWphcmF0IC0gSnVuZSAyMDA5IHRvIFNlcHRlbWJlciAyMDEwCgpTY2llbmNlIGFuZCBNYXRocyBUZWFjaGVyIGZvciBhZ2UgZ3JvdXAgMTEgdG8gMTYgeWVhcnMKCkFzc2lzdGFudCBUZWFjaGVyCgpTYXlhamkgQm95cyBIaWdoIFNjaG9vbCAtIFZhZG9kYXJhLCBHdWphcmF0IC0gSnVuZSAyMDA3IHRvIE1heSAyMDA5CgpTY2llbmNlIGFuZCBNYXRocyBUZWFjaGVyIGZvciBhZ2UgZ3JvdXAgMTEgdG8gMTYgeWVhcnMKClByaW5jaXBhbCBJbmNoYXJnZQoKTS5FLlMgSGlnaCBTY2hvb2wgQmluYW5hZ2FyIC0gVmFkb2RhcmEsIEd1amFyYXQgLSBNYXJjaCAyMDA1IHRvIEF1Z3VzdCAyMDA1CgpIZWFkIFRlYWNoZXIKCkFzc2lzdGFudCBUZWFjaGVyCgpNLkUsUyBTY2hvb2wgTkd3YWRhIC0gVmFkb2RhcmEsIEd1amFyYXQgLSBKdW5lIDIwMDQgdG8gTWFyY2ggMjAwNQoKU2NpZW5jZSBhbmQgTWF0aHMgVGVhY2hlciBmb3IgYWdlIGdyb3VwIDExIHRvIDE2IHllYXJzCgpBc3Npc3RhbnQgVGVhY2hlcgoKTS5FLlMgQm95cyBIaWdoIFNjaG9vbCAtIFZhZG9kYXJhLCBHdWphcmF0IC0gSnVuZSAyMDAzIHRvIEFwcmlsIDIwMDQKClNjaWVuY2UgYW5kIE1hdGhzIFRlYWNoZXIgZm9yIGFnZSBncm91cCAxMSB0byAxNiB5ZWFycwoKTGFib3JhdG9yeSBBc3Npc3RhbnQKCkdTRkMgKGZ1KSBMdGQuIC0gS29zYW1iYSwgR3VqYXJhdCAtIDE5OTQgdG8gMTk5NgoKR1NGQyAoRlUpIExURC4gcHJvZHVjZXMgTnlsb24geWFybiBmcm9tIGNhcHJvbGFjdHVtLkkgcmVjZWl2ZWQgdHJhaW5pbmcgaGVyZSB0byBwZXJmb3JtIHJvdXRpbmUgY2hlbWljYWwKCmFuYWx5c2lzIGUuZy4gd2F0ZXIgYW5hbHlzaXMgaW5jbHVkaW5nIGRpc3NvbHZlIG94eWdlbiwgdHVyYmlkaXR5LCBzdXNwZW5kZWQgc29saWRzLCBDT0QsQk9ELGRlbnNpdHkgZXRjLAoKY2Fwcm9sYWN0YW0gYW5hbHlzaXMsIGZvcm1pbmcgZGlmZmVyZW50IHNvbHV0aW9uIHdpdGggcmVxdWlyZWQgc3RyZW5ndGgsLnRlc3RpbmcgZmluaXNoZWQgcHJvZHVjdCBhbmQgcmF3CgptYXRlcmlhbCB1c2luZyBVViwgbW9pc3R1cmUgLCB0ZW5zaXR5IGV0Yy4KCkVEVUNBVElPTgoKQmFjaGVsb3Igb2YgU2NpZW5jZSBpbiBDaGVtaXN0cnkKClNvdXRoIEd1amFyYXQgVW5pdmVyc2l0eSBJbmRpYQoKSnVuZSAxOTkxIHRvIEFwcmlsIDE5OTQKCkJhY2hlbG9yIG9mIEVkdWNhdGlvbiBpbiBTY2llbmNlIGFuZCBNYXRocwoKSUdOT1UgaW5kaWEKClNLSUxMUwoKTWljcm9zb2Z0IE9mZmljZSAoMTArIHllYXJzKSwgRHJpdmluZyAoNSB5ZWFycyksIFRlYW0gTWFuYWdlbWVudCAoMyB5ZWFycyksIENoZW1pY2FsIExhYiBXb3JrICgyIHllYXJzKSwKClRlYWNoaW5nICgxMCsgeWVhcnMpCgpBV0FSRFMKClNTQwoKTWFyY2ggMTk4OAoKSFNDCgpNYXJjaCAxOTkwCgpDZXJ0aWZpY2F0ZSBJbiBDb21wdXRpbmcKCkp1bmUgMTk5OQoKY29tcHV0aW5nIGNvdXJzZQoKSG9ub3JzIGRpcGxvbWEgaW4gY29tcHV0ZXIgc2NpZW5jZQoKQXVndXN0IDE5OTkKCmNvbXB1dGVyIGNvdXJzZQoKQi5TYyAoQ2hlbWlzdHJ5KQoKQXByaWwgMTk5NAoKQmVjaGxvciBvZiBFZHVjYXRpb24KCjIwMDcKCnNjaWVuY2UgLyBNYXRocwoKQ0VSVElGSUNBVElPTlMvTElDRU5TRVMKCkRyaXZpbmcgTGljZW5zZSBCCgpOb3ZlbWJlciAyMDE1IHRvIE5vdmVtYmVyIDIwMjUKCkkgaGF2ZSBmdWxsIFVLIGRyaXZpbmcgbGljZW5jZQoKQURESVRJT05BTCBJTkZPUk1BVElPTgoKSSBoYXZlIHdvcmtlZCBpbiB0aGUgaW5kdXN0cnkgYXMgYSBncmFkdWF0ZSBpbiBTY2llbmNlIHdpdGggQ2hlbWlzdHJ5LiBJIGhhdmUgcGVyZm9ybWVkIHZhcmlvdXMgY2hlbWljYWwKCmFuYWx5c2VzIGR1cmluZyBteSBleHBlcmllbmNlLiBJIGhhdmUgYWxzbyB3b3JrZWQgaW4gYSBjb21wdXRlciBjZW50cmUsIGluaXRpYWxseSBhcyBhIHRyYWluZXIgYW5kIHRoZW4gdGhlCgpjZW50cmUgbWFuYWdlciB3aGljaCBoYXMgaGVscGVkIG1lIGdhaW4ga25vd2xlZGdlIG9mIE1TLW9mZmljZSBzb2Z0d2FyZSBhbmQgc29tZSBwcm9ncmFtbWluZyBza2lsbHMKCmFsb25nIHdpdGggc3RhZmYgYW5kIGJ1c2luZXNzIG1hbmFnZW1lbnQuIEkgYW0gdmVyeSBjb25maWRlbnQgaW4gbXkgSVQga25vd2xlZGdlIGFzIHdlbGwgYXMgQ2hlbWlzdHJ5LgoKSSBoYXZlIGJlZW4gdGVhY2hpbmcgU2NpZW5jZS8gTWF0aGVtYXRpY3MgdG8gc3R1ZGVudHMgYWdlZCAxNCB5ZWFycyB0byAxNiB5ZWFycyAoc2Vjb25kYXJ5IHNjaG9vbCBpbiBJbmRpYSkKCmFuZCBLUzMvNCAoVUspLiBJIGhhdmUgYW4gZXhjZWxsZW50IHJlc3VsdHMgcmVjb3JkLiBJIHN0aWxsIHBvc3Nlc3MgZXhjZWxsZW50IGtub3dsZWRnZSBvZiBDaGVtaXN0cnkvU2NpZW5jZQoKd2l0aCBhbmFseXRpY2FsIHNraWxscy4KCkR1cmluZyBteSBpbmR1c3RyaWFsIGV4cGVyaWVuY2UgSSBoYXZlIHBlcmZvcm1lZCB2YXJpb3VzIHRpdHJhdGlvbnMgYW5kIHdvcmtlZCB3aXRoIGFkdmFuY2UgZWxlY3Ryb25pYwoKbWFjaGluZXMgZm9yIGNoZW1pY2FsIGFuYWx5c2VzLiBUaGlzIGV4cGVyaWVuY2UgaW4gbWFueSBmaWVsZHMgaGFzIGdyYW50ZWQgbWUgdGhlIGNvbmZpZGVuY2Ugb2YgYmVpbmcKCmNhcGFibGUgaW4gYW55IGNvbmRpdGlvbiBhbmQgaW4gYW55IHBvc2l0aW9uLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911656365432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

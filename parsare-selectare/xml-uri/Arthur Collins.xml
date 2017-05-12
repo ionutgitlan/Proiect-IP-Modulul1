@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2916130501532"  usageLimitType="allocation" usageLimit="100" currentUsage="87" remainingUsage="13" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Arthur Collins</FormattedName>
+<GivenName>Arthur</GivenName>
+<FamilyName>Collins</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Rio Linda</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Arthur-Collins/e0c080998420dac7</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>California State Air Resources Board</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Air Resource Engineer Range D, Mechanical Professional Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Sacramento</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>services</IndustryDescription></OrgIndustry>
+<Description>Air pollution analyst, large C++ code developer, maintainer of EMFAC motor vehicle emissions code, C++ codes to verify emissions database queries. Corporate Nuclear Lead Technical Specialist
+</Description>
+<StartDate>
+<AnyDate>1993-05-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Aerojet Corp.</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Technical Manager, all analysis</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Rancho Cordova</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>surface test, underground nuclear test, design, documentation, production, and operational training for Peacekeeper Stage II and Small ICBM State II nuclear hardening and survivability aspects. Varying employee count: 10-20. Final Clearance: TSRD (Top Secret Restricted Data) CNWDI (Critical Nuclear Weapons Design Information) WNINTEL (NATO Warning Notice Foreign Intelligence Sources At Risk).
+</Description>
+<StartDate>
+<AnyDate>1982-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NASA Hubble Telescope</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Principal Investigator, Thermal Design and Test</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1982-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1982-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Perkin Elmer Government Operations Div.</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CT</Region>
+<Municipality>Danbury</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>1) Principle investigator, thermal analysis and test, primary mirror, NASA Hubble telescope, analyzed, coordinated and integrated with all optical, structural, control and thermal teams on the NASA Hubble telescope. 2) Thermal analysis and design of classified helicopter laser threat warning system. 3) Nuclear hardening / analysis of classified satellite surveillance systems. Final clearance: SRD (Secret Restricted Data) CNWDI (Critical Nuclear Weapons Design Information).
+</Description>
+<StartDate>
+<AnyDate>1979-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1982-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Lockheed Martin</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Nuclear Weapons Effects Specialist</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Sunnyvale</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>military</IndustryDescription></OrgIndustry>
+<Description>Nuclear weapons effects / hardening analysis / tests on all re-entry vehicles of navy fleet ballistic program between 1959 and 1979. Ditto for B-52, multiple Army field fortifications, multiple surveillance satellites. Final clearance: SRD (Secret Restricted Data) CNWDI (Critical Nuclear Weapons Design Information)
+</Description>
+<StartDate>
+<AnyDate>1959-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1979-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Stanford University</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>None</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>Quantum Field Theory, Lockheed</Name>
+</DegreeMajor>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>Honors Program</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UC Berkeley</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Palo Alto</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>MS</DegreeName>
+<DegreeDate>
+<AnyDate>1968-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Aeronautical Engineering</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>1962-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1968-06-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UC Berkeley</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Berkeley</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>BS</DegreeName>
+<DegreeDate>
+<AnyDate>1959-02-01</AnyDate>
+</DegreeDate>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>1957-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1959-02-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UC Berkeley</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Berkeley</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>ME</DegreeName>
+<DegreeDate>
+<AnyDate>1957-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mechanical Engineer Thermal Fluid Flow</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>1955-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1957-06-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">24</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Documentation">
+<CompetencyId description="HireAbility taxonomy" id="12375" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Documentation" lastUsed="1993-01-01">
+<NumericValue description="Range in years of experience">11</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Satellite">
+<CompetencyId description="HireAbility taxonomy" id="391" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Satellite" lastUsed="1982-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Satellites">
+<CompetencyId description="HireAbility taxonomy" id="1736" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Satellites" lastUsed="1979-01-01">
+<NumericValue description="Range in years of experience">20</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test">
+<CompetencyId description="HireAbility taxonomy" id="4723" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Weapons">
+<CompetencyId description="HireAbility taxonomy" id="7798" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Weapons" lastUsed="1979-01-01">
+<NumericValue description="Range in years of experience">34</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+<Languages>
+<Language>
+<LanguageCode>ES</LanguageCode>
+<Read>false</Read>
+<Write>false</Write>
+<Speak>true</Speak>
+</Language>
+</Languages>
+<SecurityCredentials>
+<SecurityCredential>
+<Name>Top Secret</Name>
+</SecurityCredential>
+</SecurityCredentials>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QXJ0aHVyIENvbGxpbnMKClJpbyBMaW5kYSwgQ0EgLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9BcnRodXItQ29sbGlucy9lMGMwODA5OTg0MjBkYWM3CgpXaWxsaW5nIHRvIHJlbG9jYXRlOiBBbnl3aGVyZQoKQXV0aG9yaXplZCB0byB3b3JrIGluIHRoZSBVUyBmb3IgYW55IGVtcGxveWVyCgpXT1JLIEVYUEVSSUVOQ0UKCkFpciBSZXNvdXJjZSBFbmdpbmVlciBSYW5nZSBELCBNZWNoYW5pY2FsIFByb2Zlc3Npb25hbCBFbmdpbmVlcgoKQ2FsaWZvcm5pYSBTdGF0ZSBBaXIgUmVzb3VyY2VzIEJvYXJkIC0gU2FjcmFtZW50bywgQ0EgLSBNYXkgMTk5MyB0byBQcmVzZW50CgpBaXIgcG9sbHV0aW9uIGFuYWx5c3QsIGxhcmdlIEMrKyBjb2RlIGRldmVsb3BlciwgbWFpbnRhaW5lciBvZiBFTUZBQyBtb3RvciB2ZWhpY2xlIGVtaXNzaW9ucyBjb2RlLCBDKysKCmNvZGVzIHRvIHZlcmlmeSBlbWlzc2lvbnMgZGF0YWJhc2UgcXVlcmllcy4KCkNvcnBvcmF0ZSBOdWNsZWFyIExlYWQgVGVjaG5pY2FsIFNwZWNpYWxpc3QKCkFlcm9qZXQgQ29ycC4gLSBSYW5jaG8gQ29yZG92YSwgQ0EgLSBNYXkgMTk4MiB0byBGZWJydWFyeSAxOTkzCgpUZWNobmljYWwgTWFuYWdlciwgYWxsIGFuYWx5c2lzLCBzdXJmYWNlIHRlc3QsIHVuZGVyZ3JvdW5kIG51Y2xlYXIgdGVzdCwgZGVzaWduLCBkb2N1bWVudGF0aW9uLCBwcm9kdWN0aW9uLAoKYW5kIG9wZXJhdGlvbmFsIHRyYWluaW5nIGZvciBQZWFjZWtlZXBlciBTdGFnZSBJSSBhbmQgU21hbGwgSUNCTSBTdGF0ZSBJSSBudWNsZWFyIGhhcmRlbmluZyBhbmQgc3Vydml2YWJpbGl0eQoKYXNwZWN0cy4gVmFyeWluZyBlbXBsb3llZSBjb3VudDogMTAtMjAuCgpGaW5hbCBDbGVhcmFuY2U6IFRTUkQgKFRvcCBTZWNyZXQgUmVzdHJpY3RlZCBEYXRhKSBDTldESSAoQ3JpdGljYWwgTnVjbGVhciBXZWFwb25zIERlc2lnbiBJbmZvcm1hdGlvbikKCldOSU5URUwgKE5BVE8gV2FybmluZyBOb3RpY2UgRm9yZWlnbiBJbnRlbGxpZ2VuY2UgU291cmNlcyBBdCBSaXNrKS4KClByaW5jaXBhbCBJbnZlc3RpZ2F0b3IsIFRoZXJtYWwgRGVzaWduIGFuZCBUZXN0LCBOQVNBIEh1YmJsZSBUZWxlc2NvcGUKClBlcmtpbiBFbG1lciBHb3Zlcm5tZW50IE9wZXJhdGlvbnMgRGl2LiAtIERhbmJ1cnksIENUIC0gTWF5IDE5NzkgdG8gQXByaWwgMTk4MgoKMSkgUHJpbmNpcGxlIGludmVzdGlnYXRvciwgdGhlcm1hbCBhbmFseXNpcyBhbmQgdGVzdCwgcHJpbWFyeSBtaXJyb3IsIE5BU0EgSHViYmxlIHRlbGVzY29wZSwgYW5hbHl6ZWQsCgpjb29yZGluYXRlZCBhbmQgaW50ZWdyYXRlZCB3aXRoIGFsbCBvcHRpY2FsLCBzdHJ1Y3R1cmFsLCBjb250cm9sIGFuZCB0aGVybWFsIHRlYW1zIG9uIHRoZSBOQVNBIEh1YmJsZQoKdGVsZXNjb3BlLgoKMikgVGhlcm1hbCBhbmFseXNpcyBhbmQgZGVzaWduIG9mIGNsYXNzaWZpZWQgaGVsaWNvcHRlciBsYXNlciB0aHJlYXQgd2FybmluZyBzeXN0ZW0uCgozKSBOdWNsZWFyIGhhcmRlbmluZyAvIGFuYWx5c2lzIG9mIGNsYXNzaWZpZWQgc2F0ZWxsaXRlIHN1cnZlaWxsYW5jZSBzeXN0ZW1zLgoKRmluYWwgY2xlYXJhbmNlOiBTUkQgKFNlY3JldCBSZXN0cmljdGVkIERhdGEpIENOV0RJIChDcml0aWNhbCBOdWNsZWFyIFdlYXBvbnMgRGVzaWduIEluZm9ybWF0aW9uKS4KCk51Y2xlYXIgV2VhcG9ucyBFZmZlY3RzIFNwZWNpYWxpc3QKCkxvY2toZWVkIE1hcnRpbiAtIFN1bm55dmFsZSwgQ0EgLSBBcHJpbCAxOTU5IHRvIEFwcmlsIDE5NzkKCk51Y2xlYXIgd2VhcG9ucyBlZmZlY3RzIC8gaGFyZGVuaW5nIGFuYWx5c2lzIC8gdGVzdHMgb24gYWxsIHJlLWVudHJ5IHZlaGljbGVzIG9mIG5hdnkgZmxlZXQgYmFsbGlzdGljIHByb2dyYW0KCmJldHdlZW4gMTk1OSBhbmQgMTk3OS4gRGl0dG8gZm9yIEItNTIsIG11bHRpcGxlIEFybXkgZmllbGQgZm9ydGlmaWNhdGlvbnMsIG11bHRpcGxlIHN1cnZlaWxsYW5jZSBzYXRlbGxpdGVzLiBGaW5hbAoKY2xlYXJhbmNlOiBTUkQgKFNlY3JldCBSZXN0cmljdGVkIERhdGEpIENOV0RJIChDcml0aWNhbCBOdWNsZWFyIFdlYXBvbnMgRGVzaWduIEluZm9ybWF0aW9uKQoKRURVQ0FUSU9OCgpOb25lIGluIFF1YW50dW0gRmllbGQgVGhlb3J5LCBMb2NraGVlZCBIb25vcnMgUHJvZ3JhbQoKU3RhbmZvcmQgVW5pdmVyc2l0eSAtIFBhbG8gQWx0bywgQ0EKClNlcHRlbWJlciAxOTYyIHRvIEp1bmUgMTk2OAoKTVMgaW4gQWVyb25hdXRpY2FsIEVuZ2luZWVyaW5nCgpVQyBCZXJrZWxleSAtIEJlcmtlbGV5LCBDQQoKU2VwdGVtYmVyIDE5NTcgdG8gRmVicnVhcnkgMTk1OQoKQlMgTUUgaW4gTWVjaGFuaWNhbCBFbmdpbmVlciBUaGVybWFsIEZsdWlkIEZsb3cKClVDIEJlcmtlbGV5IC0gQmVya2VsZXksIENBCgpKdW5lIDE5NTUgdG8gSnVuZSAxOTU3CgpTS0lMTFMKCldhbG51dCwgUGVhY2gsIEdyYXBlIEZhcm1lciAoNiB5ZWFycyksIEZsdWVudCBTcGFuaXNoIFNwZWFrLCBSZWFkLCBXcml0ZTogR3VhdGVtYWxhICgxMCsgeWVhcnMpLCA1MCUKCkdyaW5nbywgNTAlIExhdGlubw==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916130501532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

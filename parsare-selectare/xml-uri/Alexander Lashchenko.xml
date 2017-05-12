@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2911622465432"  usageLimitType="allocation" usageLimit="100" currentUsage="34" remainingUsage="66" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Alexander Lashchenko</FormattedName>
+<GivenName>Alexander</GivenName>
+<FamilyName>Lashchenko</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Alexander-Lashchenko/c307cdd560e23d2c</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>"F.O. Meat Processing Plant" Ltd.</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Software QA Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Moscow</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>One of the largest meat processing plants in Russia * Conducted cross-platform ("Windows 7, 8, 10" Mac OS) testing of the company's core internal software (1C Accounting, 1C Taxation, 1C Warehouse, 1C Security, 1C Manufacturing, 1C Marketing) * Developed test cases for cross-platform (Android, IOS, Windows Phone) functional and regression testing of mobile applications for sales managers and salespersons * Conducted the cross-browser (MSIE, Opera, Firefox, Chrome, Safari) testing of companies website (kolbasa.ru) * Analyzed business requirements and suggested improvements to the product features * Participated in the development of test plans
+</Description>
+<StartDate>
+<AnyDate>2014-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>WARGAMING - Kiev</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Beta Tester</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2016-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Ukraine/Moscow</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>free-to-play developer and publisher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Leading the charge * Conducted testing of pre-release versions of the product (World of Tanks, World of Warships, World of Planes) for PC * Tested the World of Tanks version for Xbox (360, One) and PlayStation 4. * Performed testing Android and IOS versions of the product (World of Tanks Blitz) * Wrote easy-to-reproduce bug reports
+</Description>
+<StartDate>
+<AnyDate>2012-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Global Spirits</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Junior QA Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Kiev</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>The company is a world leader in the production of alcohol. The largest alcohol holding in Eastern Europe * Conducted cross-platform (Android, IOS, Windows Phone) testing of mobile applications for the sales department. * Developed test cases based on requirements * Participated in cross-browser (MSIE, Opera, Firefox, Chrome, Safari) testing of the company's website * Conducted English language localization of corporate website
+</Description>
+<StartDate>
+<AnyDate>2013-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Tavria State Agrotechnological University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor's</DegreeName>
+<DegreeMajor>
+<Name>Finance</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Accounting">
+<CompetencyId description="HireAbility taxonomy" id="4198" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Accounting" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Android">
+<CompetencyId description="HireAbility taxonomy" id="18255" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Android" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Apple MacIntosh Operating System">
+<CompetencyId description="HireAbility taxonomy" id="5364" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Apple MacIntosh Operating System" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Business Requirements">
+<CompetencyId description="HireAbility taxonomy" id="55" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Requirements" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cascading Style Sheets">
+<CompetencyId description="HireAbility taxonomy" id="5838" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cascading Style Sheets">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CSS">
+<CompetencyId description="HireAbility taxonomy" id="12177" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CSS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HyperText Markup Language">
+<CompetencyId description="HireAbility taxonomy" id="5174" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HyperText Markup Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux">
+<CompetencyId description="HireAbility taxonomy" id="218" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Manufacturing">
+<CompetencyId description="HireAbility taxonomy" id="2028" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Manufacturing" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Internet Explorer">
+<CompetencyId description="HireAbility taxonomy" id="5025" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Internet Explorer">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows 7">
+<CompetencyId description="HireAbility taxonomy" id="17802" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows 7" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Pc">
+<CompetencyId description="HireAbility taxonomy" id="313" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Pc" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Personal Computer">
+<CompetencyId description="HireAbility taxonomy" id="9774" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Personal Computer" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Regression Testing">
+<CompetencyId description="HireAbility taxonomy" id="11592" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Regression Testing" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Security">
+<CompetencyId description="HireAbility taxonomy" id="7096" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Security" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software Testing">
+<CompetencyId description="HireAbility taxonomy" id="6550" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software Testing" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test">
+<CompetencyId description="HireAbility taxonomy" id="4723" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test Cases">
+<CompetencyId description="HireAbility taxonomy" id="13557" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test Cases" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test Plans">
+<CompetencyId description="HireAbility taxonomy" id="421" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test Plans" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Windows 7">
+<CompetencyId description="HireAbility taxonomy" id="18242" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Windows 7" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QWxleGFuZGVyIExhc2hjaGVua28KCkxvcyBBbmdlbGVzLCBDQSAtIEVtYWlsIG1lIG9uIEluZGVlZDogaW5kZWVkLmNvbS9yL0FsZXhhbmRlci1MYXNoY2hlbmtvL2MzMDdjZGQ1NjBlMjNkMmMKCldpbGxpbmcgdG8gcmVsb2NhdGU6IEFueXdoZXJlCgpBdXRob3JpemVkIHRvIHdvcmsgaW4gdGhlIFVTIGZvciBhbnkgZW1wbG95ZXIKCldPUksgRVhQRVJJRU5DRQoKU29mdHdhcmUgUUEgRW5naW5lZXIKCiJGLk8uIE1lYXQgUHJvY2Vzc2luZyBQbGFudCIgTHRkLiAtIE1vc2NvdywgUnVzc2lhIC0gSnVseSAyMDE0IHRvIEphbnVhcnkgMjAxNwoKT25lIG9mIHRoZSBsYXJnZXN0IG1lYXQgcHJvY2Vzc2luZyBwbGFudHMgaW4gUnVzc2lhCgoqIENvbmR1Y3RlZCBjcm9zcy1wbGF0Zm9ybSAoIldpbmRvd3MgNywgOCwgMTAiOyBNYWMgT1MpIHRlc3Rpbmcgb2YgdGhlIGNvbXBhbnkncyBjb3JlIGludGVybmFsIHNvZnR3YXJlICgxQwoKQWNjb3VudGluZywgMUMgVGF4YXRpb24sIDFDIFdhcmVob3VzZSwgMUMgU2VjdXJpdHksIDFDIE1hbnVmYWN0dXJpbmcsIDFDIE1hcmtldGluZykKCiogRGV2ZWxvcGVkIHRlc3QgY2FzZXMgZm9yIGNyb3NzLXBsYXRmb3JtIChBbmRyb2lkLCBJT1MsIFdpbmRvd3MgUGhvbmUpIGZ1bmN0aW9uYWwgYW5kIHJlZ3Jlc3Npb24gdGVzdGluZwoKb2YgbW9iaWxlIGFwcGxpY2F0aW9ucyBmb3Igc2FsZXMgbWFuYWdlcnMgYW5kIHNhbGVzcGVyc29ucwoKKiBDb25kdWN0ZWQgdGhlIGNyb3NzLWJyb3dzZXIgKE1TSUUsIE9wZXJhLCBGaXJlZm94LCBDaHJvbWUsIFNhZmFyaSkgdGVzdGluZyBvZiBjb21wYW5pZXMgd2Vic2l0ZQoKKGtvbGJhc2EucnUpCgoqIEFuYWx5emVkIGJ1c2luZXNzIHJlcXVpcmVtZW50cyBhbmQgc3VnZ2VzdGVkIGltcHJvdmVtZW50cyB0byB0aGUgcHJvZHVjdCBmZWF0dXJlcwoKKiBQYXJ0aWNpcGF0ZWQgaW4gdGhlIGRldmVsb3BtZW50IG9mIHRlc3QgcGxhbnMKCkJldGEgVGVzdGVyCgpXQVJHQU1JTkcgLSBLaWV2LCBVa3JhaW5lL01vc2NvdywgUnVzc2lhIC0gRGVjZW1iZXIgMjAxMiB0byBOb3ZlbWJlciAyMDE2CgpMZWFkaW5nIHRoZSBjaGFyZ2UgYXMgYSBmcmVlLXRvLXBsYXkgZGV2ZWxvcGVyIGFuZCBwdWJsaXNoZXIKCiogQ29uZHVjdGVkIHRlc3Rpbmcgb2YgcHJlLXJlbGVhc2UgdmVyc2lvbnMgb2YgdGhlIHByb2R1Y3QgKFdvcmxkIG9mIFRhbmtzLCBXb3JsZCBvZiBXYXJzaGlwcywgV29ybGQgb2YKClBsYW5lcykgZm9yIFBDCgoqIFRlc3RlZCB0aGUgV29ybGQgb2YgVGFua3MgdmVyc2lvbiBmb3IgWGJveCAoMzYwLCBPbmUpIGFuZCBQbGF5U3RhdGlvbiA0LgoKKiBQZXJmb3JtZWQgdGVzdGluZyBBbmRyb2lkIGFuZCBJT1MgdmVyc2lvbnMgb2YgdGhlIHByb2R1Y3QgKFdvcmxkIG9mIFRhbmtzIEJsaXR6KQoKKiBXcm90ZSBlYXN5LXRvLXJlcHJvZHVjZSBidWcgcmVwb3J0cwoKSnVuaW9yIFFBIEVuZ2luZWVyCgpHbG9iYWwgU3Bpcml0cyAtIEtpZXYsIFVrcmFpbmUgLSBEZWNlbWJlciAyMDEzIHRvIEp1bmUgMjAxNAoKVGhlIGNvbXBhbnkgaXMgYSB3b3JsZCBsZWFkZXIgaW4gdGhlIHByb2R1Y3Rpb24gb2YgYWxjb2hvbC4gVGhlIGxhcmdlc3QgYWxjb2hvbCBob2xkaW5nIGluIEVhc3Rlcm4gRXVyb3BlCgoqIENvbmR1Y3RlZCBjcm9zcy1wbGF0Zm9ybSAoQW5kcm9pZCwgSU9TLCBXaW5kb3dzIFBob25lKSB0ZXN0aW5nIG9mIG1vYmlsZSBhcHBsaWNhdGlvbnMgZm9yIHRoZSBzYWxlcwoKZGVwYXJ0bWVudC4KCiogRGV2ZWxvcGVkIHRlc3QgY2FzZXMgYmFzZWQgb24gcmVxdWlyZW1lbnRzCgoqIFBhcnRpY2lwYXRlZCBpbiBjcm9zcy1icm93c2VyIChNU0lFLCBPcGVyYSwgRmlyZWZveCwgQ2hyb21lLCBTYWZhcmkpIHRlc3Rpbmcgb2YgdGhlIGNvbXBhbnkncyB3ZWJzaXRlCgoqIENvbmR1Y3RlZCBFbmdsaXNoIGxhbmd1YWdlIGxvY2FsaXphdGlvbiBvZiBjb3Jwb3JhdGUgd2Vic2l0ZQoKRURVQ0FUSU9OCgpCYWNoZWxvcidzIGluIEZpbmFuY2UKClRhdnJpYSBTdGF0ZSBBZ3JvdGVjaG5vbG9naWNhbCBVbml2ZXJzaXR5IC0gTWVsaXRvcG9sCgpTZXB0ZW1iZXIgMjAwOCB0byBKdW5lIDIwMTIKClNLSUxMUwoKV2luZG93cyAxMC84LzcsIE1hYyBPUywgTGludXgsIFdpbmRvd3MgUGhvbmUsIEFuZHJvaWQsIElPUywgSFRNTCwgQ1NTLCBJbnRlcm5ldCBFeHBsb3JlciwgT3BlcmEsCgpNb3ppbGxhIEZpcmVmb3gsIEdvb2dsZSBDaHJvbWUsIFNhZmFyaSwgTWljcm9zb2Z0IE9mZmljZSAoNCB5ZWFycyk=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911622465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

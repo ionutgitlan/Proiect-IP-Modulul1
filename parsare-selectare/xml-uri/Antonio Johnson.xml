@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2916356401532"  usageLimitType="allocation" usageLimit="100" currentUsage="83" remainingUsage="17" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Antonio Johnson</FormattedName>
+<GivenName>Antonio</GivenName>
+<FamilyName>Johnson</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Antonio-Johnson/5e74af49f646c2a1</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>MARLO Incorporated</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Programmer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WI</Region>
+<Municipality>Racine</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Brine tank assembly and valve programming
+</Description>
+<StartDate>
+<AnyDate>2016-08-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Cree</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Dietary Aide</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WI</Region>
+<Municipality>Racine</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>customer service</IndustryDescription></OrgIndustry>
+<Description>CHI Franciscan villa - Food preparation, Food service, Dish washing, Customer service, Stocking Shipping and Receiving Worker
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Cleaner/Maintenance</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WI</Region>
+<Municipality>Racine</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Responsibilities: loading/unloading packing picking material handling finished good putaways. cleanpower -
+</Description>
+<StartDate>
+<AnyDate>2014-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>QPS Staffing</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Warehouse Associate</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WI</Region>
+<Municipality>Sturtevant</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Responsibilities: General cleaning training
+</Description>
+<StartDate>
+<AnyDate>2013-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>data entry</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WI</Region>
+<Municipality>Muskego</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>data entry</IndustryDescription></OrgIndustry>
+<Description>Assembly packing Warehouse Associate We care recycling -
+</Description>
+<StartDate>
+<AnyDate>2012-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Picking</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>data entry</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WI</Region>
+<Municipality>Muskego</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>data entry</IndustryDescription></OrgIndustry>
+<Description>Unloading shipping data entry
+</Description>
+<StartDate>
+<AnyDate>2012-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Warehouse Associate</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WI</Region>
+<Municipality>Sturtevant</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Talent bridge/Goodwill - *Assembly, material handling, Packing, Labeling
+</Description>
+<StartDate>
+<AnyDate>2009-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Carthage College</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>WI</Region>
+<Municipality>Kenosha</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>High School Diploma</DegreeName>
+<DegreeDate>
+<AnyDate>2008-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Business</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>William Horlick High School</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>WI</Region>
+<Municipality>Racine</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>advance placement/ general studies</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Data Entry">
+<CompetencyId description="HireAbility taxonomy" id="4786" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Data Entry" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Food Service">
+<CompetencyId description="HireAbility taxonomy" id="14571" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Food Service" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Forklift">
+<CompetencyId description="HireAbility taxonomy" id="16178" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Forklift">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Forklift Operator">
+<CompetencyId description="HireAbility taxonomy" id="15898" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Forklift Operator">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Material Handling">
+<CompetencyId description="HireAbility taxonomy" id="15113" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Material Handling" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW50b25pbyBKb2huc29uCgpkZXRlcm1pbmVkLCB0ZWFtIHBsYXllciwgbGVhZGVyCgpSYWNpbmUsIFdJIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQW50b25pby1Kb2huc29uLzVlNzRhZjQ5ZjY0NmMyYTEKClRvIG9idGFpbiBlbXBsb3ltZW50IHdoZXJlIEkgY2FuIGdyb3cgYW5kIGFkdmFuY2UKCkF1dGhvcml6ZWQgdG8gd29yayBpbiB0aGUgVVMgZm9yIGFueSBlbXBsb3llcgoKV09SSyBFWFBFUklFTkNFCgpQcm9ncmFtbWVyCgpNQVJMTyBJbmNvcnBvcmF0ZWQgLSBSYWNpbmUsIFdJIC0gQXVndXN0IDIwMTYgdG8gUHJlc2VudAoKQnJpbmUgdGFuayBhc3NlbWJseSBhbmQgdmFsdmUgcHJvZ3JhbW1pbmcKCkRpZXRhcnkgQWlkZQoKQ0hJIEZyYW5jaXNjYW4gdmlsbGEgLSBTb3V0aCBNaWx3YXVrZWUsIFdJIC0gSmFudWFyeSAyMDE2IHRvIEF1Z3VzdCAyMDE2CgpGb29kIHByZXBhcmF0aW9uLCBGb29kIHNlcnZpY2UsIERpc2ggd2FzaGluZywgQ3VzdG9tZXIgc2VydmljZSwgU3RvY2tpbmcKClNoaXBwaW5nIGFuZCBSZWNlaXZpbmcgV29ya2VyCgpDcmVlIC0gUmFjaW5lLCBXSSAtIEp1bHkgMjAxNCB0byBKYW51YXJ5IDIwMTYKClJlc3BvbnNpYmlsaXRpZXM6IGxvYWRpbmcvdW5sb2FkaW5nLCBwYWNraW5nLCBwaWNraW5nLCBtYXRlcmlhbCBoYW5kbGluZywgZmluaXNoZWQgZ29vZCBwdXRhd2F5cy4KCkNsZWFuZXIvTWFpbnRlbmFuY2UKCmNsZWFucG93ZXIgLSBSYWNpbmUsIFdJIC0gT2N0b2JlciAyMDEzIHRvIEp1bHkgMjAxNAoKUmVzcG9uc2liaWxpdGllczogR2VuZXJhbCBjbGVhbmluZywgdHJhaW5pbmcKCldhcmVob3VzZSBBc3NvY2lhdGUKClFQUyBTdGFmZmluZyAtIFN0dXJ0ZXZhbnQsIFdJIC0gSnVseSAyMDEyIHRvIE9jdG9iZXIgMjAxMwoKQXNzZW1ibHksIHBhY2tpbmcsIGRhdGEgZW50cnkKCldhcmVob3VzZSBBc3NvY2lhdGUKCldlIGNhcmUgcmVjeWNsaW5nIC0gTXVza2VnbywgV0kgLSBBdWd1c3QgMjAxMiB0byBNYXkgMjAxMwoKUGlja2luZywgVW5sb2FkaW5nLCBzaGlwcGluZywgZGF0YSBlbnRyeQoKV2FyZWhvdXNlIEFzc29jaWF0ZQoKVGFsZW50IGJyaWRnZS9Hb29kd2lsbCAtIFN0dXJ0ZXZhbnQsIFdJIC0gSnVseSAyMDA5IHRvIEF1Z3VzdCAyMDExCgoqQXNzZW1ibHksIG1hdGVyaWFsIGhhbmRsaW5nLCBQYWNraW5nLCBMYWJlbGluZwoKRURVQ0FUSU9OCgpCdXNpbmVzcwoKQ2FydGhhZ2UgQ29sbGVnZSAtIEtlbm9zaGEsIFdJCgoyMDA3IHRvIDIwMDgKCkhpZ2ggU2Nob29sIERpcGxvbWEgaW4gYWR2YW5jZSBwbGFjZW1lbnQvIGdlbmVyYWwgc3R1ZGllcwoKV2lsbGlhbSBIb3JsaWNrIEhpZ2ggU2Nob29sIC0gUmFjaW5lLCBXSQoKMjAwNCB0byAyMDA3CgpTS0lMTFMKCkZvcmtsaWZ0IE9wZXJhdG9yICgyIHllYXJzKQ==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916356401532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2914000501532"  usageLimitType="allocation" usageLimit="100" currentUsage="84" remainingUsage="16" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Antony Gilbert</FormattedName>
+<GivenName>Antony</GivenName>
+<FamilyName>Gilbert</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Antony-Gilbert/c1cf393c3c4bb9e0</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>PROFESSIONAL SUMMARY *Around 3 years of experience in Manual Testing *Experience in Designing and Execution of Test Cases to ensure application functionality *Harness proficient skills in writing, reviewing and executing test cases as per the client requirements *Good experience in analyzing changes and identifying areas of the application to be regression tested *Interacting with Developers and Designers for assisting them in Simulation of Defects *Ability to handle multiple tasks and work independently as well as in a team *Experience in Functional, Exploratory, Accessibility, Integration and System Testing. *Performed Integration Testing, Regression Testing, Browser Compatibility Testing *Expertise in Mobile Application Testing, UAT and Product testing *Posses good knowledge on SDLC and STLC *Ability in handling Defect Tracking and Defect reporting *Having an immense experience in customer service</ExecutiveSummary>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>QualiTest UK</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>TEST ANALYST</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Project 1: EE's Transmission Evolution Project This project was initiated to evolve and consolidate the legacy Orange and T-Mobile transport network into a single network that is able to support the introduction of new, evolutionof existing network, as well as meeting the growing tranport requirements of the scalability and reliability. * Performed static testing on BRS and associated design documents * Captured defects in Quality Centre and prioritising their resolution * Running defects reports from Quality Centre and reporting status to the test manager * Created test cases in Quality Centre and linking to the requirements * Supplier governance and control - reviewing test artefacts from suppliers and ensuring control gates completed prior to testing and the completion of testing execution. Project 2: EE's Enterprise Fixed Mobile Convergence This project was proposed to integrate mobile devices in the corporate telephony environment to provide flexible and cost effective solution. Mobile devices can be integrated with PBX/IP within corporate network and act as a standard extension to PBX/IP functionality to the handset. * Creating Test Cases and collecting Test data based on the requirements for running various phases of the project * Ran UAT/Regression Pack on various functionalities * Captured defects in Quality Centre and prioritising their resolution * Attended defect triage meeting with various team (U.K, Israel. India and China) * Running defects reports from Quality Centre and reporting status to the test manager * Creating test cases in Quality Centre and linking to the requirements * Creating Test Exit report to give a project overview. Project 2: EE's Eleven This project was inititated to test the portal in the mobile handset using various bandwidth services like 2G, 3G and 4G and also to bring an intelligence report on data processing using these networks. * Creating Test Cases and collecting Test data based on the requirements for running various phases of the project * Ran UAT/Regression Pack on various functionalities * Captured defects in Quality Centre and prioritising their resolution * Running defects reports from Quality Centre and reporting status to the test manager * Created report for data processing on comparing the various services (2G, 3G & 4G)
+</Description>
+<StartDate>
+<AnyDate>2012-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Pertinent Cyber Solutions (P) Ltd</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>TEST ENGINEER</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>India Project 1: Hospital Management System (HMS) This project was initiated to keep the doctors (providers) and patient demography details. HMS will automate the daily operations of the hospital. This application keeps the full information about the patient record, their provider, billing information, employer and reference physician. * Involved in the preparation of Test Plan * Performed static testing on BRS and associated design documents * Involved in understanding the functional specifications and prepared the test scenarios * Designed and developed Test Cases in Quality Centre and linked to the requirements * Assisted the automated test team in identifying the core testing areas. * Preparation of Requirement Traceability Matrix * Performed Functional and Regression testing as per the requirement * Executed test cases and analyzed Test results * Logged and managed defects in Quality Centre * Participated in peer and group reviews * Attended weekly status meeting with the development team Project 2: BetRepublic Bet Republic is a Social Networking site where user scan focuses on building online communities of people who share interests, activities and/or exploring information about the Online Betting and Games. Here User scan share their views by uploading Images/Videos to his/teammates account. * Involved in reviewing the developed test cases * Designed and developed Test Cases according to the scenarios for further enhancement * Performed functional and regression testing on various modules * Executed Test cases from Quality Centre and logged the defects * Interacting with the development team for defects closure * Creating daily execution summary reports to the test manager Project 3: Inn Logs This project was initiated to keep track of all operations in the hotel/resort, including guest information maintenance for booking, their stay periods, expenses and all other account can be maintained systematically. It also performs calculation facility for billings. * Developed Test Cases in Quality Centre and linked to the requirements * Worked with BA's to understand the business requiremensts * Executed test cases and analyzed Test results * Logged and managed defects in Quality Centre * Assisted the automated test team in identifying the core testing areas. * Interacting with the development team for defects closure * Performed Functional and Regression testing as per the requirement * Attended weekly status meeting with the development team
+</Description>
+<StartDate>
+<AnyDate>2011-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>TEST ENGINEER</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>India Project 1: Health Insurance This project was developed to give production support and the system enhancement for the business change requirements. This provides the employers to choose the correct coverage by analysing the employer requirement and also it provides support for the billing, admin, invoice and renewal process * Involved in identifying the functionality of the Client requirements * Creation and execution of Test cases, by identifying the test scenarios * Peer review of test scripts * Involved in Functional and End to End * Captured results in Quality Centre and logged the defects Project 2: iNetwork Project Santech Solution Inc ahs developed a Credentialing Software Solution termed as iNetwork. This web based application helps providers of healthcare services to manage the credentialing process better. * Involved in System Study and in identifying the testable requirements * Writing and Execution of Test Cases * Reviewing and modifying the Test Cases * Performed Functional and Exploratory Testing * Captured the result in Quality Centre and logged the defects * Reporting daily status to the Test Manager * Sharing the testing knowledge and experience with the team members * Attending meetings to discuss defects and other issues Project 3: Business Specification Portal The Business Web Self Service site (aka BSP) provides Medium and Corporate business customers with online capabilities for the management of their existing subscriptions and the placing of additional equipment orders. * Execution of Test Cases * Writing test cases for the enhancement made * Carried out Functional, Exploratory and Regression Testing * Attending meetings to discuss defects and other issues. * Logged and managed defects in Quality Centre
+</Description>
+<StartDate>
+<AnyDate>2008-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Sutherland Global Services</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>TECHNICAL SUPPORT EXECUTIVE</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Process: McAfee, INDIA * Worked in McAfee Virus Removal Team and served the North American customers to remove the viruses from customer computers * Good team working skills gained through working in a 15 member group, through presenting and sharing the knowledge about the removal of computer virus * Being a group leader for a team of 6 my work deals with submitting the report to the team leader, where I acquired an excellent team building and mentoring skills * Broadened excellent communication and marketing skills in this role by servicing and selling the McAfee products to the customers, whilst maintain a good rapport with them * Sutherland Global Services: Awarded the "Bravo Rookie" for the 4th quarter for my exemplary performance and surpassing my targets.
+</Description>
+<StartDate>
+<AnyDate>2008-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>THE UNIVERSITY OF MANCHESTER</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>Manchester</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>MSc</DegreeName>
+<DegreeDate>
+<AnyDate>2011-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>COMPUTER SCIENCE AND IT MANAGEMENT</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>BHARATHIAR UNIVERSITY</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>BSc</DegreeName>
+<DegreeDate>
+<AnyDate>2008-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>COMPUTER SCIENCE</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Apple MacIntosh Operating System">
+<CompetencyId description="HireAbility taxonomy" id="5364" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Apple MacIntosh Operating System">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Applications">
+<CompetencyId description="HireAbility taxonomy" id="2" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Applications" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Billing">
+<CompetencyId description="HireAbility taxonomy" id="1819" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Billing" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4317" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Customer Service">
+<CompetencyId description="HireAbility taxonomy" id="91" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Customer Service">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Data Processing">
+<CompetencyId description="HireAbility taxonomy" id="15872" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Data Processing" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Defect Tracking">
+<CompetencyId description="HireAbility taxonomy" id="12347" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Defect Tracking">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Design Documents">
+<CompetencyId description="HireAbility taxonomy" id="12353" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Design Documents" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Global System for Mobile Communications (GSM)">
+<CompetencyId description="HireAbility taxonomy" id="6006" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Global System for Mobile Communications (GSM)">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Handset">
+<CompetencyId description="HireAbility taxonomy" id="9349" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Handset" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Health Care Industry">
+<CompetencyId description="HireAbility taxonomy" id="4962" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Health Care Industry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Health Insurance">
+<CompetencyId description="HireAbility taxonomy" id="10123" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Health Insurance" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HP">
+<CompetencyId description="HireAbility taxonomy" id="161" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HP">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HyperText Markup Language">
+<CompetencyId description="HireAbility taxonomy" id="5174" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HyperText Markup Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Insurance">
+<CompetencyId description="HireAbility taxonomy" id="1985" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Insurance" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Integrate">
+<CompetencyId description="HireAbility taxonomy" id="4712" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Integrate">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Integration Testing">
+<CompetencyId description="HireAbility taxonomy" id="11588" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Integration Testing">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Legacy">
+<CompetencyId description="HireAbility taxonomy" id="1676" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Legacy" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Manual Testing">
+<CompetencyId description="HireAbility taxonomy" id="26004" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Manual Testing">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Mcafee (Virus Control)">
+<CompetencyId description="HireAbility taxonomy" id="2039" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Mcafee (Virus Control)" lastUsed="2008-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Access">
+<CompetencyId description="HireAbility taxonomy" id="250" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Access">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Excel">
+<CompetencyId description="HireAbility taxonomy" id="252" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Excel">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft PowerPoint">
+<CompetencyId description="HireAbility taxonomy" id="260" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft PowerPoint">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows 7">
+<CompetencyId description="HireAbility taxonomy" id="17802" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows 7">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows XP">
+<CompetencyId description="HireAbility taxonomy" id="4482" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows XP">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Word">
+<CompetencyId description="HireAbility taxonomy" id="266" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Word">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Networking">
+<CompetencyId description="HireAbility taxonomy" id="8" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Networking" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Operating Systems">
+<CompetencyId description="HireAbility taxonomy" id="9" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Operating Systems">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Pbx">
+<CompetencyId description="HireAbility taxonomy" id="312" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Pbx" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Programming">
+<CompetencyId description="HireAbility taxonomy" id="10" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Programming">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Programming Languages">
+<CompetencyId description="HireAbility taxonomy" id="10962" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Programming Languages">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality">
+<CompetencyId description="HireAbility taxonomy" id="19259" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality Assurance">
+<CompetencyId description="HireAbility taxonomy" id="2163" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality Assurance">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Regression Testing">
+<CompetencyId description="HireAbility taxonomy" id="11592" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Regression Testing" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Reliability">
+<CompetencyId description="HireAbility taxonomy" id="9333" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Reliability" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="SDLC">
+<CompetencyId description="HireAbility taxonomy" id="371" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="SDLC">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software Testing">
+<CompetencyId description="HireAbility taxonomy" id="6550" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software Testing">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Spss (Math/Stats Pkg)">
+<CompetencyId description="HireAbility taxonomy" id="2240" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Spss (Math/Stats Pkg)">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Structured Query Language">
+<CompetencyId description="HireAbility taxonomy" id="4806" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Structured Query Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support" lastUsed="2008-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="System Testing">
+<CompetencyId description="HireAbility taxonomy" id="11593" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="System Testing">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Technical Support">
+<CompetencyId description="HireAbility taxonomy" id="416" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Technical Support" lastUsed="2008-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Telecommunications">
+<CompetencyId description="HireAbility taxonomy" id="2270" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Telecommunications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Telephony">
+<CompetencyId description="HireAbility taxonomy" id="2271" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Telephony" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test">
+<CompetencyId description="HireAbility taxonomy" id="4723" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test Cases">
+<CompetencyId description="HireAbility taxonomy" id="13557" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test Cases" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test Plan">
+<CompetencyId description="HireAbility taxonomy" id="13563" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test Plan" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test Scripts">
+<CompetencyId description="HireAbility taxonomy" id="6609" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test Scripts" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Testing Knowledge">
+<CompetencyId description="HireAbility taxonomy" id="13573" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Testing Knowledge" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Triage">
+<CompetencyId description="HireAbility taxonomy" id="8132" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Triage" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Vista">
+<CompetencyId description="HireAbility taxonomy" id="8335" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Vista">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Voice Over Internet Protocol">
+<CompetencyId description="HireAbility taxonomy" id="4611" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Voice Over Internet Protocol">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Windows 7">
+<CompetencyId description="HireAbility taxonomy" id="18242" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Windows 7">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Windows Vista">
+<CompetencyId description="HireAbility taxonomy" id="18295" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Windows Vista">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Windows XP">
+<CompetencyId description="HireAbility taxonomy" id="18294" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Windows XP">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW50b255IEdpbGJlcnQKClRFU1QgQU5BTFlTVAoKIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQW50b255LUdpbGJlcnQvYzFjZjM5M2MzYzRiYjllMAoKQSBoaWdobHkgdGFsZW50ZWQgYW5kIGV4cGVyaWVuY2VkIFRlc3QgQW5hbHlzdCB3aXRoIGFyb3VuZCAzIHllYXIgdGVzdGluZyBleHBlcmllbmNlIGxvb2tpbmcgZm9yIGEgY2hhbGxlbmdpbmcKCnByb2plY3RzIHRvIHdvcmsgaW4gYW4gZW1lcmdpbmcgZW52aXJvbm1lbnQuIFdlbGwgb3JnYW5pc2VkIGFuZCByZXN1bHQtb3JpZW50ZWQgdGVhbSBwbGF5ZXIgd2l0aCBhbiBlbmVyZ2V0aWMKCmFuZCBhcnRpY3VsYXRlIGFwcHJvYWNoIHRvIHRlc3RpbmcsIHdpdGggYW4gYWJpbGl0eSB0byBhY3F1aXJlIG5ldyBza2lsbHMgd2l0aGluIHNob3J0IHRpbWUgc2NhbGUsIGFkYXB0IHRvIHJhcGlkbHkKCmNoYW5naW5nIHdvcmsgcHJhY3RpY2VzLCBidWlsZCBhbmQgbWFpbnRhaW4gZXhjZWxsZW50IHdvcmtpbmcgcmVsYXRpb25zaGlwcyB3aXRoIGNsaWVudHMuCgpQUk9GRVNTSU9OQUwgU1VNTUFSWQoKKkFyb3VuZCAzIHllYXJzIG9mIGV4cGVyaWVuY2UgaW4gTWFudWFsIFRlc3RpbmcKCipFeHBlcmllbmNlIGluIERlc2lnbmluZyBhbmQgRXhlY3V0aW9uIG9mIFRlc3QgQ2FzZXMgdG8gZW5zdXJlIGFwcGxpY2F0aW9uIGZ1bmN0aW9uYWxpdHkKCipIYXJuZXNzIHByb2ZpY2llbnQgc2tpbGxzIGluIHdyaXRpbmcsIHJldmlld2luZyBhbmQgZXhlY3V0aW5nIHRlc3QgY2FzZXMgYXMgcGVyIHRoZSBjbGllbnQgcmVxdWlyZW1lbnRzCgoqR29vZCBleHBlcmllbmNlIGluIGFuYWx5emluZyBjaGFuZ2VzIGFuZCBpZGVudGlmeWluZyBhcmVhcyBvZiB0aGUgYXBwbGljYXRpb24gdG8gYmUgcmVncmVzc2lvbiB0ZXN0ZWQKCipJbnRlcmFjdGluZyB3aXRoIERldmVsb3BlcnMgYW5kIERlc2lnbmVycyBmb3IgYXNzaXN0aW5nIHRoZW0gaW4gU2ltdWxhdGlvbiBvZiBEZWZlY3RzCgoqQWJpbGl0eSB0byBoYW5kbGUgbXVsdGlwbGUgdGFza3MgYW5kIHdvcmsgaW5kZXBlbmRlbnRseSBhcyB3ZWxsIGFzIGluIGEgdGVhbQoKKkV4cGVyaWVuY2UgaW4gRnVuY3Rpb25hbCwgRXhwbG9yYXRvcnksIEFjY2Vzc2liaWxpdHksIEludGVncmF0aW9uIGFuZCBTeXN0ZW0gVGVzdGluZy4KCipQZXJmb3JtZWQgSW50ZWdyYXRpb24gVGVzdGluZywgUmVncmVzc2lvbiBUZXN0aW5nLCBCcm93c2VyIENvbXBhdGliaWxpdHkgVGVzdGluZwoKKkV4cGVydGlzZSBpbiBNb2JpbGUgQXBwbGljYXRpb24gVGVzdGluZywgVUFUIGFuZCBQcm9kdWN0IHRlc3RpbmcKCipQb3NzZXMgZ29vZCBrbm93bGVkZ2Ugb24gU0RMQyBhbmQgU1RMQwoKKkFiaWxpdHkgaW4gaGFuZGxpbmcgRGVmZWN0IFRyYWNraW5nIGFuZCBEZWZlY3QgcmVwb3J0aW5nCgoqSGF2aW5nIGFuIGltbWVuc2UgZXhwZXJpZW5jZSBpbiBjdXN0b21lciBzZXJ2aWNlCgoqV29ya2luZyBrbm93bGVkZ2Ugb24gcHJvamVjdHMgZnJvbSBUZWxlY29tLCBIZWFsdGggQ2FyZSBhbmQgSG9zcGl0YWwgTWFuYWdlbWVudAoKKlNpZ25pZmljYW50IG1vYmlsZSB0ZXN0aW5nIGV4cGVyaWVuY2UgaW4gMkcsIDNHIGFuZCA0RyBuZXR3b3JrcwoKKkhhbmRzZXQgdGVzdGluZyBleHBlcmllbmNlIGluIEdTTSwgdXNpbmcgMkcgYW5kIDNHIFNpbXMsIGV4cGVyaWVuY2UgaW4gVk9JUCBhcHBsaWNhdGlvbnMKCipJbnZvbHZlZCBpbiBhbGwgcGhhc2VzIG9mIFNUTEMgLSBmcm9tIHByZXBhcmluZyBUZXN0IFBsYW5zLCBEZXNpZ25pbmcgVGVzdCBTY3JpcHRzLCBFeGVjdXRpb24sIFJlcG9ydGluZwoKYW5kIE1hbmFnaW5nIERlZmVjdHMKCipIaWdobHkgbW90aXZhdGVkIHRlYW0gcGxheWVyIHdpdGggc3Ryb25nIGFuYWx5dGljYWwsIHJlc2VhcmNoLCBwcm9ibGVtIHNvbHZpbmcsIGNvbmNlcHR1YWwgbW9kZWxpbmcsCgpsZWFkZXJzaGlwIGFuZCBleGNlbGxlbnQgY29tbXVuaWNhdGlvbiBza2lsbHMKCipFeHBlcmllbmNlIGluIGRlZmVjdCBtYW5hZ2VtZW50IHRvb2wgSFAncyBRdWFsaXR5IENlbnRyZQoKS0VZIEkuVC4gU0tJTExTCgoqIFByb2dyYW1taW5nIExhbmd1YWdlczogQywgQysrLCBKYXZhLCBBcmdvVU1MLCBIVE1MIGFuZCBWaXN1YWwgQmFzaWM1LjAKCiogRGF0YWJhc2VzOiBTUUwsIE1TIEFjY2VzcwoKKiBTb2Z0d2FyZSBUZXN0aW5nOiBGdW5jdGlvbmFsLCBWYWxpZGF0aW9uLCBVc2FiaWxpdHksIEludGVncmF0aW9uLCBSZWdyZXNzaW9uLCBBY2Vzc2liaWxpdHkgYW5kIFVBVAoKKiBUZXN0aW5nIFRlY2huaXF1ZXM6IEJvdW5kYXJ5IFZhbHVlIEFuYWx5c2lzIGFuZCBFcXVpdmFsZW5jZSBQYXJ0aXRpb25pbmcKCiogTWljcm9zb2Z0IFBhY2thZ2VzOiBXb3JkLCBFeGNlbCwgUG93ZXIgcG9pbnQsIElCTSdzIFNQU1MuCgpXT1JLIEVYUEVSSUVOQ0UKClRFU1QgQU5BTFlTVAoKUXVhbGlUZXN0IFVLIC0gTm92ZW1iZXIgMjAxMiB0byBBcHJpbCAyMDEzCgpQcm9qZWN0IDE6IEVFJ3MgVHJhbnNtaXNzaW9uIEV2b2x1dGlvbiBQcm9qZWN0CgpUaGlzIHByb2plY3Qgd2FzIGluaXRpYXRlZCB0byBldm9sdmUgYW5kIGNvbnNvbGlkYXRlIHRoZSBsZWdhY3kgT3JhbmdlIGFuZCBULU1vYmlsZSB0cmFuc3BvcnQgbmV0d29yayBpbnRvIGEKCnNpbmdsZSBuZXR3b3JrIHRoYXQgaXMgYWJsZSB0byBzdXBwb3J0IHRoZSBpbnRyb2R1Y3Rpb24gb2YgbmV3LCBldm9sdXRpb25vZiBleGlzdGluZyBuZXR3b3JrLCBhcyB3ZWxsIGFzIG1lZXRpbmcKCnRoZSBncm93aW5nIHRyYW5wb3J0IHJlcXVpcmVtZW50cyBvZiB0aGUgc2NhbGFiaWxpdHkgYW5kIHJlbGlhYmlsaXR5LgoKKiBQZXJmb3JtZWQgc3RhdGljIHRlc3Rpbmcgb24gQlJTIGFuZCBhc3NvY2lhdGVkIGRlc2lnbiBkb2N1bWVudHMKCiogQ2FwdHVyZWQgZGVmZWN0cyBpbiBRdWFsaXR5IENlbnRyZSBhbmQgcHJpb3JpdGlzaW5nIHRoZWlyIHJlc29sdXRpb24KCiogUnVubmluZyBkZWZlY3RzIHJlcG9ydHMgZnJvbSBRdWFsaXR5IENlbnRyZSBhbmQgcmVwb3J0aW5nIHN0YXR1cyB0byB0aGUgdGVzdCBtYW5hZ2VyCgoqIENyZWF0ZWQgdGVzdCBjYXNlcyBpbiBRdWFsaXR5IENlbnRyZSBhbmQgbGlua2luZyB0byB0aGUgcmVxdWlyZW1lbnRzCgoqIFN1cHBsaWVyIGdvdmVybmFuY2UgYW5kIGNvbnRyb2wgLSByZXZpZXdpbmcgdGVzdCBhcnRlZmFjdHMgZnJvbSBzdXBwbGllcnMgYW5kIGVuc3VyaW5nIGNvbnRyb2wgZ2F0ZXMKCmNvbXBsZXRlZCBwcmlvciB0byB0ZXN0aW5nIGFuZCB0aGUgY29tcGxldGlvbiBvZiB0ZXN0aW5nIGV4ZWN1dGlvbi4KClByb2plY3QgMjogRUUncyBFbnRlcnByaXNlIEZpeGVkIE1vYmlsZSBDb252ZXJnZW5jZQoKVGhpcyBwcm9qZWN0IHdhcyBwcm9wb3NlZCB0byBpbnRlZ3JhdGUgbW9iaWxlIGRldmljZXMgaW4gdGhlIGNvcnBvcmF0ZSB0ZWxlcGhvbnkgZW52aXJvbm1lbnQgdG8gcHJvdmlkZQoKZmxleGlibGUgYW5kIGNvc3QgZWZmZWN0aXZlIHNvbHV0aW9uLiBNb2JpbGUgZGV2aWNlcyBjYW4gYmUgaW50ZWdyYXRlZCB3aXRoIFBCWC9JUCB3aXRoaW4gY29ycG9yYXRlIG5ldHdvcmsgYW5kCgphY3QgYXMgYSBzdGFuZGFyZCBleHRlbnNpb24gdG8gUEJYL0lQIGZ1bmN0aW9uYWxpdHkgdG8gdGhlIGhhbmRzZXQuCgoqIENyZWF0aW5nIFRlc3QgQ2FzZXMgYW5kIGNvbGxlY3RpbmcgVGVzdCBkYXRhIGJhc2VkIG9uIHRoZSByZXF1aXJlbWVudHMgZm9yIHJ1bm5pbmcgdmFyaW91cyBwaGFzZXMgb2YgdGhlCgpwcm9qZWN0CgoqIFJhbiBVQVQvUmVncmVzc2lvbiBQYWNrIG9uIHZhcmlvdXMgZnVuY3Rpb25hbGl0aWVzCgoqIENhcHR1cmVkIGRlZmVjdHMgaW4gUXVhbGl0eSBDZW50cmUgYW5kIHByaW9yaXRpc2luZyB0aGVpciByZXNvbHV0aW9uCgoqIEF0dGVuZGVkIGRlZmVjdCB0cmlhZ2UgbWVldGluZyB3aXRoIHZhcmlvdXMgdGVhbSAoVS5LLCBJc3JhZWwuIEluZGlhIGFuZCBDaGluYSkKCiogUnVubmluZyBkZWZlY3RzIHJlcG9ydHMgZnJvbSBRdWFsaXR5IENlbnRyZSBhbmQgcmVwb3J0aW5nIHN0YXR1cyB0byB0aGUgdGVzdCBtYW5hZ2VyCgoqIENyZWF0aW5nIHRlc3QgY2FzZXMgaW4gUXVhbGl0eSBDZW50cmUgYW5kIGxpbmtpbmcgdG8gdGhlIHJlcXVpcmVtZW50cwoKKiBDcmVhdGluZyBUZXN0IEV4aXQgcmVwb3J0IHRvIGdpdmUgYSBwcm9qZWN0IG92ZXJ2aWV3LgoKUHJvamVjdCAyOiBFRSdzIEVsZXZlbgoKVGhpcyBwcm9qZWN0IHdhcyBpbml0aXRhdGVkIHRvIHRlc3QgdGhlIHBvcnRhbCBpbiB0aGUgbW9iaWxlIGhhbmRzZXQgdXNpbmcgdmFyaW91cyBiYW5kd2lkdGggc2VydmljZXMgbGlrZSAyRywKCjNHIGFuZCA0RyBhbmQgYWxzbyB0byBicmluZyBhbiBpbnRlbGxpZ2VuY2UgcmVwb3J0IG9uIGRhdGEgcHJvY2Vzc2luZyB1c2luZyB0aGVzZSBuZXR3b3Jrcy4KCiogQ3JlYXRpbmcgVGVzdCBDYXNlcyBhbmQgY29sbGVjdGluZyBUZXN0IGRhdGEgYmFzZWQgb24gdGhlIHJlcXVpcmVtZW50cyBmb3IgcnVubmluZyB2YXJpb3VzIHBoYXNlcyBvZiB0aGUKCnByb2plY3QKCiogUmFuIFVBVC9SZWdyZXNzaW9uIFBhY2sgb24gdmFyaW91cyBmdW5jdGlvbmFsaXRpZXMKCiogQ2FwdHVyZWQgZGVmZWN0cyBpbiBRdWFsaXR5IENlbnRyZSBhbmQgcHJpb3JpdGlzaW5nIHRoZWlyIHJlc29sdXRpb24KCiogUnVubmluZyBkZWZlY3RzIHJlcG9ydHMgZnJvbSBRdWFsaXR5IENlbnRyZSBhbmQgcmVwb3J0aW5nIHN0YXR1cyB0byB0aGUgdGVzdCBtYW5hZ2VyCgoqIENyZWF0ZWQgcmVwb3J0IGZvciBkYXRhIHByb2Nlc3Npbmcgb24gY29tcGFyaW5nIHRoZSB2YXJpb3VzIHNlcnZpY2VzICgyRywgM0cgJiA0RykKClRFU1QgRU5HSU5FRVIKClBlcnRpbmVudCBDeWJlciBTb2x1dGlvbnMgKFApIEx0ZCAtIE1heSAyMDExIHRvIFNlcHRlbWJlciAyMDEyCgpJbmRpYQoKUHJvamVjdCAxOiBIb3NwaXRhbCBNYW5hZ2VtZW50IFN5c3RlbSAoSE1TKQoKVGhpcyBwcm9qZWN0IHdhcyBpbml0aWF0ZWQgdG8ga2VlcCB0aGUgZG9jdG9ycyAocHJvdmlkZXJzKSBhbmQgcGF0aWVudCBkZW1vZ3JhcGh5IGRldGFpbHMuIEhNUyB3aWxsIGF1dG9tYXRlCgp0aGUgZGFpbHkgb3BlcmF0aW9ucyBvZiB0aGUgaG9zcGl0YWwuIFRoaXMgYXBwbGljYXRpb24ga2VlcHMgdGhlIGZ1bGwgaW5mb3JtYXRpb24gYWJvdXQgdGhlIHBhdGllbnQgcmVjb3JkLCB0aGVpcgoKcHJvdmlkZXIsIGJpbGxpbmcgaW5mb3JtYXRpb24sIGVtcGxveWVyIGFuZCByZWZlcmVuY2UgcGh5c2ljaWFuLgoKKiBJbnZvbHZlZCBpbiB0aGUgcHJlcGFyYXRpb24gb2YgVGVzdCBQbGFuCgoqIFBlcmZvcm1lZCBzdGF0aWMgdGVzdGluZyBvbiBCUlMgYW5kIGFzc29jaWF0ZWQgZGVzaWduIGRvY3VtZW50cwoKKiBJbnZvbHZlZCBpbiB1bmRlcnN0YW5kaW5nIHRoZSBmdW5jdGlvbmFsIHNwZWNpZmljYXRpb25zIGFuZCBwcmVwYXJlZCB0aGUgdGVzdCBzY2VuYXJpb3MKCiogRGVzaWduZWQgYW5kIGRldmVsb3BlZCBUZXN0IENhc2VzIGluIFF1YWxpdHkgQ2VudHJlIGFuZCBsaW5rZWQgdG8gdGhlIHJlcXVpcmVtZW50cwoKKiBBc3Npc3RlZCB0aGUgYXV0b21hdGVkIHRlc3QgdGVhbSBpbiBpZGVudGlmeWluZyB0aGUgY29yZSB0ZXN0aW5nIGFyZWFzLgoKKiBQcmVwYXJhdGlvbiBvZiBSZXF1aXJlbWVudCBUcmFjZWFiaWxpdHkgTWF0cml4CgoqIFBlcmZvcm1lZCBGdW5jdGlvbmFsIGFuZCBSZWdyZXNzaW9uIHRlc3RpbmcgYXMgcGVyIHRoZSByZXF1aXJlbWVudAoKKiBFeGVjdXRlZCB0ZXN0IGNhc2VzIGFuZCBhbmFseXplZCBUZXN0IHJlc3VsdHMKCiogTG9nZ2VkIGFuZCBtYW5hZ2VkIGRlZmVjdHMgaW4gUXVhbGl0eSBDZW50cmUKCiogUGFydGljaXBhdGVkIGluIHBlZXIgYW5kIGdyb3VwIHJldmlld3MKCiogQXR0ZW5kZWQgd2Vla2x5IHN0YXR1cyBtZWV0aW5nIHdpdGggdGhlIGRldmVsb3BtZW50IHRlYW0KClByb2plY3QgMjogQmV0UmVwdWJsaWMKCkJldCBSZXB1YmxpYyBpcyBhIFNvY2lhbCBOZXR3b3JraW5nIHNpdGUgd2hlcmUgdXNlciBzY2FuIGZvY3VzZXMgb24gYnVpbGRpbmcgb25saW5lIGNvbW11bml0aWVzIG9mIHBlb3BsZQoKd2hvIHNoYXJlIGludGVyZXN0cywgYWN0aXZpdGllcyBhbmQvb3IgZXhwbG9yaW5nIGluZm9ybWF0aW9uIGFib3V0IHRoZSBPbmxpbmUgQmV0dGluZyBhbmQgR2FtZXMuIEhlcmUgVXNlcgoKc2NhbiBzaGFyZSB0aGVpciB2aWV3cyBieSB1cGxvYWRpbmcgSW1hZ2VzL1ZpZGVvcyB0byBoaXMvdGVhbW1hdGVzIGFjY291bnQuCgoqIEludm9sdmVkIGluIHJldmlld2luZyB0aGUgZGV2ZWxvcGVkIHRlc3QgY2FzZXMKCiogRGVzaWduZWQgYW5kIGRldmVsb3BlZCBUZXN0IENhc2VzIGFjY29yZGluZyB0byB0aGUgc2NlbmFyaW9zIGZvciBmdXJ0aGVyIGVuaGFuY2VtZW50CgoqIFBlcmZvcm1lZCBmdW5jdGlvbmFsIGFuZCByZWdyZXNzaW9uIHRlc3Rpbmcgb24gdmFyaW91cyBtb2R1bGVzCgoqIEV4ZWN1dGVkIFRlc3QgY2FzZXMgZnJvbSBRdWFsaXR5IENlbnRyZSBhbmQgbG9nZ2VkIHRoZSBkZWZlY3RzCgoqIEludGVyYWN0aW5nIHdpdGggdGhlIGRldmVsb3BtZW50IHRlYW0gZm9yIGRlZmVjdHMgY2xvc3VyZQoKKiBDcmVhdGluZyBkYWlseSBleGVjdXRpb24gc3VtbWFyeSByZXBvcnRzIHRvIHRoZSB0ZXN0IG1hbmFnZXIKClByb2plY3QgMzogSW5uIExvZ3MKClRoaXMgcHJvamVjdCB3YXMgaW5pdGlhdGVkIHRvIGtlZXAgdHJhY2sgb2YgYWxsIG9wZXJhdGlvbnMgaW4gdGhlIGhvdGVsL3Jlc29ydCwgaW5jbHVkaW5nIGd1ZXN0IGluZm9ybWF0aW9uCgptYWludGVuYW5jZSBmb3IgYm9va2luZywgdGhlaXIgc3RheSBwZXJpb2RzLCBleHBlbnNlcyBhbmQgYWxsIG90aGVyIGFjY291bnQgY2FuIGJlIG1haW50YWluZWQgc3lzdGVtYXRpY2FsbHkuCgpJdCBhbHNvIHBlcmZvcm1zIGNhbGN1bGF0aW9uIGZhY2lsaXR5IGZvciBiaWxsaW5ncy4KCiogRGV2ZWxvcGVkIFRlc3QgQ2FzZXMgaW4gUXVhbGl0eSBDZW50cmUgYW5kIGxpbmtlZCB0byB0aGUgcmVxdWlyZW1lbnRzCgoqIFdvcmtlZCB3aXRoIEJBJ3MgdG8gdW5kZXJzdGFuZCB0aGUgYnVzaW5lc3MgcmVxdWlyZW1lbnN0cwoKKiBFeGVjdXRlZCB0ZXN0IGNhc2VzIGFuZCBhbmFseXplZCBUZXN0IHJlc3VsdHMKCiogTG9nZ2VkIGFuZCBtYW5hZ2VkIGRlZmVjdHMgaW4gUXVhbGl0eSBDZW50cmUKCiogQXNzaXN0ZWQgdGhlIGF1dG9tYXRlZCB0ZXN0IHRlYW0gaW4gaWRlbnRpZnlpbmcgdGhlIGNvcmUgdGVzdGluZyBhcmVhcy4KCiogSW50ZXJhY3Rpbmcgd2l0aCB0aGUgZGV2ZWxvcG1lbnQgdGVhbSBmb3IgZGVmZWN0cyBjbG9zdXJlCgoqIFBlcmZvcm1lZCBGdW5jdGlvbmFsIGFuZCBSZWdyZXNzaW9uIHRlc3RpbmcgYXMgcGVyIHRoZSByZXF1aXJlbWVudAoKKiBBdHRlbmRlZCB3ZWVrbHkgc3RhdHVzIG1lZXRpbmcgd2l0aCB0aGUgZGV2ZWxvcG1lbnQgdGVhbQoKVEVTVCBFTkdJTkVFUgoKUGVydGluZW50IEN5YmVyIFNvbHV0aW9ucyAoUCkgTHRkIC0gRGVjZW1iZXIgMjAwOCB0byBBdWd1c3QgMjAwOQoKSW5kaWEKClByb2plY3QgMTogSGVhbHRoIEluc3VyYW5jZQoKVGhpcyBwcm9qZWN0IHdhcyBkZXZlbG9wZWQgdG8gZ2l2ZSBwcm9kdWN0aW9uIHN1cHBvcnQgYW5kIHRoZSBzeXN0ZW0gZW5oYW5jZW1lbnQgZm9yIHRoZSBidXNpbmVzcwoKY2hhbmdlIHJlcXVpcmVtZW50cy4gVGhpcyBwcm92aWRlcyB0aGUgZW1wbG95ZXJzIHRvIGNob29zZSB0aGUgY29ycmVjdCBjb3ZlcmFnZSBieSBhbmFseXNpbmcgdGhlIGVtcGxveWVyCgpyZXF1aXJlbWVudCBhbmQgYWxzbyBpdCBwcm92aWRlcyBzdXBwb3J0IGZvciB0aGUgYmlsbGluZywgYWRtaW4sIGludm9pY2UgYW5kIHJlbmV3YWwgcHJvY2VzcwoKKiBJbnZvbHZlZCBpbiBpZGVudGlmeWluZyB0aGUgZnVuY3Rpb25hbGl0eSBvZiB0aGUgQ2xpZW50IHJlcXVpcmVtZW50cwoKKiBDcmVhdGlvbiBhbmQgZXhlY3V0aW9uIG9mIFRlc3QgY2FzZXMsIGJ5IGlkZW50aWZ5aW5nIHRoZSB0ZXN0IHNjZW5hcmlvcwoKKiBQZWVyIHJldmlldyBvZiB0ZXN0IHNjcmlwdHMKCiogSW52b2x2ZWQgaW4gRnVuY3Rpb25hbCBhbmQgRW5kIHRvIEVuZAoKKiBDYXB0dXJlZCByZXN1bHRzIGluIFF1YWxpdHkgQ2VudHJlIGFuZCBsb2dnZWQgdGhlIGRlZmVjdHMKClByb2plY3QgMjogaU5ldHdvcmsgUHJvamVjdAoKU2FudGVjaCBTb2x1dGlvbiBJbmMgYWhzIGRldmVsb3BlZCBhIENyZWRlbnRpYWxpbmcgU29mdHdhcmUgU29sdXRpb24gdGVybWVkIGFzIGlOZXR3b3JrLiBUaGlzIHdlYiBiYXNlZAoKYXBwbGljYXRpb24gaGVscHMgcHJvdmlkZXJzIG9mIGhlYWx0aGNhcmUgc2VydmljZXMgdG8gbWFuYWdlIHRoZSBjcmVkZW50aWFsaW5nIHByb2Nlc3MgYmV0dGVyLgoKKiBJbnZvbHZlZCBpbiBTeXN0ZW0gU3R1ZHkgYW5kIGluIGlkZW50aWZ5aW5nIHRoZSB0ZXN0YWJsZSByZXF1aXJlbWVudHMKCiogV3JpdGluZyBhbmQgRXhlY3V0aW9uIG9mIFRlc3QgQ2FzZXMKCiogUmV2aWV3aW5nIGFuZCBtb2RpZnlpbmcgdGhlIFRlc3QgQ2FzZXMKCiogUGVyZm9ybWVkIEZ1bmN0aW9uYWwgYW5kIEV4cGxvcmF0b3J5IFRlc3RpbmcKCiogQ2FwdHVyZWQgdGhlIHJlc3VsdCBpbiBRdWFsaXR5IENlbnRyZSBhbmQgbG9nZ2VkIHRoZSBkZWZlY3RzCgoqIFJlcG9ydGluZyBkYWlseSBzdGF0dXMgdG8gdGhlIFRlc3QgTWFuYWdlcgoKKiBTaGFyaW5nIHRoZSB0ZXN0aW5nIGtub3dsZWRnZSBhbmQgZXhwZXJpZW5jZSB3aXRoIHRoZSB0ZWFtIG1lbWJlcnMKCiogQXR0ZW5kaW5nIG1lZXRpbmdzIHRvIGRpc2N1c3MgZGVmZWN0cyBhbmQgb3RoZXIgaXNzdWVzCgpQcm9qZWN0IDM6IEJ1c2luZXNzIFNwZWNpZmljYXRpb24gUG9ydGFsCgpUaGUgQnVzaW5lc3MgV2ViIFNlbGYgU2VydmljZSBzaXRlIChha2EgQlNQKSBwcm92aWRlcyBNZWRpdW0gYW5kIENvcnBvcmF0ZSBidXNpbmVzcyBjdXN0b21lcnMgd2l0aCBvbmxpbmUKCmNhcGFiaWxpdGllcyBmb3IgdGhlIG1hbmFnZW1lbnQgb2YgdGhlaXIgZXhpc3Rpbmcgc3Vic2NyaXB0aW9ucyBhbmQgdGhlIHBsYWNpbmcgb2YgYWRkaXRpb25hbCBlcXVpcG1lbnQgb3JkZXJzLgoKKiBFeGVjdXRpb24gb2YgVGVzdCBDYXNlcwoKKiBXcml0aW5nIHRlc3QgY2FzZXMgZm9yIHRoZSBlbmhhbmNlbWVudCBtYWRlCgoqIENhcnJpZWQgb3V0IEZ1bmN0aW9uYWwsIEV4cGxvcmF0b3J5IGFuZCBSZWdyZXNzaW9uIFRlc3RpbmcKCiogQXR0ZW5kaW5nIG1lZXRpbmdzIHRvIGRpc2N1c3MgZGVmZWN0cyBhbmQgb3RoZXIgaXNzdWVzLgoKKiBMb2dnZWQgYW5kIG1hbmFnZWQgZGVmZWN0cyBpbiBRdWFsaXR5IENlbnRyZQoKVEVDSE5JQ0FMIFNVUFBPUlQgRVhFQ1VUSVZFCgpTdXRoZXJsYW5kIEdsb2JhbCBTZXJ2aWNlcyAtIEp1bmUgMjAwOCB0byBOb3ZlbWJlciAyMDA4CgpQcm9jZXNzOiBNY0FmZWUsIElORElBCgoqIFdvcmtlZCBpbiBNY0FmZWUgVmlydXMgUmVtb3ZhbCBUZWFtIGFuZCBzZXJ2ZWQgdGhlIE5vcnRoIEFtZXJpY2FuIGN1c3RvbWVycyB0byByZW1vdmUgdGhlIHZpcnVzZXMKCmZyb20gY3VzdG9tZXIgY29tcHV0ZXJzCgoqIEdvb2QgdGVhbSB3b3JraW5nIHNraWxscyBnYWluZWQgdGhyb3VnaCB3b3JraW5nIGluIGEgMTUgbWVtYmVyIGdyb3VwLCB0aHJvdWdoIHByZXNlbnRpbmcgYW5kIHNoYXJpbmcgdGhlCgprbm93bGVkZ2UgYWJvdXQgdGhlIHJlbW92YWwgb2YgY29tcHV0ZXIgdmlydXMKCiogQmVpbmcgYSBncm91cCBsZWFkZXIgZm9yIGEgdGVhbSBvZiA2IG15IHdvcmsgZGVhbHMgd2l0aCBzdWJtaXR0aW5nIHRoZSByZXBvcnQgdG8gdGhlIHRlYW0gbGVhZGVyLCB3aGVyZSBJCgphY3F1aXJlZCBhbiBleGNlbGxlbnQgdGVhbSBidWlsZGluZyBhbmQgbWVudG9yaW5nIHNraWxscwoKKiBCcm9hZGVuZWQgZXhjZWxsZW50IGNvbW11bmljYXRpb24gYW5kIG1hcmtldGluZyBza2lsbHMgaW4gdGhpcyByb2xlIGJ5IHNlcnZpY2luZyBhbmQgc2VsbGluZyB0aGUgTWNBZmVlCgpwcm9kdWN0cyB0byB0aGUgY3VzdG9tZXJzLCB3aGlsc3QgbWFpbnRhaW4gYSBnb29kIHJhcHBvcnQgd2l0aCB0aGVtCgoqIFN1dGhlcmxhbmQgR2xvYmFsIFNlcnZpY2VzOiBBd2FyZGVkIHRoZSAiQnJhdm8gUm9va2llIiBmb3IgdGhlIDR0aCBxdWFydGVyIGZvciBteSBleGVtcGxhcnkgcGVyZm9ybWFuY2UKCmFuZCBzdXJwYXNzaW5nIG15IHRhcmdldHMuCgpFRFVDQVRJT04KCk1TYyBpbiBDT01QVVRFUiBTQ0lFTkNFIEFORCBJVCBNQU5BR0VNRU5UCgpUSEUgVU5JVkVSU0lUWSBPRiBNQU5DSEVTVEVSIC0gTWFuY2hlc3RlcgoKMjAwOSB0byAyMDExCgpCU2MgaW4gQ09NUFVURVIgU0NJRU5DRQoKQkhBUkFUSElBUiBVTklWRVJTSVRZCgoyMDA1IHRvIDIwMDgKClNLSUxMUwoKS0VZIEkuVC4gU0tJTExTICogUHJvZ3JhbW1pbmcgTGFuZ3VhZ2VzOiBDLCBDKyssIEphdmEsIEFyZ29VTUwsIEhUTUwgYW5kIFZpc3VhbCBCYXNpYzUuMCAqCgpEYXRhYmFzZXM6IFNRTCwgTVMgQWNjZXNzICogU29mdHdhcmUgVGVzdGluZzogRnVuY3Rpb25hbCwgVmFsaWRhdGlvbiwgVXNhYmlsaXR5LCBJbnRlZ3JhdGlvbiwgUmVncmVzc2lvbiwKCkFjZXNzaWJpbGl0eSBhbmQgVUFUICogVGVzdGluZyBUZWNobmlxdWVzOiBCb3VuZGFyeSBWYWx1ZSBBbmFseXNpcyBhbmQgRXF1aXZhbGVuY2UgUGFydGl0aW9uaW5nICoKCk1pY3Jvc29mdCBQYWNrYWdlczogV29yZCwgRXhjZWwsIFBvd2VyIHBvaW50LCBJQk0ncyBTUFNTLiAqIE9wZXJhdGluZyBTeXN0ZW1zOiBXaW5kb3dzIFhQL1Zpc3RhLzcgYW5kCgpNYWNPUyAqIFRlc3RpbmcgVG9vbDogSFAgUXVhbGl0eSBDZW50cmUuCgpBRERJVElPTkFMIElORk9STUFUSU9OCgoqIE9wZXJhdGluZyBTeXN0ZW1zOiBXaW5kb3dzIFhQL1Zpc3RhLzcgYW5kIE1hY09TCgoqIFRlc3RpbmcgVG9vbDogSFAgUXVhbGl0eSBDZW50cmUu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914000501532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2912321465432"  usageLimitType="allocation" usageLimit="100" currentUsage="28" remainingUsage="72" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Akanksha Arora</FormattedName>
+<GivenName>Akanksha</GivenName>
+<FamilyName>Arora</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NJ</Region>
+<Municipality>Jersey City</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Akanksha-Arora/d0ca1d42a1a782ac</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>NJ</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>sales</IndustryDescription></OrgIndustry>
+<Description>mPOS application is an iOS application developed for sales representatives. It is an enterprise-based application. This application helps sales representative to assist customers on different plans, data packages and device plans available. This app keeps track of all plans and lines provided to a customer as well as the offers eligible. It provides an interface for the representatives to manage or shop devices and plans. Responsibilities Created the front-end UI design of the app using UIKit framework primarily, including UITabBarController, UITableView Collection, UINavigationController and Using AutoLayout and NSLayoutConstraint to create proper UI. Used MVC and VIPER design pattern, protocols and delegates to design the application's architecture Used UINavigationController, segue and Delegate designed user interface Use UICollectionView for presenting available devices and utilize UICollection- Delegate and UICollectionLayoutDelegate to implement customized requirements Dynamically updated the UITableview with the JSON data and show the user new events Using UIRefresh Control to refresh and reload UICollectionView Data Used core data for data storage Following Model, View andController paradigm by handling the view frames of all UI components in view controller itself Involved in creating application-compatibility in both portrait, landscape modes for iPad by making use of Auto-Sizing constraints Participated in application testing using in Objective C framework and fixed them thereby contributing for application enhancement Took care of code review code fixes and bug fixes Involved in the requirement gathering, project plan, effort estimations leading to successful product delivery
+</Description>
+<StartDate>
+<AnyDate>2016-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Magic Software Inc</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Analyst</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Worked on variety of iOS apps ranging from interactive games, eTextBook app for iPad and Mac OS X, XAPI and Easy XDM frameworks based Activity apps and real-time classroom polling apps Architected education game engine to deliver highly interactive education games for iPhone and iPad Worked with global publishers including Turning Technologies, Houghton Mifflin, TCM and The Lakeshore Learning. Worked on HTML5 and JS based web projects
+</Description>
+<StartDate>
+<AnyDate>2010-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Hurix Pvt. Ltd.</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Software Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Mumbai
+</Description>
+<StartDate>
+<AnyDate>2010-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Maharashtra</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Responsibilities Worked as a software developer on Adobe Flash and Flex technologies
+</Description>
+<StartDate>
+<AnyDate>2010-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>MCA</DegreeName>
+<DegreeMajor>
+<Name>Computer Science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Adobe">
+<CompetencyId description="HireAbility taxonomy" id="5334" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Apple MacIntosh Operating System">
+<CompetencyId description="HireAbility taxonomy" id="5364" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Apple MacIntosh Operating System" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cellular">
+<CompetencyId description="HireAbility taxonomy" id="75" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cellular">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Code Review">
+<CompetencyId description="HireAbility taxonomy" id="11587" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Code Review" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Coding">
+<CompetencyId description="HireAbility taxonomy" id="6740" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Coding" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hyper Text Markup Language 5">
+<CompetencyId description="HireAbility taxonomy" id="18366" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hyper Text Markup Language 5" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Javascript">
+<CompetencyId description="HireAbility taxonomy" id="211" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Javascript">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Macromedia Flash">
+<CompetencyId description="HireAbility taxonomy" id="246" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Macromedia Flash" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Objective-C">
+<CompetencyId description="HireAbility taxonomy" id="18390" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Objective-C">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Objective-C Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="18577" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Objective-C Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Script">
+<CompetencyId description="HireAbility taxonomy" id="1737" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Script">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Society for Worldwide Interbank Financial Telecommunication">
+<CompetencyId description="HireAbility taxonomy" id="6864" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Society for Worldwide Interbank Financial Telecommunication">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Swift">
+<CompetencyId description="HireAbility taxonomy" id="19296" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Swift">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="UI Design">
+<CompetencyId description="HireAbility taxonomy" id="432" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="UI Design" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="User Interface">
+<CompetencyId description="HireAbility taxonomy" id="13645" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="User Interface" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Wireless">
+<CompetencyId description="HireAbility taxonomy" id="6698" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Wireless">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2015-09-01</StringDate></Date>
+<Description>WOW Award</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2015-09-01</StringDate></Date>
+<Description>It was given for the excellent performance on the eTextBook Application</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2012-07-01</StringDate></Date>
+<Description>Star Performer</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2012-07-01</StringDate></Date>
+<Description>It was given for the performance in the Turning Technology Application</Description>
+</Achievement>
+</Achievements>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QWthbmtzaGEgQXJvcmEKCmlPUyBEZXZlbG9wZXIKCkplcnNleSBDaXR5LCBOSiAtIEVtYWlsIG1lIG9uIEluZGVlZDogaW5kZWVkLmNvbS9yL0FrYW5rc2hhLUFyb3JhL2QwY2ExZDQyYTFhNzgyYWMKCjUrIHllYXJzIG9mIGV4dGVuc2l2ZSBleHBlcmllbmNlIGluIE1vYmlsZSBhcHBsaWNhdGlvbiBkZXZlbG9wbWVudAoKUHJvZmljaWVuY3kgaW4gT2JqZWN0aXZlIEMgYW5kIENvY29hIGV4cGVyaWVuY2UKClByb2ZpY2llbmN5IGluIFVJS2l0LCBGb3VuZGF0aW9uLCBDb3JlIEFuaW1hdGlvbiBhbmQgQ29yZSBHcmFwaGljcwoKUHJvZmljaWVuY3kgaW4gRGVidWdnaW5nLCB0cm91Ymxlc2hvb3RpbmcgYW5kIGlPUyBtZW1vcnkgbWFuYWdlbWVudC4KCkhhbmRzIG9uIGV4cGVyaWVuY2Ugb2YgaU9TIHByb2dyYW1taW5nIGZlYXR1cmVzIGxpa2UgQXV0byBMYXlvdXQsIFN0b3J5Qm9hcmRzLCBOU09wZXJhdGlvbi9OU09wZXJhdGlvbgoKUXVldWVzLCBCbG9ja3MsIEdDRCwgUHJvdG9jb2xzLCBEZWxlZ2F0ZSwgTlNOb3RpZmljYXRpb25DZW50ZXIgZXRjCgpLbm93bGVkZ2Ugb2YgQ29yZSBEYXRhLCBYTUwgcGFyc2luZywgTXVsdGl0aHJlYWRpbmcsIE1hcEtpdCBhbmQgQVBOUwoKRXhwZXJpZW5jZSB3aXRoIEphdmFzY3JpcHQsIGpRdWVyeSwgTm9kZUpTLCBHcnVudCBhbmQgSFRNTDUgdGVjaG5vbG9naWVzCgpFeHBlcmllbmNlIGluIGNvbXBsZXRlIFNvZnR3YXJlIERldmVsb3BtZW50IExpZmUgQ3ljbGUgKFNETEMpIGFuZCBBZ2lsZSBNZXRob2RvbG9naWVzIChTY3J1bSkuCgpFeHBlcmllbmNlIHdpdGggc291cmNlIGNvbnRyb2wgdG9vbHMgbGlrZSBTVk4gYW5kIEpJUkEuCgpCZWdpbm5lciBsZXZlbCBrbm93bGVkZ2Ugb2YgU3dpZnQKCkF1dGhvcml6ZWQgdG8gd29yayBpbiB0aGUgVVMgZm9yIGFueSBlbXBsb3llcgoKV09SSyBFWFBFUklFTkNFCgppT1MKClZlcml6b24gV2lyZWxlc3MgLSBDZWxsdWxhciAmIE1vcmUgLSBUb3duc2hpcCBvZiBXYXJyZW4sIE5KIC0gTm92ZW1iZXIgMjAxNiB0byBGZWJydWFyeSAyMDE3CgptUE9TIGFwcGxpY2F0aW9uIGlzIGFuIGlPUyBhcHBsaWNhdGlvbiBkZXZlbG9wZWQgZm9yIHNhbGVzIHJlcHJlc2VudGF0aXZlcy4gSXQgaXMgYW4gZW50ZXJwcmlzZS1iYXNlZAoKYXBwbGljYXRpb24uIFRoaXMgYXBwbGljYXRpb24gaGVscHMgc2FsZXMgcmVwcmVzZW50YXRpdmUgdG8gYXNzaXN0IGN1c3RvbWVycyBvbiBkaWZmZXJlbnQgcGxhbnMsIGRhdGEgcGFja2FnZXMKCmFuZCBkZXZpY2UgcGxhbnMgYXZhaWxhYmxlLiBUaGlzIGFwcCBrZWVwcyB0cmFjayBvZiBhbGwgcGxhbnMgYW5kIGxpbmVzIHByb3ZpZGVkIHRvIGEgY3VzdG9tZXIgYXMgd2VsbCBhcyB0aGUKCm9mZmVycyBlbGlnaWJsZS4gSXQgcHJvdmlkZXMgYW4gaW50ZXJmYWNlIGZvciB0aGUgcmVwcmVzZW50YXRpdmVzIHRvIG1hbmFnZSBvciBzaG9wIGRldmljZXMgYW5kIHBsYW5zLgoKUmVzcG9uc2liaWxpdGllcwoKQ3JlYXRlZCB0aGUgZnJvbnQtZW5kIFVJIGRlc2lnbiBvZiB0aGUgYXBwIHVzaW5nIFVJS2l0IGZyYW1ld29yayBwcmltYXJpbHksIGluY2x1ZGluZyBVSVRhYkJhckNvbnRyb2xsZXIsCgpVSVRhYmxlVmlldyBDb2xsZWN0aW9uLFVJTmF2aWdhdGlvbkNvbnRyb2xsZXIgYW5kIFVzaW5nIEF1dG9MYXlvdXQgYW5kIE5TTGF5b3V0Q29uc3RyYWludCB0byBjcmVhdGUKCnByb3BlciBVSS4KClVzZWQgTVZDIGFuZCBWSVBFUiBkZXNpZ24gcGF0dGVybiwgcHJvdG9jb2xzIGFuZCBkZWxlZ2F0ZXMgdG8gZGVzaWduIHRoZSBhcHBsaWNhdGlvbidzIGFyY2hpdGVjdHVyZQoKVXNlZCBVSU5hdmlnYXRpb25Db250cm9sbGVyLHNlZ3VlIGFuZCBEZWxlZ2F0ZSBkZXNpZ25lZCB1c2VyIGludGVyZmFjZQoKVXNlIFVJQ29sbGVjdGlvblZpZXcgZm9yIHByZXNlbnRpbmcgYXZhaWxhYmxlIGRldmljZXMgYW5kIHV0aWxpemUgVUlDb2xsZWN0aW9uLQoKRGVsZWdhdGUgYW5kIFVJQ29sbGVjdGlvbkxheW91dERlbGVnYXRlIHRvIGltcGxlbWVudCBjdXN0b21pemVkIHJlcXVpcmVtZW50cwoKRHluYW1pY2FsbHkgdXBkYXRlZCB0aGUgVUlUYWJsZXZpZXcgd2l0aCB0aGUgSlNPTiBkYXRhIGFuZCBzaG93IHRoZSB1c2VyCgpuZXcgZXZlbnRzCgpVc2luZyBVSVJlZnJlc2ggQ29udHJvbCB0byByZWZyZXNoIGFuZCByZWxvYWQgVUlDb2xsZWN0aW9uVmlldyBEYXRhCgpVc2VkIGNvcmUgZGF0YSBmb3IgZGF0YSBzdG9yYWdlCgpGb2xsb3dpbmcgTW9kZWwsVmlldyBhbmRDb250cm9sbGVyIHBhcmFkaWdtIGJ5IGhhbmRsaW5nIHRoZSB2aWV3IGZyYW1lcyBvZiBhbGwKClVJIGNvbXBvbmVudHMgaW4gdmlldyBjb250cm9sbGVyIGl0c2VsZgoKSW52b2x2ZWQgaW4gY3JlYXRpbmcgYXBwbGljYXRpb24tY29tcGF0aWJpbGl0eSBpbiBib3RoIHBvcnRyYWl0LGxhbmRzY2FwZSBtb2RlcyBmb3IKCmlQYWQgYnkgbWFraW5nIHVzZSBvZiBBdXRvLVNpemluZyBjb25zdHJhaW50cwoKUGFydGljaXBhdGVkIGluIGFwcGxpY2F0aW9uIHRlc3RpbmcgdXNpbmcgaW4gT2JqZWN0aXZlIEMgZnJhbWV3b3JrIGFuZCBmaXhlZAoKdGhlbSB0aGVyZWJ5IGNvbnRyaWJ1dGluZyBmb3IgYXBwbGljYXRpb24gZW5oYW5jZW1lbnQKClRvb2sgY2FyZSBvZiBjb2RlIHJldmlldyBjb2RlIGZpeGVzIGFuZCBidWcgZml4ZXMKCkludm9sdmVkIGluIHRoZSByZXF1aXJlbWVudCBnYXRoZXJpbmcsIHByb2plY3QgcGxhbiwgZWZmb3J0IGVzdGltYXRpb25zIGxlYWRpbmcgdG8KCnN1Y2Nlc3NmdWwgcHJvZHVjdCBkZWxpdmVyeQoKQW5hbHlzdAoKTWFnaWMgU29mdHdhcmUgSW5jIC0gU2VwdGVtYmVyIDIwMTAgdG8gTm92ZW1iZXIgMjAxNQoKU2VwIDIwMTAgLSBPY3QgMjAxNQoKV29ya2VkIG9uIHZhcmlldHkgb2YgaU9TIGFwcHMgcmFuZ2luZyBmcm9tIGludGVyYWN0aXZlIGdhbWVzLCBlVGV4dEJvb2sgYXBwIGZvciBpUGFkIGFuZCBNYWMgT1MgWCwgWEFQSQoKYW5kIEVhc3kgWERNIGZyYW1ld29ya3MgYmFzZWQgQWN0aXZpdHkgYXBwcyBhbmQgcmVhbC10aW1lIGNsYXNzcm9vbSBwb2xsaW5nIGFwcHMKCkFyY2hpdGVjdGVkIGVkdWNhdGlvbiBnYW1lIGVuZ2luZSB0byBkZWxpdmVyIGhpZ2hseSBpbnRlcmFjdGl2ZSBlZHVjYXRpb24gZ2FtZXMgZm9yIGlQaG9uZSBhbmQgaVBhZAoKV29ya2VkIHdpdGggZ2xvYmFsIHB1Ymxpc2hlcnMgaW5jbHVkaW5nIFR1cm5pbmcgVGVjaG5vbG9naWVzLCBIb3VnaHRvbiBNaWZmbGluLCBUQ00gYW5kIFRoZSBMYWtlc2hvcmUKCkxlYXJuaW5nLgoKV29ya2VkIG9uIEhUTUw1IGFuZCBKUyBiYXNlZCB3ZWIgcHJvamVjdHMKClNvZnR3YXJlIERldmVsb3BlcgoKSHVyaXggUHZ0LiBMdGQuIC0gTXVtYmFpLCBNYWhhcmFzaHRyYSAtIEFwcmlsIDIwMTAgdG8gU2VwdGVtYmVyIDIwMTAKClJlc3BvbnNpYmlsaXRpZXMKCldvcmtlZCBhcyBhIHNvZnR3YXJlIGRldmVsb3BlciBvbiBBZG9iZSBGbGFzaCBhbmQgRmxleCB0ZWNobm9sb2dpZXMKCkVEVUNBVElPTgoKTUNBIGluIENvbXB1dGVyIFNjaWVuY2UKCkJhbmFzdGhhbGkgVmlkeWFwaXRoIC0gUmFqYXN0aGFuCgoyMDA2IHRvIDIwMDkKClNLSUxMUwoKT2JqZWN0aXZlLUMgKDMgeWVhcnMpLCBTd2lmdCAoTGVzcyB0aGFuIDEgeWVhciksIEphdmFzY3JpcHQsIEhUTUw1IChMZXNzIHRoYW4gMSB5ZWFyKSwgRmxhc2gsIGFjdGlvbiBzY3JpcHQKCjMuMCAoMiB5ZWFycykKCkFXQVJEUwoKV09XIEF3YXJkCgpTZXB0ZW1iZXIgMjAxNQoKSXQgd2FzIGdpdmVuIGZvciB0aGUgZXhjZWxsZW50IHBlcmZvcm1hbmNlIG9uIHRoZSBlVGV4dEJvb2sgQXBwbGljYXRpb24uCgpTdGFyIFBlcmZvcm1lcgoKSnVseSAyMDEyCgpJdCB3YXMgZ2l2ZW4gZm9yIHRoZSBwZXJmb3JtYW5jZSBpbiB0aGUgVHVybmluZyBUZWNobm9sb2d5IEFwcGxpY2F0aW9uLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912321465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

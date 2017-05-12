@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2914322465432"  usageLimitType="allocation" usageLimit="100" currentUsage="33" remainingUsage="67" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Alan Truelove</FormattedName>
+<GivenName>Alan</GivenName>
+<FamilyName>Truelove</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Buffalo</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Alan-Truelove/f9d8db2dd03e90d1</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>ASP.NET</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>CSRA Inc/ Dept Homeland Security</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Software Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Buffalo</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2014-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Developer programs</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>in ASP.NET, C++, Java and BMC Remedy
+</Description>
+<StartDate>
+<AnyDate>2014-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>FBI</EmployerOrgName>
+<JobType>Contractor</JobType>
+<PositionHistory>
+<Title>Software Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>VA</Region>
+<Municipality>Quantico</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>(Contract lost by employer) Develop C++, Java, ASP.NET and BMC Remedy prgrams
+</Description>
+<StartDate>
+<AnyDate>2014-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Quantum Research Inc</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Software Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2011-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Spectrum Technology Group - Carderock</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Software Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>MD</Region>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Develop programs in Java, C++, ASP.NET
+</Description>
+<StartDate>
+<AnyDate>2007-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UCLA</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>PhD</DegreeName>
+<DegreeDate>
+<AnyDate>1969-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>IT/Math</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>1966-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1969-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>BMC Remedy Admininstration Pt II certification</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>Qualified as Advanced Remedy Administrator</Name>
+<EffectiveDate>
+<ValidFrom>
+<AnyDate>2004-09-01</AnyDate>
+</ValidFrom>
+</EffectiveDate>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<MilitaryHistory>
+<CountryServed>US</CountryServed>
+<ServiceDetail branch="Army">
+<UnitOrDivision>Sierra Vista AZ</UnitOrDivision>
+<RankAchieved>
+<CurrentOrEndRank>Software Developer</CurrentOrEndRank>
+</RankAchieved>
+<DatesOfService>
+<StartDate>
+<AnyDate>2009-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-12-01</AnyDate>
+</EndDate>
+</DatesOfService>
+<AreaOfExpertise>US ARMY NETCOM 
+Develop programs in C++, Java, ASP.NET and BMC Remedy
+</AreaOfExpertise>
+</ServiceDetail>
+</MilitaryHistory>
+<Qualifications>
+<Competency name="Active Server Pages">
+<CompetencyId description="HireAbility taxonomy" id="30" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Active Server Pages" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="BMC Software">
+<CompetencyId description="HireAbility taxonomy" id="10982" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="BMC Software">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Crystal Reports">
+<CompetencyId description="HireAbility taxonomy" id="90" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Crystal Reports">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft ASP.Net">
+<CompetencyId description="HireAbility taxonomy" id="6351" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft ASP.Net" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Remedy">
+<CompetencyId description="HireAbility taxonomy" id="2176" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Remedy">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">10</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2003-01-01</StringDate></Date>
+<Description>US Department of Transportation - Business Enterprise Award (for 1-person</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2003-09-01</StringDate></Date>
+<Description>Prime Contract Fulcrum Corp). Federal Railroad Admin</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2003-09-01</StringDate></Date>
+<Description>Award for 4-year 1 - person Grade Crossing Problem Reporting tool mandated by Congress</Description>
+</Achievement>
+</Achievements>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QWxhbiBUcnVlbG92ZQoKU29mdHdhcmUgRGV2ZWxvcGVyCgpCdWZmYWxvLCBOWSAtIEVtYWlsIG1lIG9uIEluZGVlZDogaW5kZWVkLmNvbS9yL0FsYW4tVHJ1ZWxvdmUvZjlkOGRiMmRkMDNlOTBkMQoKV09SSyBFWFBFUklFTkNFCgpTb2Z0d2FyZSBEZXZlbG9wZXIKCkNTUkEgSW5jLyBEZXB0IEhvbWVsYW5kIFNlY3VyaXR5IC0gQnVmZmFsbywgTlkgLSBTZXB0ZW1iZXIgMjAxNCB0byBBcHJpbCAyMDE3CgpEZXZlbG9wZXIgcHJvZ3JhbXMgaW4gQVNQLk5FVCwgQysrLCBKYXZhIGFuZCBCTUMgUmVtZWR5CgpTb2Z0d2FyZSBEZXZlbG9wZXIKCkZCSSAtIFF1YW50aWNvLCBWQSAtIEp1bHkgMjAxNCB0byBTZXB0ZW1iZXIgMjAxNAoKKENvbnRyYWN0IGxvc3QgYnkgZW1wbG95ZXIpCgpEZXZlbG9wIEMrKywgSmF2YSwgQVNQLk5FVCBhbmQgQk1DIFJlbWVkeSBwcmdyYW1zCgpTb2Z0d2FyZSBEZXZlbG9wZXIKClF1YW50dW0gUmVzZWFyY2ggSW5jIC0gU2VwdGVtYmVyIDIwMTEgdG8gSnVseSAyMDE0CgpTb2Z0d2FyZSBEZXZlbG9wZXIKClVTIEFSTVkgTkVUQ09NIC0gU2llcnJhIFZpc3RhLCBBWiAtIEFwcmlsIDIwMDkgdG8gRGVjZW1iZXIgMjAxMAoKRGV2ZWxvcCBwcm9ncmFtcyBpbiBDKyssIEphdmEsIEFTUC5ORVQgYW5kIEJNQyBSZW1lZHkKClNvZnR3YXJlIERldmVsb3BlcgoKU3BlY3RydW0gVGVjaG5vbG9neSBHcm91cCAtIENhcmRlcm9jaywgTUQgLSBKdWx5IDIwMDcgdG8gQXByaWwgMjAwOQoKRGV2ZWxvcCBwcm9ncmFtcyBpbiBKYXZhLCBDKyssIEFTUC5ORVQKCkVEVUNBVElPTgoKUGhEIGluIElUL01hdGgKClVDTEEKClNlcHRlbWJlciAxOTY2IHRvIDE5NjkKClNLSUxMUwoKTVMgT2ZmaWNlIDM2NSAoMTArIHllYXJzKSwgQysrICgxMCsgeWVhcnMpLCBKYXZhICgxMCsgeWVhcnMpLCBBc3AuTmV0ICgxMCsgeWVhcnMpLCBDcnlzdGFsIFJlcG9ydHMgKDEwKwoKeWVhcnMpLCBCTUMgUmVtZWR5ICgxMCsgeWVhcnMpLCBPcmFjbHMgKDEwKyB5ZWFycyksIE1pY3Jvc29mdCBTUUxTZXJ2ZXIgKDEwKyB5ZWFycykKCkFXQVJEUwoKOiBVUyBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uIDIwMDMgLSBCdXNpbmVzcyBFbnRlcnByaXNlIEF3YXJkIChmb3IgMS1wZXJzb24KClByaW1lIENvbnRyYWN0LCBGdWxjcnVtIENvcnApLiwgRmVkZXJhbCBSYWlscm9hZCBBZG1pbgoKU2VwdGVtYmVyIDIwMDMKCkF3YXJkIGZvciA0LXllYXIgMS0gcGVyc29uLCBHcmFkZSBDcm9zc2luZyBQcm9ibGVtIFJlcG9ydGluZyB0b29sLCBtYW5kYXRlZCBieSBDb25ncmVzcy4KCkNFUlRJRklDQVRJT05TL0xJQ0VOU0VTCgpCTUMgUmVtZWR5IEFkbWluaW5zdHJhdGlvbiBQdCBJSSBjZXJ0aWZpY2F0aW9uCgpTZXB0ZW1iZXIgMjAwNCB0byBQcmVzZW50CgpRdWFsaWZpZWQgYXMgQWR2YW5jZWQgUmVtZWR5IEFkbWluaXN0cmF0b3I=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914322465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

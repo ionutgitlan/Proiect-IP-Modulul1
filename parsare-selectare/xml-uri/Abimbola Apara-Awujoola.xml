@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2916401465432"  usageLimitType="allocation" usageLimit="100" currentUsage="20" remainingUsage="80" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Abimbola Apara-Awujoola</FormattedName>
+<GivenName>Abimbola</GivenName>
+<FamilyName>Apara-Awujoola</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Pleasanton</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Abimbola-Apara-Awujoola/e06d535087b23873</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>Areas of Expertise * Project Management * Strategic Planning/Analysis * Resource Management * Java Technologies * Cost Effectiveness * Adobe e-learning Suite * Microsoft Office Suite * Software Engineering * Budgeting * Waterfall Methodology * Reporting Tools * Systems Analysis * Risk Assessment * AutoCad/AutoDesk * Agile Methodology</ExecutiveSummary>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Information Technology (IT) & Mobile Security</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>IT Consultant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>As a consultant with specialization in Technical Writing, Information Technology (IT) & Mobile Security, Renewable Energy, Application Development, Cloud Computing and Project/Program Management Completed Project Management Academy Boot
+</Description>
+<StartDate>
+<AnyDate>2012-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Oracle World and MACWorld Conferences</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>to keep abreast of new technology and use the training classes at these conferences to further develop skills.
+</Description>
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Cisco Systems Inc</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Project Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2014-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>banking/financial</IndustryDescription></OrgIndustry>
+<Description>Project management and software delivery representing team in cross-functional meetings assess risk and define mitigation plans and resolve issues. Manage metrics definition production collation and technical documentations. Managed the release and successful migration of Cisco global financial tax data from San Jose CA to Richardson TX and from HP adjusted Return Servers to Cisco Unified Computing System (UCS) giving Cisco a 3 year risk On Investment (ROI) of over 170% within 4 months of about $1.3 million. This was achieved by reduction of associated administrative cost, networking, and energy cooling, electrical and data center space. * Vendor and resource management of outside services vendors and ASP-Hosted solution provider with an actual spend of over $250k per quarter. * Drove continuous improvement by evaluating results against success and establishing improved processes which reduced rework by 85% and cut down Severity 1 issues in Production by over 90%.
+</Description>
+<StartDate>
+<AnyDate>2009-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Project Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Ownership of EIAM Governance and Operating Council (IGOC) and Working Group (WG) established and defined the strategic direction and structure for enterprise policy lifecycle, user and access data lifecycle. * Manage metrics definition, production, collation and technical documentations. * Established IGOC mandated Change Review Board for the EIAM Program with membership consisting of VPs, Senior Directors and Senior Managers from both Business and IT. * Subject Matter Expert and Domain Lead for Policy Administration and Management, defined and designed the User Access Policy Model and Lifecycle. * Program was honored with Oracle Customer Excellence Award at Oracle Open World 2008.
+</Description>
+<StartDate>
+<AnyDate>2006-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Project Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Managed applications supporting Global Shipping, Real Estate and Lease Administration, Disaster Recovery and Business Continuity, Spatial Management, Geographic Account Managers, and Workplace Effectiveness applications. * Manage metrics definition, production, collation and technical documentations. * Delivered global, cross-functional tools as enhancements, and implemented new tools used by business functions using full project lifecycle processes. * Managed between 2-18 onsite and offshore developers and collaborated with teams supporting impacted downstream applications for a database upgrade from UNIX to LINUX. * Vendor Management, Resource Planning and Strategy for outside services and employees on the team. Project Lead
+</Description>
+<StartDate>
+<AnyDate>2002-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Defined processes, guidelines, standards and documentation deliverables for project delivery lifecycle. * Manage business and technical metrics and documentation definition, production and collation. * Worked on in-depth analysis of data sources of engineering applications that were being considered for migration, validated users and used the utilization metrics of these applications to streamline the applications on the website. Received 2 team and individual Cisco Achievement Program (CAP) Awards.
+</Description>
+<StartDate>
+<AnyDate>2000-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>AT&T Global</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Systems Analyst</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2000-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Business and Consumer Services</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Senior Systems Analyst</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>NJ</Region>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Service Provider Senior Systems Analyst
+</Description>
+<StartDate>
+<AnyDate>1996-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Tara Systems - Lagos</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Unit Head</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>NG - Unit Head
+</Description>
+<StartDate>
+<AnyDate>1994-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Wandsworth Health Authority</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Architectural Assistant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>London UK</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>St Georges NHS Healthcare Trust - Architectural Assistant
+</Description>
+<StartDate>
+<AnyDate>1991-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>South Bank University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>GB</CountryCode>
+<Municipality>London</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>Master of Science</DegreeName>
+<DegreeDate>
+<AnyDate>1991-10-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Intelligence Management Systems</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>School of Architecture</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>GB</CountryCode>
+<Municipality>London</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>AA</DegreeName>
+<DegreeDate>
+<AnyDate>1991-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Energy Studies</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Ife</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Science</DegreeName>
+<DegreeDate>
+<AnyDate>1987-08-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Architecture</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Adobe">
+<CompetencyId description="HireAbility taxonomy" id="5334" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Agile Methodologies">
+<CompetencyId description="HireAbility taxonomy" id="19663" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Agile Methodologies">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Agile methodology">
+<CompetencyId description="HireAbility taxonomy" id="11623" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Agile methodology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Application Development">
+<CompetencyId description="HireAbility taxonomy" id="7202" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Application Development" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Architectural">
+<CompetencyId description="HireAbility taxonomy" id="11104" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Architectural" lastUsed="1993-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Autocad">
+<CompetencyId description="HireAbility taxonomy" id="17369" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Autocad">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Autodesk">
+<CompetencyId description="HireAbility taxonomy" id="5143" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Autodesk">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Autodesk AutoCAD">
+<CompetencyId description="HireAbility taxonomy" id="4287" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Autodesk AutoCAD">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Budgeting">
+<CompetencyId description="HireAbility taxonomy" id="5721" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Budgeting">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cisco">
+<CompetencyId description="HireAbility taxonomy" id="76" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cisco" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cloud Computing">
+<CompetencyId description="HireAbility taxonomy" id="18454" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cloud Computing" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Disaster Recovery">
+<CompetencyId description="HireAbility taxonomy" id="5960" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Disaster Recovery" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Documentation">
+<CompetencyId description="HireAbility taxonomy" id="12375" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Documentation" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Engineering">
+<CompetencyId description="HireAbility taxonomy" id="1932" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Engineering" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Full Project Lifecycle">
+<CompetencyId description="HireAbility taxonomy" id="12499" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Full Project Lifecycle" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HP">
+<CompetencyId description="HireAbility taxonomy" id="161" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HP" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Technology">
+<CompetencyId description="HireAbility taxonomy" id="10107" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Technology" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Technologies">
+<CompetencyId description="HireAbility taxonomy" id="12709" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Technologies">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux">
+<CompetencyId description="HireAbility taxonomy" id="218" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">9</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Networking">
+<CompetencyId description="HireAbility taxonomy" id="8" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Networking" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle">
+<CompetencyId description="HireAbility taxonomy" id="305" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Planning">
+<CompetencyId description="HireAbility taxonomy" id="7694" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Planning" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Program Management">
+<CompetencyId description="HireAbility taxonomy" id="9739" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Program Management" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Management">
+<CompetencyId description="HireAbility taxonomy" id="337" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Management" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">9</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Manager">
+<CompetencyId description="HireAbility taxonomy" id="1719" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Manager" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">8</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Real Estate">
+<CompetencyId description="HireAbility taxonomy" id="7723" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Real Estate" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Reporting Tools">
+<CompetencyId description="HireAbility taxonomy" id="13277" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Reporting Tools">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Resource Management">
+<CompetencyId description="HireAbility taxonomy" id="19186" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Resource Management" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Risk Assessment">
+<CompetencyId description="HireAbility taxonomy" id="8468" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Risk Assessment">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="ROI">
+<CompetencyId description="HireAbility taxonomy" id="8428" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="ROI" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="SAN (Storage Area Network)">
+<CompetencyId description="HireAbility taxonomy" id="6851" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="SAN (Storage Area Network)" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Security">
+<CompetencyId description="HireAbility taxonomy" id="7096" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Security" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Strategic Planning">
+<CompetencyId description="HireAbility taxonomy" id="9565" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Strategic Planning">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Systems Analysis">
+<CompetencyId description="HireAbility taxonomy" id="11564" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Systems Analysis">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Systems Analyst">
+<CompetencyId description="HireAbility taxonomy" id="13505" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Systems Analyst" lastUsed="2000-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Technical Writing">
+<CompetencyId description="HireAbility taxonomy" id="417" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Technical Writing" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="UCS">
+<CompetencyId description="HireAbility taxonomy" id="16052" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="UCS" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Unix">
+<CompetencyId description="HireAbility taxonomy" id="439" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Unix" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Vendor Management">
+<CompetencyId description="HireAbility taxonomy" id="5106" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Vendor Management" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QWJpbWJvbGEgQXBhcmEtQXd1am9vbGEKCklUIENvbnN1bHRhbnQKClBsZWFzYW50b24sIENBIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQWJpbWJvbGEtQXBhcmEtQXd1am9vbGEvZTA2ZDUzNTA4N2IyMzg3MwoKQXV0aG9yaXplZCB0byB3b3JrIGluIHRoZSBVUyBmb3IgYW55IGVtcGxveWVyCgpXT1JLIEVYUEVSSUVOQ0UKCklUIENvbnN1bHRhbnQKCkluZm9ybWF0aW9uIFRlY2hub2xvZ3kgKElUKSAmIE1vYmlsZSBTZWN1cml0eSAtIDIwMTIgdG8gMjAxNgoKQXMgYSBjb25zdWx0YW50IHdpdGggc3BlY2lhbGl6YXRpb24gaW4gVGVjaG5pY2FsIFdyaXRpbmcsIEluZm9ybWF0aW9uIFRlY2hub2xvZ3kgKElUKSAmIE1vYmlsZSBTZWN1cml0eSwKClJlbmV3YWJsZSBFbmVyZ3ksIEFwcGxpY2F0aW9uIERldmVsb3BtZW50LCBDbG91ZCBDb21wdXRpbmcgYW5kIFByb2plY3QvUHJvZ3JhbSBNYW5hZ2VtZW50CgpDb21wbGV0ZWQgUHJvamVjdCBNYW5hZ2VtZW50IEFjYWRlbXkgQm9vdAoKT3JhY2xlIFdvcmxkIGFuZCBNQUNXb3JsZCBDb25mZXJlbmNlcyAtIDIwMTEgdG8gMjAxNAoKdG8ga2VlcCBhYnJlYXN0IG9mIG5ldyB0ZWNobm9sb2d5IGFuZCB1c2UgdGhlIHRyYWluaW5nIGNsYXNzZXMgYXQgdGhlc2UgY29uZmVyZW5jZXMgdG8gZnVydGhlciBkZXZlbG9wIHNraWxscy4KCigyMDExLTIwMTQpCgoqIENvbXBsZXRlZCBQcm9qZWN0IE1hbmFnZW1lbnQgQWNhZGVteSBCb290IGNhbXAgaW4gU2FuIEpvc2UgdG8gcmV2aXNlIHByb2plY3QgbWFuYWdlbWVudCBza2lsbHMuCgooRmVicnVhcnkgMjAxNCkKClByb2plY3QgTWFuYWdlcgoKQ2lzY28gU3lzdGVtcywgSW5jIC0gSnVuZSAyMDA5IHRvIEF1Z3VzdCAyMDExCgpQcm9qZWN0IG1hbmFnZW1lbnQgYW5kIHNvZnR3YXJlIGRlbGl2ZXJ5LCByZXByZXNlbnRpbmcgdGVhbSBpbiBjcm9zcy1mdW5jdGlvbmFsIG1lZXRpbmdzIHRvIGFzc2VzcyByaXNrIGFuZAoKZGVmaW5lIG1pdGlnYXRpb24gcGxhbnMgYW5kIHJlc29sdmUgaXNzdWVzLgoKKiBNYW5hZ2UgbWV0cmljcyBkZWZpbml0aW9uLCBwcm9kdWN0aW9uLCBjb2xsYXRpb24gYW5kIHRlY2huaWNhbCBkb2N1bWVudGF0aW9ucy4KCiogTWFuYWdlZCB0aGUgcmVsZWFzZSBhbmQgc3VjY2Vzc2Z1bCBtaWdyYXRpb24gb2YgQ2lzY28gZ2xvYmFsIGZpbmFuY2lhbCB0YXggZGF0YSBmcm9tIFNhbiBKb3NlLCBDQSB0bwoKUmljaGFyZHNvbiwgVFggYW5kIGZyb20gSFAgU2VydmVycyB0byBDaXNjbyBVbmlmaWVkIENvbXB1dGluZyBTeXN0ZW0gKFVDUykgZ2l2aW5nIENpc2NvIGEgMyB5ZWFyIHJpc2sKCmFkanVzdGVkIFJldHVybiBPbiBJbnZlc3RtZW50IChST0kpIG9mIG92ZXIgMTcwJSB3aXRoaW4gNCBtb250aHMgb2YgYWJvdXQgJDEuMyBtaWxsaW9uLiBUaGlzIHdhcyBhY2hpZXZlZCBieQoKcmVkdWN0aW9uIG9mIGFzc29jaWF0ZWQgYWRtaW5pc3RyYXRpdmUgY29zdCwgbmV0d29ya2luZywgYW5kIGVuZXJneSBjb29saW5nLCBlbGVjdHJpY2FsIGFuZCBkYXRhIGNlbnRlciBzcGFjZS4KCiogVmVuZG9yIGFuZCByZXNvdXJjZSBtYW5hZ2VtZW50IG9mIG91dHNpZGUgc2VydmljZXMgdmVuZG9ycyBhbmQgQVNQLUhvc3RlZCBzb2x1dGlvbiBwcm92aWRlciB3aXRoIGFuCgphY3R1YWwgc3BlbmQgb2Ygb3ZlciAkMjUwayBwZXIgcXVhcnRlci4KCiogRHJvdmUgY29udGludW91cyBpbXByb3ZlbWVudCBieSBldmFsdWF0aW5nIHJlc3VsdHMgYWdhaW5zdCBzdWNjZXNzIGFuZCBlc3RhYmxpc2hpbmcgaW1wcm92ZWQgcHJvY2Vzc2VzCgp3aGljaCByZWR1Y2VkIHJld29yayBieSA4NSUgYW5kIGN1dCBkb3duIFNldmVyaXR5IDEgaXNzdWVzIGluIFByb2R1Y3Rpb24gYnkgb3ZlciA5MCUuCgpQcm9qZWN0IE1hbmFnZXIKCkNpc2NvIFN5c3RlbXMsIEluYyAtIFNlcHRlbWJlciAyMDA2IHRvIEp1bmUgMjAwOQoKT3duZXJzaGlwIG9mIEVJQU0gR292ZXJuYW5jZSBhbmQgT3BlcmF0aW5nIENvdW5jaWwgKElHT0MpIGFuZCBXb3JraW5nIEdyb3VwIChXRyk7IGVzdGFibGlzaGVkIGFuZAoKZGVmaW5lZCB0aGUgc3RyYXRlZ2ljIGRpcmVjdGlvbiBhbmQgc3RydWN0dXJlIGZvciBlbnRlcnByaXNlIHBvbGljeSBsaWZlY3ljbGUsIHVzZXIgYW5kIGFjY2VzcyBkYXRhIGxpZmVjeWNsZS4KCiogTWFuYWdlIG1ldHJpY3MgZGVmaW5pdGlvbiwgcHJvZHVjdGlvbiwgY29sbGF0aW9uIGFuZCB0ZWNobmljYWwgZG9jdW1lbnRhdGlvbnMuCgoqIEVzdGFibGlzaGVkIElHT0MgbWFuZGF0ZWQgQ2hhbmdlIFJldmlldyBCb2FyZCBmb3IgdGhlIEVJQU0gUHJvZ3JhbSB3aXRoIG1lbWJlcnNoaXAgY29uc2lzdGluZyBvZgoKVlBzLCBTZW5pb3IgRGlyZWN0b3JzIGFuZCBTZW5pb3IgTWFuYWdlcnMgZnJvbSBib3RoIEJ1c2luZXNzIGFuZCBJVC4KCiogU3ViamVjdCBNYXR0ZXIgRXhwZXJ0IGFuZCBEb21haW4gTGVhZCBmb3IgUG9saWN5IEFkbWluaXN0cmF0aW9uIGFuZCBNYW5hZ2VtZW50LCBkZWZpbmVkIGFuZCBkZXNpZ25lZAoKdGhlIFVzZXIgQWNjZXNzIFBvbGljeSBNb2RlbCBhbmQgTGlmZWN5Y2xlLgoKKiBQcm9ncmFtIHdhcyBob25vcmVkIHdpdGggT3JhY2xlIEN1c3RvbWVyIEV4Y2VsbGVuY2UgQXdhcmQgYXQgT3JhY2xlIE9wZW4gV29ybGQgMjAwOC4KClByb2plY3QgTWFuYWdlcgoKQ2lzY28gU3lzdGVtcywgSW5jIC0gRmVicnVhcnkgMjAwMiB0byBTZXB0ZW1iZXIgMjAwNgoKTWFuYWdlZCBhcHBsaWNhdGlvbnMgc3VwcG9ydGluZyBHbG9iYWwgU2hpcHBpbmcsIFJlYWwgRXN0YXRlIGFuZCBMZWFzZSBBZG1pbmlzdHJhdGlvbiwgRGlzYXN0ZXIgUmVjb3ZlcnkKCmFuZCBCdXNpbmVzcyBDb250aW51aXR5LCBTcGF0aWFsIE1hbmFnZW1lbnQsIEdlb2dyYXBoaWMgQWNjb3VudCBNYW5hZ2VycywgYW5kIFdvcmtwbGFjZSBFZmZlY3RpdmVuZXNzCgphcHBsaWNhdGlvbnMuCgoqIE1hbmFnZSBtZXRyaWNzIGRlZmluaXRpb24sIHByb2R1Y3Rpb24sIGNvbGxhdGlvbiBhbmQgdGVjaG5pY2FsIGRvY3VtZW50YXRpb25zLgoKKiBEZWxpdmVyZWQgZ2xvYmFsLCBjcm9zcy1mdW5jdGlvbmFsIHRvb2xzIGFzIGVuaGFuY2VtZW50cywgYW5kIGltcGxlbWVudGVkIG5ldyB0b29scyB1c2VkIGJ5IGJ1c2luZXNzCgpmdW5jdGlvbnMgdXNpbmcgZnVsbCBwcm9qZWN0IGxpZmVjeWNsZSBwcm9jZXNzZXMuCgoqIE1hbmFnZWQgYmV0d2VlbiAyLTE4IG9uc2l0ZSBhbmQgb2Zmc2hvcmUgZGV2ZWxvcGVycyBhbmQgY29sbGFib3JhdGVkIHdpdGggdGVhbXMgc3VwcG9ydGluZyBpbXBhY3RlZAoKZG93bnN0cmVhbSBhcHBsaWNhdGlvbnMgZm9yIGEgZGF0YWJhc2UgdXBncmFkZSBmcm9tIFVOSVggdG8gTElOVVguCgoqIFZlbmRvciBNYW5hZ2VtZW50LCBSZXNvdXJjZSBQbGFubmluZyBhbmQgU3RyYXRlZ3kgZm9yIG91dHNpZGUgc2VydmljZXMgYW5kIGVtcGxveWVlcyBvbiB0aGUgdGVhbS4KClByb2plY3QgTGVhZAoKQ2lzY28gU3lzdGVtcywgSW5jIC0gTm92ZW1iZXIgMjAwMCB0byBGZWJydWFyeSAyMDAyCgpEZWZpbmVkIHByb2Nlc3NlcywgZ3VpZGVsaW5lcywgc3RhbmRhcmRzIGFuZCBkb2N1bWVudGF0aW9uIGRlbGl2ZXJhYmxlcyBmb3IgcHJvamVjdCBkZWxpdmVyeSBsaWZlY3ljbGUuCgoqIE1hbmFnZSBidXNpbmVzcyBhbmQgdGVjaG5pY2FsIG1ldHJpY3MgYW5kIGRvY3VtZW50YXRpb24gZGVmaW5pdGlvbiwgcHJvZHVjdGlvbiBhbmQgY29sbGF0aW9uLgoKKiBXb3JrZWQgb24gaW4tZGVwdGggYW5hbHlzaXMgb2YgZGF0YSBzb3VyY2VzIG9mIGVuZ2luZWVyaW5nIGFwcGxpY2F0aW9ucyB0aGF0IHdlcmUgYmVpbmcgY29uc2lkZXJlZCBmb3IKCm1pZ3JhdGlvbiwgdmFsaWRhdGVkIHVzZXJzIGFuZCB1c2VkIHRoZSB1dGlsaXphdGlvbiBtZXRyaWNzIG9mIHRoZXNlIGFwcGxpY2F0aW9ucyB0byBzdHJlYW1saW5lIHRoZSBhcHBsaWNhdGlvbnMKCm9uIHRoZSB3ZWJzaXRlLiBSZWNlaXZlZCAyIHRlYW0gYW5kIGluZGl2aWR1YWwgQ2lzY28gQWNoaWV2ZW1lbnQgUHJvZ3JhbSAoQ0FQKSBBd2FyZHMuCgpTeXN0ZW1zIEFuYWx5c3QKCkFUJlQgR2xvYmFsLCBCdXNpbmVzcyBhbmQgQ29uc3VtZXIgU2VydmljZXMsIFNlcnZpY2UgUHJvdmlkZXIsIE5KIC0gQXByaWwgMTk5NiB0byBKdW5lIDIwMDAKClNlbmlvciBTeXN0ZW1zIEFuYWx5c3QKClRhcmEgU3lzdGVtcyAtIExhZ29zLCBORyAtIEFwcmlsIDE5OTQgdG8gRmVicnVhcnkgMTk5NgoKVW5pdCBIZWFkCgpXYW5kc3dvcnRoIEhlYWx0aCBBdXRob3JpdHksIFN0IEdlb3JnZXMgTkhTIEhlYWx0aGNhcmUgVHJ1c3QgLSBMb25kb24sIFVLIC0gRGVjZW1iZXIgMTk5MSB0bwoKRGVjZW1iZXIgMTk5MwoKQXJjaGl0ZWN0dXJhbCBBc3Npc3RhbnQKCkdvZHdpbiAmIEhvcHdvb2QsIE9sZCBTdHJlZXQgLSBMb25kb24sIFVLIC0gU2VwdGVtYmVyIDE5ODggdG8gU2VwdGVtYmVyIDE5OTAKCkVEVUNBVElPTgoKTWFzdGVyIG9mIFNjaWVuY2UgaW4gSW50ZWxsaWdlbmNlIE1hbmFnZW1lbnQgU3lzdGVtcwoKU291dGggQmFuayBVbml2ZXJzaXR5IC0gTG9uZG9uLCBVSwoKT2N0b2JlciAxOTkxCgpBQSBpbiBFbmVyZ3kgU3R1ZGllcwoKQXJjaGl0ZWN0dXJhbCBBc3NvY2lhdGlvbiBTY2hvb2wgb2YgQXJjaGl0ZWN0dXJlIC0gTG9uZG9uLCBVSwoKSmFudWFyeSAxOTkxCgpCYWNoZWxvciBvZiBTY2llbmNlIGluIEFyY2hpdGVjdHVyZQoKVW5pdmVyc2l0eSBvZiBJZmUKCkF1Z3VzdCAxOTg3CgpTS0lMTFMKClBST0pFQ1QgTUFOQUdFTUVOVCAoMTArIHllYXJzKSwgQVVUT0NBRCAoTGVzcyB0aGFuIDEgeWVhciksIEFVVE9ERVNLIChMZXNzIHRoYW4gMSB5ZWFyKSwKCkIyQiBTT0ZUV0FSRSAoTGVzcyB0aGFuIDEgeWVhciksIEJVREdFVElORyAoTGVzcyB0aGFuIDEgeWVhcikKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KCkFyZWFzIG9mIEV4cGVydGlzZQoKKiBQcm9qZWN0IE1hbmFnZW1lbnQKCiogU3RyYXRlZ2ljIFBsYW5uaW5nL0FuYWx5c2lzCgoqIFJlc291cmNlIE1hbmFnZW1lbnQKCiogSmF2YSBUZWNobm9sb2dpZXMKCiogQ29zdCBFZmZlY3RpdmVuZXNzCgoqIEFkb2JlIGUtbGVhcm5pbmcgU3VpdGUKCiogTWljcm9zb2Z0IE9mZmljZSBTdWl0ZQoKKiBTb2Z0d2FyZSBFbmdpbmVlcmluZwoKKiBCdWRnZXRpbmcKCiogV2F0ZXJmYWxsIE1ldGhvZG9sb2d5CgoqIFJlcG9ydGluZyBUb29scwoKKiBTeXN0ZW1zIEFuYWx5c2lzCgoqIFJpc2sgQXNzZXNzbWVudAoKKiBBdXRvQ2FkL0F1dG9EZXNrCgoqIEFnaWxlIE1ldGhvZG9sb2d5</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916401465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

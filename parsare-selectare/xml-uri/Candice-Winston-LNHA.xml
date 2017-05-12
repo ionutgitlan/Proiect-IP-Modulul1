@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2914040465432"  usageLimitType="allocation" usageLimit="100" currentUsage="14" remainingUsage="86" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Candice Winston</FormattedName>
+<GivenName>Candice</GivenName>
+<FamilyName>Winston</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>IN</CountryCode>
+<Municipality>that</Municipality>
+<DeliveryAddress>
+<AddressLine>to desired outcomes in a way</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/1c8258eb1c1eac10</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>http://www.linkedin.com/pub/candy-walker-winston-lnha/1a/4b1/579</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Licensed Nursing Home Administrator</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>OH</Region>
+<Municipality>Cortland</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>* 9 Deficiency Free Surveys * 22% Average Census Growth & Stabilization * 17 years CCRC and Multi-Facility Management * Management of 8 Change of Ownerships I am currently seeking a lasting opportunity and am fully committed to longevity with immediate availability. An interim stay is not of interest to me although I have utilized them in the past to align with caring for my mother who has since passed on. A systems-oriented organizational Nursing Home Administrator that has experienced 24 years of building lead, self-directed management teams that recognize, convey and drive opportunities to desired outcomes in a way that is sustainable and able to be tracked. A passionately committed and decisive Administrator that responds with the promptness required. As diligent in revenue generation as in survey preparedness and quality metrics, bringing a well-rounded skill set to any organization.
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Sunt</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Administrator seeking lasting opportunity - decembrie până la Prezent I am currently seeking a lasting opportunity and am fully committed to longevity with immediate availability. An interim stay is not of interest to me although I have in the past utilized them to align with caring for my mother who since has passed on.
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Life Care Center of Medina - iunie</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>până la noiembrie 2016 Chosen provider for bundling, 4 star provider post PBJ and QM realignments. Facilitated new business development via clinical positioning, organizational management and family integration. Census growth of 27%, CMI growth of 55%, RTH reduction of 24% ending at 13%. Profitability at 200% of budget from 100% deficit, Collections/DSO reduction averaged at 4% monthly and overtime reduction of 63%.
+</Description>
+<StartDate>
+<AnyDate>2015-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Interim Service - Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Skilled Nursing Faciilty and Rehabilitation Center - ianuarie până la mai 2015 Fulfilled 90-day contracted interim assignment for out of state change of provider for 2 facilities.
+</Description>
+<StartDate>
+<AnyDate>2015-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Signature HealthCARE of Warren</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>până la decembrie 2014 Culture change for resident centered care, community reach and staff engagement via organizational management. Oversight of three million dollar renovation project. Census growth of 17%, CMI growth of 23%, quality mix growth of 63% with PA1 reduction of 240 days in 45 days. End splits improvement of 15%, RTH reduction of 48% in 45 days ending 7.6%. Overtime reduced 71% in 30 days ending at 1.8%. Collections/DSO reduced $438,000 in 60 days.
+</Description>
+<StartDate>
+<AnyDate>2014-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Concord Care Centers of Cortland and Hartford - octombrie până la mai 2014 Oversight of two facilities: managed occupancy at 80% and 98% stabilizing at 17% growth in census, annualized collection reduction of 38% and 31%. Developed market position/referral stream via behavioral health and housing positioning. Successful mitigation/reduction of higher level survey citations with forward compliance.
+</Description>
+<StartDate>
+<AnyDate>2012-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Interim Service - Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Broadview Health and Rehabilitation Center and Beeghly Oaks Skilled Nursing and Rehab Center - mai până la
+</Description>
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Broadview Health and Rehabilitation Center</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>banking/financial</IndustryDescription></OrgIndustry>
+<Description>Commenced initiatives to navigate facility through new business development, through both clinical and rehabilitative positioning resulting in a 31% growth in census with a 25% growth in case mix and through culture change via executive leadership, team building and budgetary realignments. Beeghly Oaks Skilled Nursing & Rehab Center: Fulfilled assignment having implemented census initiatives securing a 16% growth with case mix proportionate in development, having increased profitability by 12% and having directed and cleared survey challenges. Interrelated Narrative Defiant Sales Consulting and Cohen & Company - mai 2007 până la mai 2010 Defiant Sales, VP of Business Development: Opened new doors for sustainable financial growth and palatable market position utilizing tactics interchangeably responsible for growing a nursing home's bottom line. Cohen & Company, Administrative Assistant: Tax, audit and support functions.
+</Description>
+<StartDate>
+<AnyDate>2012-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Grand Valley Country Manor Nursing Home and Assisted Living Residence - noiembrie 2002 până la noiembrie 2006 Oversight of two facilities: managed occupancy at 96% and 100% while deficiency free. Managed three ownership changes with bottom line growth in a hyper-competitive market via coordinating interdisciplinary and comprehensive care planning, developing ancillary services with professional recruitment and interjecting community involvement.
+</Description>
+<StartDate>
+<AnyDate>2012-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Geneva Healthcare Center</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Interim Service - Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Cortland Healthcare Center, Integrated Health Services - aprilie 1999 până la noiembrie 2002
+</Description>
+<StartDate>
+<AnyDate>2012-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>* Recruited to oversee three facilities: Operate through change of ownership, analyze financials, stabilize census, govern survey outcomes and manage bankruptcy proceedings.
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Valley View Nursing Home and Autumn Acres Personal Care Center - iulie până la aprilie 1999 Oversight of two facilities: managed both consistently at 100% occupancy while deficiency free with a shift from Medicaid to Private Pay (Personal Care Home). Developed nursing documentation and quality assurance protocols/guidelines recorded to the word of the state operations manual and state rule. Oversight of two million dollar renovation/construction project.
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Administrator</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Altercare of Navarre - iulie până la iulie 1994 Consultative role responsible for five facilities focused on account receivables, state survey preparedness, census development and organizational management. Administrator / AIT Carrington South Healthcare Center - ianuarie 1992 până la iulie 1993 AIT to Administrator having directed facility through to a deficiency free survey.
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Youngstown State University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>BA</DegreeName>
+<DegreeDate>
+<AnyDate>1992-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Nursing Home Administration</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>NHA</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>octombrie</Name>
+<EffectiveDate>
+<ValidTo>
+<AnyDate>2017-01-01</AnyDate>
+</ValidTo>
+</EffectiveDate>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="Administrative Assistant">
+<CompetencyId description="HireAbility taxonomy" id="15860" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Administrative Assistant" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="AIT">
+<CompetencyId description="HireAbility taxonomy" id="7120" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="AIT" lastUsed="1993-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Audit">
+<CompetencyId description="HireAbility taxonomy" id="7585" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Audit" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Bankruptcy">
+<CompetencyId description="HireAbility taxonomy" id="7588" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Bankruptcy">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Behavioral Health">
+<CompetencyId description="HireAbility taxonomy" id="8113" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Behavioral Health" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Budgetary">
+<CompetencyId description="HireAbility taxonomy" id="15267" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Budgetary" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Business Development">
+<CompetencyId description="HireAbility taxonomy" id="4313" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Development" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Consulting">
+<CompetencyId description="HireAbility taxonomy" id="1874" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Consulting" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Documentation">
+<CompetencyId description="HireAbility taxonomy" id="12375" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Documentation" lastUsed="1994-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Financials">
+<CompetencyId description="HireAbility taxonomy" id="19045" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Financials">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Integrate">
+<CompetencyId description="HireAbility taxonomy" id="4712" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Integrate" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="New Business Development">
+<CompetencyId description="HireAbility taxonomy" id="9437" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="New Business Development" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Nursing">
+<CompetencyId description="HireAbility taxonomy" id="9082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Nursing">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality Assurance">
+<CompetencyId description="HireAbility taxonomy" id="2163" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality Assurance" lastUsed="1994-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Receivables">
+<CompetencyId description="HireAbility taxonomy" id="15551" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Receivables" lastUsed="1993-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Rehabilitation">
+<CompetencyId description="HireAbility taxonomy" id="9081" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Rehabilitation" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test">
+<CompetencyId description="HireAbility taxonomy" id="4723" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test" lastUsed="1994-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2FuZGljZSBXaW5zdG9uLCBMTkhBCgpMaWNlbnNlZCBOdXJzaW5nIEhvbWUgQWRtaW5pc3RyYXRvcgoKQ29ydGxhbmQsIE9IIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvMWM4MjU4ZWIxYzFlYWMxMAoKKiA5IERlZmljaWVuY3kgRnJlZSBTdXJ2ZXlzCgoqIDIyJSBBdmVyYWdlIENlbnN1cyBHcm93dGggJiBTdGFiaWxpemF0aW9uCgoqIDE3IHllYXJzIENDUkMgYW5kIE11bHRpLUZhY2lsaXR5IE1hbmFnZW1lbnQKCiogTWFuYWdlbWVudCBvZiA4IENoYW5nZSBvZiBPd25lcnNoaXBzCgpJIGFtIGN1cnJlbnRseSBzZWVraW5nIGEgbGFzdGluZyBvcHBvcnR1bml0eSBhbmQgYW0gZnVsbHkgY29tbWl0dGVkIHRvIGxvbmdldml0eSB3aXRoIGltbWVkaWF0ZSBhdmFpbGFiaWxpdHkuCgpBbiBpbnRlcmltIHN0YXkgaXMgbm90IG9mIGludGVyZXN0IHRvIG1lIGFsdGhvdWdoIEkgaGF2ZSB1dGlsaXplZCB0aGVtIGluIHRoZSBwYXN0IHRvIGFsaWduIHdpdGggY2FyaW5nIGZvciBteQoKbW90aGVyIHdobyBoYXMgc2luY2UgcGFzc2VkIG9uLgoKQSBzeXN0ZW1zLW9yaWVudGVkIG9yZ2FuaXphdGlvbmFsIE51cnNpbmcgSG9tZSBBZG1pbmlzdHJhdG9yIHRoYXQgaGFzIGV4cGVyaWVuY2VkIDI0IHllYXJzIG9mIGJ1aWxkaW5nIGxlYWQsCgpzZWxmLWRpcmVjdGVkIG1hbmFnZW1lbnQgdGVhbXMgdGhhdCByZWNvZ25pemUsIGNvbnZleSBhbmQgZHJpdmUgb3Bwb3J0dW5pdGllcyB0byBkZXNpcmVkIG91dGNvbWVzIGluIGEgd2F5Cgp0aGF0IGlzIHN1c3RhaW5hYmxlIGFuZCBhYmxlIHRvIGJlIHRyYWNrZWQuCgpBIHBhc3Npb25hdGVseSBjb21taXR0ZWQgYW5kIGRlY2lzaXZlIEFkbWluaXN0cmF0b3IgdGhhdCByZXNwb25kcyB3aXRoIHRoZSBwcm9tcHRuZXNzIHJlcXVpcmVkLiBBcyBkaWxpZ2VudAoKaW4gcmV2ZW51ZSBnZW5lcmF0aW9uIGFzIGluIHN1cnZleSBwcmVwYXJlZG5lc3MgYW5kIHF1YWxpdHkgbWV0cmljcywgYnJpbmdpbmcgYSB3ZWxsLXJvdW5kZWQgc2tpbGwgc2V0IHRvIGFueQoKb3JnYW5pemF0aW9uLgoKU3VudCBkaXNwb25pYmlsKMSDKSBwZW50cnUgcmVsb2NhcmUgw65uOiBDbGV2ZWxhbmQsIE9IIC0gQ29sdW1idXMsIE9ICgpXT1JLIEVYUEVSSUVOQ0UKCkFkbWluaXN0cmF0b3IKCkFkbWluaXN0cmF0b3Igc2Vla2luZyBsYXN0aW5nIG9wcG9ydHVuaXR5IC0gZGVjZW1icmllIDIwMTYgcMOibsSDIGxhIFByZXplbnQKCkkgYW0gY3VycmVudGx5IHNlZWtpbmcgYSBsYXN0aW5nIG9wcG9ydHVuaXR5IGFuZCBhbSBmdWxseSBjb21taXR0ZWQgdG8gbG9uZ2V2aXR5IHdpdGggaW1tZWRpYXRlIGF2YWlsYWJpbGl0eS4KCkFuIGludGVyaW0gc3RheSBpcyBub3Qgb2YgaW50ZXJlc3QgdG8gbWUgYWx0aG91Z2ggSSBoYXZlIGluIHRoZSBwYXN0IHV0aWxpemVkIHRoZW0gdG8gYWxpZ24gd2l0aCBjYXJpbmcgZm9yIG15Cgptb3RoZXIgd2hvIHNpbmNlIGhhcyBwYXNzZWQgb24uCgpBZG1pbmlzdHJhdG9yCgpMaWZlIENhcmUgQ2VudGVyIG9mIE1lZGluYSAtIGl1bmllIDIwMTUgcMOibsSDIGxhIG5vaWVtYnJpZSAyMDE2CgpDaG9zZW4gcHJvdmlkZXIgZm9yIGJ1bmRsaW5nLCA0IHN0YXIgcHJvdmlkZXIgcG9zdCBQQkogYW5kIFFNIHJlYWxpZ25tZW50cy4gRmFjaWxpdGF0ZWQgbmV3IGJ1c2luZXNzCgpkZXZlbG9wbWVudCB2aWEgY2xpbmljYWwgcG9zaXRpb25pbmcsIG9yZ2FuaXphdGlvbmFsIG1hbmFnZW1lbnQgYW5kIGZhbWlseSBpbnRlZ3JhdGlvbi4gQ2Vuc3VzIGdyb3d0aCBvZgoKMjclLCBDTUkgZ3Jvd3RoIG9mIDU1JSwgUlRIIHJlZHVjdGlvbiBvZiAyNCUgZW5kaW5nIGF0IDEzJS4KClByb2ZpdGFiaWxpdHkgYXQgMjAwJSBvZiBidWRnZXQgZnJvbSAxMDAlIGRlZmljaXQsIENvbGxlY3Rpb25zL0RTTyByZWR1Y3Rpb24gYXZlcmFnZWQgYXQgNCUgbW9udGhseSBhbmQKCm92ZXJ0aW1lIHJlZHVjdGlvbiBvZiA2MyUuCgpJbnRlcmltIFNlcnZpY2UgLSBBZG1pbmlzdHJhdG9yCgpTa2lsbGVkIE51cnNpbmcgRmFjaWlsdHkgYW5kIFJlaGFiaWxpdGF0aW9uIENlbnRlciAtIGlhbnVhcmllIDIwMTUgcMOibsSDIGxhIG1haSAyMDE1CgpGdWxmaWxsZWQgOTAtZGF5IGNvbnRyYWN0ZWQgaW50ZXJpbSBhc3NpZ25tZW50IGZvciBvdXQgb2Ygc3RhdGUgY2hhbmdlIG9mIHByb3ZpZGVyIGZvciAyIGZhY2lsaXRpZXMuCgpBZG1pbmlzdHJhdG9yCgpTaWduYXR1cmUgSGVhbHRoQ0FSRSBvZiBXYXJyZW4gLSBtYWkgMjAxNCBww6JuxIMgbGEgZGVjZW1icmllIDIwMTQKCkN1bHR1cmUgY2hhbmdlIGZvciByZXNpZGVudCBjZW50ZXJlZCBjYXJlLCBjb21tdW5pdHkgcmVhY2ggYW5kIHN0YWZmIGVuZ2FnZW1lbnQgdmlhIG9yZ2FuaXphdGlvbmFsCgptYW5hZ2VtZW50LiBPdmVyc2lnaHQgb2YgdGhyZWUgbWlsbGlvbiBkb2xsYXIgcmVub3ZhdGlvbiBwcm9qZWN0LiBDZW5zdXMgZ3Jvd3RoIG9mIDE3JSwgQ01JIGdyb3d0aCBvZiAyMyUsCgpxdWFsaXR5IG1peCBncm93dGggb2YgNjMlIHdpdGggUEExIHJlZHVjdGlvbiBvZiAyNDAgZGF5cyBpbiA0NSBkYXlzLiBFbmQgc3BsaXRzIGltcHJvdmVtZW50IG9mIDE1JSwgUlRICgpyZWR1Y3Rpb24gb2YgNDglIGluIDQ1IGRheXMgZW5kaW5nIDcuNiUuIE92ZXJ0aW1lIHJlZHVjZWQgNzElIGluIDMwIGRheXMgZW5kaW5nIGF0IDEuOCUuIENvbGxlY3Rpb25zL0RTTwoKcmVkdWNlZCAkNDM4LDAwMCBpbiA2MCBkYXlzLgoKQWRtaW5pc3RyYXRvcgoKQ29uY29yZCBDYXJlIENlbnRlcnMgb2YgQ29ydGxhbmQgYW5kIEhhcnRmb3JkIC0gb2N0b21icmllIDIwMTIgcMOibsSDIGxhIG1haSAyMDE0CgpPdmVyc2lnaHQgb2YgdHdvIGZhY2lsaXRpZXM6IG1hbmFnZWQgb2NjdXBhbmN5IGF0IDgwJSBhbmQgOTglIHN0YWJpbGl6aW5nIGF0IDE3JSBncm93dGggaW4gY2Vuc3VzLAoKYW5udWFsaXplZCBjb2xsZWN0aW9uIHJlZHVjdGlvbiBvZiAzOCUgYW5kIDMxJS4gRGV2ZWxvcGVkIG1hcmtldCBwb3NpdGlvbi9yZWZlcnJhbCBzdHJlYW0gdmlhIGJlaGF2aW9yYWwKCmhlYWx0aCBhbmQgaG91c2luZyBwb3NpdGlvbmluZy4gU3VjY2Vzc2Z1bCBtaXRpZ2F0aW9uL3JlZHVjdGlvbiBvZiBoaWdoZXIgbGV2ZWwgc3VydmV5IGNpdGF0aW9ucyB3aXRoIGZvcndhcmQKCmNvbXBsaWFuY2UuCgpJbnRlcmltIFNlcnZpY2UgLSBBZG1pbmlzdHJhdG9yCgpCcm9hZHZpZXcgSGVhbHRoIGFuZCBSZWhhYmlsaXRhdGlvbiBDZW50ZXIgYW5kIEJlZWdobHkgT2FrcyBTa2lsbGVkIE51cnNpbmcgYW5kIFJlaGFiIENlbnRlciAtIG1haQoKMjAxMSBww6JuxIMgbGEgbWFpIDIwMTIKCkJyb2FkdmlldyBIZWFsdGggYW5kIFJlaGFiaWxpdGF0aW9uIENlbnRlcjoKCkNvbW1lbmNlZCBpbml0aWF0aXZlcyB0byBuYXZpZ2F0ZSBmYWNpbGl0eSB0aHJvdWdoIG5ldyBidXNpbmVzcyBkZXZlbG9wbWVudCwgdGhyb3VnaCBib3RoIGNsaW5pY2FsIGFuZAoKcmVoYWJpbGl0YXRpdmUgcG9zaXRpb25pbmcgcmVzdWx0aW5nIGluIGEgMzElIGdyb3d0aCBpbiBjZW5zdXMgd2l0aCBhIDI1JSBncm93dGggaW4gY2FzZSBtaXggYW5kIHRocm91Z2ggY3VsdHVyZQoKY2hhbmdlIHZpYSBleGVjdXRpdmUgbGVhZGVyc2hpcCwgdGVhbSBidWlsZGluZyBhbmQgYnVkZ2V0YXJ5IHJlYWxpZ25tZW50cy4KCkJlZWdobHkgT2FrcyBTa2lsbGVkIE51cnNpbmcgJiBSZWhhYiBDZW50ZXI6CgpGdWxmaWxsZWQgYXNzaWdubWVudCBoYXZpbmcgaW1wbGVtZW50ZWQgY2Vuc3VzIGluaXRpYXRpdmVzIHNlY3VyaW5nIGEgMTYlIGdyb3d0aCB3aXRoIGNhc2UgbWl4IHByb3BvcnRpb25hdGUKCmluIGRldmVsb3BtZW50LCBoYXZpbmcgaW5jcmVhc2VkIHByb2ZpdGFiaWxpdHkgYnkgMTIlIGFuZCBoYXZpbmcgZGlyZWN0ZWQgYW5kIGNsZWFyZWQgc3VydmV5IGNoYWxsZW5nZXMuCgpJbnRlcnJlbGF0ZWQgTmFycmF0aXZlCgpEZWZpYW50IFNhbGVzIENvbnN1bHRpbmcgYW5kIENvaGVuICYgQ29tcGFueSAtIG1haSAyMDA3IHDDom7EgyBsYSBtYWkgMjAxMAoKRGVmaWFudCBTYWxlcywgVlAgb2YgQnVzaW5lc3MgRGV2ZWxvcG1lbnQ6IE9wZW5lZCBuZXcgZG9vcnMgZm9yIHN1c3RhaW5hYmxlIGZpbmFuY2lhbCBncm93dGggYW5kIHBhbGF0YWJsZQoKbWFya2V0IHBvc2l0aW9uIHV0aWxpemluZyB0YWN0aWNzIGludGVyY2hhbmdlYWJseSByZXNwb25zaWJsZSBmb3IgZ3Jvd2luZyBhIG51cnNpbmcgaG9tZSdzIGJvdHRvbSBsaW5lLgoKQ29oZW4gJiBDb21wYW55LCBBZG1pbmlzdHJhdGl2ZSBBc3Npc3RhbnQ6CgpUYXgsIGF1ZGl0IGFuZCBzdXBwb3J0IGZ1bmN0aW9ucy4KCkFkbWluaXN0cmF0b3IKCkdyYW5kIFZhbGxleSBDb3VudHJ5IE1hbm9yIE51cnNpbmcgSG9tZSBhbmQgQXNzaXN0ZWQgTGl2aW5nIFJlc2lkZW5jZSAtIG5vaWVtYnJpZSAyMDAyIHDDom7EgyBsYQoKbm9pZW1icmllIDIwMDYKCk92ZXJzaWdodCBvZiB0d28gZmFjaWxpdGllczogbWFuYWdlZCBvY2N1cGFuY3kgYXQgOTYlIGFuZCAxMDAlIHdoaWxlIGRlZmljaWVuY3kgZnJlZS4gTWFuYWdlZCB0aHJlZQoKb3duZXJzaGlwIGNoYW5nZXMgd2l0aCBib3R0b20gbGluZSBncm93dGggaW4gYSBoeXBlci1jb21wZXRpdGl2ZSBtYXJrZXQgdmlhIGNvb3JkaW5hdGluZyBpbnRlcmRpc2NpcGxpbmFyeQoKYW5kIGNvbXByZWhlbnNpdmUgY2FyZSBwbGFubmluZywgZGV2ZWxvcGluZyBhbmNpbGxhcnkgc2VydmljZXMgd2l0aCBwcm9mZXNzaW9uYWwgcmVjcnVpdG1lbnQgYW5kIGludGVyamVjdGluZwoKY29tbXVuaXR5IGludm9sdmVtZW50LgoKSW50ZXJpbSBTZXJ2aWNlIC0gQWRtaW5pc3RyYXRvcgoKR2VuZXZhIEhlYWx0aGNhcmUgQ2VudGVyLCBDb3J0bGFuZCBIZWFsdGhjYXJlIENlbnRlciwgSW50ZWdyYXRlZCBIZWFsdGggU2VydmljZXMgLSBhcHJpbGllIDE5OTkgcMOibsSDIGxhCgpub2llbWJyaWUgMjAwMgoKQWRtaW5pc3RyYXRvcgoKKiBSZWNydWl0ZWQgdG8gb3ZlcnNlZSB0aHJlZSBmYWNpbGl0aWVzOiBPcGVyYXRlIHRocm91Z2ggY2hhbmdlIG9mIG93bmVyc2hpcCwgYW5hbHl6ZSBmaW5hbmNpYWxzLCBzdGFiaWxpemUKCmNlbnN1cywgZ292ZXJuIHN1cnZleSBvdXRjb21lcyBhbmQgbWFuYWdlIGJhbmtydXB0Y3kgcHJvY2VlZGluZ3MuCgpBZG1pbmlzdHJhdG9yCgpWYWxsZXkgVmlldyBOdXJzaW5nIEhvbWUgYW5kIEF1dHVtbiBBY3JlcyBQZXJzb25hbCBDYXJlIENlbnRlciAtIGl1bGllIDE5OTQgcMOibsSDIGxhIGFwcmlsaWUgMTk5OQoKT3ZlcnNpZ2h0IG9mIHR3byBmYWNpbGl0aWVzOiBtYW5hZ2VkIGJvdGggY29uc2lzdGVudGx5IGF0IDEwMCUgb2NjdXBhbmN5IHdoaWxlIGRlZmljaWVuY3kgZnJlZSB3aXRoIGEgc2hpZnQKCmZyb20gTWVkaWNhaWQgdG8gUHJpdmF0ZSBQYXkgKFBlcnNvbmFsIENhcmUgSG9tZSkuIERldmVsb3BlZCBudXJzaW5nIGRvY3VtZW50YXRpb24gYW5kIHF1YWxpdHkgYXNzdXJhbmNlCgpwcm90b2NvbHMvZ3VpZGVsaW5lcyByZWNvcmRlZCB0byB0aGUgd29yZCBvZiB0aGUgc3RhdGUgb3BlcmF0aW9ucyBtYW51YWwgYW5kIHN0YXRlIHJ1bGUuIE92ZXJzaWdodCBvZiB0d28gbWlsbGlvbgoKZG9sbGFyIHJlbm92YXRpb24vY29uc3RydWN0aW9uIHByb2plY3QuCgpBZG1pbmlzdHJhdG9yCgpBbHRlcmNhcmUgb2YgTmF2YXJyZSAtIGl1bGllIDE5OTMgcMOibsSDIGxhIGl1bGllIDE5OTQKCkNvbnN1bHRhdGl2ZSByb2xlIHJlc3BvbnNpYmxlIGZvciBmaXZlIGZhY2lsaXRpZXMgZm9jdXNlZCBvbiBhY2NvdW50IHJlY2VpdmFibGVzLCBzdGF0ZSBzdXJ2ZXkgcHJlcGFyZWRuZXNzLAoKY2Vuc3VzIGRldmVsb3BtZW50IGFuZCBvcmdhbml6YXRpb25hbCBtYW5hZ2VtZW50LgoKQWRtaW5pc3RyYXRvciAvIEFJVAoKQ2FycmluZ3RvbiBTb3V0aCBIZWFsdGhjYXJlIENlbnRlciAtIGlhbnVhcmllIDE5OTIgcMOibsSDIGxhIGl1bGllIDE5OTMKCkFJVCB0byBBZG1pbmlzdHJhdG9yIGhhdmluZyBkaXJlY3RlZCBmYWNpbGl0eSB0aHJvdWdoIHRvIGEgZGVmaWNpZW5jeSBmcmVlIHN1cnZleS4KCkVEVUNBVElPTgoKQkEgaW4gTnVyc2luZyBIb21lIEFkbWluaXN0cmF0aW9uCgpZb3VuZ3N0b3duIFN0YXRlIFVuaXZlcnNpdHkKCml1bmllIDE5OTIKCkxJTktTCgpodHRwOi8vd3d3LmxpbmtlZGluLmNvbS9wdWIvY2FuZHktd2Fsa2VyLXdpbnN0b24tbG5oYS8xYS80YjEvNTc5CgpDRVJUSUZJQ0FUSU9OUy9MSUNFTlNFUwoKTkhBCgpvY3RvbWJyaWUgMjAxNw==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914040465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

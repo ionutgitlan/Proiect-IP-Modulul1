@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2916234160532"  usageLimitType="allocation" usageLimit="100" currentUsage="68" remainingUsage="32" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Eleanor Dawson</FormattedName>
+<GivenName>Eleanor</GivenName>
+<FamilyName>Dawson</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Eleanor-Dawson/6f6eb06b877aefe4</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>TICE Computer Science</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>I attended a Gifted and Talented Programme called TICE (This Is Creative Enterprise) focusing in the field of computer science, where in teams we developed app plans, designed presentations and consulted with experts in the field. I developed my presentation skills and learnt a lot about the industry as well as valuable knowledge about Computer Science and its importance in today's society. This shows my understanding and enthusiasm towards IT and technology. Re: Production TV Advertisement For my year 10 work experience, I went to Re: production advertising in Newcastle and was able to develop my skills in video editing, sound engineering, casting and organisation of filming shoots and timetables of the days on set. I was also able to take part in the filming as an extra in their Stagecoach advertisement and have also appeared in two films from the company of Act2Cam with speaking roles. I am very confident when faced with new situations and was eager to learn new skills in my work experience and develop others further.
+</Description>
+<StartDate>
+<AnyDate>2015-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>Whitley Bay High School</SchoolName>
+</School>
+<Degree>
+<DegreeMajor>
+<Name>Choirs</Name>
+</DegreeMajor>
+<Comments>I have performed in a range of theatre shows including Hairspray and Grease at Whitley Bay Playhouse lead role of Tracy Turnblad</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>and school productions of Into the Woods and Beauty and the Beast</SchoolName>
+</School>
+<Degree>
+<DegreeMajor>
+<Name>Musical Theatre</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Advertising">
+<CompetencyId description="HireAbility taxonomy" id="37" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Advertising" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="English Language">
+<CompetencyId description="HireAbility taxonomy" id="17622" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="English Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="French Language">
+<CompetencyId description="HireAbility taxonomy" id="8987" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="French Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Technology">
+<CompetencyId description="HireAbility taxonomy" id="10107" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Technology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Presentation Skills">
+<CompetencyId description="HireAbility taxonomy" id="15875" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Presentation Skills" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Science">
+<CompetencyId description="HireAbility taxonomy" id="11108" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Science" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Video">
+<CompetencyId description="HireAbility taxonomy" id="1764" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Video" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Languages>
+<Language>
+<LanguageCode>EN</LanguageCode>
+<Read>false</Read>
+<Write>false</Write>
+<Speak>true</Speak>
+</Language>
+<Language>
+<LanguageCode>FR</LanguageCode>
+<Read>false</Read>
+<Write>false</Write>
+<Speak>true</Speak>
+</Language>
+</Languages>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RWxlYW5vciBEYXdzb24KCk5ld2Nhc3RsZSB1cG9uIFR5bmUgLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9FbGVhbm9yLURhd3Nvbi82ZjZlYjA2Yjg3N2FlZmU0CgpXT1JLIEVYUEVSSUVOQ0UKClRJQ0UgQ29tcHV0ZXIgU2NpZW5jZQoKSW4gMjAxNSBJIGF0dGVuZGVkIGEgR2lmdGVkIGFuZCBUYWxlbnRlZCBQcm9ncmFtbWUgY2FsbGVkIFRJQ0UgKFRoaXMgSXMgQ3JlYXRpdmUgRW50ZXJwcmlzZSkgZm9jdXNpbmcgaW4gdGhlCgpmaWVsZCBvZiBjb21wdXRlciBzY2llbmNlLCB3aGVyZSBpbiB0ZWFtcyB3ZSBkZXZlbG9wZWQgYXBwIHBsYW5zLCBkZXNpZ25lZCBwcmVzZW50YXRpb25zIGFuZCBjb25zdWx0ZWQgd2l0aAoKZXhwZXJ0cyBpbiB0aGUgZmllbGQuIEkgZGV2ZWxvcGVkIG15IHByZXNlbnRhdGlvbiBza2lsbHMgYW5kIGxlYXJudCBhIGxvdCBhYm91dCB0aGUgaW5kdXN0cnkgYXMgd2VsbCBhcyB2YWx1YWJsZQoKa25vd2xlZGdlIGFib3V0IENvbXB1dGVyIFNjaWVuY2UgYW5kIGl0cyBpbXBvcnRhbmNlIGluIHRvZGF5J3Mgc29jaWV0eS4gVGhpcyBzaG93cyBteSB1bmRlcnN0YW5kaW5nIGFuZAoKZW50aHVzaWFzbSB0b3dhcmRzIElUIGFuZCB0ZWNobm9sb2d5LgoKUmU6UHJvZHVjdGlvbiBUViBBZHZlcnRpc2VtZW50CgpGb3IgbXkgeWVhciAxMCB3b3JrIGV4cGVyaWVuY2UsIEkgd2VudCB0byBSZTpwcm9kdWN0aW9uIGFkdmVydGlzaW5nIGluIE5ld2Nhc3RsZSBhbmQgd2FzIGFibGUgdG8gZGV2ZWxvcAoKbXkgc2tpbGxzIGluIHZpZGVvIGVkaXRpbmcsIHNvdW5kIGVuZ2luZWVyaW5nLCBjYXN0aW5nIGFuZCBvcmdhbmlzYXRpb24gb2YgZmlsbWluZyBzaG9vdHMgYW5kIHRpbWV0YWJsZXMgb2YgdGhlCgpkYXlzIG9uIHNldC4gSSB3YXMgYWxzbyBhYmxlIHRvIHRha2UgcGFydCBpbiB0aGUgZmlsbWluZyBhcyBhbiBleHRyYSBpbiB0aGVpciBTdGFnZWNvYWNoIGFkdmVydGlzZW1lbnQgYW5kIGhhdmUKCmFsc28gYXBwZWFyZWQgaW4gdHdvIGZpbG1zIGZyb20gdGhlIGNvbXBhbnkgb2YgQWN0MkNhbSB3aXRoIHNwZWFraW5nIHJvbGVzLiBJIGFtIHZlcnkgY29uZmlkZW50IHdoZW4gZmFjZWQKCndpdGggbmV3IHNpdHVhdGlvbnMgYW5kIHdhcyBlYWdlciB0byBsZWFybiBuZXcgc2tpbGxzIGluIG15IHdvcmsgZXhwZXJpZW5jZSBhbmQgZGV2ZWxvcCBvdGhlcnMgZnVydGhlci4KCkVEVUNBVElPTgoKV2hpdGxleSBCYXkgSGlnaCBTY2hvb2wKCkdST1VQUwoKQ2hvaXJzCgpJIGhhdmUgYmVlbiBwYXJ0IG9mIG51bWVyb3VzIGNob2lycyBvdmVyIHRoZSB5ZWFycyBpbmNsdWRpbmcgV2hpdGxleSBCYXkgT3BlcmF0aWMgU29jaWV0eSdzIE5leHQgR2VuZXJhdGlvbiwKCk5vcnRoIFR5bmVzaWRlJ3MgSnVuaW9yIENob2lyLCBjaG9pcnMgYXQgZWFjaCBvZiBteSBzY2hvb2xzIGFuZCBIYXJtb255IENob2lyLiBJIGhhdmUgcGVyZm9ybWVkIGluIG1hbnkKCmxvY2F0aW9ucyBhbmQgZXZlbnRzIHdpdGggdGhlbSBzdWNoIGFzIFdoaXRsZXkgQmF5IFBsYXlob3VzZSwgdGhlIENocmlzdG1hcyBWaWN0b3JpYW4gTWFya2V0IGluIE5vcnRoIFNoaWVsZHMKCmFuZCBvbiBNZXRybyBSYWRpby4gQWdhaW4gdGhpcyBkZW1vbnN0cmF0ZXMgbXkgY29uZmlkZW5jZSBpbiB3b3JraW5nIHdpdGgsIGFuZCBwZXJmb3JtaW5nIHRvIG90aGVycyBhcyB3ZWxsCgphcyBteSByZWxpYWJpbGl0eSBhbmQgdGVhbSB3b3JrLgoKTXVzaWNhbCBUaGVhdHJlCgpJIGhhdmUgcGVyZm9ybWVkIGluIGEgcmFuZ2Ugb2YgdGhlYXRyZSBzaG93cyBpbmNsdWRpbmcgSGFpcnNwcmF5IGFuZCBHcmVhc2UgYXQgV2hpdGxleSBCYXkgUGxheWhvdXNlCgoobGVhZCByb2xlIG9mIFRyYWN5IFR1cm5ibGFkKSwgYW5kIHNjaG9vbCBwcm9kdWN0aW9ucyBvZiBJbnRvIHRoZSBXb29kcyBhbmQgQmVhdXR5IGFuZCB0aGUgQmVhc3QgKE1vbnNpZXVyCgpEJ0FycXVlIGFuZCBDaW5kZXJlbGxhJ3MgU3RlcG1vdGhlciByZXNwZWN0aXZlbHkpLiBJIGhhdmUgYWxzbyBiZWVuIGFuIGFjdGl2ZSBtZW1iZXIgb2YgdGhlIGNob3J1cyBhbmQKCnBsYXllZCBzdXBwb3J0aW5nIHJvbGVzLiBUaGlzIGRlbW9uc3RyYXRlcyBteSBjb25maWRlbmNlIGFuZCBlZmZlY3RpdmVuZXNzIHdvcmtpbmcgaW4gZ3JvdXBzIGFuZCBwZXJmb3JtaW5nCgp0byBncm91cHMgb2YgcGVvcGxlLiBJdCBhbHNvIGRlbW9uc3RyYXRlcyBteSByZWxpYWJpbGl0eSBhbmQgdGVhbSBldGhpYyBpbiBoZWxwaW5nIGFuZCBzdXBwb3J0aW5nIG90aGVyIGNhc3QKCm1lbWJlcnMgYW5kIGNyZXcuCgpBRERJVElPTkFMIElORk9STUFUSU9OCgpJIGFtIHByZWRpY3RlZCBBKiBpbiBhbGwgbXkgR0NTRSdzIGF0IFdoaXRsZXkgQmF5IEhpZ2ggU2Nob29sIGluY2x1ZGluZywgRW5nbGlzaCwgTWF0aHMsIFNjaWVuY2UsIEZyZW5jaCwKCkhpc3RvcnksIERyYW1hIGFuZCBJQ1QuIEkgaGF2ZSBhY2hpZXZlZCBoaWdoIGxldmVscyBvbiBhbGwgY291cnNld29yayBhbmQgaGF2ZSBkZW1vbnN0cmF0ZWQgbXkgbGV2ZWxzIG9mIHNlbGYKCnJlc3BvbnNpYmlsaXR5IGFuZCBteSBoYXJkIHdvcmtpbmcgY2hhcmFjdGVyaXN0aWMgdG8gY29uc3RhbnRseSB3YW50IHRvIGltcHJvdmUgYW5kIGFjaGlldmUgZ29vZCByZXN1bHRzLiBOb3QKCm9ubHkgdGhpcywgYnV0IGF0IFZhbGxleSBHYXJkZW5zIE1pZGRsZSBTY2hvb2wgSSB3YXMgaG9ub3VyZWQgdG8gcmVjZWl2ZSB0aGUgYXdhcmQgb2YgT3V0c3RhbmRpbmcgQWNhZGVtaWMKCkFjaGlldmVtZW50IHRocm91Z2hvdXQgbXkgZm91ciB5ZWFycyBhdHRlbmRpbmcgdGhlIHNjaG9vbCwgcHJvdmluZyBteSByZXNpbGllbmNlIGFuZCBoYXJkIHdvcmtpbmcgYXR0aXR1ZGUuCgpJIGFsc28gaGF2ZSB2b2x1bnRlZXJlZCBhdCBpbmR1Y3Rpb24gZGF5cyBvdmVyIHRoZSBwYXN0IGZpdmUgeWVhcnMgaW4gbXkgY3VycmVudCBhbmQgcHJldmlvdXMgc2Nob29scyB0byBhc3Npc3QKCnRlYWNoZXJzIGFuZCBoZWxwIGRlbW9uc3RyYXRlIHRoZSBzY2hvb2wgdG8gcG9zc2libGUgYXBwbGljYW50cyBhbmQgdGhlaXIgcGFyZW50cy4KCkluIDIwMTYgSSB3YXMgZGVsaWdodGVkIHRvIGJlIGNob3NlbiBhcyBvbmUgb2YgZm91ciBwdXBpbHMgaW4gbXkgc2Nob29sIHRvIGJlIHBhcnQgb2YgdGhlIEdpZnRlZCBhbmQgVGFsZW50ZWQKClByb2dyYW1tZSB0byB2aXNpdCBDYW1icmlkZ2UgVW5pdmVyc2l0eSBmb3IgYSB0d28gZGF5IHRyaXAgdG8gZXhwbG9yZSB0aGUgdW5pdmVyc2l0eSBhbmQgbG9vayBhdCBkaWZmZXJlbnQgY291cnNlcwoKb24gb2ZmZXIgYXMgYSBwb3RlbnRpYWwgZnV0dXJlIE94YnJpZGdlIHN0dWRlbnQuIEkgbGVhcm50IGEgbG90IGFib3V0IFVuaXZlcnNpdHkgYW5kIGl0IGhlbHBlZCBtZSBtYWtlIGEgbG90IG9mCgpkZWNpc2lvbnMgYWJvdXQgbXkgZnV0dXJlIGFuZCB1bmRlcnN0YW5kIG1vcmUgb24gd2hhdCBjb3Vyc2VzIGFyZSBvbiBvZmZlciBhbmQgd2hhdCBpIG5lZWRlZCB0byBkbyB0byBwdXQKCm15c2VsZiBpbiB0aGUgYmVzdCBzdGFuZGluZyB3aGVuIGFwcGx5aW5nLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916234160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

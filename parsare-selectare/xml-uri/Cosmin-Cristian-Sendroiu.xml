@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2911422160532"  usageLimitType="allocation" usageLimit="100" currentUsage="50" remainingUsage="50" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Cosmin Cristian Şendroiu</FormattedName>
+<GivenName>Cosmin</GivenName>
+<MiddleName>Cristian</MiddleName>
+<FamilyName>Şendroiu</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Cosmin-Cristian-Sendroiu/01a0fd785ac3de23</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Computer Science Assistant</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>accounting</IndustryDescription></OrgIndustry>
+<Description>Main activities and responsibilities Collaboration with the members of the Board of Directors, the chair of the methodical commissions and teaching staff, control of the entire activity of computer science lab and the electrical appliances within the unite, coordination and guidance of the activity of AeL lab, collaboration with teachers regarding teaching of lessons in AeL, collaboration with suppliers to ensure the good functioning of the equipments, endowment of the informatics lab with programmes required in the process of learning informatics, ensuring the security of AeL computer network, preparing of lists with independent investments- endowments and their supporting memos and the transmission to the accounting service, introduction of school statistical data in the National Database of Education, archiving of data at each end of year, responsibility for the good carrying out of the National Tests regarding the admission to high school, editing of different statistical situations for the management of the unit, guarantee of a good functioning of the data transmission line to the School Inspectorate, Dolj County. Credit counsellor for legal persons
+</Description>
+<StartDate>
+<AnyDate>2008-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>School no.37</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Mihai Eminescu - Street Ion Ţuculescu, nr.3, Craiova Type of business or sector Education
+</Description>
+<StartDate>
+<AnyDate>2007-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType>Contractor</JobType>
+<PositionHistory>
+<Title>credits contracted by clients</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>banking/financial</IndustryDescription></OrgIndustry>
+<Description>Credit counsellor for legal persons Main activities and responsibilities Setting up of a continuous relation between the management of the branch and the traders within the area of the bank unit by drawing up a specific database ensures the specialty counselling clients and provide information relating bank products and services instalment simulation professional knowledge presentation and sale of all bank's products/services with a view increase the client portfolio carrying out of the activity of competition on local market and collection of information with a view to adapt the bank's products and services the clients' requirements travels on site to promote the bank's products and services as well as attract new clients having permanently in mind their reliability and quality supply and guarantee consultancy in order to fill in the forms relative to services provided by the bank ( opening of an account requests for card issuance etc. ) collection of all documents requested draw up the credit proposition to improve the norms to grant follow and reimburse the management of publicity materials and liability towards their updating.
+</Description>
+<StartDate>
+<AnyDate>2007-05-10</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-08-15</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Raiffeisen Bank Craiova Branch Direct Sales Department</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>banking/financial</IndustryDescription></OrgIndustry>
+<Description>Fratii Buzesti nr. 17, Craiova Type of business or sector Banking sector
+</Description>
+<StartDate>
+<AnyDate>2007-05-10</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-05-10</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Craiova</SchoolName>
+</School>
+<Degree>
+<DegreeName>diploma</DegreeName>
+<DegreeDate>
+<AnyDate>2007-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mechanics</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2002-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-06-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>High school studies classification</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>Reading</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>diploma</DegreeName>
+<DegreeDate>
+<AnyDate>2005-12-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>English</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>Ştefan Odobleja'' Informatics High School</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2002-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Computer Science</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>1998-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-06-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>Ştefan Odobleja'' Informatics High School</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>certification in sales</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="Accounting">
+<CompetencyId description="HireAbility taxonomy" id="4198" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Accounting" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Banking Industry">
+<CompetencyId description="HireAbility taxonomy" id="4782" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Banking Industry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Commissions">
+<CompetencyId description="HireAbility taxonomy" id="15309" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Commissions" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Reliability">
+<CompetencyId description="HireAbility taxonomy" id="9333" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Reliability" lastUsed="2007-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Sales">
+<CompetencyId description="HireAbility taxonomy" id="7733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Sales" lastUsed="2007-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Science">
+<CompetencyId description="HireAbility taxonomy" id="11108" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Science" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Security">
+<CompetencyId description="HireAbility taxonomy" id="7096" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Security" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q29zbWluIENyaXN0aWFuIMWeZW5kcm9pdQoKQ29tcHV0ZXIgU2NpZW5jZSBBc3Npc3RhbnQKCk1haWRzdG9uZSAtIEVtYWlsIG1lIG9uIEluZGVlZDogaW5kZWVkLmNvbS9yL0Nvc21pbi1DcmlzdGlhbi1TZW5kcm9pdS8wMWEwZmQ3ODVhYzNkZTIzCgpDYXJyeWluZyBvdXQgYSBkeW5hbWljIGFjdGl2aXR5IHdpdGhpbiBhIG1vZGVybiBpbnN0aXR1dGlvbiwgdmFsb3Jpc2luZyB0aGUgcHJvZmVzc2lvbmFsIHNraWxscwoKYW5kIGEgY29tcGxleCBwcm9mZXNzaW9uYWwgdHJhaW5pbmcgd2l0aGluIGEgcGVybWFuZW50IGFuZCBjb21wZXRpdGl2ZSBlbnZpcm9ubWVudC4KCldPUksgRVhQRVJJRU5DRQoKQ29tcHV0ZXIgU2NpZW5jZSBBc3Npc3RhbnQKCiAtIE1hcmNoIDIwMDggdG8gTm92ZW1iZXIgMjAxNAoKTWFpbiBhY3Rpdml0aWVzIGFuZCByZXNwb25zaWJpbGl0aWVzIENvbGxhYm9yYXRpb24gd2l0aCB0aGUgbWVtYmVycyBvZiB0aGUgQm9hcmQgb2YgRGlyZWN0b3JzLCB0aGUgY2hhaXIgb2YKCnRoZSBtZXRob2RpY2FsIGNvbW1pc3Npb25zIGFuZCB0ZWFjaGluZyBzdGFmZiwgY29udHJvbCBvZiB0aGUgZW50aXJlIGFjdGl2aXR5IG9mIGNvbXB1dGVyIHNjaWVuY2UgbGFiIGFuZCB0aGUKCmVsZWN0cmljYWwgYXBwbGlhbmNlcyB3aXRoaW4gdGhlCgp1bml0ZSwgY29vcmRpbmF0aW9uIGFuZCBndWlkYW5jZSBvZiB0aGUgYWN0aXZpdHkgb2YgQWVMIGxhYiwgY29sbGFib3JhdGlvbiB3aXRoIHRlYWNoZXJzIHJlZ2FyZGluZyB0ZWFjaGluZyBvZgoKbGVzc29ucyBpbiBBZUwsIGNvbGxhYm9yYXRpb24gd2l0aCBzdXBwbGllcnMgdG8gZW5zdXJlIHRoZSBnb29kIGZ1bmN0aW9uaW5nIG9mIHRoZSBlcXVpcG1lbnRzLAoKZW5kb3dtZW50IG9mIHRoZSBpbmZvcm1hdGljcyBsYWIgd2l0aCBwcm9ncmFtbWVzIHJlcXVpcmVkIGluIHRoZSBwcm9jZXNzIG9mIGxlYXJuaW5nIGluZm9ybWF0aWNzLAoKZW5zdXJpbmcgdGhlIHNlY3VyaXR5IG9mIEFlTCBjb21wdXRlciBuZXR3b3JrLCBwcmVwYXJpbmcgb2YgbGlzdHMgd2l0aCBpbmRlcGVuZGVudCBpbnZlc3RtZW50cy0gZW5kb3dtZW50cwoKYW5kIHRoZWlyIHN1cHBvcnRpbmcgbWVtb3MgYW5kIHRoZSB0cmFuc21pc3Npb24gdG8gdGhlIGFjY291bnRpbmcgc2VydmljZSwgaW50cm9kdWN0aW9uIG9mCgpzY2hvb2wgc3RhdGlzdGljYWwgZGF0YSBpbiB0aGUgTmF0aW9uYWwgRGF0YWJhc2Ugb2YgRWR1Y2F0aW9uLCBhcmNoaXZpbmcgb2YgZGF0YSBhdCBlYWNoIGVuZCBvZiB5ZWFyLAoKcmVzcG9uc2liaWxpdHkgZm9yIHRoZSBnb29kIGNhcnJ5aW5nIG91dCBvZiB0aGUgTmF0aW9uYWwgVGVzdHMgcmVnYXJkaW5nIHRoZSBhZG1pc3Npb24gdG8gaGlnaCBzY2hvb2wsIGVkaXRpbmcgb2YKCmRpZmZlcmVudCBzdGF0aXN0aWNhbCBzaXR1YXRpb25zIGZvciB0aGUgbWFuYWdlbWVudCBvZiB0aGUgdW5pdCwgZ3VhcmFudGVlIG9mIGEgZ29vZCBmdW5jdGlvbmluZyBvZiB0aGUgZGF0YQoKdHJhbnNtaXNzaW9uIGxpbmUgdG8gdGhlIFNjaG9vbCBJbnNwZWN0b3JhdGUsIERvbGogQ291bnR5LgoKQ3JlZGl0IGNvdW5zZWxsb3IgZm9yIGxlZ2FsIHBlcnNvbnMKCk1paGFpIEVtaW5lc2N1IC0gTWF5IDIwMDcgdG8gQXVndXN0IDIwMDcKClNjaG9vbCBuby4zNwoKU3RyZWV0IElvbiDFonVjdWxlc2N1LCBuci4zLCBDcmFpb3ZhCgpUeXBlIG9mIGJ1c2luZXNzIG9yIHNlY3RvciBFZHVjYXRpb24KCkRhdGVzIDEwLzA1LzIwMDctMTUvMDgvMjAwNwoKT2NjdXBhdGlvbiBvciBwb3NpdGlvbiBoZWxkIENyZWRpdCBjb3Vuc2VsbG9yIGZvciBsZWdhbCBwZXJzb25zCgpNYWluIGFjdGl2aXRpZXMgYW5kIHJlc3BvbnNpYmlsaXRpZXMgU2V0dGluZyB1cCBvZiBhIGNvbnRpbnVvdXMgcmVsYXRpb24gYmV0d2VlbiB0aGUgbWFuYWdlbWVudCBvZiB0aGUgYnJhbmNoCgphbmQgdGhlIHRyYWRlcnMgd2l0aGluIHRoZSBhcmVhIG9mIHRoZSBiYW5rIHVuaXQgYnkgZHJhd2luZyB1cCBhIHNwZWNpZmljIGRhdGFiYXNlLCBlbnN1cmVzIHRoZSBzcGVjaWFsdHkKCmNvdW5zZWxsaW5nIHRvIGNsaWVudHMgYW5kIHByb3ZpZGUKCmluZm9ybWF0aW9uIHJlbGF0aW5nIHRvIGJhbmsgcHJvZHVjdHMgYW5kIHNlcnZpY2VzLCBpbnN0YWxtZW50IHNpbXVsYXRpb24sIHByb2Zlc3Npb25hbCBrbm93bGVkZ2UsCgpwcmVzZW50YXRpb24gYW5kIHNhbGUgb2YgYWxsIGJhbmsncyBwcm9kdWN0cy9zZXJ2aWNlcyB3aXRoIGEgdmlldyB0byBpbmNyZWFzZSB0aGUgY2xpZW50IHBvcnRmb2xpbywgY2Fycnlpbmcgb3V0IG9mCgp0aGUgYWN0aXZpdHkgb2YgY29tcGV0aXRpb24gb24gbG9jYWwgbWFya2V0IGFuZCBjb2xsZWN0aW9uIG9mIGluZm9ybWF0aW9uIHdpdGggYSB2aWV3IHRvIGFkYXB0IHRoZSBiYW5rJ3MgcHJvZHVjdHMKCmFuZCBzZXJ2aWNlcyB0byB0aGUgY2xpZW50cycgcmVxdWlyZW1lbnRzLCB0cmF2ZWxzIG9uIHNpdGUsIHRvIHByb21vdGUgdGhlIGJhbmsncyBwcm9kdWN0cyBhbmQgc2VydmljZXMgYXMgd2VsbAoKYXMgdG8gYXR0cmFjdCBuZXcgY2xpZW50cywgaGF2aW5nIHBlcm1hbmVudGx5IGluIG1pbmQgdGhlaXIgcmVsaWFiaWxpdHkgYW5kIHF1YWxpdHksIHRvIHN1cHBseSBhbmQgZ3VhcmFudGVlCgpjb25zdWx0YW5jeSBpbiBvcmRlciB0byBmaWxsIGluIHRoZSBmb3JtcyByZWxhdGl2ZSB0byBzZXJ2aWNlcyBwcm92aWRlZCBieSB0aGUgYmFuayAoIG9wZW5pbmcgb2YgYW4gYWNjb3VudCwKCnJlcXVlc3RzIGZvciBjYXJkIGlzc3VhbmNlLCBldGMuICksIGNvbGxlY3Rpb24gb2YgYWxsIGRvY3VtZW50cyByZXF1ZXN0ZWQgdG8gZHJhdyB1cCB0aGUgY3JlZGl0LCBwcm9wb3NpdGlvbiB0bwoKaW1wcm92ZSB0aGUgbm9ybXMgdG8gZ3JhbnQsIGZvbGxvdyBhbmQgcmVpbWJ1cnNlIHRoZSBjcmVkaXRzIGNvbnRyYWN0ZWQgYnkgY2xpZW50cywgbWFuYWdlbWVudCBvZiBwdWJsaWNpdHkKCm1hdGVyaWFscyBhbmQgbGlhYmlsaXR5IHRvd2FyZHMgdGhlaXIgdXBkYXRpbmcuCgpOYW1lIGFuZCBhZGRyZXNzIG9mIGVtcGxveWVyIFJhaWZmZWlzZW4gQmFuaywgQ3JhaW92YSBCcmFuY2gsIERpcmVjdCBTYWxlcyBEZXBhcnRtZW50CgpTdHJlZXQgRnJhdGlpIEJ1emVzdGkgbnIuIDE3LCBDcmFpb3ZhCgpUeXBlIG9mIGJ1c2luZXNzIG9yIHNlY3RvciBCYW5raW5nIHNlY3RvcgoKRURVQ0FUSU9OCgpkaXBsb21hIGluIE1lY2hhbmljcwoKVW5pdmVyc2l0eSBvZiBDcmFpb3ZhCgpPY3RvYmVyIDIwMDIgdG8gSnVuZSAyMDA3CgpFbmdsaXNoCgpIaWdoIHNjaG9vbCBzdHVkaWVzIGNsYXNzaWZpY2F0aW9uIC0gUmVhZGluZwoKRGVjZW1iZXIgMjAwNQoKZGlwbG9tYSBpbiBDb21wdXRlciBTY2llbmNlCgrFnnRlZmFuIE9kb2JsZWphJycgSW5mb3JtYXRpY3MgSGlnaCBTY2hvb2wKClNlcHRlbWJlciAxOTk4IHRvIEp1bmUgMjAwMgoKY2VydGlmaWNhdGlvbiBpbiBzYWxlcwoKxZ50ZWZhbiBPZG9ibGVqYScnIEluZm9ybWF0aWNzIEhpZ2ggU2Nob29s</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911422160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

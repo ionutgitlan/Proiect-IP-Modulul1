@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2914542160532"  usageLimitType="allocation" usageLimit="100" currentUsage="53" remainingUsage="47" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Danilo Bassi</FormattedName>
+<GivenName>Danilo</GivenName>
+<FamilyName>Bassi</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Danilo-Bassi/2fbabd1c8781eb40</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>H20.ai</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Senior Software Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Mountain View</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Machine learning development: deep learning and time series (tensorflow, python, java . .) Natural Language Engineer
+</Description>
+<StartDate>
+<AnyDate>2016-10-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Apple Inc</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Cupertino</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Natural Language processing, at the core of Siri, for foreign language understanding.
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>SymLogical LLC</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>President, CTO & Founder</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>PA</Region>
+<Municipality>Exton</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Leading the development of solution for high-level dynamic planning. * Conceived an efficient and unique algorithm based on linear temporal logic, dynamic and logic programming approach. * Development of aerial vehicle (drone) for autonomous inspection.
+</Description>
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>GLOTEX</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Senior Consultant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New York</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>Worked as Quantitative Analyst / Chief Scientist, developed innovative algorithms for currency portfolio risk management and automated trading operations.
+</Description>
+<StartDate>
+<AnyDate>2013-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Villanova University</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Associate Researcher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Business Analytics research: credit risk analysis and modeling.
+</Description>
+<StartDate>
+<AnyDate>2011-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Associate Researcher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>PA</Region>
+<Municipality>Villanova</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2008-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Business Analytics & Financial Systems</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Senior Consultant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>PA</Region>
+<Municipality>Berwyn</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>banking/financial</IndustryDescription></OrgIndustry>
+<Description>PA / Santiago, Chile Business Analytics & Financial Systems Developed multiple projects and studies on business analytics involving machine learning paradigm, probabilities, data-mining and decision support systems, with focus in credit risk and predictive decision systems. * Provided advice/systems/recommendations to over 10 institutional customers. * Solutions delivered in credit risk management were key to improve efficiency and decision-making in many companies with large (1M +) credit holders base.
+</Description>
+<StartDate>
+<AnyDate>1994-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Villanova University</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Research Professor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Worked in Autonomous Systems fundamental research and applied projects, using machine learning and symbolic approaches. 1
+</Description>
+<StartDate>
+<AnyDate>2008-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Business Analytics & Financial Systems</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Full Professor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Universidad de Santiago - Santiago de Chile</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Professor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2010-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Región Metropolitana</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Associate Professor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>CL</CountryCode>
+<Municipality>Santiago</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1995-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Universidad de Santiago</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Teaching and Research in Computational Intelligence</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MN</Region>
+<Municipality>Santiago</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>intelligence</IndustryDescription></OrgIndustry>
+<Description>Robotics/Automation areas. * Obtained novel results by applying learning methods for robot motion control and complex process control (resulting in 10+ publications). * Generated new results in based on Computational Intelligence: probabilistic and time-series modeling, clustering analysis and anomaly detectors. * Managed and secured significant grants for several research projects ($1.5M+)
+</Description>
+<StartDate>
+<AnyDate>1995-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>President, CTO & Founder</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Business Analytics & Financial Systems - Santiago de Chile
+</Description>
+<StartDate>
+<AnyDate>2003-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Región Metropolitana</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>CL</CountryCode>
+<Municipality>Santiago</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Rednova offered complete credit risk/management solution to large institutions.
+</Description>
+<StartDate>
+<AnyDate>1996-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>President, CTO & Founder</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Provided Credit efficient risk models based on machine learning over big database of financial institutional customers. Those solutions were obtained through proprietary technologies/methodologies that I created and managed * Data mining software for performing machine learning analysis/modeling * Generic software/hardware engine for real time computation of produced models.
+</Description>
+<StartDate>
+<AnyDate>1996-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Universidad de Chile - Santiago de Chile</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Assistant Professor, Department of Industrial Engineering</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1995-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Región Metropolitana</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Teaching and Research</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>intelligence</IndustryDescription></OrgIndustry>
+<Description>in Artificial Intelligence and Manufacture/Automation areas. * Pioneering research in Machine Learning applied to Robotics and Automation, signal processing and quantitative finance. * Managed large research projects, securing grants and financing ($500K+).
+</Description>
+<StartDate>
+<AnyDate>1991-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Southern California</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Los Angeles</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>PhD</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Universidad de Chile</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Master of Science</DegreeName>
+<DegreeMajor>
+<Name>Electrical Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Universidad de Chile</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Science</DegreeName>
+<DegreeMajor>
+<Name>Santiago de Chile, Región Metropolitana</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Applications">
+<CompetencyId description="HireAbility taxonomy" id="2" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Applications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Artificial Intelligence">
+<CompetencyId description="HireAbility taxonomy" id="7584" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Artificial Intelligence" lastUsed="1995-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Automation">
+<CompetencyId description="HireAbility taxonomy" id="7586" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Automation" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">14</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Clustering">
+<CompetencyId description="HireAbility taxonomy" id="4919" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Clustering" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">10</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Communication Skills">
+<CompetencyId description="HireAbility taxonomy" id="16264" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Communication Skills">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Data Mining">
+<CompetencyId description="HireAbility taxonomy" id="1892" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Data Mining">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Decision Support Systems (DSS)">
+<CompetencyId description="HireAbility taxonomy" id="6917" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Decision Support Systems (DSS)" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">19</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Engineering">
+<CompetencyId description="HireAbility taxonomy" id="1932" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Engineering">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="English Language">
+<CompetencyId description="HireAbility taxonomy" id="17622" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="English Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Entrepreneurship">
+<CompetencyId description="HireAbility taxonomy" id="18909" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Entrepreneurship">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Financial">
+<CompetencyId description="HireAbility taxonomy" id="1942" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Financial" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">20</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Financial Systems">
+<CompetencyId description="HireAbility taxonomy" id="8449" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Financial Systems" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">20</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="French Language">
+<CompetencyId description="HireAbility taxonomy" id="8987" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="French Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hardware Design">
+<CompetencyId description="HireAbility taxonomy" id="6745" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hardware Design">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hardware/Systems">
+<CompetencyId description="HireAbility taxonomy" id="6" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hardware/Systems">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Industrial Engineering">
+<CompetencyId description="HireAbility taxonomy" id="9919" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Industrial Engineering">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Light Emitting Diode">
+<CompetencyId description="HireAbility taxonomy" id="6323" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Light Emitting Diode">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">28</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Mining">
+<CompetencyId description="HireAbility taxonomy" id="15487" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Mining">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Planning">
+<CompetencyId description="HireAbility taxonomy" id="7694" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Planning" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Programming">
+<CompetencyId description="HireAbility taxonomy" id="10" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Programming" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Publications">
+<CompetencyId description="HireAbility taxonomy" id="12" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Publications" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">10</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Research">
+<CompetencyId description="HireAbility taxonomy" id="8958" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Research" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Risk Analysis">
+<CompetencyId description="HireAbility taxonomy" id="15569" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Risk Analysis" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Risk Management">
+<CompetencyId description="HireAbility taxonomy" id="7095" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Risk Management" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">21</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Robotics">
+<CompetencyId description="HireAbility taxonomy" id="362" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Robotics" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">14</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+<Languages>
+<Language>
+<LanguageCode>EN</LanguageCode>
+<Read>false</Read>
+<Write>false</Write>
+<Speak>true</Speak>
+</Language>
+<Language>
+<LanguageCode>ES</LanguageCode>
+<Read>false</Read>
+<Write>false</Write>
+<Speak>true</Speak>
+</Language>
+<Language>
+<LanguageCode>FR</LanguageCode>
+<Read>false</Read>
+<Write>false</Write>
+<Speak>true</Speak>
+</Language>
+</Languages>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RGFuaWxvIEJhc3NpCgpNYWNoaW5lIExlYXJuaW5nIGFuZCBSb2JvdGljcwoKU2FuIEpvc2UsIENBIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvRGFuaWxvLUJhc3NpLzJmYmFiZDFjODc4MWViNDAKCldpbGxpbmcgdG8gcmVsb2NhdGU6IEFueXdoZXJlCgpBdXRob3JpemVkIHRvIHdvcmsgaW4gdGhlIFVTIGZvciBhbnkgZW1wbG95ZXIKCldPUksgRVhQRVJJRU5DRQoKU2VuaW9yIFNvZnR3YXJlIEVuZ2luZWVyCgpIMjAuYWkgLSBNb3VudGFpbiBWaWV3LCBDQSAtIE9jdG9iZXIgMjAxNiB0byBQcmVzZW50CgpNYWNoaW5lIGxlYXJuaW5nIGRldmVsb3BtZW50OiBkZWVwIGxlYXJuaW5nIGFuZCB0aW1lIHNlcmllcyAodGVuc29yZmxvdywgcHl0aG9uLCBqYXZhLC4uLikKCk5hdHVyYWwgTGFuZ3VhZ2UgRW5naW5lZXIKCkFwcGxlIEluYyAtIEN1cGVydGlubywgQ0EgLSBKYW51YXJ5IDIwMTYgdG8gSnVuZSAyMDE2CgpOYXR1cmFsIExhbmd1YWdlIHByb2Nlc3NpbmcsIGF0IHRoZSBjb3JlIG9mIFNpcmksIGZvciBmb3JlaWduIGxhbmd1YWdlIHVuZGVyc3RhbmRpbmcuCgpQcmVzaWRlbnQsIENUTyAmIEZvdW5kZXIKClN5bUxvZ2ljYWwgTExDIC0gRXh0b24sIFBBIC0gSmFudWFyeSAyMDExIHRvIEphbnVhcnkgMjAxNgoKTGVhZGluZyB0aGUgZGV2ZWxvcG1lbnQgb2Ygc29sdXRpb24gZm9yIGhpZ2gtbGV2ZWwgZHluYW1pYyBwbGFubmluZy4KCiogQ29uY2VpdmVkIGFuIGVmZmljaWVudCBhbmQgdW5pcXVlIGFsZ29yaXRobSBiYXNlZCBvbiBsaW5lYXIgdGVtcG9yYWwgbG9naWMsIGR5bmFtaWMgYW5kIGxvZ2ljIHByb2dyYW1taW5nCgphcHByb2FjaC4KCiogRGV2ZWxvcG1lbnQgb2YgYWVyaWFsIHZlaGljbGUgKGRyb25lKSBmb3IgYXV0b25vbW91cyBpbnNwZWN0aW9uLgoKU2VuaW9yIENvbnN1bHRhbnQKCkdMT1RFWCAtIE5ldyBZb3JrLCBOWSAtIE5vdmVtYmVyIDIwMTMgdG8gSnVseSAyMDE1CgpXb3JrZWQgYXMgUXVhbnRpdGF0aXZlIEFuYWx5c3QgLyBDaGllZiBTY2llbnRpc3QsIGRldmVsb3BlZCBpbm5vdmF0aXZlIGFsZ29yaXRobXMgZm9yIGN1cnJlbmN5IHBvcnRmb2xpbyByaXNrCgptYW5hZ2VtZW50IGFuZCBhdXRvbWF0ZWQgdHJhZGluZyBvcGVyYXRpb25zLgoKQXNzb2NpYXRlIFJlc2VhcmNoZXIKClZpbGxhbm92YSBVbml2ZXJzaXR5IC0gSnVuZSAyMDExIHRvIEp1bHkgMjAxNQoKQnVzaW5lc3MgQW5hbHl0aWNzIHJlc2VhcmNoOiBjcmVkaXQgcmlzayBhbmFseXNpcyBhbmQgbW9kZWxpbmcuCgpBc3NvY2lhdGUgUmVzZWFyY2hlcgoKVmlsbGFub3ZhIFVuaXZlcnNpdHkgLSBWaWxsYW5vdmEsIFBBIC0gTm92ZW1iZXIgMjAwOCB0byBKdWx5IDIwMTUKClNlbmlvciBDb25zdWx0YW50CgpCdXNpbmVzcyBBbmFseXRpY3MgJiBGaW5hbmNpYWwgU3lzdGVtcyAtIEJlcnd5biwgUEEgLSBBcHJpbCAxOTk0IHRvIE9jdG9iZXIgMjAxMwoKUEEgLyBTYW50aWFnbywgQ2hpbGUKCkJ1c2luZXNzIEFuYWx5dGljcyAmIEZpbmFuY2lhbCBTeXN0ZW1zCgpEZXZlbG9wZWQgbXVsdGlwbGUgcHJvamVjdHMgYW5kIHN0dWRpZXMgb24gYnVzaW5lc3MgYW5hbHl0aWNzIGludm9sdmluZyBtYWNoaW5lCgpsZWFybmluZyBwYXJhZGlnbSwgcHJvYmFiaWxpdGllcywgZGF0YS1taW5pbmcgYW5kIGRlY2lzaW9uIHN1cHBvcnQgc3lzdGVtcywgd2l0aCBmb2N1cyBpbiBjcmVkaXQgcmlzayBhbmQKCnByZWRpY3RpdmUgZGVjaXNpb24gc3lzdGVtcy4KCiogUHJvdmlkZWQgYWR2aWNlL3N5c3RlbXMvcmVjb21tZW5kYXRpb25zIHRvIG92ZXIgMTAgaW5zdGl0dXRpb25hbCBjdXN0b21lcnMuCgoqIFNvbHV0aW9ucyBkZWxpdmVyZWQgaW4gY3JlZGl0IHJpc2sgbWFuYWdlbWVudCB3ZXJlIGtleSB0byBpbXByb3ZlIGVmZmljaWVuY3kgYW5kIGRlY2lzaW9uLW1ha2luZyBpbiBtYW55Cgpjb21wYW5pZXMgd2l0aCBsYXJnZSAoMU0gKykgY3JlZGl0IGhvbGRlcnMgYmFzZS4KClJlc2VhcmNoIFByb2Zlc3NvcgoKVmlsbGFub3ZhIFVuaXZlcnNpdHkgLSBOb3ZlbWJlciAyMDA4IHRvIE1heSAyMDExCgpXb3JrZWQgaW4gQXV0b25vbW91cyBTeXN0ZW1zIGZ1bmRhbWVudGFsIHJlc2VhcmNoIGFuZCBhcHBsaWVkIHByb2plY3RzLCB1c2luZwoKbWFjaGluZSBsZWFybmluZyBhbmQgc3ltYm9saWMgYXBwcm9hY2hlcy4KCjEKCkZ1bGwgUHJvZmVzc29yCgpCdXNpbmVzcyBBbmFseXRpY3MgJiBGaW5hbmNpYWwgU3lzdGVtcyAtIEphbnVhcnkgMjAwNiB0byBEZWNlbWJlciAyMDEwCgpQcm9mZXNzb3IKClVuaXZlcnNpZGFkIGRlIFNhbnRpYWdvIC0gU2FudGlhZ28gZGUgQ2hpbGUsIFJlZ2nDs24gTWV0cm9wb2xpdGFuYSAtIFNlcHRlbWJlciAxOTk1IHRvIERlY2VtYmVyCgoyMDEwCgpTYW50aWFnbywgQ2hpbGUKCkFzc29jaWF0ZSBQcm9mZXNzb3IKClVuaXZlcnNpZGFkIGRlIFNhbnRpYWdvIC0gU2FudGlhZ28sIE1OIC0gU2VwdGVtYmVyIDE5OTUgdG8gRGVjZW1iZXIgMjAwNQoKVGVhY2hpbmcgYW5kIFJlc2VhcmNoIGluIENvbXB1dGF0aW9uYWwgSW50ZWxsaWdlbmNlLCBSb2JvdGljcy9BdXRvbWF0aW9uIGFyZWFzLgoKKiBPYnRhaW5lZCBub3ZlbCByZXN1bHRzIGJ5IGFwcGx5aW5nIGxlYXJuaW5nIG1ldGhvZHMgZm9yIHJvYm90IG1vdGlvbiBjb250cm9sIGFuZCBjb21wbGV4IHByb2Nlc3MgY29udHJvbAoKKHJlc3VsdGluZyBpbiAxMCsgcHVibGljYXRpb25zKS4KCiogR2VuZXJhdGVkIG5ldyByZXN1bHRzIGluIGJhc2VkIG9uIENvbXB1dGF0aW9uYWwgSW50ZWxsaWdlbmNlOiBwcm9iYWJpbGlzdGljIGFuZCB0aW1lLXNlcmllcyBtb2RlbGluZywKCmNsdXN0ZXJpbmcgYW5hbHlzaXMgYW5kIGFub21hbHkgZGV0ZWN0b3JzLgoKKiBNYW5hZ2VkIGFuZCBzZWN1cmVkIHNpZ25pZmljYW50IGdyYW50cyBmb3Igc2V2ZXJhbCByZXNlYXJjaCBwcm9qZWN0cyAoJDEuNU0rKQoKUHJlc2lkZW50LCBDVE8gJiBGb3VuZGVyCgpCdXNpbmVzcyBBbmFseXRpY3MgJiBGaW5hbmNpYWwgU3lzdGVtcyAtIFNhbnRpYWdvIGRlIENoaWxlLCBSZWdpw7NuIE1ldHJvcG9saXRhbmEgLSBKdWx5IDE5OTYgdG8gQXByaWwKCjIwMDMKClNhbnRpYWdvLCBDaGlsZS4KClJlZG5vdmEgb2ZmZXJlZCBjb21wbGV0ZSBjcmVkaXQgcmlzay9tYW5hZ2VtZW50IHNvbHV0aW9uIHRvIGxhcmdlIGluc3RpdHV0aW9ucy4KClByZXNpZGVudCwgQ1RPICYgRm91bmRlcgoKUHJvdmlkZWQgQ3JlZGl0IGVmZmljaWVudCByaXNrIG1vZGVscyBiYXNlZCBvbiBtYWNoaW5lIGxlYXJuaW5nIG92ZXIgYmlnIGRhdGFiYXNlIG9mIGZpbmFuY2lhbCBpbnN0aXR1dGlvbmFsCgpjdXN0b21lcnMuIFRob3NlIHNvbHV0aW9ucyB3ZXJlIG9idGFpbmVkIHRocm91Z2ggcHJvcHJpZXRhcnkKCnRlY2hub2xvZ2llcy9tZXRob2RvbG9naWVzIHRoYXQgSSBjcmVhdGVkIGFuZCBtYW5hZ2VkCgoqIERhdGEgbWluaW5nIHNvZnR3YXJlIGZvciBwZXJmb3JtaW5nIG1hY2hpbmUgbGVhcm5pbmcgYW5hbHlzaXMvbW9kZWxpbmcKCiogR2VuZXJpYyBzb2Z0d2FyZS9oYXJkd2FyZSBlbmdpbmUgZm9yIHJlYWwgdGltZSBjb21wdXRhdGlvbiBvZiBwcm9kdWNlZCBtb2RlbHMuCgpBc3Npc3RhbnQgUHJvZmVzc29yLCBEZXBhcnRtZW50IG9mIEluZHVzdHJpYWwgRW5naW5lZXJpbmcKClVuaXZlcnNpZGFkIGRlIENoaWxlIC0gU2FudGlhZ28gZGUgQ2hpbGUsIFJlZ2nDs24gTWV0cm9wb2xpdGFuYSAtIEphbnVhcnkgMTk5MSB0byBBdWd1c3QgMTk5NQoKVGVhY2hpbmcgYW5kIFJlc2VhcmNoIGluIEFydGlmaWNpYWwgSW50ZWxsaWdlbmNlIGFuZCBNYW51ZmFjdHVyZS9BdXRvbWF0aW9uIGFyZWFzLgoKKiBQaW9uZWVyaW5nIHJlc2VhcmNoIGluIE1hY2hpbmUgTGVhcm5pbmcgYXBwbGllZCB0byBSb2JvdGljcyBhbmQgQXV0b21hdGlvbiwgc2lnbmFsCgpwcm9jZXNzaW5nIGFuZCBxdWFudGl0YXRpdmUgZmluYW5jZS4KCiogTWFuYWdlZCBsYXJnZSByZXNlYXJjaCBwcm9qZWN0cywgc2VjdXJpbmcgZ3JhbnRzIGFuZCBmaW5hbmNpbmcgKCQ1MDBLKykuCgpFRFVDQVRJT04KClBoRAoKVW5pdmVyc2l0eSBvZiBTb3V0aGVybiBDYWxpZm9ybmlhIC0gTG9zIEFuZ2VsZXMsIENBCgpNYXN0ZXIgb2YgU2NpZW5jZSBpbiBFbGVjdHJpY2FsIEVuZ2luZWVyaW5nCgpVbml2ZXJzaWRhZCBkZSBDaGlsZSAtIFNhbnRpYWdvIGRlIENoaWxlLCBSZWdpw7NuIE1ldHJvcG9saXRhbmEKCkJhY2hlbG9yIG9mIFNjaWVuY2UgaW4gTWFjaGluZSBMZWFybmluZyBhbmQgS25vd2xlZGdlIERpc2NvdmVyeQoKVW5pdmVyc2lkYWQgZGUgQ2hpbGUgLSBTYW50aWFnbyBkZSBDaGlsZSwgUmVnacOzbiBNZXRyb3BvbGl0YW5hCgpMSU5LUwoKaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3B1Yi9kYW5pbG8tYmFzc2kvMC9hMTIvNTdhCgpBRERJVElPTkFMIElORk9STUFUSU9OCgpFeHBlcmllbmNlZCBwcm9mZXNzaW9uYWwgd2l0aCBvdmVyIDI1IHllYXJzIGluIHRoZSBmaWVsZCBvZiBSb2JvdGljcyAmIEF1dG9tYXRpb24gZG9pbmcgcmVzZWFyY2gsCgpkZXZlbG9wbWVudCBhbmQgZW5naW5lZXJpbmcuIERlZXAga25vd2xlZGdlIG9mIG11bHRpcGxlIGFzcGVjdHMgaW52b2x2ZWQgaW4gcm9ib3RpY3M6IGhhcmR3YXJlIGRlc2lnbiwKCnNpbXVsYXRpb24sIHBlcmNlcHRpb24sIGluY2x1ZGluZyBtYWNoaW5lIHZpc2lvbiwgY29udHJvbCBhdCBkaWZmZXJlbnQgbGV2ZWxzLCBwcm9ncmFtbWluZyBhbmQgYXBwbGljYXRpb25zLgoKTWFzdGVyaW5nIGRldmVsb3BtZW50IG9mIEF1dG9tYXRpb24gc29sdXRpb25zIGZyb20gZnVuZGFtZW50YWxzIHVzaW5nIGFkdmFuY2VkIHRlY2huaXF1ZXMgaW5jbHVkaW5nCgpNYWNoaW5lIExlYXJuaW5nIChmb3IgbGVhcm5pbmcgYW5kIGFkYXB0aXZlIGNvbnRyb2wpLCBtdWx0aWxldmVsLCBvcHRpbWFsIGFuZCBzeW1ib2xpYyBjb250cm9sLiBEZXZlbG9waW5nCgpBdXRvbm9tb3VzIFN5c3RlbXMgdG8gcHJvdmlkZSBhIG1vcmUgYWR2YW5jZWQgc29sdXRpb24gdG8gdGhlIHByb2JsZW0gb2Ygcm9ib3RpYyBjb250cm9sLgoKU2tpbGxlZCBhdCBjcmVhdGluZyBhbmQgbWFuYWdpbmcgaW5ub3ZhdGlvbiBwcm9qZWN0cyB0aGF0IHR1cm5lZCBvcmlnaW5hbCByZXNlYXJjaCBhbmQgdGhlb3JldGljYWwgcmVzdWx0cwoKaW50byBidXNpbmVzcyB3aXRoIGlubm92YXRpdmUgZWRnZS4gVGhpcyBlbnRyZXByZW5ldXJzaGlwIHNpZGUgaXMgcmVmbGVjdGVkIGluIGRpZmZlcmVudCB2ZW50dXJlcyB0aGF0IEkgbGVkLAoKc3RhcnRpbmcgd2l0aCBUJlMgUmVkTm92YSwgYSBjb21wYW55IHRoYXQgcHJvdmlkZWQgcmlzayBtb2RlbHMgYmFzZWQgb24gbWFjaGluZSBsZWFybmluZy4gTGF0ZXIgSQoKZm91bmRlZCB0aGUgUm9ib3RpYyBNaW5pbmcgQ29uc29ydGl1bSAoYWltZWQgYXV0b25vbW91cyBtaW5pbmcgc29sdXRpb25zKSwgUm9ib3RpY2EgQWVyZWEgQ2hpbGUgZm9yCgpVQVYgKGFlcmlhbCkgc3lzdGVtcywgYW5kIFN5bUxvZ2ljYWwgZm9yIGR5bmFtaWMgcGxhbm5pbmcgb2YgYXV0b25vbW91cyBzeXN0ZW1zLgoKU3Ryb25nIGV4cGVyaWVuY2UgY29uZHVjdGluZyBpbm5vdmF0aW9uLCBsZWFkaW5nL2J1aWxkaW5nIHRlYW1zLCBhbmQgbWFuYWdpbmcgcHJvamVjdCBvciBidXNpbmVzcy4KCkdvb2QgaW50ZXJwZXJzb25hbCBhbmQgY29tbXVuaWNhdGlvbiBza2lsbHMsIHByb2ZpY2llbnQgaW4gdGhyZWUgbGFuZ3VhZ2VzIChFbmdsaXNoLCBTcGFuaXNoICYgRnJlbmNoKS4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914542160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

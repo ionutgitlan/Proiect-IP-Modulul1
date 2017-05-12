@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2914434160532"  usageLimitType="allocation" usageLimit="100" currentUsage="69" remainingUsage="31" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Chouka Endrit</FormattedName>
+<GivenName>Chouka</GivenName>
+<FamilyName>Endrit</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>GR</CountryCode>
+<Municipality>Swindon</Municipality>
+<DeliveryAddress>
+<AddressLine>indeed.com/r/Endrit-Chouka/b3d81a56bcf6aaf2</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Endrit-Chouka/b3d81a56bcf6aaf2</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>http://www.ebob.gr</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>SSGC Ltd - Swindon</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Software Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Swindon (United Kingdom</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2016-09-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>CustomEyes.me - London</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Android & Front-end Web Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>London (United Kingdom</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Web Developer Back-end and Front-end Web Developer in Laravel Framework.
+</Description>
+<StartDate>
+<AnyDate>2016-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Startups - Αθήνα</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Startups - Web Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Greece</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>http://www.startupmajestic.com "StartupMajestic in Microsoft Hellas" - http://www.ebob.gr "Ebob Ltd"
+</Description>
+<StartDate>
+<AnyDate>2015-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Microsoft Hellas - Αθήνα</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Web Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Athens (Greece</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>At StartupMajestic, we give you a platform to easily create your own web site & landing pages, sell digital products, collect payments and run a complete online business without writing a single line of code. http://www.startupmajestic.com MasterCard Global Hackathon
+</Description>
+<StartDate>
+<AnyDate>2015-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>MasterCard</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>GR</CountryCode>
+<Municipality>London</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>MasterCard Global Hackathon - London - I developed this app in my participation at MasterCard Global Hackathon in London at 2015. https://github.com/ScanGo/ScanGo Faster
+</Description>
+<StartDate>
+<AnyDate>2015-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Faster - Αθήνα</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>GR</CountryCode>
+<Municipality>Athens</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>On Crowdpolicy #transport hackathon (http://crowdhackathon.com/transport/) I developed a game that motivtes its user to use public transport. The application was awarded with the 5th place award in this vent The project has been covered by these Articles of the biggest newspapes in Greece: http://www.kathimerini.gr/838611/article/epikairothta/ellada/oi-sygkoinwnies-gennoyn-idees http://www.ethnos.gr/article.asp*catid=22768&subid=2&pubid=64291123 Unfortunately the game is not yet available on the web but you can read and fork the code on https://github.com/ kawai-developers/faster
+</Description>
+<StartDate>
+<AnyDate>2015-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Western Macedonia</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>Κοζάνη</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>IT Engineering & Telecommunications</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="true">
+<StartDate>
+<AnyDate>2013-01-01</AnyDate>
+</StartDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Accenture FOUNDATION">
+<CompetencyId description="HireAbility taxonomy" id="4880" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Accenture FOUNDATION">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Android">
+<CompetencyId description="HireAbility taxonomy" id="18255" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Android" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="AngularJS">
+<CompetencyId description="HireAbility taxonomy" id="18335" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="AngularJS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="BackboneJS">
+<CompetencyId description="HireAbility taxonomy" id="18338" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="BackboneJS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Bootstrap">
+<CompetencyId description="HireAbility taxonomy" id="19321" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Bootstrap">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C# Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="5829" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C# Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CakePHP">
+<CompetencyId description="HireAbility taxonomy" id="18504" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CakePHP">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cascading Style Sheets">
+<CompetencyId description="HireAbility taxonomy" id="5838" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cascading Style Sheets">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CodeIgniter">
+<CompetencyId description="HireAbility taxonomy" id="18597" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CodeIgniter">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CSS">
+<CompetencyId description="HireAbility taxonomy" id="12177" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CSS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="D3.js">
+<CompetencyId description="HireAbility taxonomy" id="18345" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="D3.js">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Django">
+<CompetencyId description="HireAbility taxonomy" id="18346" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Django">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Drupal">
+<CompetencyId description="HireAbility taxonomy" id="18575" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Drupal">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Framework">
+<CompetencyId description="HireAbility taxonomy" id="18928" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Framework" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Github">
+<CompetencyId description="HireAbility taxonomy" id="18356" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Github" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HTTPs">
+<CompetencyId description="HireAbility taxonomy" id="168" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HTTPs" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hyper Text Markup Language 5">
+<CompetencyId description="HireAbility taxonomy" id="18366" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hyper Text Markup Language 5">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HyperText Markup Language">
+<CompetencyId description="HireAbility taxonomy" id="5174" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HyperText Markup Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Javascript">
+<CompetencyId description="HireAbility taxonomy" id="211" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Javascript">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="jQuery">
+<CompetencyId description="HireAbility taxonomy" id="18195" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="jQuery">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft ASP.Net">
+<CompetencyId description="HireAbility taxonomy" id="6351" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft ASP.Net">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="MVC">
+<CompetencyId description="HireAbility taxonomy" id="17736" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="MVC">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="MySQL Database">
+<CompetencyId description="HireAbility taxonomy" id="6401" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="MySQL Database">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Node.js">
+<CompetencyId description="HireAbility taxonomy" id="18578" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Node.js">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="NodeJS">
+<CompetencyId description="HireAbility taxonomy" id="18387" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="NodeJS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="PHP Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4512" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="PHP Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Python Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4521" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Python Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software Development">
+<CompetencyId description="HireAbility taxonomy" id="2232" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software Development">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Startups">
+<CompetencyId description="HireAbility taxonomy" id="17502" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Startups" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Twitter Bootstrap">
+<CompetencyId description="HireAbility taxonomy" id="18422" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Twitter Bootstrap">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web">
+<CompetencyId description="HireAbility taxonomy" id="1768" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web Technologies">
+<CompetencyId description="HireAbility taxonomy" id="13733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web Technologies" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="WordPress">
+<CompetencyId description="HireAbility taxonomy" id="18431" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="WordPress">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RW5kcml0IENob3VrYQoKU29mdHdhcmUgRW5naW5lZXIKClN3aW5kb24gLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9FbmRyaXQtQ2hvdWthL2IzZDgxYTU2YmNmNmFhZjIKCldPUksgRVhQRVJJRU5DRQoKU29mdHdhcmUgRGV2ZWxvcGVyCgpTU0dDIEx0ZCAtIFN3aW5kb24gLSBTZXB0ZW1iZXIgMjAxNiB0byBQcmVzZW50CgpTd2luZG9uIChVbml0ZWQgS2luZ2RvbSkKCkFuZHJvaWQgJiBGcm9udC1lbmQgV2ViIERldmVsb3BlcgoKV2ViIERldmVsb3BlcgoKQ3VzdG9tRXllcy5tZSAtIExvbmRvbiAtIEZlYnJ1YXJ5IDIwMTYgdG8gSnVuZSAyMDE2CgpMb25kb24gKFVuaXRlZCBLaW5nZG9tKQoKQmFjay1lbmQgYW5kIEZyb250LWVuZCBXZWIgRGV2ZWxvcGVyIGluIExhcmF2ZWwgRnJhbWV3b3JrLgoKU3RhcnR1cHMgLSBXZWIgRGV2ZWxvcGVyCgpTdGFydHVwcyAtIM6RzrjOrs69zrEgLSBOb3ZlbWJlciAyMDE1IHRvIEp1bmUgMjAxNgoKR3JlZWNlKQoKLSBodHRwOi8vd3d3LnN0YXJ0dXBtYWplc3RpYy5jb20gIlN0YXJ0dXBNYWplc3RpYyBpbiBNaWNyb3NvZnQgSGVsbGFzIgoKLSBodHRwOi8vd3d3LmVib2IuZ3IgIkVib2IgTHRkIgoKV2ViIERldmVsb3BlcgoKTWljcm9zb2Z0IEhlbGxhcyAtIM6RzrjOrs69zrEgLSBOb3ZlbWJlciAyMDE1IHRvIE1hcmNoIDIwMTYKCkF0aGVucyAoR3JlZWNlKQoKQXQgU3RhcnR1cE1hamVzdGljLCB3ZSBnaXZlIHlvdSBhIHBsYXRmb3JtIHRvIGVhc2lseSBjcmVhdGUgeW91ciBvd24gd2ViIHNpdGUgJiBsYW5kaW5nIHBhZ2VzLCBzZWxsCgpkaWdpdGFsIHByb2R1Y3RzLCBjb2xsZWN0IHBheW1lbnRzIGFuZCBydW4gYSBjb21wbGV0ZSBvbmxpbmUgYnVzaW5lc3Mgd2l0aG91dCB3cml0aW5nIGEgc2luZ2xlIGxpbmUgb2YgY29kZS4KCmh0dHA6Ly93d3cuc3RhcnR1cG1hamVzdGljLmNvbQoKTWFzdGVyQ2FyZCBHbG9iYWwgSGFja2F0aG9uCgpNYXN0ZXJDYXJkIEdsb2JhbCBIYWNrYXRob24gLSBMb25kb24gLSBOb3ZlbWJlciAyMDE1IHRvIE5vdmVtYmVyIDIwMTUKCk1hc3RlckNhcmQsIExvbmRvbiAoVW5pdGVkIEtpbmdkb20pCgpJIGRldmVsb3BlZCB0aGlzIGFwcCBpbiBteSBwYXJ0aWNpcGF0aW9uIGF0IE1hc3RlckNhcmQgR2xvYmFsIEhhY2thdGhvbiBpbiBMb25kb24gYXQgMjAxNS4KCmh0dHBzOi8vZ2l0aHViLmNvbS9TY2FuR28vU2NhbkdvCgpGYXN0ZXIKCkZhc3RlciAtIM6RzrjOrs69zrEgLSBKdW5lIDIwMTUgdG8gSnVuZSAyMDE1CgpBdGhlbnMgKEdyZWVjZSkKCk9uIENyb3dkcG9saWN5ICN0cmFuc3BvcnQgaGFja2F0aG9uIChodHRwOi8vY3Jvd2RoYWNrYXRob24uY29tL3RyYW5zcG9ydC8pIEkgZGV2ZWxvcGVkIGEgZ2FtZQoKdGhhdCBtb3RpdnRlcyBpdHMgdXNlciB0byB1c2UgcHVibGljIHRyYW5zcG9ydC4gVGhlIGFwcGxpY2F0aW9uIHdhcyBhd2FyZGVkIHdpdGggdGhlIDV0aCBwbGFjZSBhd2FyZCBpbiB0aGlzIHZlbnQKClRoZSBwcm9qZWN0IGhhcyBiZWVuIGNvdmVyZWQgYnkgdGhlc2UgQXJ0aWNsZXMgb2YgdGhlIGJpZ2dlc3QgbmV3c3BhcGVzIGluIEdyZWVjZToKCmh0dHA6Ly93d3cua2F0aGltZXJpbmkuZ3IvODM4NjExL2FydGljbGUvZXBpa2Fpcm90aHRhL2VsbGFkYS9vaS1zeWdrb2lud25pZXMtZ2Vubm95bi1pZGVlcwoKaHR0cDovL3d3dy5ldGhub3MuZ3IvYXJ0aWNsZS5hc3A/Y2F0aWQ9MjI3Njgmc3ViaWQ9MiZwdWJpZD02NDI5MTEyMwoKVW5mb3J0dW5hdGVseSB0aGUgZ2FtZSBpcyBub3QgeWV0IGF2YWlsYWJsZSBvbiB0aGUgd2ViIGJ1dCB5b3UgY2FuIHJlYWQgYW5kIGZvcmsgdGhlIGNvZGUgb24gaHR0cHM6Ly9naXRodWIuY29tLwoKa2F3YWktZGV2ZWxvcGVycy9mYXN0ZXIKCkVEVUNBVElPTgoKSVQgRW5naW5lZXJpbmcgJiBUZWxlY29tbXVuaWNhdGlvbnMKClVuaXZlcnNpdHkgb2YgV2VzdGVybiBNYWNlZG9uaWEgLSDOms6/zrbOrM69zrcKCjIwMTMgdG8gUHJlc2VudAoKQURESVRJT05BTCBJTkZPUk1BVElPTgoKSm9iLXJlbGF0ZWQgc2tpbGxzIFBIUCwgTXlTUUwsIFB5dGhvbiwgSmF2YVNjcmlwdCwgSFRNTDUsIENTUywgalF1ZXJ5LCBIVE1MLCBXb3JkUHJlc3MsIERydXBhbCwgV2ViCgpEZXZlbG9wbWVudCwgQ29kZUlnbml0ZXIsIExhcmF2ZWwsIENha2VQSFAsIFN5bXBob255LCBaZW5kIEZyYW1ld29yaywgSW9uaWMgRnJhbWV3b3JrLAoKUGhhbGNvbiBGcmFtZXdvcmssIE5vZGUuanMsIEFuZ3VsYXJKUywgRDMuanMsIERqYW5nbywgQmFja2JvbmUuanMsIFB5UXQsIEJvb3RzdHJhcCwKCkZvdW5kYXRpb24gRnJhbWV3b3JrLCBXZWIgRGVzaWduLCBTb2Z0d2FyZSBEZXZlbG9wbWVudCwgQyMsIEFTUC5ORVQsIE1WQw==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914434160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

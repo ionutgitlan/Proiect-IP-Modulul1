@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2912411465432"  usageLimitType="allocation" usageLimit="100" currentUsage="24" remainingUsage="76" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Charles J. Buynovsky</FormattedName>
+<GivenName>Charles</GivenName>
+<MiddleName>J.</MiddleName>
+<FamilyName>Buynovsky</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CT</Region>
+<Municipality>Orange</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Charles-J-Buynovsky/cdb06e98f89ff109</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>JBT Corporation</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Embedded Software Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>JBT FoodTech</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Embedded Software Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Kingston</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>top 10 supplier of best-in-class food processing solutions in the world * Optimizing C++ classes for embedded QNX proprietary real-time operating system of Novus X-Ray food inspection system * Creating Windows Forms Applications in C# to assist production team in the deployment and configuration of all Novus X-Ray model types * Developing secure IoT solution for customer data analysis of food processing chain using Kaa platform
+</Description>
+<StartDate>
+<AnyDate>2016-10-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Belcan LLC</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Embedded Software Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2016-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Belcan Engineering Corporation</EmployerOrgName>
+<JobType>Contractor</JobType>
+<PositionHistory>
+<Title>Embedded Software Engineering contractor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CT</Region>
+<Municipality>Shelton</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>helicopter manufacturer of Fortune 100 defense corporation * Utilized Ada to design features of Combat Rescue Helicopter (CRH) Flight Management System (FMS) to then test and embed on proprietary hardware *Specified documentation updates on IBM DOORS and reviewing the accuracy of requirements fulfillment according to Problem Change Report (PCR) *Reviewed the code of fellow engineers to be discussed alongside team, recommending changes due to format and function
+</Description>
+<StartDate>
+<AnyDate>2016-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NBCUniversal</EmployerOrgName>
+<JobType>Intern</JobType>
+<PositionHistory>
+<Title>Information Security Intern</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2015-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>CNBC</EmployerOrgName>
+<JobType>Intern</JobType>
+<PositionHistory>
+<Title>Information Security intern</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NJ</Region>
+<Municipality>Englewood Cliffs</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>banking/financial</IndustryDescription></OrgIndustry>
+<Description>financial broadcasting division of Fortune 50 global media corporation * Spearheaded creation of Block List Vetting Procedure, detailing step-by-step instructions on interpreting VirusTotal and IPVoid results for associates undergoing training * Assigned use cases to FireEye reports sent daily via ArcSight and responded to credible threats appropriately, communicating risk evaluation to team members * Analyzed packet capture data using Wireshark and patched vulnerabilities in regard to level of priority according to a metric-driven philosophy of system security
+</Description>
+<StartDate>
+<AnyDate>2015-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NBCUniversal</EmployerOrgName>
+<JobType>Intern</JobType>
+<PositionHistory>
+<Title>Post-Production Engineering Intern</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2015-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NBC Sports</EmployerOrgName>
+<JobType>Intern</JobType>
+<PositionHistory>
+<Title>Post-Production Engineering intern</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CT</Region>
+<Municipality>Stamford</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>sports broadcasting division of Fortune 50 global media corporation * Assembled and tested functionality of "Super Bowl XLIX" edit stations meticulous coordination of teamwork helped drive viewership to all time highs * Granted venues access to encrypted footage of legacy "Olympic Games" to support the narratives being shared during the "Sochi 2014 Winter Olympics" * Integrated Alli Sports files into Windows Server 2012 by converting them to house format using Vantage workflows, preserving full quality of source material
+</Description>
+<StartDate>
+<AnyDate>2013-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Sacred Heart University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CT</Region>
+<Municipality>Fairfield</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>2016-12-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Cybersecurity</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2014-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-12-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Sacred Heart University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CT</Region>
+<Municipality>Fairfield</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>2014-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Computer Science</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2010-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-05-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="ADA">
+<CompetencyId description="HireAbility taxonomy" id="17327" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="ADA" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Ada Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4202" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Ada Programming Language" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Application Development">
+<CompetencyId description="HireAbility taxonomy" id="7202" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Application Development">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C# Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="5829" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C# Programming Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cryptography">
+<CompetencyId description="HireAbility taxonomy" id="1883" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cryptography">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cyber Security">
+<CompetencyId description="HireAbility taxonomy" id="17679" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cyber Security">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Data Analysis">
+<CompetencyId description="HireAbility taxonomy" id="7614" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Data Analysis" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Documentation">
+<CompetencyId description="HireAbility taxonomy" id="12375" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Documentation" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Engineering">
+<CompetencyId description="HireAbility taxonomy" id="1932" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Engineering" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="FMS">
+<CompetencyId description="HireAbility taxonomy" id="1645" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="FMS" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="IBM">
+<CompetencyId description="HireAbility taxonomy" id="177" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="IBM" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Security">
+<CompetencyId description="HireAbility taxonomy" id="1980" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Security" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Javascript">
+<CompetencyId description="HireAbility taxonomy" id="211" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Javascript">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Legacy">
+<CompetencyId description="HireAbility taxonomy" id="1676" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Legacy" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Network Security">
+<CompetencyId description="HireAbility taxonomy" id="6960" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Network Security">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Networking">
+<CompetencyId description="HireAbility taxonomy" id="8" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Networking">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Operating Systems">
+<CompetencyId description="HireAbility taxonomy" id="9" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Operating Systems" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Penetration Testing">
+<CompetencyId description="HireAbility taxonomy" id="8576" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Penetration Testing">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Python Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4521" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Python Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Real-time Operating System">
+<CompetencyId description="HireAbility taxonomy" id="4600" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Real-time Operating System" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Security">
+<CompetencyId description="HireAbility taxonomy" id="7096" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Security" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software Development">
+<CompetencyId description="HireAbility taxonomy" id="2232" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software Development">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Structured Query Language">
+<CompetencyId description="HireAbility taxonomy" id="4806" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Structured Query Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="System Security">
+<CompetencyId description="HireAbility taxonomy" id="7098" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="System Security" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test">
+<CompetencyId description="HireAbility taxonomy" id="4723" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Unix System Administration">
+<CompetencyId description="HireAbility taxonomy" id="7018" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Unix System Administration">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Use Cases">
+<CompetencyId description="HireAbility taxonomy" id="6630" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Use Cases" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web">
+<CompetencyId description="HireAbility taxonomy" id="1768" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web Technologies">
+<CompetencyId description="HireAbility taxonomy" id="13733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web Technologies">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Wireshark">
+<CompetencyId description="HireAbility taxonomy" id="14073" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Wireshark" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2hhcmxlcyBKLiBCdXlub3Zza3kKClNvZnR3YXJlIEVuZ2luZWVyCgpPcmFuZ2UsIENUIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQ2hhcmxlcy1KLUJ1eW5vdnNreS9jZGIwNmU5OGY4OWZmMTA5CgoqNCsgeWVhcnMgb2YgcHJhY3RpY2FsLCByZWFsLXdvcmxkIGVuZ2luZWVyaW5nIGV4cGVyaWVuY2UKCipUaG9yb3VnaCB1bmRlcnN0YW5kaW5nIG9mIEMrKywgQyMsIEphdmFTY3JpcHQsIGFuZCBQeXRob24KCipSZWNvZ25pemVkIGZvciB3cml0aW5nIGNsZWFuLCBzZWxmLWRvY3VtZW50aW5nIGNvZGUgdXRpbGl6aW5nIGFnaWxlIGRldmVsb3BtZW50IHByaW5jaXBsZXMKCipLbm93biBmb3IgYmVpbmcgYSBxdWljayBsZWFybmVyIHdpdGggYW4gaW5uYXRlIGZlZWwgZm9yIHRlY2hub2xvZ3kKCipEZW1vbnN0cmF0ZWQgdHJhY2sgcmVjb3JkIG9mIHBlcmZvcm1pbmcgd2VsbCB1bmRlciBwcmVzc3VyZSwgYW4gYWJpbGl0eSB0byBtdWx0aSB0YXNrIGFuZCBtZWV0IGRlYWRsaW5lcwoKKlJlc3VsdHMtb3JpZW50ZWQgdGVhbSBwbGF5ZXIsIHN0cm9uZyBjb2xsYWJvcmF0b3IgYW5kIGNvbW11bmljYXRvciwgYW5kIGZsZXhpYmxlCgoqUGVyc29uYWJsZSwgb3V0Z29pbmcgaW5kZXBlbmRlbnQgdGhpbmtlciBjb21taXR0ZWQgdG8gYSBjYXJlZXIgaW4gc29mdHdhcmUgZW5naW5lZXJpbmcKCldPUksgRVhQRVJJRU5DRQoKRW1iZWRkZWQgU29mdHdhcmUgRW5naW5lZXIKCkpCVCBDb3Jwb3JhdGlvbiwgSkJUIEZvb2RUZWNoIC0gS2luZ3N0b24sIE5ZIC0gT2N0b2JlciAyMDE2IHRvIFByZXNlbnQKCkVtYmVkZGVkIFNvZnR3YXJlIEVuZ2luZWVyIGZvciB0b3AgMTAgc3VwcGxpZXIgb2YgYmVzdC1pbi1jbGFzcyBmb29kIHByb2Nlc3Npbmcgc29sdXRpb25zIGluIHRoZSB3b3JsZAoKKiBPcHRpbWl6aW5nIEMrKyBjbGFzc2VzIGZvciBlbWJlZGRlZCBRTlggcHJvcHJpZXRhcnkgcmVhbC10aW1lCgpvcGVyYXRpbmcgc3lzdGVtIG9mIE5vdnVzIFgtUmF5IGZvb2QgaW5zcGVjdGlvbiBzeXN0ZW0KCiogQ3JlYXRpbmcgV2luZG93cyBGb3JtcyBBcHBsaWNhdGlvbnMgaW4gQyMgdG8gYXNzaXN0IHByb2R1Y3Rpb24gdGVhbSBpbgoKdGhlIGRlcGxveW1lbnQgYW5kIGNvbmZpZ3VyYXRpb24gb2YgYWxsIE5vdnVzIFgtUmF5IG1vZGVsIHR5cGVzCgoqIERldmVsb3Bpbmcgc2VjdXJlIElvVCBzb2x1dGlvbiBmb3IgY3VzdG9tZXIgZGF0YSBhbmFseXNpcyBvZiBmb29kCgpwcm9jZXNzaW5nIGNoYWluIHVzaW5nIEthYSBwbGF0Zm9ybQoKRW1iZWRkZWQgU29mdHdhcmUgRW5naW5lZXIKCkJlbGNhbiBMTEMsIEJlbGNhbiBFbmdpbmVlcmluZyBDb3Jwb3JhdGlvbiAtIFNoZWx0b24sIENUIC0gTWF5IDIwMTYgdG8gU2VwdGVtYmVyIDIwMTYKCkVtYmVkZGVkIFNvZnR3YXJlIEVuZ2luZWVyaW5nIGNvbnRyYWN0b3IgZm9yIGhlbGljb3B0ZXIgbWFudWZhY3R1cmVyIG9mIEZvcnR1bmUgMTAwIGRlZmVuc2UgY29ycG9yYXRpb24KCiogVXRpbGl6ZWQgQWRhIHRvIGRlc2lnbiBmZWF0dXJlcyBvZiBDb21iYXQgUmVzY3VlIEhlbGljb3B0ZXIgKENSSCkgRmxpZ2h0IE1hbmFnZW1lbnQgU3lzdGVtIChGTVMpIHRvCgp0aGVuIHRlc3QgYW5kIGVtYmVkIG9uIHByb3ByaWV0YXJ5IGhhcmR3YXJlCgoqU3BlY2lmaWVkIGRvY3VtZW50YXRpb24gdXBkYXRlcyBvbiBJQk0gRE9PUlMgYW5kIHJldmlld2luZyB0aGUgYWNjdXJhY3kgb2YgcmVxdWlyZW1lbnRzIGZ1bGZpbGxtZW50CgphY2NvcmRpbmcgdG8gUHJvYmxlbSBDaGFuZ2UgUmVwb3J0IChQQ1IpCgoqUmV2aWV3ZWQgdGhlIGNvZGUgb2YgZmVsbG93IGVuZ2luZWVycyB0byBiZSBkaXNjdXNzZWQgYWxvbmdzaWRlIHRlYW0sIHJlY29tbWVuZGluZyBjaGFuZ2VzIGR1ZSB0byBmb3JtYXQKCmFuZCBmdW5jdGlvbgoKSW5mb3JtYXRpb24gU2VjdXJpdHkgSW50ZXJuCgpOQkNVbml2ZXJzYWwsIENOQkMgLSBFbmdsZXdvb2QgQ2xpZmZzLCBOSiAtIEp1bmUgMjAxNSB0byBBdWd1c3QgMjAxNQoKSW5mb3JtYXRpb24gU2VjdXJpdHkgaW50ZXJuIGZvciBmaW5hbmNpYWwgYnJvYWRjYXN0aW5nIGRpdmlzaW9uIG9mIEZvcnR1bmUgNTAgZ2xvYmFsIG1lZGlhIGNvcnBvcmF0aW9uCgoqIFNwZWFyaGVhZGVkIGNyZWF0aW9uIG9mIEJsb2NrIExpc3QgVmV0dGluZyBQcm9jZWR1cmUsIGRldGFpbGluZyBzdGVwLWJ5LXN0ZXAgaW5zdHJ1Y3Rpb25zIG9uIGludGVycHJldGluZwoKVmlydXNUb3RhbCBhbmQgSVBWb2lkIHJlc3VsdHMgZm9yIGFzc29jaWF0ZXMgdW5kZXJnb2luZyB0cmFpbmluZwoKKiBBc3NpZ25lZCB1c2UgY2FzZXMgdG8gRmlyZUV5ZSByZXBvcnRzIHNlbnQgZGFpbHkgdmlhIEFyY1NpZ2h0IGFuZCByZXNwb25kZWQgdG8gY3JlZGlibGUgdGhyZWF0cyBhcHByb3ByaWF0ZWx5LAoKY29tbXVuaWNhdGluZyByaXNrIGV2YWx1YXRpb24gdG8gdGVhbSBtZW1iZXJzCgoqIEFuYWx5emVkIHBhY2tldCBjYXB0dXJlIGRhdGEgdXNpbmcgV2lyZXNoYXJrIGFuZCBwYXRjaGVkIHZ1bG5lcmFiaWxpdGllcyBpbiByZWdhcmQgdG8gbGV2ZWwgb2YgcHJpb3JpdHk7CgphY2NvcmRpbmcgdG8gYSBtZXRyaWMtZHJpdmVuIHBoaWxvc29waHkgb2Ygc3lzdGVtIHNlY3VyaXR5CgpQb3N0LVByb2R1Y3Rpb24gRW5naW5lZXJpbmcgSW50ZXJuCgpOQkNVbml2ZXJzYWwsIE5CQyBTcG9ydHMgLSBTdGFtZm9yZCwgQ1QgLSBTZXB0ZW1iZXIgMjAxMyB0byBNYXkgMjAxNQoKUG9zdC1Qcm9kdWN0aW9uIEVuZ2luZWVyaW5nIGludGVybiBmb3Igc3BvcnRzIGJyb2FkY2FzdGluZyBkaXZpc2lvbiBvZiBGb3J0dW5lIDUwIGdsb2JhbCBtZWRpYSBjb3Jwb3JhdGlvbgoKKiBBc3NlbWJsZWQgYW5kIHRlc3RlZCBmdW5jdGlvbmFsaXR5IG9mICJTdXBlciBCb3dsIFhMSVgiIGVkaXQgc3RhdGlvbnM7IG1ldGljdWxvdXMgY29vcmRpbmF0aW9uIG9mIHRlYW13b3JrCgpoZWxwZWQgZHJpdmUgdmlld2Vyc2hpcCB0byBhbGwgdGltZSBoaWdocwoKKiBHcmFudGVkIHZlbnVlcyBhY2Nlc3MgdG8gZW5jcnlwdGVkIGZvb3RhZ2Ugb2YgbGVnYWN5ICJPbHltcGljIEdhbWVzIiB0byBzdXBwb3J0IHRoZSBuYXJyYXRpdmVzIGJlaW5nCgpzaGFyZWQgZHVyaW5nIHRoZSAiU29jaGkgMjAxNCBXaW50ZXIgT2x5bXBpY3MiCgoqIEludGVncmF0ZWQgQWxsaSBTcG9ydHMgZmlsZXMgaW50byBXaW5kb3dzIFNlcnZlciAyMDEyIGJ5IGNvbnZlcnRpbmcgdGhlbSB0byBob3VzZSBmb3JtYXQgdXNpbmcgVmFudGFnZQoKd29ya2Zsb3dzLCBwcmVzZXJ2aW5nIGZ1bGwgcXVhbGl0eSBvZiBzb3VyY2UgbWF0ZXJpYWwKCkVEVUNBVElPTgoKTS5TLiBpbiBDeWJlcnNlY3VyaXR5CgpTYWNyZWQgSGVhcnQgVW5pdmVyc2l0eSAtIEZhaXJmaWVsZCwgQ1QKClNlcHRlbWJlciAyMDE0IHRvIERlY2VtYmVyIDIwMTYKCkIuUy4gaW4gQ29tcHV0ZXIgU2NpZW5jZQoKU2FjcmVkIEhlYXJ0IFVuaXZlcnNpdHkgLSBGYWlyZmllbGQsIENUCgpTZXB0ZW1iZXIgMjAxMCB0byBNYXkgMjAxNAoKU0tJTExTCgpDKyssIEMjLCBKYXZhc2NyaXB0LCBQeXRob24sIEFwcGxpY2F0aW9uIFNlY3VyaXR5LCBJbmZvcm1hdGlvbiBTZWN1cml0eSwgU29mdHdhcmUgU2VjdXJpdHksIFdlYgoKRGV2ZWxvcG1lbnQsIFNRTCwgQ3liZXJzZWN1cml0eSwgUGVuZXRyYXRpb24gVGVzdGluZywgVW5peCBBZG1pbmlzdHJhdGlvbiwgU29mdHdhcmUgRGV2ZWxvcG1lbnQsCgpBcHBsaWNhdGlvbiBEZXZlbG9wbWVudCwgTmV0d29yayBTZWN1cml0eSwgQ3J5cHRvZ3JhcGh5LCBBZGE=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912411465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

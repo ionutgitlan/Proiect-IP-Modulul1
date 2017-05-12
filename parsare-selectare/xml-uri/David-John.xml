@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2913462160532"  usageLimitType="allocation" usageLimit="100" currentUsage="55" remainingUsage="45" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>David John</FormattedName>
+<GivenName>David</GivenName>
+<FamilyName>John</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New York</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/David-John/34ab1b631b96b9bf</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Sharper-IT</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>IT Support Technician</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New York</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>banking/financial</IndustryDescription></OrgIndustry>
+<Description>Service 2 clients, a fashion company and a financial firm. Christian Louboutin I provide level 1 support and manage the help desk.Created a Knowledge Base and update it on a regular basis. Exane BNP Paribas Service 25-30 users. Troubleshoot hardware and software issues Replaced broken machines with hot swaps Setup and configured Gemalto One4All and Stardock Multiplicity software Setup Open Bloomberg Terminals Setup Turrets for Users Rebuild machines and configured VPN Software Did Network patches during Hard Moves Deployed machines Installed and upgraded software and hardware
+</Description>
+<StartDate>
+<AnyDate>2017-03-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Level</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New York</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>2 Technical Support Engineer Serviced BNP Paribas Trading Floors Troubleshoot hardware and software issues Replaced broken machines with hot swaps Setup and configured Gemalto One4All and Stardock Multiplicity software Setup Open Bloomberg Terminals Setup and configured Amulet Hotkey k4U Setup Turrets for Users Rebuild machines and configured VPN Software Did Network patches during Hard Moves Deployed machines Installed and upgraded software and hardware
+</Description>
+<StartDate>
+<AnyDate>2016-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>SpikeIT Global Solutions</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Service Desk Analyst</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New York</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2016-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>BNP Paribas</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Service Desk consultant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Supported about 5000 users in a professional and courteous manner Ensured adherence and Supplier process/policies Logged Incident/Request Tickets with complete information Responded to all incidents and service requests Coordinated with IT teams for update on opened tickets Performed daily/weekly/monthly scheduled reporting tasks Updated the knowledge base Deployed packaged software via SCCM and SDG Reset passwords and unlock accounts via Active Directory Troubleshoot Outlook/Lotus Notes incidents Troubleshoot profile errors Troubleshoot package installation errors Mapped network drives for users
+</Description>
+<StartDate>
+<AnyDate>2015-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NYU Opportunity Programs</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Technology Support Assistant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New York</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>1. Troubleshoot hardware and software issues for 28 staff members and over 800 students with equipment i) Update hardware i.e. install ram, install graphics cards ii) Configure desktops and laptops iii) Provide tech support for staff iv) Fix equipment 2. Prepare equipment for disposal i) Back up data ii) Secure wipe or remove hard-drive iii) Complete disposal forms 3. Assist the equipment loan program for OP students i) Contact students on equipment loan list to schedule pickup appointments ii) Prepare equipment loan contracts iii) Distribute equipment iv) Send reminders to students for return of equipment v) Receive equipment from students vi) Check and update returned equipment (a) Update software and Operating System when necessary (b) Remove student data from returned equipment (c) Check for and resolve any issues (Wi-Fi, viruses, etc) vii) Log equipment into inventory until next loan cycle
+</Description>
+<StartDate>
+<AnyDate>2013-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NYU Academic Resource Center</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Smart Aide</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New York</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>1. Provide information to students about academic advising, academic support services, NYU Albert, University programs and other on campus resources 2. Respond to student inquires in-person and by phone 3. Schedule and check-in advising appointments 4. Collaborate with staff on ongoing NYU programs and events 5. Curate and keep information up-to-date about campus events
+</Description>
+<StartDate>
+<AnyDate>2014-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>New York University College of Arts and Science</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New York</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelors of Arts</DegreeName>
+<DegreeDate>
+<AnyDate>2017-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Academy of Environmental Science</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New York</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>Regents Diploma</DegreeName>
+<DegreeDate>
+<AnyDate>2012-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Relevant</Name>
+</DegreeMajor>
+<Comments>Course Work</Comments>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Active Directory">
+<CompetencyId description="HireAbility taxonomy" id="19495" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Active Directory">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Apple MacIntosh Operating System">
+<CompetencyId description="HireAbility taxonomy" id="5364" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Apple MacIntosh Operating System">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Bloomberg">
+<CompetencyId description="HireAbility taxonomy" id="6903" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Bloomberg" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C/C++ Programming Languages">
+<CompetencyId description="HireAbility taxonomy" id="7240" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C/C++ Programming Languages">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cascading Style Sheets">
+<CompetencyId description="HireAbility taxonomy" id="5838" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cascading Style Sheets">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Configure">
+<CompetencyId description="HireAbility taxonomy" id="4691" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Configure" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CSS">
+<CompetencyId description="HireAbility taxonomy" id="12177" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CSS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Google Apps">
+<CompetencyId description="HireAbility taxonomy" id="18357" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Google Apps">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Help Desk">
+<CompetencyId description="HireAbility taxonomy" id="1956" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Help Desk" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HyperText Markup Language">
+<CompetencyId description="HireAbility taxonomy" id="5174" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HyperText Markup Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Technology">
+<CompetencyId description="HireAbility taxonomy" id="10107" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Technology" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Inventory">
+<CompetencyId description="HireAbility taxonomy" id="7670" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Inventory" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="LESS">
+<CompetencyId description="HireAbility taxonomy" id="18491" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="LESS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Lotus">
+<CompetencyId description="HireAbility taxonomy" id="11522" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Lotus">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Lotus Notes">
+<CompetencyId description="HireAbility taxonomy" id="226" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Lotus Notes">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Active Directory">
+<CompetencyId description="HireAbility taxonomy" id="4461" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Active Directory">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Outlook">
+<CompetencyId description="HireAbility taxonomy" id="259" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Outlook">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Operating Systems">
+<CompetencyId description="HireAbility taxonomy" id="9" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Operating Systems" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Python Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4521" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Python Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Swaps">
+<CompetencyId description="HireAbility taxonomy" id="15631" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Swaps" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Technical Support">
+<CompetencyId description="HireAbility taxonomy" id="416" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Technical Support" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Vista">
+<CompetencyId description="HireAbility taxonomy" id="8335" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Vista">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RGF2aWQgSm9obgoKTmV3IFlvcmssIE5ZIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvRGF2aWQtSm9obi8zNGFiMWI2MzFiOTZiOWJmCgpXaWxsaW5nIHRvIHJlbG9jYXRlOiBBbnl3aGVyZQoKQXV0aG9yaXplZCB0byB3b3JrIGluIHRoZSBVUyBmb3IgYW55IGVtcGxveWVyCgpXT1JLIEVYUEVSSUVOQ0UKCklUIFN1cHBvcnQgVGVjaG5pY2lhbgoKU2hhcnBlci1JVCAtIE5ldyBZb3JrLCBOWSAtIE1hcmNoIDIwMTcgdG8gUHJlc2VudAoKU2VydmljZSAyIGNsaWVudHMsIGEgZmFzaGlvbiBjb21wYW55IGFuZCBhIGZpbmFuY2lhbCBmaXJtLgoKQ2hyaXN0aWFuIExvdWJvdXRpbiBJIHByb3ZpZGUgbGV2ZWwgMSBzdXBwb3J0IGFuZCBtYW5hZ2UgdGhlIGhlbHAgZGVzay5DcmVhdGVkIGEgS25vd2xlZGdlIEJhc2UgYW5kIHVwZGF0ZQoKaXQgb24gYSByZWd1bGFyIGJhc2lzLgoKRXhhbmUgQk5QIFBhcmliYXMKClNlcnZpY2UgMjUtMzAgdXNlcnMuCgpUcm91Ymxlc2hvb3QgaGFyZHdhcmUgYW5kIHNvZnR3YXJlIGlzc3VlcwoKUmVwbGFjZWQgYnJva2VuIG1hY2hpbmVzIHdpdGggaG90IHN3YXBzCgpTZXR1cCBhbmQgY29uZmlndXJlZCBHZW1hbHRvIE9uZTRBbGwgYW5kIFN0YXJkb2NrIE11bHRpcGxpY2l0eSBzb2Z0d2FyZQoKU2V0dXAgT3BlbiBCbG9vbWJlcmcgVGVybWluYWxzCgpTZXR1cCBUdXJyZXRzIGZvciBVc2VycwoKUmVidWlsZCBtYWNoaW5lcyBhbmQgY29uZmlndXJlZCBWUE4gU29mdHdhcmUKCkRpZCBOZXR3b3JrIHBhdGNoZXMgZHVyaW5nIEhhcmQgTW92ZXMKCkRlcGxveWVkIG1hY2hpbmVzCgpJbnN0YWxsZWQgYW5kIHVwZ3JhZGVkIHNvZnR3YXJlIGFuZCBoYXJkd2FyZQoKTGV2ZWwgMiBUZWNobmljYWwgU3VwcG9ydCBFbmdpbmVlcgoKTmV3IFlvcmssIE5ZIC0gRGVjZW1iZXIgMjAxNiB0byBNYXJjaCAyMDE3CgpTZXJ2aWNlZCBCTlAgUGFyaWJhcyBUcmFkaW5nIEZsb29ycwoKVHJvdWJsZXNob290IGhhcmR3YXJlIGFuZCBzb2Z0d2FyZSBpc3N1ZXMKClJlcGxhY2VkIGJyb2tlbiBtYWNoaW5lcyB3aXRoIGhvdCBzd2FwcwoKU2V0dXAgYW5kIGNvbmZpZ3VyZWQgR2VtYWx0byBPbmU0QWxsIGFuZCBTdGFyZG9jayBNdWx0aXBsaWNpdHkgc29mdHdhcmUKClNldHVwIE9wZW4gQmxvb21iZXJnIFRlcm1pbmFscwoKU2V0dXAgYW5kIGNvbmZpZ3VyZWQgQW11bGV0IEhvdGtleSBrNFUKClNldHVwIFR1cnJldHMgZm9yIFVzZXJzCgpSZWJ1aWxkIG1hY2hpbmVzIGFuZCBjb25maWd1cmVkIFZQTiBTb2Z0d2FyZQoKRGlkIE5ldHdvcmsgcGF0Y2hlcyBkdXJpbmcgSGFyZCBNb3ZlcwoKRGVwbG95ZWQgbWFjaGluZXMKCkluc3RhbGxlZCBhbmQgdXBncmFkZWQgc29mdHdhcmUgYW5kIGhhcmR3YXJlCgpTZXJ2aWNlIERlc2sgQW5hbHlzdAoKU3Bpa2VJVCBHbG9iYWwgU29sdXRpb25zIC0gTmV3IFlvcmssIE5ZIC0gQXVndXN0IDIwMTYgdG8gRGVjZW1iZXIgMjAxNgoKU2VydmljZSBEZXNrIGNvbnN1bHRhbnQgYXQgQk5QIFBhcmliYXMKClN1cHBvcnRlZCBhYm91dCA1MDAwIHVzZXJzIGluIGEgcHJvZmVzc2lvbmFsIGFuZCBjb3VydGVvdXMgbWFubmVyCgpFbnN1cmVkIGFkaGVyZW5jZSBhbmQgU3VwcGxpZXIgcHJvY2Vzcy9wb2xpY2llcwoKTG9nZ2VkIEluY2lkZW50L1JlcXVlc3QgVGlja2V0cyB3aXRoIGNvbXBsZXRlIGluZm9ybWF0aW9uCgpSZXNwb25kZWQgdG8gYWxsIGluY2lkZW50cyBhbmQgc2VydmljZSByZXF1ZXN0cwoKQ29vcmRpbmF0ZWQgd2l0aCBJVCB0ZWFtcyBmb3IgdXBkYXRlIG9uIG9wZW5lZCB0aWNrZXRzCgpQZXJmb3JtZWQgZGFpbHkvd2Vla2x5L21vbnRobHkgc2NoZWR1bGVkIHJlcG9ydGluZyB0YXNrcwoKVXBkYXRlZCB0aGUga25vd2xlZGdlIGJhc2UKCkRlcGxveWVkIHBhY2thZ2VkIHNvZnR3YXJlIHZpYSBTQ0NNIGFuZCBTREcKClJlc2V0IHBhc3N3b3JkcyBhbmQgdW5sb2NrIGFjY291bnRzIHZpYSBBY3RpdmUgRGlyZWN0b3J5CgpUcm91Ymxlc2hvb3QgT3V0bG9vay9Mb3R1cyBOb3RlcyBpbmNpZGVudHMKClRyb3VibGVzaG9vdCBwcm9maWxlIGVycm9ycwoKVHJvdWJsZXNob290IHBhY2thZ2UgaW5zdGFsbGF0aW9uIGVycm9ycwoKTWFwcGVkIG5ldHdvcmsgZHJpdmVzIGZvciB1c2VycwoKVGVjaG5vbG9neSBTdXBwb3J0IEFzc2lzdGFudAoKTllVIE9wcG9ydHVuaXR5IFByb2dyYW1zIC0gTmV3IFlvcmssIE5ZIC0gSnVseSAyMDEzIHRvIERlY2VtYmVyIDIwMTUKCjEuIFRyb3VibGVzaG9vdCBoYXJkd2FyZSBhbmQgc29mdHdhcmUgaXNzdWVzIGZvciAyOCBzdGFmZiBtZW1iZXJzIGFuZCBvdmVyIDgwMCBzdHVkZW50cyB3aXRoIGVxdWlwbWVudAoKaSkgVXBkYXRlIGhhcmR3YXJlIGkuZS4gaW5zdGFsbCByYW0sIGluc3RhbGwgZ3JhcGhpY3MgY2FyZHMKCmlpKSBDb25maWd1cmUgZGVza3RvcHMgYW5kIGxhcHRvcHMKCmlpaSkgUHJvdmlkZSB0ZWNoIHN1cHBvcnQgZm9yIHN0YWZmCgppdikgRml4IGVxdWlwbWVudAoKMi4gUHJlcGFyZSBlcXVpcG1lbnQgZm9yIGRpc3Bvc2FsCgppKSBCYWNrIHVwIGRhdGEKCmlpKSBTZWN1cmUgd2lwZSBvciByZW1vdmUgaGFyZC1kcml2ZQoKaWlpKSBDb21wbGV0ZSBkaXNwb3NhbCBmb3JtcwoKMy4gQXNzaXN0IHRoZSBlcXVpcG1lbnQgbG9hbiBwcm9ncmFtIGZvciBPUCBzdHVkZW50cwoKaSkgQ29udGFjdCBzdHVkZW50cyBvbiBlcXVpcG1lbnQgbG9hbiBsaXN0IHRvIHNjaGVkdWxlIHBpY2t1cCBhcHBvaW50bWVudHMKCmlpKSBQcmVwYXJlIGVxdWlwbWVudCBsb2FuIGNvbnRyYWN0cwoKaWlpKSBEaXN0cmlidXRlIGVxdWlwbWVudAoKaXYpIFNlbmQgcmVtaW5kZXJzIHRvIHN0dWRlbnRzIGZvciByZXR1cm4gb2YgZXF1aXBtZW50Cgp2KSBSZWNlaXZlIGVxdWlwbWVudCBmcm9tIHN0dWRlbnRzCgp2aSkgQ2hlY2sgYW5kIHVwZGF0ZSByZXR1cm5lZCBlcXVpcG1lbnQKCihhKSBVcGRhdGUgc29mdHdhcmUgYW5kIE9wZXJhdGluZyBTeXN0ZW0gd2hlbiBuZWNlc3NhcnkKCihiKSBSZW1vdmUgc3R1ZGVudCBkYXRhIGZyb20gcmV0dXJuZWQgZXF1aXBtZW50CgooYykgQ2hlY2sgZm9yIGFuZCByZXNvbHZlIGFueSBpc3N1ZXMgKFdpLUZpLCB2aXJ1c2VzLCBldGMpCgp2aWkpIExvZyBlcXVpcG1lbnQgaW50byBpbnZlbnRvcnkgdW50aWwgbmV4dCBsb2FuIGN5Y2xlCgpTbWFydCBBaWRlCgpOWVUgQWNhZGVtaWMgUmVzb3VyY2UgQ2VudGVyIC0gTmV3IFlvcmssIE5ZIC0gTWF5IDIwMTQgdG8gQXVndXN0IDIwMTQKCjEuIFByb3ZpZGUgaW5mb3JtYXRpb24gdG8gc3R1ZGVudHMgYWJvdXQgYWNhZGVtaWMgYWR2aXNpbmcsIGFjYWRlbWljIHN1cHBvcnQgc2VydmljZXMsIE5ZVSBBbGJlcnQsCgpVbml2ZXJzaXR5IHByb2dyYW1zIGFuZCBvdGhlciBvbiBjYW1wdXMgcmVzb3VyY2VzCgoyLiBSZXNwb25kIHRvIHN0dWRlbnQgaW5xdWlyZXMgaW4tcGVyc29uIGFuZCBieSBwaG9uZQoKMy4gU2NoZWR1bGUgYW5kIGNoZWNrLWluIGFkdmlzaW5nIGFwcG9pbnRtZW50cwoKNC4gQ29sbGFib3JhdGUgd2l0aCBzdGFmZiBvbiBvbmdvaW5nIE5ZVSBwcm9ncmFtcyBhbmQgZXZlbnRzCgo1LiBDdXJhdGUgYW5kIGtlZXAgaW5mb3JtYXRpb24gdXAtdG8tZGF0ZSBhYm91dCBjYW1wdXMgZXZlbnRzCgpFRFVDQVRJT04KCkJhY2hlbG9ycyBvZiBBcnRzIGluIE1hdGhlbWF0aWNzCgpOZXcgWW9yayBVbml2ZXJzaXR5LCBDb2xsZWdlIG9mIEFydHMgYW5kIFNjaWVuY2UgLSBOZXcgWW9yaywgTlkKCjIwMTcKClJlZ2VudHMgRGlwbG9tYSBpbiBSZWxldmFudCBDb3Vyc2UgV29yawoKQWNhZGVteSBvZiBFbnZpcm9ubWVudGFsIFNjaWVuY2UgLSBOZXcgWW9yaywgTlkKCkp1bmUgMjAxMgoKU0tJTExTCgpNaWNyb3NvZnQgT2ZmaWNlICgzIHllYXJzKSwgUHl0aG9uICg0IHllYXJzKSwgV2luZG93cyBPcGVyYXRpbmcgU3lzdGVtcyAoWFAsIFZpc3RhLCA3LCAxMCkgKDYgeWVhcnMpLAoKTWFjIE9TICg0IHllYXJzKSwgSFRNTCAmIENTUyAoMiB5ZWFycyksIE9mZmljZSAzNjUgKDEgeWVhciksIEdvb2dsZSBBcHBzICgyIHllYXJzKSwgRHJvcGJveCAoNCB5ZWFycyksCgpHb3ZlcmxhbiAoTGVzcyB0aGFuIDEgeWVhciksIFNlcnZpY2UgTm93LCBBY3RpdmUgRGlyZWN0b3J5ICgxIHllYXIpLCBHb29kIEZvciBFbnRlcnByaXNlIE1vYmlsZSBDb250cm9sCgooTGVzcyB0aGFuIDEgeWVhciksIFdpbmRvd3MgU2VydmVyIDIwMTIgUjIgKExlc3MgdGhhbiAxIHllYXIpLCBaZW4gZGVzayAoTGVzcyB0aGFuIDEgeWVhciksIEMvQysrIChMZXNzCgp0aGFuIDEgeWVhcik=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913462160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

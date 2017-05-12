@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2915163160532"  usageLimitType="allocation" usageLimit="100" currentUsage="59" remainingUsage="41" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>David Warner</FormattedName>
+<GivenName>David</GivenName>
+<FamilyName>Warner</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/David-Warner/caede1e0a4d19da6</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Volt Workforce Solutions</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Technical Support - Troubleshooting IOS</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>IOS devices, Macbook, iMac, MAC OS Sales representative - Demonstrated products and communicated value of products to customers
+</Description>
+<StartDate>
+<AnyDate>2016-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Verizon Wireless</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Exceeded sales goals while maintaining a customer base and rapport. * Technical support - Troubleshooting various devices ranging from cellphones/tablets to hotspots and basic charging accessories. * Asst. Manager - Assisted manager with training new team members, Assisted team members with coaching, tools and providing sales strategies to drive sales using cold calls.
+</Description>
+<StartDate>
+<AnyDate>2015-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Apple Inc</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>At-Home-Advisor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>- Meeting monthly quotas and scores to ensure excellent customer service. Advanced technical support covering iPods, iPhones, iPads as well as Macintosh desktops/laptops. * Advisor coach - Coached and trained returning and new advisors to quickly and correctly service customers with their needs. * Sales representative - Creating repair orders as well as attaching apple care when appropriate. Accepting and creating bill payment orders.
+</Description>
+<StartDate>
+<AnyDate>2014-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>Maple Heights senior High School</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>S.T.A.R Certified (Smartphone</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>AppleCare Certified</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>OS X systems Certified</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="Apple">
+<CompetencyId description="HireAbility taxonomy" id="25" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Apple" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Apple MacIntosh">
+<CompetencyId description="HireAbility taxonomy" id="5363" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Apple MacIntosh" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Apple MacIntosh Operating System">
+<CompetencyId description="HireAbility taxonomy" id="5364" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Apple MacIntosh Operating System" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Excel">
+<CompetencyId description="HireAbility taxonomy" id="252" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Excel">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft PowerPoint">
+<CompetencyId description="HireAbility taxonomy" id="260" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft PowerPoint">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Word">
+<CompetencyId description="HireAbility taxonomy" id="266" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Word">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Operating Systems">
+<CompetencyId description="HireAbility taxonomy" id="9" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Operating Systems">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Technical Support">
+<CompetencyId description="HireAbility taxonomy" id="416" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Technical Support" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Troubleshooting">
+<CompetencyId description="HireAbility taxonomy" id="2283" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Troubleshooting" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RGF2aWQgV2FybmVyCgpUZWNobmljYWwgU3VwcG9ydCAtIFRyb3VibGVzaG9vdGluZyBJT1MKClNhbiBBbnRvbmlvLCBUWCAtIEVtYWlsIG1lIG9uIEluZGVlZDogaW5kZWVkLmNvbS9yL0RhdmlkLVdhcm5lci9jYWVkZTFlMGE0ZDE5ZGE2CgpUbyBvYnRhaW4gYSBwb3NpdGlvbiBpbiBhbiBlc3RhYmxpc2hlZCBjb21wYW55IHRvIHV0aWxpemUgbXkgY3VycmVudCBza2lsbHMgYW5kIGJlIGFuIGFzc2V0IHRvIHRoZSBjb21wYW55LgoKV2lsbGluZyB0byByZWxvY2F0ZTogQW55d2hlcmUKCkF1dGhvcml6ZWQgdG8gd29yayBpbiB0aGUgVVMgZm9yIGFueSBlbXBsb3llcgoKV09SSyBFWFBFUklFTkNFCgpUZWNobmljYWwgU3VwcG9ydCAtIFRyb3VibGVzaG9vdGluZyBJT1MKClZvbHQgV29ya2ZvcmNlIFNvbHV0aW9ucyAtIEp1bmUgMjAxNiB0byBOb3ZlbWJlciAyMDE2CgpJT1MgZGV2aWNlcywgTWFjYm9vaywgaU1hYywgTUFDIE9TCgpTYWxlcyByZXByZXNlbnRhdGl2ZSAtIERlbW9uc3RyYXRlZCBwcm9kdWN0cyBhbmQgY29tbXVuaWNhdGVkIHZhbHVlIG9mIHByb2R1Y3RzIHRvCgpjdXN0b21lcnMKClZlcml6b24gV2lyZWxlc3MgLSBBdWd1c3QgMjAxNSB0byBGZWJydWFyeSAyMDE2CgpFeGNlZWRlZCBzYWxlcyBnb2FscyB3aGlsZSBtYWludGFpbmluZyBhIGN1c3RvbWVyIGJhc2UgYW5kIHJhcHBvcnQuCgoqIFRlY2huaWNhbCBzdXBwb3J0IC0gVHJvdWJsZXNob290aW5nIHZhcmlvdXMgZGV2aWNlcyByYW5naW5nIGZyb20gY2VsbHBob25lcy90YWJsZXRzIHRvIGhvdHNwb3RzIGFuZCBiYXNpYwoKY2hhcmdpbmcgYWNjZXNzb3JpZXMuCgoqIEFzc3QuIE1hbmFnZXIgLSBBc3Npc3RlZCBtYW5hZ2VyIHdpdGggdHJhaW5pbmcgbmV3IHRlYW0gbWVtYmVycywgQXNzaXN0ZWQgdGVhbSBtZW1iZXJzIHdpdGggY29hY2hpbmcsCgp0b29scyBhbmQgcHJvdmlkaW5nIHNhbGVzIHN0cmF0ZWdpZXMgdG8gZHJpdmUgc2FsZXMgdXNpbmcgY29sZCBjYWxscy4KCkF0LUhvbWUtQWR2aXNvcgoKQXBwbGUgSW5jIC0gRGVjZW1iZXIgMjAxNCB0byBKdW5lIDIwMTUKCi0gTWVldGluZyBtb250aGx5IHF1b3RhcyBhbmQgc2NvcmVzIHRvIGVuc3VyZSBleGNlbGxlbnQgY3VzdG9tZXIgc2VydmljZS4gQWR2YW5jZWQgdGVjaG5pY2FsIHN1cHBvcnQKCmNvdmVyaW5nIGlQb2RzLCBpUGhvbmVzLCBpUGFkcyBhcyB3ZWxsIGFzIE1hY2ludG9zaCBkZXNrdG9wcy9sYXB0b3BzLgoKKiBBZHZpc29yIGNvYWNoIC0gQ29hY2hlZCBhbmQgdHJhaW5lZCByZXR1cm5pbmcgYW5kIG5ldyBhZHZpc29ycyB0byBxdWlja2x5IGFuZCBjb3JyZWN0bHkgc2VydmljZSBjdXN0b21lcnMKCndpdGggdGhlaXIgbmVlZHMuCgoqIFNhbGVzIHJlcHJlc2VudGF0aXZlIC0gQ3JlYXRpbmcgcmVwYWlyIG9yZGVycyBhcyB3ZWxsIGFzIGF0dGFjaGluZyBhcHBsZSBjYXJlIHdoZW4gYXBwcm9wcmlhdGUuIEFjY2VwdGluZwoKYW5kIGNyZWF0aW5nIGJpbGwgcGF5bWVudCBvcmRlcnMuCgpFRFVDQVRJT04KCk1hcGxlIEhlaWdodHMgc2VuaW9yIEhpZ2ggU2Nob29sCgpBdWd1c3QgMjAwOCB0byBKdW5lIDIwMTIKClNLSUxMUwoKRVhDRUwgKExlc3MgdGhhbiAxIHllYXIpLCBNSUNST1NPRlQgT0ZGSUNFIChMZXNzIHRoYW4gMSB5ZWFyKSwgTVMgT0ZGSUNFIChMZXNzIHRoYW4gMSB5ZWFyKSwKClBPV0VSUE9JTlQgKExlc3MgdGhhbiAxIHllYXIpLCBXT1JEIChMZXNzIHRoYW4gMSB5ZWFyKQoKQURESVRJT05BTCBJTkZPUk1BVElPTgoKU2tpbGxzCgoqIFMuVC5BLlIgQ2VydGlmaWVkIChTbWFydHBob25lLCBUYWJsZXQgYW5kIEhvdHNwb3QpCgoqIEFwcGxlQ2FyZSBDZXJ0aWZpZWQKCiogSU9TIGFuZCBPUyBYIHN5c3RlbXMgQ2VydGlmaWVkCgoqIEV4Y2VsbGVudCB1bmRlcnN0YW5kaW5nIG9mIE1pY3Jvc29mdCBvZmZpY2UgKFdvcmQsIFBvd2VyUG9pbnQsIEV4Y2VsKQoKKiBFeGNlbGxlbnQgY29tbXVuaWNhdGlvbiBhbmQgaW50ZXJwZXJzb25hbCBza2lsbHMuCgoqIEFiaWxpdHkgdG8gd29yayB3aXRoIGluZGl2aWR1YWxzIG9mIGRpdmVyc2UgYmFja2dyb3VuZHMgaW5jbHVkaW5nIHRob3NlIHdpdGggZGlzYWJpbGl0aWVzIHdpdGggc3VjY2Vzcy4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915163160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

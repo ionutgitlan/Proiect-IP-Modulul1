@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2913453160532"  usageLimitType="allocation" usageLimit="100" currentUsage="57" remainingUsage="43" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>David Ray</FormattedName>
+<GivenName>David</GivenName>
+<FamilyName>Ray</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/David-Ray/b36214e17fbd69b7</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>Designed in and around Stevenson, Washington and taught a comprehensive class reviewing all aspects of the current Music Industry model changing technologies and their effect on the industry and copyright.</ExecutiveSummary>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Ace Hardware</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Hardware Sales Associate</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>WA</Region>
+<Municipality>White Salmon</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Customer service paint and hardware.
+</Description>
+<StartDate>
+<AnyDate>2017-02-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Innovative Composite Engineering (ICE)</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Composite Technician</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>automotive</IndustryDescription></OrgIndustry>
+<Description>* Wet and dry lay-up of various composite materials for aerospace, automotive, and outdoor recreation industries * Assembly of components primarily for aerospace applications * CNC machining
+</Description>
+<StartDate>
+<AnyDate>2015-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>United States Postal Service</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Rural Carrier Associate</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>* Delivery of mail and packages in and around Stevenson, Washington
+</Description>
+<StartDate>
+<AnyDate>2012-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Oregon</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Instructor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Eugene OR</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2001-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Office of Sustainability</EmployerOrgName>
+<JobType>Intern</JobType>
+<PositionHistory>
+<Title>Internship</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>OR</Region>
+<Municipality>Eugene</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Oregon</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Student Researcher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>OR</Region>
+<Municipality>Eugene</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Conducted focus group with local GreenLane businesses on designing a survey for city. * Created survey to help city develop tools for assisting businesses becoming sustainable. * Researched 'best practices' of sustainability plans of other municipalities. * Assisted with coordination of monthly Sustainability Commission meetings.
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Line Technician</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>OR</Region>
+<Municipality>Eugene</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Oregon * Worked with a team to design the implementation portion of Hazard Mitigation plans for seven counties in the Mid-Columbia River Gorge region in Oregon with the goal of forming a collaborative among these counties. * Researched available literature on Hazard Mitigation and collaboratives. * Conducted assessment of each county's plans identify commonalities. Interviewed stakeholders as to the needs and barriers forming a collaborative. * Created a 'best practices' example for a presentation to the seven county steering committee. * Investigated multiple funding sources for the collaborative and hazard mitigation projects * Presented findings and facilitated meetings with the steering committee. Flightcraft (now Atlantic Aviation) -
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Creative Composites</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Quality Assurance Inspector</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>OR</Region>
+<Municipality>Oakridge</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>* Applied quality control standards (ISO 9000, ISO 14000) for aircraft part manufacturer * Conducted tests (destructive and non-destructive) for aircraft parts * Tool design and autoclave operations * Maintained database for testing and generated quality certifications for clients Marketing/Gift Sales Support
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Harvest House Publishers</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>OR</Region>
+<Municipality>Eugene</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>marketing</IndustryDescription></OrgIndustry>
+<Description>* Provided product support for a Christian literary publishing company. * Prepared and maintained of an exhibition booth for the Marketing/Sales division * Shipped the exhibition booth to national trade shows. * Designed, built, and maintained structural facilities for the distribution center. * Picked, packed, and shipped books to stores and distributors.
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Universal Music Publishing</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Creative Services Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>TN</Region>
+<Municipality>Nashville</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Managed and maintained a music catalogue of some 35,000 titles. * Directed the recovery and archival of older masters. * Managed demo recording facilities for writer staff. * Distributed creative staff's songs within the industry. * Supervised the combination of PolyGram and MCA catalogues and databases during the 1999 merger
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>American Society of Composers</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Assistant Membership Representative</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>TN</Region>
+<Municipality>Nashville</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>* Recruited songwriter and publisher members for a royalty collection and licensing agency. * Promoted and networked members' interests within the music industry. * Organized events and workshops to showcase members' talents. * Participated in guest panels at conferences and seminars to promote company policy. * Attended music conferences in New York, Los Angeles, Atlanta, Memphis, Tampa, Durham, Austin, and Minneapolis. * Assisted in organizing industry events such as the ASCAP Awards, the Gospel Music Awards, and the ASCAP Songwriters Workshop. * Coordinated events with the Country Music Association, Gospel Music Association, and the Academy of Country Music. * Member of National Academy of Recording Arts and Sciences (NARAS) and Country Music Association (CMA).
+</Description>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>OR</Region>
+<Municipality>Eugene</Municipality>
+</PostalAddress>
+<Degree degreeType="certificate">
+<DegreeName>Certificate</DegreeName>
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Flight Technology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of North Alabama</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>AL</Region>
+<Municipality>Florence</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Arts</DegreeName>
+<DegreeDate>
+<AnyDate>1990-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Music Industry</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Oregon</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>OR</Region>
+<Municipality>Eugene</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>Master of Community and Regional Planning</DegreeName>
+<DegreeMajor>
+<Name>Public Policy, Planning and Management incp</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<MilitaryHistory>
+<ServiceDetail>
+<UnitOrDivision>Eugene OR</UnitOrDivision>
+<DatesOfService>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</DatesOfService>
+<AreaOfExpertise>Military 
+Maintained General Aviation, and Corporate aircraft for FBO at airport * Fueled commercial aviation for three airlines * Facilitated fuel transfer to airport facilities
+</AreaOfExpertise>
+</ServiceDetail>
+</MilitaryHistory>
+<Qualifications>
+<Competency name="Adobe">
+<CompetencyId description="HireAbility taxonomy" id="5334" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Adobe Acrobat">
+<CompetencyId description="HireAbility taxonomy" id="1793" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe Acrobat">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Adobe Illustrator">
+<CompetencyId description="HireAbility taxonomy" id="34" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe Illustrator">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Adobe InDesign">
+<CompetencyId description="HireAbility taxonomy" id="4236" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe InDesign">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Adobe PageMaker">
+<CompetencyId description="HireAbility taxonomy" id="35" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe PageMaker">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Adobe Photoshop">
+<CompetencyId description="HireAbility taxonomy" id="36" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe Photoshop">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Aerospace">
+<CompetencyId description="HireAbility taxonomy" id="7583" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Aerospace" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Aircraft Parts">
+<CompetencyId description="HireAbility taxonomy" id="9132" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Aircraft Parts" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Airlines">
+<CompetencyId description="HireAbility taxonomy" id="15233" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Airlines" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Automotive">
+<CompetencyId description="HireAbility taxonomy" id="15253" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Automotive" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CMA">
+<CompetencyId description="HireAbility taxonomy" id="15303" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CMA" lastUsed="1993-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CNC">
+<CompetencyId description="HireAbility taxonomy" id="14299" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CNC" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Distribution">
+<CompetencyId description="HireAbility taxonomy" id="1907" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Distribution" lastUsed="2003-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Engineering">
+<CompetencyId description="HireAbility taxonomy" id="1932" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Engineering">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hardware/Systems">
+<CompetencyId description="HireAbility taxonomy" id="6" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hardware/Systems" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="In-Circuit Emulator">
+<CompetencyId description="HireAbility taxonomy" id="6241" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="In-Circuit Emulator">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="ISO">
+<CompetencyId description="HireAbility taxonomy" id="1669" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="ISO" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="ISO 9000">
+<CompetencyId description="HireAbility taxonomy" id="6285" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="ISO 9000" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Licensing">
+<CompetencyId description="HireAbility taxonomy" id="9493" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Licensing" lastUsed="1993-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Excel">
+<CompetencyId description="HireAbility taxonomy" id="252" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Excel">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft PowerPoint">
+<CompetencyId description="HireAbility taxonomy" id="260" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft PowerPoint">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Word">
+<CompetencyId description="HireAbility taxonomy" id="266" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Word">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Publishing">
+<CompetencyId description="HireAbility taxonomy" id="15543" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Publishing" lastUsed="2003-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality">
+<CompetencyId description="HireAbility taxonomy" id="19259" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality Assurance">
+<CompetencyId description="HireAbility taxonomy" id="2163" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality Assurance" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality Control">
+<CompetencyId description="HireAbility taxonomy" id="13249" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality Control" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Sales">
+<CompetencyId description="HireAbility taxonomy" id="7733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Sales" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Sales Support">
+<CompetencyId description="HireAbility taxonomy" id="7736" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Sales Support" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Services">
+<CompetencyId description="HireAbility taxonomy" id="15611" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Services" lastUsed="1999-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="WordPress">
+<CompetencyId description="HireAbility taxonomy" id="18431" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="WordPress">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RGF2aWQgUmF5CgpDb21wb3NpdGUgVGVjaG5pY2lhbiAtIElubm92YXRpdmUgQ29tcG9zaXRlIEVuZ2luZWVyaW5nIChJQ0UpCgpTdGV2ZW5zb24sIFdBIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvRGF2aWQtUmF5L2IzNjIxNGUxN2ZiZDY5YjcKCldpbGxpbmcgdG8gcmVsb2NhdGU6IEFueXdoZXJlCgpBdXRob3JpemVkIHRvIHdvcmsgaW4gdGhlIFVTIGZvciBhbnkgZW1wbG95ZXIKCldPUksgRVhQRVJJRU5DRQoKSGFyZHdhcmUgU2FsZXMgQXNzb2NpYXRlCgpBY2UgSGFyZHdhcmUgLSBXaGl0ZSBTYWxtb24sIFdBIC0gRmVicnVhcnkgMjAxNyB0byBQcmVzZW50CgpDdXN0b21lciBzZXJ2aWNlIHBhaW50IGFuZCBoYXJkd2FyZS4KCkNvbXBvc2l0ZSBUZWNobmljaWFuCgpJbm5vdmF0aXZlIENvbXBvc2l0ZSBFbmdpbmVlcmluZyAoSUNFKSAtIDIwMTUgdG8gSmFudWFyeSAyMDE3CgoqIFdldCBhbmQgZHJ5IGxheS11cCBvZiB2YXJpb3VzIGNvbXBvc2l0ZSBtYXRlcmlhbHMgZm9yIGFlcm9zcGFjZSwgYXV0b21vdGl2ZSwgYW5kIG91dGRvb3IgcmVjcmVhdGlvbgoKaW5kdXN0cmllcwoKKiBBc3NlbWJseSBvZiBjb21wb25lbnRzIHByaW1hcmlseSBmb3IgYWVyb3NwYWNlIGFwcGxpY2F0aW9ucwoKKiBDTkMgbWFjaGluaW5nCgpSdXJhbCBDYXJyaWVyIEFzc29jaWF0ZQoKVW5pdGVkIFN0YXRlcyBQb3N0YWwgU2VydmljZSAtIDIwMTIgdG8gMjAxNQoKVW5pdGVkIFN0YXRlcyBQb3N0YWwgU2VydmljZQoKKiBEZWxpdmVyeSBvZiBtYWlsIGFuZCBwYWNrYWdlcyBpbiBhbmQgYXJvdW5kIFN0ZXZlbnNvbiwgV2FzaGluZ3RvbgoKSW5zdHJ1Y3RvcgoKVW5pdmVyc2l0eSBvZiBPcmVnb24gLSBFdWdlbmUsIE9SIC0gQXByaWwgMjAwMSB0byAyMDExCgpFdWdlbmUsIE9yZWdvbgoKKiBEZXNpZ25lZCBhbmQgdGF1Z2h0IGEgY29tcHJlaGVuc2l2ZSBjbGFzcyByZXZpZXdpbmcgYWxsIGFzcGVjdHMgb2YgdGhlIGN1cnJlbnQgTXVzaWMgSW5kdXN0cnkgbW9kZWwsCgpjaGFuZ2luZyB0ZWNobm9sb2dpZXMsIGFuZCB0aGVpciBlZmZlY3Qgb24gdGhlIGluZHVzdHJ5IGFuZCBjb3B5cmlnaHQuCgpJbnRlcm5zaGlwCgpPZmZpY2Ugb2YgU3VzdGFpbmFiaWxpdHkgLSBFdWdlbmUsIE9SIC0gSmFudWFyeSAyMDA5IHRvIEp1bmUgMjAwOQoKKiBDb25kdWN0ZWQgZm9jdXMgZ3JvdXAgd2l0aCBsb2NhbCBHcmVlbkxhbmUgYnVzaW5lc3NlcyBvbiBkZXNpZ25pbmcgYSBzdXJ2ZXkgZm9yIGNpdHkuCgoqIENyZWF0ZWQgc3VydmV5IHRvIGhlbHAgY2l0eSBkZXZlbG9wIHRvb2xzIGZvciBhc3Npc3RpbmcgYnVzaW5lc3NlcyBpbiBiZWNvbWluZyBzdXN0YWluYWJsZS4KCiogUmVzZWFyY2hlZCAnYmVzdCBwcmFjdGljZXMnIG9mIHN1c3RhaW5hYmlsaXR5IHBsYW5zIG9mIG90aGVyIG11bmljaXBhbGl0aWVzLgoKKiBBc3Npc3RlZCB3aXRoIGNvb3JkaW5hdGlvbiBvZiBtb250aGx5IFN1c3RhaW5hYmlsaXR5IENvbW1pc3Npb24gbWVldGluZ3MuCgpTdHVkZW50IFJlc2VhcmNoZXIKClVuaXZlcnNpdHkgb2YgT3JlZ29uIC0gRXVnZW5lLCBPUiAtIEphbnVhcnkgMjAwOCB0byBKdW5lIDIwMDgKCk9yZWdvbgoKKiBXb3JrZWQgd2l0aCBhIHRlYW0gdG8gZGVzaWduIHRoZSBpbXBsZW1lbnRhdGlvbiBwb3J0aW9uIG9mIEhhemFyZCBNaXRpZ2F0aW9uIHBsYW5zIGZvciBzZXZlbiBjb3VudGllcyBpbiB0aGUKCk1pZC1Db2x1bWJpYSBSaXZlciBHb3JnZSByZWdpb24gaW4gT3JlZ29uIHdpdGggdGhlIGdvYWwgb2YgZm9ybWluZyBhIGNvbGxhYm9yYXRpdmUgYW1vbmcgdGhlc2UgY291bnRpZXMuCgoqIFJlc2VhcmNoZWQgYXZhaWxhYmxlIGxpdGVyYXR1cmUgb24gSGF6YXJkIE1pdGlnYXRpb24gYW5kIGNvbGxhYm9yYXRpdmVzLgoKKiBDb25kdWN0ZWQgYXNzZXNzbWVudCBvZiBlYWNoIGNvdW50eSdzIHBsYW5zIHRvIGlkZW50aWZ5IGNvbW1vbmFsaXRpZXMuCgoqIEludGVydmlld2VkIHN0YWtlaG9sZGVycyBhcyB0byB0aGUgbmVlZHMgYW5kIGJhcnJpZXJzIHRvIGZvcm1pbmcgYSBjb2xsYWJvcmF0aXZlLgoKKiBDcmVhdGVkIGEgJ2Jlc3QgcHJhY3RpY2VzJyBleGFtcGxlIGZvciBhIHByZXNlbnRhdGlvbiB0byB0aGUgc2V2ZW4gY291bnR5IHN0ZWVyaW5nIGNvbW1pdHRlZS4KCiogSW52ZXN0aWdhdGVkIG11bHRpcGxlIGZ1bmRpbmcgc291cmNlcyBmb3IgdGhlIGNvbGxhYm9yYXRpdmUgYW5kIGhhemFyZCBtaXRpZ2F0aW9uIHByb2plY3RzCgoqIFByZXNlbnRlZCBmaW5kaW5ncyBhbmQgZmFjaWxpdGF0ZWQgbWVldGluZ3Mgd2l0aCB0aGUgc3RlZXJpbmcgY29tbWl0dGVlLgoKTGluZSBUZWNobmljaWFuCgpGbGlnaHRjcmFmdCAobm93IEF0bGFudGljIEF2aWF0aW9uKSAtIEV1Z2VuZSwgT1IgLSAyMDA0IHRvIDIwMDUKCiogTWFpbnRhaW5lZCBHZW5lcmFsIEF2aWF0aW9uLCBNaWxpdGFyeSwgYW5kIENvcnBvcmF0ZSBhaXJjcmFmdCBmb3IgRkJPIGF0IGFpcnBvcnQKCiogRnVlbGVkIGNvbW1lcmNpYWwgYXZpYXRpb24gZm9yIHRocmVlIGFpcmxpbmVzCgoqIEZhY2lsaXRhdGVkIGZ1ZWwgdHJhbnNmZXIgdG8gYWlycG9ydCBmYWNpbGl0aWVzCgpRdWFsaXR5IEFzc3VyYW5jZSBJbnNwZWN0b3IKCkNyZWF0aXZlIENvbXBvc2l0ZXMgLSBPYWtyaWRnZSwgT1IgLSAyMDAzIHRvIDIwMDQKCiogQXBwbGllZCBxdWFsaXR5IGNvbnRyb2wgc3RhbmRhcmRzIChJU08gOTAwMCwgSVNPIDE0MDAwKSBmb3IgYWlyY3JhZnQgcGFydCBtYW51ZmFjdHVyZXIKCiogQ29uZHVjdGVkIHRlc3RzIChkZXN0cnVjdGl2ZSBhbmQgbm9uLWRlc3RydWN0aXZlKSBmb3IgYWlyY3JhZnQgcGFydHMKCiogVG9vbCBkZXNpZ24gYW5kIGF1dG9jbGF2ZSBvcGVyYXRpb25zCgoqIE1haW50YWluZWQgZGF0YWJhc2UgZm9yIHRlc3RpbmcgYW5kIGdlbmVyYXRlZCBxdWFsaXR5IGNlcnRpZmljYXRpb25zIGZvciBjbGllbnRzCgpNYXJrZXRpbmcvR2lmdCBTYWxlcyBTdXBwb3J0CgpIYXJ2ZXN0IEhvdXNlIFB1Ymxpc2hlcnMgLSBFdWdlbmUsIE9SIC0gMjAwMSB0byAyMDAzCgoqIFByb3ZpZGVkIHByb2R1Y3Qgc3VwcG9ydCBmb3IgYSBDaHJpc3RpYW4gbGl0ZXJhcnkgcHVibGlzaGluZyBjb21wYW55LgoKKiBQcmVwYXJlZCBhbmQgbWFpbnRhaW5lZCBvZiBhbiBleGhpYml0aW9uIGJvb3RoIGZvciB0aGUgTWFya2V0aW5nL1NhbGVzIGRpdmlzaW9uCgoqIFNoaXBwZWQgdGhlIGV4aGliaXRpb24gYm9vdGggdG8gbmF0aW9uYWwgdHJhZGUgc2hvd3MuCgoqIERlc2lnbmVkLCBidWlsdCwgYW5kIG1haW50YWluZWQgc3RydWN0dXJhbCBmYWNpbGl0aWVzIGZvciB0aGUgZGlzdHJpYnV0aW9uIGNlbnRlci4KCiogUGlja2VkLCBwYWNrZWQsIGFuZCBzaGlwcGVkIGJvb2tzIHRvIHN0b3JlcyBhbmQgZGlzdHJpYnV0b3JzLgoKQ3JlYXRpdmUgU2VydmljZXMgTWFuYWdlcgoKVW5pdmVyc2FsIE11c2ljIFB1Ymxpc2hpbmcgLSBOYXNodmlsbGUsIFROIC0gMTk5NCB0byAxOTk5CgoqIE1hbmFnZWQgYW5kIG1haW50YWluZWQgYSBtdXNpYyBjYXRhbG9ndWUgb2Ygc29tZSAzNSwwMDAgdGl0bGVzLgoKKiBEaXJlY3RlZCB0aGUgcmVjb3ZlcnkgYW5kIGFyY2hpdmFsIG9mIG9sZGVyIG1hc3RlcnMuCgoqIE1hbmFnZWQgZGVtbyByZWNvcmRpbmcgZmFjaWxpdGllcyBmb3Igd3JpdGVyIHN0YWZmLgoKKiBEaXN0cmlidXRlZCBjcmVhdGl2ZSBzdGFmZidzIHNvbmdzIHdpdGhpbiB0aGUgaW5kdXN0cnkuCgoqIFN1cGVydmlzZWQgdGhlIGNvbWJpbmF0aW9uIG9mIFBvbHlHcmFtIGFuZCBNQ0EgY2F0YWxvZ3VlcyBhbmQgZGF0YWJhc2VzIGR1cmluZyB0aGUgMTk5OSBtZXJnZXIKCkFzc2lzdGFudCBNZW1iZXJzaGlwIFJlcHJlc2VudGF0aXZlCgpBbWVyaWNhbiBTb2NpZXR5IG9mIENvbXBvc2VycyAtIE5hc2h2aWxsZSwgVE4gLSAxOTkwIHRvIDE5OTMKCiogUmVjcnVpdGVkIHNvbmd3cml0ZXIgYW5kIHB1Ymxpc2hlciBtZW1iZXJzIGZvciBhIHJveWFsdHkgY29sbGVjdGlvbiBhbmQgbGljZW5zaW5nIGFnZW5jeS4KCiogUHJvbW90ZWQgYW5kIG5ldHdvcmtlZCBtZW1iZXJzJyBpbnRlcmVzdHMgd2l0aGluIHRoZSBtdXNpYyBpbmR1c3RyeS4KCiogT3JnYW5pemVkIGV2ZW50cyBhbmQgd29ya3Nob3BzIHRvIHNob3djYXNlIG1lbWJlcnMnIHRhbGVudHMuCgoqIFBhcnRpY2lwYXRlZCBpbiBndWVzdCBwYW5lbHMgYXQgY29uZmVyZW5jZXMgYW5kIHNlbWluYXJzIHRvIHByb21vdGUgY29tcGFueSBwb2xpY3kuCgoqIEF0dGVuZGVkIG11c2ljIGNvbmZlcmVuY2VzIGluIE5ldyBZb3JrLCBMb3MgQW5nZWxlcywgQXRsYW50YSwgTWVtcGhpcywgVGFtcGEsIER1cmhhbSwgQXVzdGluLCBhbmQKCk1pbm5lYXBvbGlzLgoKKiBBc3Npc3RlZCBpbiBvcmdhbml6aW5nIGluZHVzdHJ5IGV2ZW50cyBzdWNoIGFzIHRoZSBBU0NBUCBBd2FyZHMsIHRoZSBHb3NwZWwgTXVzaWMgQXdhcmRzLCBhbmQgdGhlIEFTQ0FQCgpTb25nd3JpdGVycyBXb3Jrc2hvcC4KCiogQ29vcmRpbmF0ZWQgZXZlbnRzIHdpdGggdGhlIENvdW50cnkgTXVzaWMgQXNzb2NpYXRpb24sIEdvc3BlbCBNdXNpYyBBc3NvY2lhdGlvbiwgYW5kIHRoZSBBY2FkZW15IG9mCgpDb3VudHJ5IE11c2ljLgoKKiBNZW1iZXIgb2YgTmF0aW9uYWwgQWNhZGVteSBvZiBSZWNvcmRpbmcgQXJ0cyBhbmQgU2NpZW5jZXMgKE5BUkFTKSBhbmQgQ291bnRyeSBNdXNpYyBBc3NvY2lhdGlvbgoKKENNQSkuCgpFRFVDQVRJT04KCkNlcnRpZmljYXRlIGluIEZsaWdodCBUZWNobm9sb2d5CgpMYW5lIENvbW11bml0eSBDb2xsZWdlIEZsaWdodCBTY2hvb2wgLSBFdWdlbmUsIE9SCgoyMDA1CgpCYWNoZWxvciBvZiBBcnRzIGluIE11c2ljIEluZHVzdHJ5CgpVbml2ZXJzaXR5IG9mIE5vcnRoIEFsYWJhbWEgLSBGbG9yZW5jZSwgQUwKCjE5OTAKCk1hc3RlciBvZiBDb21tdW5pdHkgYW5kIFJlZ2lvbmFsIFBsYW5uaW5nIGluIFB1YmxpYyBQb2xpY3ksIFBsYW5uaW5nLCBhbmQKCk1hbmFnZW1lbnQgKGluY3ApCgpVbml2ZXJzaXR5IG9mIE9yZWdvbiAtIEV1Z2VuZSwgT1IKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KClNLSUxMUwoKKiBQcm9maWNpZW5jeSB3aXRoIE1pY3Jvc29mdCBPZmZpY2UgKFdvcmQsIEV4Y2VsLCBQb3dlclBvaW50KSwgQWRvYmUgQ3JlYXRpdmUgU3VpdGUgKEluRGVzaWduLCBQaG90b3Nob3AsCgpQYWdlTWFrZXIsIElsbHVzdHJhdG9yLCBBY3JvYmF0IFBybyksIFByby1Ub29scyAocmVjb3JkaW5nIHNvZnR3YXJlKSwgV29yZFByZXNzICh3ZWJzaXRlIGRlc2lnbikuCgoqIFByb2ZpY2llbnQ=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913453160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

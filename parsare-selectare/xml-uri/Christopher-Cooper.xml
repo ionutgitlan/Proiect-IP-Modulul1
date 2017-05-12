@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2913102160532"  usageLimitType="allocation" usageLimit="100" currentUsage="44" remainingUsage="56" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Christopher Cooper</FormattedName>
+<GivenName>Christopher</GivenName>
+<FamilyName>Cooper</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Christopher-Cooper/5032d75fcbcd3ede</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>The Chase</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>ICT & Computer Science Teacher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Responsible for learning and teaching for each class taught. Key Achievements * Introduced new BTEC qualification for year 12 students. * Shared good practise within the faculty * Delivered addition support to students after school. Key Skills Gained * Quickly built positive working relationships with staff and students within the school. * Created new assignments / specification for the new BTEC course. Strand Leader for Work Enterprise and Business (WEB)
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Gloucester Academy</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>services</IndustryDescription></OrgIndustry>
+<Description>Responsible for all aspects within each of the following department areas Business, Catering, Design & Technology, ICT & Computer Science Departments Key Achievements * Turned around a failing Strand by introducing and recruiting staff to the various departments within the Strand. * Setup new systems to track and monitor individual student progress. * Trained staff members within the Strand to use and understand data and to understand what appropriate actions can be put into place. Key Skills Gained * Further developed team working skills by working with staff with different background and needs to establish a successful base to work from. * Communicated my requirements and listened to the needs of each department and individuals to support them to make the needed changes. * Effectively acquired, analysed and presented data, used forecast and school based data to identify groups of underperforming students, and then provided the necessary targeted support / interventions Subject Leader for ICT & Computer Science
+</Description>
+<StartDate>
+<AnyDate>2015-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Beaufort Co-operative Academy</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Responsible for all aspects within the ICT & Computer Science Department. Key Achievements * Established positive relationships with local feeder schools. * Created a master scheme of work to deliver the requirements of the new ICT and Computing curriculum. * Created the "Footsteps to Beaufort" programme that gave students in year 5 and 6 to experience working on a project design to help them to get to know Beaufort. Key Skills Gained * Learned to work with different professionals within education, both within the school and with the local primary feeder schools. * Recognised the ways other staff work to create a successful team
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Archway School</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>ICT Teacher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Responsible for the learning and teaching in each class taught.
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>St Joseph's Comprehensive</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Teacher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UK & Europe</EmployerOrgName>
+<JobType>Contractor</JobType>
+<PositionHistory>
+<Title>Business Development Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Responsible for Sales, Marketing & Research activities. Key Achievements * Researched contacts, made contact and won a 30K of initial contract package with BAe * Analysed key area of the industry to locate potential new customers prior to initiating contact. * Customer needs exceeded by ensuring that quotations were issued rapidly and that the customers were kept abreast of each stage of product testing. Key Skills Gained * Presented marketing research to Board of Directors regarding a desired market sector. * Built successful relationships with potential new customers
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Siemens</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Manufacturing Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Responsible for Jaguar production & assembly lines. Key Achievements * Negotiated contracts with suppliers to meet the required service, quality and price. * Managed and implemented a 12 month new Jaguar production line into an existing Jaguar production within 10 months * Designed the product flow within the machines to give optimum cycle time within the product cell. Key Skills Gained * Controlled a budget of £1 million to order machinery, equipment and tooling.
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Ericsson</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Technical Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Responsible for all aspects of project management for customers. Key Achievements * Project managed customers' requirements (Ericsson, Mitsubishi, Nokia, Sensei and Sendo) within each project and communicated their needs to all levels within the organisation. * Sourced suppliers worldwide to meet customer deadline to maintain the rapid turnaround within the telecommunications sector while maintaining quality and service.
+</Description>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Bath</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>GB</CountryCode>
+<Municipality>Bath</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>BSc</DegreeName>
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Materials</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Brunel University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>BTEC National Diploma</DegreeName>
+<DegreeDate>
+<AnyDate>1998-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Polymer Technology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Trowbridge College</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1994-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>English and Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>Ryde High School</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Adobe">
+<CompetencyId description="HireAbility taxonomy" id="5334" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Android">
+<CompetencyId description="HireAbility taxonomy" id="18255" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Android">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Apple MacIntosh Operating System">
+<CompetencyId description="HireAbility taxonomy" id="5364" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Apple MacIntosh Operating System">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Budgeting">
+<CompetencyId description="HireAbility taxonomy" id="5721" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Budgeting" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Business Development">
+<CompetencyId description="HireAbility taxonomy" id="4313" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Development" lastUsed="2003-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Business Development Manager">
+<CompetencyId description="HireAbility taxonomy" id="12123" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Development Manager" lastUsed="2003-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Forecast">
+<CompetencyId description="HireAbility taxonomy" id="15413" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Forecast" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2000-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Manufacturing">
+<CompetencyId description="HireAbility taxonomy" id="2028" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Manufacturing" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Marketing Management">
+<CompetencyId description="HireAbility taxonomy" id="247" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Marketing Management" lastUsed="2003-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Project">
+<CompetencyId description="HireAbility taxonomy" id="261" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Project">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows 7">
+<CompetencyId description="HireAbility taxonomy" id="17802" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows 7">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="MS Project">
+<CompetencyId description="HireAbility taxonomy" id="26458" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="MS Project">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Network Attach Storage">
+<CompetencyId description="HireAbility taxonomy" id="7283" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Network Attach Storage">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Pc">
+<CompetencyId description="HireAbility taxonomy" id="313" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Pc">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Personal Computer">
+<CompetencyId description="HireAbility taxonomy" id="9774" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Personal Computer">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Management">
+<CompetencyId description="HireAbility taxonomy" id="337" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Management" lastUsed="2000-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality">
+<CompetencyId description="HireAbility taxonomy" id="19259" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality Assurance">
+<CompetencyId description="HireAbility taxonomy" id="2163" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality Assurance">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Recruiting">
+<CompetencyId description="HireAbility taxonomy" id="9602" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Recruiting" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Research">
+<CompetencyId description="HireAbility taxonomy" id="8958" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Research" lastUsed="2003-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Science">
+<CompetencyId description="HireAbility taxonomy" id="11108" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Science" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">9</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Telecommunications">
+<CompetencyId description="HireAbility taxonomy" id="2270" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Telecommunications" lastUsed="2000-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Tooling">
+<CompetencyId description="HireAbility taxonomy" id="17375" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Tooling" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="VMWare">
+<CompetencyId description="HireAbility taxonomy" id="30853" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="VMWare">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web">
+<CompetencyId description="HireAbility taxonomy" id="1768" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web Technologies">
+<CompetencyId description="HireAbility taxonomy" id="13733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web Technologies">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Windows 7">
+<CompetencyId description="HireAbility taxonomy" id="18242" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Windows 7">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2hyaXN0b3BoZXIgQ29vcGVyCgpDaGVsdGVuaGFtIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQ2hyaXN0b3BoZXItQ29vcGVyLzUwMzJkNzVmY2JjZDNlZGUKCldPUksgRVhQRVJJRU5DRQoKSUNUICYgQ29tcHV0ZXIgU2NpZW5jZSBUZWFjaGVyCgpUaGUgQ2hhc2UgLSAyMDE2IHRvIFByZXNlbnQKClJlc3BvbnNpYmxlIGZvciBsZWFybmluZyBhbmQgdGVhY2hpbmcgZm9yIGVhY2ggY2xhc3MgdGF1Z2h0LiBLZXkgQWNoaWV2ZW1lbnRzCgoqIEludHJvZHVjZWQgbmV3IEJURUMgcXVhbGlmaWNhdGlvbiBmb3IgeWVhciAxMiBzdHVkZW50cy4KCiogU2hhcmVkIGdvb2QgcHJhY3Rpc2Ugd2l0aGluIHRoZSBmYWN1bHR5CgoqIERlbGl2ZXJlZCBhZGRpdGlvbiBzdXBwb3J0IHRvIHN0dWRlbnRzIGFmdGVyIHNjaG9vbC4KCktleSBTa2lsbHMgR2FpbmVkCgoqIFF1aWNrbHkgYnVpbHQgcG9zaXRpdmUgd29ya2luZyByZWxhdGlvbnNoaXBzIHdpdGggc3RhZmYgYW5kIHN0dWRlbnRzIHdpdGhpbiB0aGUgc2Nob29sLgoKKiBDcmVhdGVkIG5ldyBhc3NpZ25tZW50cyAvIHNwZWNpZmljYXRpb24gZm9yIHRoZSBuZXcgQlRFQyBjb3Vyc2UuCgpTdHJhbmQgTGVhZGVyIGZvciBXb3JrIEVudGVycHJpc2UgYW5kIEJ1c2luZXNzIChXRUIpCgpHbG91Y2VzdGVyIEFjYWRlbXkgLSAyMDE1IHRvIDIwMTYKClJlc3BvbnNpYmxlIGZvciBhbGwgYXNwZWN0cyB3aXRoaW4gZWFjaCBvZiB0aGUgZm9sbG93aW5nIGRlcGFydG1lbnQgYXJlYXMgQnVzaW5lc3MsIENhdGVyaW5nLAoKRGVzaWduICYgVGVjaG5vbG9neSwKCklDVCAmIENvbXB1dGVyIFNjaWVuY2UgRGVwYXJ0bWVudHMKCktleSBBY2hpZXZlbWVudHMKCiogVHVybmVkIGFyb3VuZCBhIGZhaWxpbmcgU3RyYW5kIGJ5IGludHJvZHVjaW5nIGFuZCByZWNydWl0aW5nIHN0YWZmIHRvIHRoZSB2YXJpb3VzIGRlcGFydG1lbnRzIHdpdGhpbiB0aGUgU3RyYW5kLgoKKiBTZXR1cCBuZXcgc3lzdGVtcyB0byB0cmFjayBhbmQgbW9uaXRvciBpbmRpdmlkdWFsIHN0dWRlbnQgcHJvZ3Jlc3MuCgoqIFRyYWluZWQgc3RhZmYgbWVtYmVycyB3aXRoaW4gdGhlIFN0cmFuZCB0byB1c2UgYW5kIHVuZGVyc3RhbmQgZGF0YSBhbmQgdG8gdW5kZXJzdGFuZCB3aGF0IGFwcHJvcHJpYXRlCgphY3Rpb25zIGNhbiBiZSBwdXQgaW50byBwbGFjZS4KCktleSBTa2lsbHMgR2FpbmVkCgoqIEZ1cnRoZXIgZGV2ZWxvcGVkIHRlYW0gd29ya2luZyBza2lsbHMgYnkgd29ya2luZyB3aXRoIHN0YWZmIHdpdGggZGlmZmVyZW50IGJhY2tncm91bmQgYW5kIG5lZWRzIHRvIGVzdGFibGlzaAoKYSBzdWNjZXNzZnVsIGJhc2UgdG8gd29yayBmcm9tLgoKKiBDb21tdW5pY2F0ZWQgbXkgcmVxdWlyZW1lbnRzIGFuZCBsaXN0ZW5lZCB0byB0aGUgbmVlZHMgb2YgZWFjaCBkZXBhcnRtZW50IGFuZCBpbmRpdmlkdWFscyB0byBzdXBwb3J0Cgp0aGVtIHRvIG1ha2UgdGhlIG5lZWRlZCBjaGFuZ2VzLgoKKiBFZmZlY3RpdmVseSBhY3F1aXJlZCwgYW5hbHlzZWQgYW5kIHByZXNlbnRlZCBkYXRhLCB1c2VkIGZvcmVjYXN0IGFuZCBzY2hvb2wgYmFzZWQgZGF0YSB0byBpZGVudGlmeSBncm91cHMKCm9mIHVuZGVycGVyZm9ybWluZyBzdHVkZW50cywgYW5kIHRoZW4gcHJvdmlkZWQgdGhlIG5lY2Vzc2FyeSB0YXJnZXRlZCBzdXBwb3J0IC8gaW50ZXJ2ZW50aW9ucwoKU3ViamVjdCBMZWFkZXIgZm9yIElDVCAmIENvbXB1dGVyIFNjaWVuY2UKCkJlYXVmb3J0IENvLW9wZXJhdGl2ZSBBY2FkZW15IC0gMjAwOCB0byAyMDE1CgpSZXNwb25zaWJsZSBmb3IgYWxsIGFzcGVjdHMgd2l0aGluIHRoZSBJQ1QgJiBDb21wdXRlciBTY2llbmNlIERlcGFydG1lbnQuCgpLZXkgQWNoaWV2ZW1lbnRzCgoqIEVzdGFibGlzaGVkIHBvc2l0aXZlIHJlbGF0aW9uc2hpcHMgd2l0aCBsb2NhbCBmZWVkZXIgc2Nob29scy4KCiogQ3JlYXRlZCBhIG1hc3RlciBzY2hlbWUgb2Ygd29yayB0byBkZWxpdmVyIHRoZSByZXF1aXJlbWVudHMgb2YgdGhlIG5ldyBJQ1QgYW5kIENvbXB1dGluZyBjdXJyaWN1bHVtLgoKKiBDcmVhdGVkIHRoZSAiRm9vdHN0ZXBzIHRvIEJlYXVmb3J0IiBwcm9ncmFtbWUgdGhhdCBnYXZlIHN0dWRlbnRzIGluIHllYXIgNSBhbmQgNiB0byBleHBlcmllbmNlIHdvcmtpbmcKCm9uIGEgcHJvamVjdCBkZXNpZ24gdG8gaGVscCB0aGVtIHRvIGdldCB0byBrbm93IEJlYXVmb3J0LgoKS2V5IFNraWxscyBHYWluZWQKCiogTGVhcm5lZCB0byB3b3JrIHdpdGggZGlmZmVyZW50IHByb2Zlc3Npb25hbHMgd2l0aGluIGVkdWNhdGlvbiwgYm90aCB3aXRoaW4gdGhlIHNjaG9vbCBhbmQgd2l0aCB0aGUgbG9jYWwgcHJpbWFyeQoKZmVlZGVyIHNjaG9vbHMuCgoqIFJlY29nbmlzZWQgdGhlIHdheXMgb3RoZXIgc3RhZmYgd29yayB0byBjcmVhdGUgYSBzdWNjZXNzZnVsIHRlYW0KCklDVCBUZWFjaGVyCgpBcmNod2F5IFNjaG9vbCAtIDIwMDUgdG8gMjAwOAoKUmVzcG9uc2libGUgZm9yIHRoZSBsZWFybmluZyBhbmQgdGVhY2hpbmcgaW4gZWFjaCBjbGFzcyB0YXVnaHQuCgpUZWFjaGVyCgpTdCBKb3NlcGgncyBDb21wcmVoZW5zaXZlIC0gMjAwNCB0byAyMDA1CgpCdXNpbmVzcyBEZXZlbG9wbWVudCBNYW5hZ2VyCgpVSyAmIEV1cm9wZSAtIDIwMDIgdG8gMjAwMwoKUmVzcG9uc2libGUgZm9yIFNhbGVzLCBNYXJrZXRpbmcgJiBSZXNlYXJjaCBhY3Rpdml0aWVzLiBLZXkgQWNoaWV2ZW1lbnRzCgoqIFJlc2VhcmNoZWQgY29udGFjdHMsIG1hZGUgY29udGFjdCBhbmQgd29uIGEgMzBLIG9mIGluaXRpYWwgY29udHJhY3QgcGFja2FnZSB3aXRoIEJBZQoKKiBBbmFseXNlZCBrZXkgYXJlYSBvZiB0aGUgaW5kdXN0cnkgdG8gbG9jYXRlIHBvdGVudGlhbCBuZXcgY3VzdG9tZXJzIHByaW9yIHRvIGluaXRpYXRpbmcgY29udGFjdC4KCiogQ3VzdG9tZXIgbmVlZHMgZXhjZWVkZWQgYnkgZW5zdXJpbmcgdGhhdCBxdW90YXRpb25zIHdlcmUgaXNzdWVkIHJhcGlkbHkgYW5kIHRoYXQgdGhlIGN1c3RvbWVycyB3ZXJlIGtlcHQKCmFicmVhc3Qgb2YgZWFjaCBzdGFnZSBvZiBwcm9kdWN0IHRlc3RpbmcuCgpLZXkgU2tpbGxzIEdhaW5lZAoKKiBQcmVzZW50ZWQgbWFya2V0aW5nIHJlc2VhcmNoIHRvIEJvYXJkIG9mIERpcmVjdG9ycyByZWdhcmRpbmcgYSBkZXNpcmVkIG1hcmtldCBzZWN0b3IuCgoqIEJ1aWx0IHN1Y2Nlc3NmdWwgcmVsYXRpb25zaGlwcyB3aXRoIHBvdGVudGlhbCBuZXcgY3VzdG9tZXJzCgpNYW51ZmFjdHVyaW5nIEVuZ2luZWVyCgpTaWVtZW5zIC0gMjAwMCB0byAyMDAyCgpSZXNwb25zaWJsZSBmb3IgSmFndWFyIHByb2R1Y3Rpb24gJiBhc3NlbWJseSBsaW5lcy4gS2V5IEFjaGlldmVtZW50cwoKKiBOZWdvdGlhdGVkIGNvbnRyYWN0cyB3aXRoIHN1cHBsaWVycyB0byBtZWV0IHRoZSByZXF1aXJlZCBzZXJ2aWNlLCBxdWFsaXR5IGFuZCBwcmljZS4KCiogTWFuYWdlZCBhbmQgaW1wbGVtZW50ZWQgYSAxMiBtb250aCBuZXcgSmFndWFyIHByb2R1Y3Rpb24gbGluZSBpbnRvIGFuIGV4aXN0aW5nIEphZ3VhciBwcm9kdWN0aW9uIHdpdGhpbgoKMTAgbW9udGhzCgoqIERlc2lnbmVkIHRoZSBwcm9kdWN0IGZsb3cgd2l0aGluIHRoZSBtYWNoaW5lcyB0byBnaXZlIG9wdGltdW0gY3ljbGUgdGltZSB3aXRoaW4gdGhlIHByb2R1Y3QgY2VsbC4KCktleSBTa2lsbHMgR2FpbmVkCgoqIENvbnRyb2xsZWQgYSBidWRnZXQgb2YgwqMxIG1pbGxpb24gdG8gb3JkZXIgbWFjaGluZXJ5LCBlcXVpcG1lbnQgYW5kIHRvb2xpbmcuCgpUZWNobmljYWwgRW5naW5lZXIKCkVyaWNzc29uIC0gMTk5OSB0byAyMDAwCgpSZXNwb25zaWJsZSBmb3IgYWxsIGFzcGVjdHMgb2YgcHJvamVjdCBtYW5hZ2VtZW50IGZvciBjdXN0b21lcnMuIEtleSBBY2hpZXZlbWVudHMKCiogUHJvamVjdCBtYW5hZ2VkIGN1c3RvbWVycycgcmVxdWlyZW1lbnRzIChFcmljc3NvbiwgTWl0c3ViaXNoaSwgTm9raWEsIFNlbnNlaSBhbmQgU2VuZG8pIHdpdGhpbiBlYWNoCgpwcm9qZWN0IGFuZCBjb21tdW5pY2F0ZWQgdGhlaXIgbmVlZHMgdG8gYWxsIGxldmVscyB3aXRoaW4gdGhlIG9yZ2FuaXNhdGlvbi4KCiogU291cmNlZCBzdXBwbGllcnMgd29ybGR3aWRlIHRvIG1lZXQgY3VzdG9tZXIgZGVhZGxpbmUgdG8gbWFpbnRhaW4gdGhlIHJhcGlkIHR1cm5hcm91bmQgd2l0aGluIHRoZQoKdGVsZWNvbW11bmljYXRpb25zIHNlY3RvciB3aGlsZSBtYWludGFpbmluZyBxdWFsaXR5IGFuZCBzZXJ2aWNlLgoKS2V5IFNraWxscyBHYWluZWQKCiogTWFpbnRhaW5lZCBwcm9maXRhYmlsaXR5LCBxdWFsaXR5IHNwZWNpZmljYXRpb25zIGFuZCBjb250cm9sIGVuc3VyaW5nIHRoYXQgYWxsIHByb2R1Y3RzLCBwcm9jZXNzZXMsIHNlY29uZGFyeQoKb3BlcmF0aW9ucyBhbmQgcHJvZHVjdGlvbiByZXF1aXJlbWVudHMgYXJlIGRldmVsb3BlZCB0byBtZWV0IGN1c3RvbWVyIHNwZWNpZmljYXRpb25zLgoKKiBBZHZpc2VkIGN1c3RvbWVycyBvbiBtYXRlcmlhbHMgc2VsZWN0aW9uIGFuZCBoZWxwZWQgb3JnYW5pc2UgdG9vbHMgdHJpYWxzLgoKU3BvbnNvcmVkIGNvbXBhbmllcwoKQ29uY2VudHJpYyBJbmZvCgpQcm9qZWN0IEVuZ2luZWVyIC0gU3BvbnNvcmVkIGJ5IENvbmNlbnRyaWMgdGhyb3VnaCBVbml2ZXJzaXR5CgpFTUkgQ29tcGFjdCBEaXNjIC0gMTk5OCB0byAxOTk5CgpJbmZvCgpFbmdpbmVlciAtIFNwb25zb3JlZCBieSBFTUkgdGhyb3VnaCBDb2xsZWdlLgoKRURVQ0FUSU9OCgpVbml2ZXJzaXR5IG9mIEJhdGggLSBCYXRoLCBVSwoKMjAwNQoKQlNjIGluIE1hdGVyaWFscwoKQnJ1bmVsIFVuaXZlcnNpdHkKCjE5OTgKCkJURUMgTmF0aW9uYWwgRGlwbG9tYSBpbiBQb2x5bWVyIFRlY2hub2xvZ3kKClRyb3dicmlkZ2UgQ29sbGVnZQoKMTk5NAoKRW5nbGlzaCBhbmQgTWF0aGVtYXRpY3MKClJ5ZGUgSGlnaCBTY2hvb2wKCjE5OTIKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KCklUIFNLSUxMUwoKU29mdHdhcmU6IE1hY09TIFNpZXJyYSwgV2luZG93cyA3LCA4LjEsIDEwOyBNaWNyb3NvZnQgT2ZmaWNlLCBNUyBQcm9qZWN0LCBBZG9iZSBQYWNrYWdlcywgVk13YXJlIEZ1c2lvbiwKCkhhcmR3YXJlOiBpTWFjLCBQQywgVGFibGV0cyAoQW5kcm9pZCAmIGlPUyksIFN5bm9sb2d5IE5BUyw=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913102160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

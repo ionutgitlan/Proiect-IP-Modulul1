@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2910252160532"  usageLimitType="allocation" usageLimit="100" currentUsage="54" remainingUsage="46" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>David Beattie</FormattedName>
+<GivenName>David</GivenName>
+<FamilyName>Beattie</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/David-Beattie/e1493e7e34891caf</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Computer Science Corporation - London</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Programme Director</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2016-05-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Computer Sciences Corporation CSC</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Cloud Modern Platform Programme Director</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Cloud Delivery Services. * Programme Director responsible for the Technical refresh of Global Cloud Hosting Infrastructure and migration to the new infrastructure as well as 3rd party suppliers (AWS, Azure, Virtustream). * Management of Next Generation Hardware Vendor Selection (Circa £10m), Design & Implementation into 8 Global Datacentres. * Management of the migration of Circa 13,000 VM's. * Management and co-ordination of Global Matrix managed teams
+</Description>
+<StartDate>
+<AnyDate>2015-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Computer Science Corporation - Gosport</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Programme Director</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2014-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Computer Sciences Corporation</EmployerOrgName>
+<JobType>Contractor</JobType>
+<PositionHistory>
+<Title>Technical Refresh Programme Director</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>SPVA DBS Account. * Programme Director responsible for the delivery for the Technical refresh of the MOD's Pay, Pension and HR system. This consisted of a number of Programmes / Projects delivering new infrastructure, an Oracle database upgrade and migration. * Management of circa 120 resources plus 3rd party contractors. * Management of circa £40m financial profile. * Management of growth of circa £25m scope change to the overarching programme. Negotiation through bid to delivery. * Selection & negotiation with 3rd party vendors for £10m hardware deal. * Management of the Infrastructure delivery into UK Government Secure Data Centres
+</Description>
+<StartDate>
+<AnyDate>2014-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Hewlett Packard - Basingstoke</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Account Delivery Operations Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2012-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Hewlett Packard</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Account Manager / Delivery Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2012-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType>Contractor</JobType>
+<PositionHistory>
+<Title>MOD DII Account - Head of Business Applications Department</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>military</IndustryDescription></OrgIndustry>
+<Description>* This was a 2-hat role both Account Manager and Account Delivery Manager * Account Management and Delivery Manager of the Business applications service line. Successful delivery of several Programmes / Projects and management of the Defence Applications Factory providing mission critical applications to the Military. * P & L management achieved corporate FY13 financial targets of £30m revenue. Reduced costs whilst achieving delivery and exceeding revenue by £4m during a torrid time of corporate relocation and manpower reductions. * Senior Stakeholder Management - developed stakeholder focused relationships by gaining trust and understanding customer issues and requirements. Achieved Commercial re-negotiation of contacts to unblock delivery and improve revenue throughput. * Management and leadership of 120 Staff (both Permanent and contractor), plus matrix managed staff from other departments and third party suppliers. * Introduced efficient methods of reporting, governance & tracking processes. Mentored and supported Programme & Project Managers to ensure continuous improved delivery, cost reduction and customer satisfaction. * Closely operated with the Sales team to secure new business and grow the account pipeline. Partnering with the customer to identify requirements, Managing the deal through internal governance, bid, negotiating contract award, and leading the delivery to closure. * Ensured that all projects, programmes & business applications were delivered to time cost and quality within the requirements of the contract.
+</Description>
+<StartDate>
+<AnyDate>2012-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Head of UK Delivery & Programme Closure</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Hewlett Packard - Corsham -
+</Description>
+<StartDate>
+<AnyDate>2011-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Head of UK Delivery and Programme Closure</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>* Produced and implemented new governance, communications, tracking, Risk & Issue management and reporting processes, from previous LFE which proved so successful it was adopted by Global Central PMO. * Successfully directed the UK North and South programmes providing on time under budget completion providing £2m savings. - Awarded Certificate of Commendation by the Chief of Defence Staff Materiel. * Successfully delivered a short term programme to provide project closure deliverables to 1400 MOD sites. Previous closure processes would have taken in 4 years. This programme achieved delivery in 1 year providing significant £3m cost savings and manpower reduction.
+</Description>
+<StartDate>
+<AnyDate>2011-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Hewlett Packard - Corsham</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Programme Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Hewlett Packard</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Programme Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>South of UK Programme Manager - Successfully delivered 4 Programmes. * Achieved the delivery of 40,000 PC's & peripherals to 60,000 users across 612 MoD sites. This included the installation of WAN / LAN Network & Communications infrastructure, Data centres, User & Applications Discovery, Group and personal Data Migration, Account creation and Migration from legacy systems to new. * Implemented new governance, communications, tracking, R&I and reporting processes which enhanced visibility of the programme, gained Senior Management and Senior Stakeholder confidence and ensured timely programme completion. * Leader of 55 Project Managers plus Matrix management of Partner companies and subcontracting companies.
+</Description>
+<StartDate>
+<AnyDate>2009-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Hewlett Packard - Corsham</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Senior Project Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2008-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>EDS</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Senior Project Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Area Manager successfully completed the implementation of network infrastructure, 8,000 PC's & Peripherals to 51 MOD sites throughout the South West of UK. * Leader of 15 Project Managers. Matrix Management of 3rd Party Suppliers
+</Description>
+<StartDate>
+<AnyDate>2008-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Hewlett Packard</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Project Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Chief Petty Officer, Electronic Warfare & Intelligence Specialist</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>intelligence</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2005-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Service Country</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>CHIEF PETTY OFFICER</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>military</IndustryDescription></OrgIndustry>
+<Description>GB Branch ROYAL NAVY CHIEF PETTY OFFICER
+</Description>
+<StartDate>
+<AnyDate>1985-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Highbury College</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>Portsmouth</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>NVQ</DegreeName>
+<DegreeDate>
+<AnyDate>2005-07-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Management</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-07-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Plymouth College</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>Plymouth</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>BTEC</DegreeName>
+<DegreeDate>
+<AnyDate>2004-07-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Datacommunications</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2004-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-07-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>City & Guilds</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Installation</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institute of Leadership & Management</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>Portsmouth</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Account Management">
+<CompetencyId description="HireAbility taxonomy" id="4197" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Account Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Account Manager">
+<CompetencyId description="HireAbility taxonomy" id="11995" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Account Manager">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Applications">
+<CompetencyId description="HireAbility taxonomy" id="2" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Applications">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Data Migration">
+<CompetencyId description="HireAbility taxonomy" id="12317" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Data Migration">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Database">
+<CompetencyId description="HireAbility taxonomy" id="4" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Database">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Defense Information Infrastructure (DII)">
+<CompetencyId description="HireAbility taxonomy" id="6918" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Defense Information Infrastructure (DII)">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Electronic Warfare">
+<CompetencyId description="HireAbility taxonomy" id="11668" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Electronic Warfare" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hewlett Packard">
+<CompetencyId description="HireAbility taxonomy" id="1957" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hewlett Packard" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HR">
+<CompetencyId description="HireAbility taxonomy" id="19076" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HR">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Human Resources">
+<CompetencyId description="HireAbility taxonomy" id="7657" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Human Resources">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Infrastructure">
+<CompetencyId description="HireAbility taxonomy" id="7664" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Infrastructure">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Legacy">
+<CompetencyId description="HireAbility taxonomy" id="1676" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Legacy">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Local Area Network">
+<CompetencyId description="HireAbility taxonomy" id="6329" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Local Area Network">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle">
+<CompetencyId description="HireAbility taxonomy" id="305" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle Database">
+<CompetencyId description="HireAbility taxonomy" id="13035" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle Database">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Closure">
+<CompetencyId description="HireAbility taxonomy" id="13207" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Closure">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Management">
+<CompetencyId description="HireAbility taxonomy" id="337" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Management" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Manager">
+<CompetencyId description="HireAbility taxonomy" id="1719" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Manager" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Senior Project Manager">
+<CompetencyId description="HireAbility taxonomy" id="13455" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Senior Project Manager" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Strong Leader">
+<CompetencyId description="HireAbility taxonomy" id="16263" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Strong Leader">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Wide Area Network">
+<CompetencyId description="HireAbility taxonomy" id="6697" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Wide Area Network">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2012-07-01</StringDate></Date>
+<Description>Awarded Certificate of Commendation by the Chief of Defence Staff Materiel</Description>
+</Achievement>
+</Achievements>
+<SecurityCredentials>
+<SecurityCredential>
+<Name>current SC</Name>
+</SecurityCredential>
+</SecurityCredentials>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RGF2aWQgQmVhdHRpZQoKUHJvZ3JhbW1lIERpcmVjdG9yCgpQbHltb3V0aCAtIEVtYWlsIG1lIG9uIEluZGVlZDogaW5kZWVkLmNvbS9yL0RhdmlkLUJlYXR0aWUvZTE0OTNlN2UzNDg5MWNhZgoKUHJvZmVzc2lvbmFsIFByb2dyYW1tZSBEaXJlY3RvciB3aXRoIGV4Y2VwdGlvbmFsIGxlYWRlcnNoaXAgYW5kIGNvbW11bmljYXRpb24gc2tpbGxzLCB3aXRoIGEgcHJvdmVuIDMyLXllYXIKCnRyYWNrIHJlY29yZCB3b3JraW5nIGluIEluZm9ybWF0aW9uIFRlY2hub2xvZ3kgYW5kIGRlbGl2ZXJpbmcgbGFyZ2Ugc2NhbGUgSVQgaW5mcmFzdHJ1Y3R1cmUgUHJvZ3JhbW1lcy4gQW4KCmVmZmVjdGl2ZSB0cm91YmxlLXNob290ZXIsIHNwZWNpYWxpc2luZyBpbiB0cmFuc2Zvcm1pbmcgZ3JvdXBzIG9mIHBvb3IgcGVyZm9ybWluZyBpbmRpdmlkdWFscyBpbnRvIG1vdGl2YXRlZCwKCmhpZ2hseSBlZmZlY3RpdmUgbG95YWwgdGVhbXMuIFRoaXMgaGFzIHJlc3VsdGVkIGluIGEgY2FyZWVyIGNoYXJhY3RlcmlzZWQgYnkgY29uc3RhbnQgcHJvbW90aW9uLCBib3RoIGluIHRoZQoKbWlsaXRhcnkgYW5kIGxlYWRpbmcgYmx1ZSBjaGlwIGNvbXBhbmllcy4gRGVsaXZlcnkgaW4gaGlnaGx5IHNlY3VyZSBlbnZpcm9ubWVudHMsIGN1cnJlbnQgU0MgQ2xlYXJhbmNlIGhlbGQuCgpXaWxsaW5nIHRvIHJlbG9jYXRlOiBBbnl3aGVyZQoKV09SSyBFWFBFUklFTkNFCgpQcm9ncmFtbWUgRGlyZWN0b3IKCkNvbXB1dGVyIFNjaWVuY2UgQ29ycG9yYXRpb24gLSBMb25kb24gLSBNYXkgMjAxNiB0byBQcmVzZW50CgpDbG91ZCBNb2Rlcm4gUGxhdGZvcm0gUHJvZ3JhbW1lIERpcmVjdG9yLiBDb21wdXRlciBTY2llbmNlcyBDb3Jwb3JhdGlvbgoKQ1NDIENsb3VkIERlbGl2ZXJ5IFNlcnZpY2VzLgoKKiBQcm9ncmFtbWUgRGlyZWN0b3IgcmVzcG9uc2libGUgZm9yIHRoZSBUZWNobmljYWwgcmVmcmVzaCBvZiBHbG9iYWwgQ2xvdWQgSG9zdGluZyBJbmZyYXN0cnVjdHVyZSBhbmQKCm1pZ3JhdGlvbiB0byB0aGUgbmV3IGluZnJhc3RydWN0dXJlIGFzIHdlbGwgYXMgM3JkIHBhcnR5IHN1cHBsaWVycyAoQVdTLCBBenVyZSwgVmlydHVzdHJlYW0pLgoKKiBNYW5hZ2VtZW50IG9mIE5leHQgR2VuZXJhdGlvbiBIYXJkd2FyZSBWZW5kb3IgU2VsZWN0aW9uIChDaXJjYSDCozEwbSksIERlc2lnbiAmIEltcGxlbWVudGF0aW9uIGludG8KCjggR2xvYmFsIERhdGFjZW50cmVzLgoKKiBNYW5hZ2VtZW50IG9mIHRoZSBtaWdyYXRpb24gb2YgQ2lyY2EgMTMsMDAwIFZNJ3MuCgoqIE1hbmFnZW1lbnQgYW5kIGNvLW9yZGluYXRpb24gb2YgR2xvYmFsIE1hdHJpeCBtYW5hZ2VkIHRlYW1zCgpQcm9ncmFtbWUgRGlyZWN0b3IKCkNvbXB1dGVyIFNjaWVuY2UgQ29ycG9yYXRpb24gLSBHb3Nwb3J0IC0gTm92ZW1iZXIgMjAxNCB0byBNYXkgMjAxNQoKVGVjaG5pY2FsIFJlZnJlc2ggUHJvZ3JhbW1lIERpcmVjdG9yLiBDb21wdXRlciBTY2llbmNlcyBDb3Jwb3JhdGlvbgoKU1BWQSBEQlMgQWNjb3VudC4KCiogUHJvZ3JhbW1lIERpcmVjdG9yIHJlc3BvbnNpYmxlIGZvciB0aGUgZGVsaXZlcnkgZm9yIHRoZSBUZWNobmljYWwgcmVmcmVzaCBvZiB0aGUgTU9EJ3MgUGF5LCBQZW5zaW9uIGFuZAoKSFIgc3lzdGVtLiBUaGlzIGNvbnNpc3RlZCBvZiBhIG51bWJlciBvZiBQcm9ncmFtbWVzIC8gUHJvamVjdHMgZGVsaXZlcmluZyBuZXcgaW5mcmFzdHJ1Y3R1cmUsIGFuIE9yYWNsZQoKZGF0YWJhc2UgdXBncmFkZSBhbmQgbWlncmF0aW9uLgoKKiBNYW5hZ2VtZW50IG9mIGNpcmNhIDEyMCByZXNvdXJjZXMgcGx1cyAzcmQgcGFydHkgY29udHJhY3RvcnMuCgoqIE1hbmFnZW1lbnQgb2YgY2lyY2EgwqM0MG0gZmluYW5jaWFsIHByb2ZpbGUuCgoqIE1hbmFnZW1lbnQgb2YgZ3Jvd3RoIG9mIGNpcmNhIMKjMjVtIHNjb3BlIGNoYW5nZSB0byB0aGUgb3ZlcmFyY2hpbmcgcHJvZ3JhbW1lLiBOZWdvdGlhdGlvbiB0aHJvdWdoIGJpZAoKdG8gZGVsaXZlcnkuCgoqIFNlbGVjdGlvbiAmIG5lZ290aWF0aW9uIHdpdGggM3JkIHBhcnR5IHZlbmRvcnMgZm9yIMKjMTBtIGhhcmR3YXJlIGRlYWwuCgoqIE1hbmFnZW1lbnQgb2YgdGhlIEluZnJhc3RydWN0dXJlIGRlbGl2ZXJ5IGludG8gVUsgR292ZXJubWVudCBTZWN1cmUgRGF0YSBDZW50cmVzCgpBY2NvdW50IERlbGl2ZXJ5IE9wZXJhdGlvbnMgTWFuYWdlcgoKSGV3bGV0dCBQYWNrYXJkIC0gQmFzaW5nc3Rva2UgLSBBcHJpbCAyMDEyIHRvIEp1bHkgMjAxNAoKQWNjb3VudCBNYW5hZ2VyIC8gRGVsaXZlcnkgTWFuYWdlci4gSGV3bGV0dCBQYWNrYXJkCgpNT0QgRElJIEFjY291bnQgLSBIZWFkIG9mIEJ1c2luZXNzIEFwcGxpY2F0aW9ucyBEZXBhcnRtZW50LgoKKiBUaGlzIHdhcyBhIDItaGF0IHJvbGUgYm90aCBBY2NvdW50IE1hbmFnZXIgYW5kIEFjY291bnQgRGVsaXZlcnkgTWFuYWdlcgoKKiBBY2NvdW50IE1hbmFnZW1lbnQgYW5kIERlbGl2ZXJ5IE1hbmFnZXIgb2YgdGhlIEJ1c2luZXNzIGFwcGxpY2F0aW9ucyBzZXJ2aWNlIGxpbmUuIFN1Y2Nlc3NmdWwgZGVsaXZlcnkKCm9mIHNldmVyYWwgUHJvZ3JhbW1lcyAvIFByb2plY3RzIGFuZCBtYW5hZ2VtZW50IG9mIHRoZSBEZWZlbmNlIEFwcGxpY2F0aW9ucyBGYWN0b3J5IHByb3ZpZGluZyBtaXNzaW9uCgpjcml0aWNhbCBhcHBsaWNhdGlvbnMgdG8gdGhlIE1pbGl0YXJ5LgoKKiBQICYgTCBtYW5hZ2VtZW50OyBhY2hpZXZlZCBjb3Jwb3JhdGUgRlkxMyBmaW5hbmNpYWwgdGFyZ2V0cyBvZiDCozMwbSByZXZlbnVlLiBSZWR1Y2VkIGNvc3RzIHdoaWxzdAoKYWNoaWV2aW5nIGRlbGl2ZXJ5IGFuZCBleGNlZWRpbmcgcmV2ZW51ZSBieSDCozRtIGR1cmluZyBhIHRvcnJpZCB0aW1lIG9mIGNvcnBvcmF0ZSByZWxvY2F0aW9uIGFuZCBtYW5wb3dlcgoKcmVkdWN0aW9ucy4KCiogU2VuaW9yIFN0YWtlaG9sZGVyIE1hbmFnZW1lbnQgLSBkZXZlbG9wZWQgc3Rha2Vob2xkZXIgZm9jdXNlZCByZWxhdGlvbnNoaXBzIGJ5IGdhaW5pbmcgdHJ1c3QgYW5kCgp1bmRlcnN0YW5kaW5nIGN1c3RvbWVyIGlzc3VlcyBhbmQgcmVxdWlyZW1lbnRzLiBBY2hpZXZlZCBDb21tZXJjaWFsIHJlLW5lZ290aWF0aW9uIG9mIGNvbnRhY3RzIHRvIHVuYmxvY2sKCmRlbGl2ZXJ5IGFuZCBpbXByb3ZlIHJldmVudWUgdGhyb3VnaHB1dC4KCiogTWFuYWdlbWVudCBhbmQgbGVhZGVyc2hpcCBvZiAxMjAgU3RhZmYgKGJvdGggUGVybWFuZW50IGFuZCBjb250cmFjdG9yKSwgcGx1cyBtYXRyaXggbWFuYWdlZCBzdGFmZiBmcm9tCgpvdGhlciBkZXBhcnRtZW50cyBhbmQgdGhpcmQgcGFydHkgc3VwcGxpZXJzLgoKKiBJbnRyb2R1Y2VkIGVmZmljaWVudCBtZXRob2RzIG9mIHJlcG9ydGluZywgZ292ZXJuYW5jZSAmIHRyYWNraW5nIHByb2Nlc3Nlcy4gTWVudG9yZWQgYW5kIHN1cHBvcnRlZAoKUHJvZ3JhbW1lICYgUHJvamVjdCBNYW5hZ2VycyB0byBlbnN1cmUgY29udGludW91cyBpbXByb3ZlZCBkZWxpdmVyeSwgY29zdCByZWR1Y3Rpb24gYW5kIGN1c3RvbWVyCgpzYXRpc2ZhY3Rpb24uCgoqIENsb3NlbHkgb3BlcmF0ZWQgd2l0aCB0aGUgU2FsZXMgdGVhbSB0byBzZWN1cmUgbmV3IGJ1c2luZXNzIGFuZCBncm93IHRoZSBhY2NvdW50IHBpcGVsaW5lLiBQYXJ0bmVyaW5nCgp3aXRoIHRoZSBjdXN0b21lciB0byBpZGVudGlmeSByZXF1aXJlbWVudHMsIE1hbmFnaW5nIHRoZSBkZWFsIHRocm91Z2ggaW50ZXJuYWwgZ292ZXJuYW5jZSwgYmlkLCBuZWdvdGlhdGluZwoKY29udHJhY3QgYXdhcmQsIGFuZCBsZWFkaW5nIHRoZSBkZWxpdmVyeSB0byBjbG9zdXJlLgoKKiBFbnN1cmVkIHRoYXQgYWxsIHByb2plY3RzLCBwcm9ncmFtbWVzICYgYnVzaW5lc3MgYXBwbGljYXRpb25zIHdlcmUgZGVsaXZlcmVkIHRvIHRpbWUgY29zdCBhbmQgcXVhbGl0eSB3aXRoaW4KCnRoZSByZXF1aXJlbWVudHMgb2YgdGhlIGNvbnRyYWN0LgoKSGVhZCBvZiBVSyBEZWxpdmVyeSAmIFByb2dyYW1tZSBDbG9zdXJlCgpIZXdsZXR0IFBhY2thcmQgLSBDb3JzaGFtIC0gSnVseSAyMDExIHRvIEFwcmlsIDIwMTIKCkhlYWQgb2YgVUsgRGVsaXZlcnkgYW5kIFByb2dyYW1tZSBDbG9zdXJlLiBIZXdsZXR0IFBhY2thcmQKCiogUHJvZHVjZWQgYW5kIGltcGxlbWVudGVkIG5ldyBnb3Zlcm5hbmNlLCBjb21tdW5pY2F0aW9ucywgdHJhY2tpbmcsIFJpc2sgJiBJc3N1ZSBtYW5hZ2VtZW50IGFuZAoKcmVwb3J0aW5nIHByb2Nlc3NlcywgZnJvbSBwcmV2aW91cyBMRkUgd2hpY2ggcHJvdmVkIHNvIHN1Y2Nlc3NmdWwgaXQgd2FzIGFkb3B0ZWQgYnkgR2xvYmFsIENlbnRyYWwgUE1PLgoKKiBTdWNjZXNzZnVsbHkgZGlyZWN0ZWQgdGhlIFVLIE5vcnRoIGFuZCBTb3V0aCBwcm9ncmFtbWVzIHByb3ZpZGluZyBvbiB0aW1lIHVuZGVyIGJ1ZGdldCBjb21wbGV0aW9uCgpwcm92aWRpbmcgwqMybSBzYXZpbmdzLiAtIEF3YXJkZWQgQ2VydGlmaWNhdGUgb2YgQ29tbWVuZGF0aW9uIGJ5IHRoZSBDaGllZiBvZiBEZWZlbmNlIFN0YWZmIE1hdGVyaWVsLgoKKiBTdWNjZXNzZnVsbHkgZGVsaXZlcmVkIGEgc2hvcnQgdGVybSBwcm9ncmFtbWUgdG8gcHJvdmlkZSBwcm9qZWN0IGNsb3N1cmUgZGVsaXZlcmFibGVzIHRvIDE0MDAgTU9EIHNpdGVzLgoKUHJldmlvdXMgY2xvc3VyZSBwcm9jZXNzZXMgd291bGQgaGF2ZSB0YWtlbiBpbiA0IHllYXJzLiBUaGlzIHByb2dyYW1tZSBhY2hpZXZlZCBkZWxpdmVyeSBpbiAxIHllYXIgcHJvdmlkaW5nCgpzaWduaWZpY2FudCDCozNtIGNvc3Qgc2F2aW5ncyBhbmQgbWFucG93ZXIgcmVkdWN0aW9uLgoKUHJvZ3JhbW1lIE1hbmFnZXIKCkhld2xldHQgUGFja2FyZCAtIENvcnNoYW0gLSBOb3ZlbWJlciAyMDA5IHRvIEp1bHkgMjAxMQoKUHJvZ3JhbW1lIE1hbmFnZXIuIEhld2xldHQgUGFja2FyZAoKU291dGggb2YgVUsgUHJvZ3JhbW1lIE1hbmFnZXIgLSBTdWNjZXNzZnVsbHkgZGVsaXZlcmVkIDQgUHJvZ3JhbW1lcy4KCiogQWNoaWV2ZWQgdGhlIGRlbGl2ZXJ5IG9mIDQwLDAwMCBQQydzICYgcGVyaXBoZXJhbHMgdG8gNjAsMDAwIHVzZXJzIGFjcm9zcyA2MTIgTW9EIHNpdGVzLiBUaGlzIGluY2x1ZGVkCgp0aGUgaW5zdGFsbGF0aW9uIG9mIFdBTiAvIExBTiBOZXR3b3JrICYgQ29tbXVuaWNhdGlvbnMgaW5mcmFzdHJ1Y3R1cmUsIERhdGEgY2VudHJlcywgVXNlciAmIEFwcGxpY2F0aW9ucwoKRGlzY292ZXJ5LCBHcm91cCBhbmQgcGVyc29uYWwgRGF0YSBNaWdyYXRpb24sIEFjY291bnQgY3JlYXRpb24gYW5kIE1pZ3JhdGlvbiBmcm9tIGxlZ2FjeSBzeXN0ZW1zIHRvIG5ldy4KCiogSW1wbGVtZW50ZWQgbmV3IGdvdmVybmFuY2UsIGNvbW11bmljYXRpb25zLCB0cmFja2luZywgUiZJIGFuZCByZXBvcnRpbmcgcHJvY2Vzc2VzIHdoaWNoIGVuaGFuY2VkCgp2aXNpYmlsaXR5IG9mIHRoZSBwcm9ncmFtbWUsIGdhaW5lZCBTZW5pb3IgTWFuYWdlbWVudCBhbmQgU2VuaW9yIFN0YWtlaG9sZGVyIGNvbmZpZGVuY2UgYW5kIGVuc3VyZWQgdGltZWx5Cgpwcm9ncmFtbWUgY29tcGxldGlvbi4KCiogTGVhZGVyIG9mIDU1IFByb2plY3QgTWFuYWdlcnMgcGx1cyBNYXRyaXggbWFuYWdlbWVudCBvZiBQYXJ0bmVyIGNvbXBhbmllcyBhbmQgc3ViY29udHJhY3RpbmcKCmNvbXBhbmllcy4KClNlbmlvciBQcm9qZWN0IE1hbmFnZXIKCkhld2xldHQgUGFja2FyZCAtIENvcnNoYW0gLSBOb3ZlbWJlciAyMDA4IHRvIE5vdmVtYmVyIDIwMDkKClNlbmlvciBQcm9qZWN0IE1hbmFnZXIuIEVEUwoKKiBBcmVhIE1hbmFnZXIgc3VjY2Vzc2Z1bGx5IGNvbXBsZXRlZCB0aGUgaW1wbGVtZW50YXRpb24gb2YgbmV0d29yayBpbmZyYXN0cnVjdHVyZSwgOCwwMDAgUEMncyAmIFBlcmlwaGVyYWxzCgp0byA1MSBNT0Qgc2l0ZXMgdGhyb3VnaG91dCB0aGUgU291dGggV2VzdCBvZiBVSy4KCiogTGVhZGVyIG9mIDE1IFByb2plY3QgTWFuYWdlcnMuIE1hdHJpeCBNYW5hZ2VtZW50IG9mIDNyZCBQYXJ0eSBTdXBwbGllcnMKClByb2plY3QgTWFuYWdlcgoKSGV3bGV0dCBQYWNrYXJkIC0gSmFudWFyeSAyMDA3IHRvIE5vdmVtYmVyIDIwMDgKCkNoaWVmIFBldHR5IE9mZmljZXIsIEVsZWN0cm9uaWMgV2FyZmFyZSAmIEludGVsbGlnZW5jZSBTcGVjaWFsaXN0CgogLSBPY3RvYmVyIDIwMDUgdG8gRGVjZW1iZXIgMjAwNgoKRURVQ0FUSU9OCgpOVlEgNCBpbiBNYW5hZ2VtZW50CgpIaWdoYnVyeSBDb2xsZWdlIC0gUG9ydHNtb3V0aAoKSmFudWFyeSAyMDAzIHRvIEp1bHkgMjAwNQoKQlRFQyBpbiBEYXRhY29tbXVuaWNhdGlvbnMKClBseW1vdXRoIENvbGxlZ2UgLSBQbHltb3V0aAoKQXByaWwgMjAwNCB0byBKdWx5IDIwMDQKCkNvbW11bmljYXRpb25zIENhYmxlIEluc3RhbGxhdGlvbgoKQ2l0eSAmIEd1aWxkcwoKMjAwNCB0byAyMDA0CgpJbnN0aXR1dGUgb2YgTGVhZGVyc2hpcCAmIE1hbmFnZW1lbnQgLSBQb3J0c21vdXRoCgpGZWJydWFyeSAyMDAyIHRvIEZlYnJ1YXJ5IDIwMDIKCk1JTElUQVJZIFNFUlZJQ0UKClNlcnZpY2UgQ291bnRyeTogR0IKCkJyYW5jaDogUk9ZQUwgTkFWWQoKUmFuazogQ0hJRUYgUEVUVFkgT0ZGSUNFUgoKQXByaWwgMTk4NSB0byBKdWx5IDIwMDUKCkFXQVJEUwoKQXdhcmRlZCBDZXJ0aWZpY2F0ZSBvZiBDb21tZW5kYXRpb24gYnkgdGhlIENoaWVmIG9mIERlZmVuY2UgU3RhZmYgTWF0ZXJpZWwuCgpKdWx5IDIwMTIKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KCkEgcHJvdmVuIHRyb3VibGVzaG9vdGVyIGNvbWZvcnRhYmxlIGJlaW5nICdwYXJhY2h1dGVkJyBpbnRvIGNoYWxsZW5naW5nIHNpdHVhdGlvbnMgdG8gcmVzb2x2ZSBQcm9ncmFtbWUKCmRlbGl2ZXJ5IGlzc3Vlcy4KCkEgc3Ryb25nIGxlYWRlciBhYmxlIHRvIGJ1aWxkIGhpZ2ggY2FsaWJyZSwgbG95YWwsIG1vdGl2YXRlZCBkZWxpdmVyeSB0ZWFtcy4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910252160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

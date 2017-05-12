@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2915501465432"  usageLimitType="allocation" usageLimit="100" currentUsage="21" remainingUsage="79" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Chaitanya Ponnapalli</FormattedName>
+<GivenName>Chaitanya</GivenName>
+<FamilyName>Ponnapalli</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Chaitanya-Ponnapalli/11841769b6decf17</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>Salesforce.com</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Turing Consulting</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Java Consultant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>IA</Region>
+<Municipality>Urbandale</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Currently working as a Java developer on aspects pertaining to developing software, technical interfaces and building flexible data models in Java and various AWS technologies.
+</Description>
+<StartDate>
+<AnyDate>2016-07-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Eternus Solutions pvt ltd.</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Software Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2014-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Pune</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Maharashtra</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Responsibilities Worked as a software developer in various technologies such as C++, Java, Salesforce.com, Java Spring, Hibernate, Javascript and HTML, etc. Accomplishments Worked on three live projects: Project1: Jenzabar- Higher Education Management software Role: Developer Description: Worked on Jenzabar, which is a leading service provider for many higher educational institutions. This project involved integration of client's legacy systems with Salesforce.com, using REST API. Worked on building workflow rules between different objects (database tables) to enforce key business processes, creating triggers, migration of data, scheduling tasks or events among many others.
+</Description>
+<StartDate>
+<AnyDate>2013-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Google</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Project 2 LMS Developer Worked on Google GO technology, on the migration of data onto Google's own cloud database - Google Datastore. Successfully reduced the time and efforts needed to manually insert the data into the datastore Project 3: AWS S3 custom application Role: Developer Description: Worked on Amazon simple storage services (S3), building a custom application using basic Java framework with Amazon's S3 API. Skills Used C++, Java, Salesforce.com, Java Spring, Hibernate, Javascript and HTML technologies
+</Description>
+<StartDate>
+<AnyDate>2013-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>CMC Limited</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Software Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Pune
+</Description>
+<StartDate>
+<AnyDate>2013-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Maharashtra</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Responsibilities Worked as a software developer in various technologies such as C++, Java, Oracle Application Development Framework (ADF), Java Spring, Hibernate, Javascript and HTML, CSS, etc. Accomplishments Worked on a live project for Government of Maharashtra, India during my time at CMC Limited. Project: Comprehensive e-Governance System Role: Developer Description: Comprehensive E-Governance system is a web portal which provides the user various facilities such as information regarding educational bodies like schools, colleges, Universities, ITIs, Agencies to students. Also dealt with facilitating information transfer between educational agencies, employment agencies and students. Won appreciation from advisor of the Prime Minister of India, who was heading the National Skill Development Agency at the time. Responsibilities: 1. Interact and communicate with the business user from the client side in order to understand the business requirements 2. Create the SRS and Software design documentations based on the user requirements, which served as the base for the development. 3. Understand the application's existing data model and modified the same to include updates. 4. Create and design database tables and develop forms to implement the custom UI requirement, in multiple languages using Unicode converters. 5. Design and develop Java classes to implement custom business logic for various functionality. 6. Develop Test cases and test the application to ensure that the developed code is working as expected for all use cases involved in the application Skills Used C++, Java, Oracle Application Development Framework (ADF), Java Spring, Hibernate, Javascript and HTML, CSS
+</Description>
+<StartDate>
+<AnyDate>2011-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>California State University</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>Chico</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>Master's</DegreeName>
+<DegreeMajor>
+<Name>Computer Science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>California State University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Chico</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor's</DegreeName>
+<DegreeDate>
+<AnyDate>2016-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Electronics & Telecommunication Engineering</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2014-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Patil College of Engineering Pune University</SchoolName>
+</School>
+<PostalAddress>
+<Region>Maharashtra</Region>
+<Municipality>Pune</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>2011-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Dr .D.Y</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>Salesforce.com Certified Developer</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>AWS Certified Solutions Architect</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>to</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="Adf (App Dev Tool)">
+<CompetencyId description="HireAbility taxonomy" id="1791" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adf (App Dev Tool)" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Amazon Web Services">
+<CompetencyId description="HireAbility taxonomy" id="18334" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Amazon Web Services">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Application Development">
+<CompetencyId description="HireAbility taxonomy" id="7202" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Application Development" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Architect">
+<CompetencyId description="HireAbility taxonomy" id="12063" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Architect">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Business Requirements">
+<CompetencyId description="HireAbility taxonomy" id="55" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Requirements" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cascading Style Sheets">
+<CompetencyId description="HireAbility taxonomy" id="5838" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cascading Style Sheets" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CSS">
+<CompetencyId description="HireAbility taxonomy" id="12177" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CSS" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hibernate">
+<CompetencyId description="HireAbility taxonomy" id="11889" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hibernate" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HTTPs">
+<CompetencyId description="HireAbility taxonomy" id="168" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HTTPs">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HyperText Markup Language">
+<CompetencyId description="HireAbility taxonomy" id="5174" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HyperText Markup Language" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Integrate">
+<CompetencyId description="HireAbility taxonomy" id="4712" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Integrate" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Javascript">
+<CompetencyId description="HireAbility taxonomy" id="211" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Javascript" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Legacy">
+<CompetencyId description="HireAbility taxonomy" id="1676" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Legacy" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="LMS">
+<CompetencyId description="HireAbility taxonomy" id="14337" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="LMS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle">
+<CompetencyId description="HireAbility taxonomy" id="305" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Prime">
+<CompetencyId description="HireAbility taxonomy" id="1714" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Prime" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Scheduling">
+<CompetencyId description="HireAbility taxonomy" id="15881" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Scheduling" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software Design">
+<CompetencyId description="HireAbility taxonomy" id="6744" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software Design" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Spring">
+<CompetencyId description="HireAbility taxonomy" id="11885" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Spring" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test">
+<CompetencyId description="HireAbility taxonomy" id="4723" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test Cases">
+<CompetencyId description="HireAbility taxonomy" id="13557" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test Cases" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Triggers">
+<CompetencyId description="HireAbility taxonomy" id="2282" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Triggers" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Use Cases">
+<CompetencyId description="HireAbility taxonomy" id="6630" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Use Cases" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web">
+<CompetencyId description="HireAbility taxonomy" id="1768" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web Portal">
+<CompetencyId description="HireAbility taxonomy" id="13725" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web Portal" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Web Technologies">
+<CompetencyId description="HireAbility taxonomy" id="13733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Web Technologies" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2hhaXRhbnlhIFBvbm5hcGFsbGkKCkEgc2VsZi1tb3RpdmF0ZWQgYW5kIGhpZ2hseSBwYXNzaW9uYXRlIGluZGl2aWR1YWwgd2l0aCBncmVhdCByZXNwZWN0IGZvciBwcm9jZXNzZXMKCmFuZCBpbm5vdmF0aW9uLCBsb29raW5nIGZvciB0aGUgcm9sZSBvZiBhIFNvZnR3YXJlIGRldmVsb3Blci4KClVyYmFuZGFsZSwgSUEgLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9DaGFpdGFueWEtUG9ubmFwYWxsaS8xMTg0MTc2OWI2ZGVjZjE3CgpXaWxsaW5nIHRvIHJlbG9jYXRlOiBBbnl3aGVyZQoKU3BvbnNvcnNoaXAgcmVxdWlyZWQgdG8gd29yayBpbiB0aGUgVVMKCldPUksgRVhQRVJJRU5DRQoKSmF2YSBDb25zdWx0YW50CgpUdXJpbmcgQ29uc3VsdGluZyAtIFVyYmFuZGFsZSwgSUEgLSBKdWx5IDIwMTYgdG8gUHJlc2VudAoKQ3VycmVudGx5IHdvcmtpbmcgYXMgYSBKYXZhIGRldmVsb3BlciBvbiBhc3BlY3RzIHBlcnRhaW5pbmcgdG8gZGV2ZWxvcGluZyBzb2Z0d2FyZSwgdGVjaG5pY2FsIGludGVyZmFjZXMgYW5kCgpidWlsZGluZyBmbGV4aWJsZSBkYXRhIG1vZGVscyBpbiBKYXZhIGFuZCB2YXJpb3VzIEFXUyB0ZWNobm9sb2dpZXMuCgpTb2Z0d2FyZSBEZXZlbG9wZXIKCkV0ZXJudXMgU29sdXRpb25zIHB2dCBsdGQuIC0gUHVuZSwgTWFoYXJhc2h0cmEgLSBNYXkgMjAxMyB0byBNYXkgMjAxNAoKUmVzcG9uc2liaWxpdGllcwoKV29ya2VkIGFzIGEgc29mdHdhcmUgZGV2ZWxvcGVyIGluIHZhcmlvdXMgdGVjaG5vbG9naWVzIHN1Y2ggYXMgQysrLCBKYXZhLCBTYWxlc2ZvcmNlLmNvbSwgSmF2YSBTcHJpbmcsCgpIaWJlcm5hdGUsIEphdmFzY3JpcHQgYW5kIEhUTUwsIGV0Yy4KCkFjY29tcGxpc2htZW50cwoKV29ya2VkIG9uIHRocmVlIGxpdmUgcHJvamVjdHM6CgpQcm9qZWN0MTogSmVuemFiYXItIEhpZ2hlciBFZHVjYXRpb24gTWFuYWdlbWVudCBzb2Z0d2FyZQoKUm9sZTogRGV2ZWxvcGVyCgpEZXNjcmlwdGlvbjogV29ya2VkIG9uIEplbnphYmFyLCB3aGljaCBpcyBhIGxlYWRpbmcgc2VydmljZSBwcm92aWRlciBmb3IgbWFueSBoaWdoZXIgZWR1Y2F0aW9uYWwgaW5zdGl0dXRpb25zLgoKVGhpcyBwcm9qZWN0IGludm9sdmVkIGludGVncmF0aW9uIG9mIGNsaWVudCdzIGxlZ2FjeSBzeXN0ZW1zIHdpdGggU2FsZXNmb3JjZS5jb20sIHVzaW5nIFJFU1QgQVBJLiBXb3JrZWQKCm9uIGJ1aWxkaW5nIHdvcmtmbG93IHJ1bGVzIGJldHdlZW4gZGlmZmVyZW50IG9iamVjdHMgKGRhdGFiYXNlIHRhYmxlcykgdG8gZW5mb3JjZSBrZXkgYnVzaW5lc3MgcHJvY2Vzc2VzLAoKY3JlYXRpbmcgdHJpZ2dlcnMsIG1pZ3JhdGlvbiBvZiBkYXRhLCBzY2hlZHVsaW5nIHRhc2tzIG9yIGV2ZW50cyBhbW9uZyBtYW55IG90aGVycy4KClByb2plY3QgMjogR29vZ2xlIExNUwoKUm9sZTogRGV2ZWxvcGVyCgpEZXNjcmlwdGlvbjogV29ya2VkIG9uIEdvb2dsZSBHTyB0ZWNobm9sb2d5LCBvbiB0aGUgbWlncmF0aW9uIG9mIGRhdGEgb250byBHb29nbGUncyBvd24gY2xvdWQgZGF0YWJhc2UKCi0gR29vZ2xlIERhdGFzdG9yZS4KClN1Y2Nlc3NmdWxseSByZWR1Y2VkIHRoZSB0aW1lIGFuZCBlZmZvcnRzIG5lZWRlZCB0byBtYW51YWxseSBpbnNlcnQgdGhlIGRhdGEgaW50byB0aGUgZGF0YXN0b3JlCgpQcm9qZWN0IDM6IEFXUyBTMyBjdXN0b20gYXBwbGljYXRpb24KClJvbGU6IERldmVsb3BlcgoKRGVzY3JpcHRpb246IFdvcmtlZCBvbiBBbWF6b24gc2ltcGxlIHN0b3JhZ2Ugc2VydmljZXMgKFMzKSwgYnVpbGRpbmcgYSBjdXN0b20gYXBwbGljYXRpb24gdXNpbmcgYmFzaWMgSmF2YQoKZnJhbWV3b3JrIHdpdGggQW1hem9uJ3MgUzMgQVBJLgoKU2tpbGxzIFVzZWQKCkMrKywgSmF2YSwgU2FsZXNmb3JjZS5jb20sIEphdmEgU3ByaW5nLCBIaWJlcm5hdGUsIEphdmFzY3JpcHQgYW5kIEhUTUwgdGVjaG5vbG9naWVzCgpTb2Z0d2FyZSBEZXZlbG9wZXIKCkNNQyBMaW1pdGVkIC0gUHVuZSwgTWFoYXJhc2h0cmEgLSBEZWNlbWJlciAyMDExIHRvIE1heSAyMDEzCgpSZXNwb25zaWJpbGl0aWVzCgpXb3JrZWQgYXMgYSBzb2Z0d2FyZSBkZXZlbG9wZXIgaW4gdmFyaW91cyB0ZWNobm9sb2dpZXMgc3VjaCBhcyBDKyssIEphdmEsIE9yYWNsZSBBcHBsaWNhdGlvbiBEZXZlbG9wbWVudAoKRnJhbWV3b3JrKEFERiksIEphdmEgU3ByaW5nLCBIaWJlcm5hdGUsIEphdmFzY3JpcHQgYW5kIEhUTUwsIENTUywgZXRjLgoKQWNjb21wbGlzaG1lbnRzCgpXb3JrZWQgb24gYSBsaXZlIHByb2plY3QgZm9yIEdvdmVybm1lbnQgb2YgTWFoYXJhc2h0cmEsIEluZGlhIGR1cmluZyBteSB0aW1lIGF0IENNQyBMaW1pdGVkLgoKUHJvamVjdDogQ29tcHJlaGVuc2l2ZSBlLUdvdmVybmFuY2UgU3lzdGVtCgpSb2xlOiBEZXZlbG9wZXIKCkRlc2NyaXB0aW9uOiBDb21wcmVoZW5zaXZlIEUtR292ZXJuYW5jZSBzeXN0ZW0gaXMgYSB3ZWIgcG9ydGFsIHdoaWNoIHByb3ZpZGVzIHRoZSB1c2VyIHZhcmlvdXMgZmFjaWxpdGllcwoKc3VjaCBhcyBpbmZvcm1hdGlvbiByZWdhcmRpbmcgZWR1Y2F0aW9uYWwgYm9kaWVzIGxpa2Ugc2Nob29scywgY29sbGVnZXMsIFVuaXZlcnNpdGllcywgSVRJcywgQWdlbmNpZXMgdG8KCnN0dWRlbnRzLiBBbHNvIGRlYWx0IHdpdGggZmFjaWxpdGF0aW5nIGluZm9ybWF0aW9uIHRyYW5zZmVyIGJldHdlZW4gZWR1Y2F0aW9uYWwgYWdlbmNpZXMsIGVtcGxveW1lbnQgYWdlbmNpZXMKCmFuZCBzdHVkZW50cy4gV29uIGFwcHJlY2lhdGlvbiBmcm9tIGFkdmlzb3Igb2YgdGhlIFByaW1lIE1pbmlzdGVyIG9mIEluZGlhLCB3aG8gd2FzIGhlYWRpbmcgdGhlIE5hdGlvbmFsCgpTa2lsbCBEZXZlbG9wbWVudCBBZ2VuY3kgYXQgdGhlIHRpbWUuCgpSZXNwb25zaWJpbGl0aWVzOgoKMS4gSW50ZXJhY3QgYW5kIGNvbW11bmljYXRlIHdpdGggdGhlIGJ1c2luZXNzIHVzZXIgZnJvbSB0aGUgY2xpZW50IHNpZGUgaW4gb3JkZXIgdG8gdW5kZXJzdGFuZCB0aGUgYnVzaW5lc3MKCnJlcXVpcmVtZW50cwoKMi4gQ3JlYXRlIHRoZSBTUlMgYW5kIFNvZnR3YXJlIGRlc2lnbiBkb2N1bWVudGF0aW9ucyBiYXNlZCBvbiB0aGUgdXNlciByZXF1aXJlbWVudHMsIHdoaWNoIHNlcnZlZCBhcwoKdGhlIGJhc2UgZm9yIHRoZSBkZXZlbG9wbWVudC4KCjMuIFVuZGVyc3RhbmQgdGhlIGFwcGxpY2F0aW9uJ3MgZXhpc3RpbmcgZGF0YSBtb2RlbCBhbmQgbW9kaWZpZWQgdGhlIHNhbWUgdG8gaW5jbHVkZSB1cGRhdGVzLgoKNC4gQ3JlYXRlIGFuZCBkZXNpZ24gZGF0YWJhc2UgdGFibGVzIGFuZCBkZXZlbG9wIGZvcm1zIHRvIGltcGxlbWVudCB0aGUgY3VzdG9tIFVJIHJlcXVpcmVtZW50LCBpbiBtdWx0aXBsZQoKbGFuZ3VhZ2VzIHVzaW5nIFVuaWNvZGUgY29udmVydGVycy4KCjUuIERlc2lnbiBhbmQgZGV2ZWxvcCBKYXZhIGNsYXNzZXMgdG8gaW1wbGVtZW50IGN1c3RvbSBidXNpbmVzcyBsb2dpYyBmb3IgdmFyaW91cyBmdW5jdGlvbmFsaXR5LgoKNi4gRGV2ZWxvcCBUZXN0IGNhc2VzIGFuZCB0ZXN0IHRoZSBhcHBsaWNhdGlvbiB0byBlbnN1cmUgdGhhdCB0aGUgZGV2ZWxvcGVkIGNvZGUgaXMgd29ya2luZyBhcyBleHBlY3RlZCBmb3IKCmFsbCB1c2UgY2FzZXMgaW52b2x2ZWQgaW4gdGhlIGFwcGxpY2F0aW9uCgpTa2lsbHMgVXNlZAoKQysrLCBKYXZhLCBPcmFjbGUgQXBwbGljYXRpb24gRGV2ZWxvcG1lbnQgRnJhbWV3b3JrKEFERiksIEphdmEgU3ByaW5nLCBIaWJlcm5hdGUsIEphdmFzY3JpcHQgYW5kIEhUTUwsCgpDU1MKCkVEVUNBVElPTgoKTWFzdGVyJ3MgaW4gQ29tcHV0ZXIgU2NpZW5jZQoKQ2FsaWZvcm5pYSBTdGF0ZSBVbml2ZXJzaXR5LUNoaWNvIC0gQ2hpY28sIENBCgoyMDE0IHRvIDIwMTYKCkJhY2hlbG9yJ3MgaW4gRWxlY3Ryb25pY3MgJiBUZWxlY29tbXVuaWNhdGlvbiBFbmdpbmVlcmluZwoKRHIgLkQuWS4gUGF0aWwgQ29sbGVnZSBvZiBFbmdpbmVlcmluZywgUHVuZSBVbml2ZXJzaXR5IC0gUHVuZSwgTWFoYXJhc2h0cmEKCjIwMDcgdG8gMjAxMQoKU0tJTExTCgpKYXZhIERldmVsb3BlciAoMiB5ZWFycyksIFNhbGVzZm9yY2UuY29tIGRldmVsb3BlciAoTGVzcyB0aGFuIDEgeWVhciksIE9yYWNsZSBBREYgKDEgeWVhcikKCkxJTktTCgpodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vY2hhaXRhbnlhLXBvbm5hcGFsbGktNTViMzY3NzkKCkNFUlRJRklDQVRJT05TL0xJQ0VOU0VTCgpTYWxlc2ZvcmNlLmNvbSBDZXJ0aWZpZWQgRGV2ZWxvcGVyCgpBV1MgQ2VydGlmaWVkIFNvbHV0aW9ucyBBcmNoaXRlY3QKCk1hcmNoIDIwMTcgdG8gTWFyY2ggMjAxOQoKQVdTIENlcnRpZmllZCBEZXZlbG9wZXIKCkZlYnJ1YXJ5IDIwMTcgdG8gRmVicnVhcnkgMjAxOQ==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915501465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

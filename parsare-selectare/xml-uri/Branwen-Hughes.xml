@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2916456365432"  usageLimitType="allocation" usageLimit="100" currentUsage="6" remainingUsage="94" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Social Care Bristol</FormattedName>
+<GivenName>Social</GivenName>
+<MiddleName>Care</MiddleName>
+<FamilyName>Bristol</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>GB</CountryCode>
+<Region>Pembrokeshire</Region>
+<Municipality>Henllys</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Branwen-Hughes/ad117dfb5e7f06da</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Science Presenter</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Fizz Pop Science - Bristol - I run after-school science clubs in Bristol, teaching kids about scientific concepts while enthusing them about the subject with fun experiments and activities.
+</Description>
+<StartDate>
+<AnyDate>2017-02-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Fulbridge Social Care - Bristol</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Residential Support Worker</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2016-12-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Coast National Park Authority - Pembrokeshire</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>School Programme Contributor - Castell</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Henllys</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Responsibilities Practical history for primary school trips Teaching basketry, warrior training, cooking and building Costumed activities for the public - headdress making spear throwing slingshot
+</Description>
+<StartDate>
+<AnyDate>2015-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>PROGRESSIO - El Salvador</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>ICS Volunteer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Responsibilities Three month programme in El Salvador: -Worked with locals to improve perceptions of youth -Ran workshops and events for the community -Built a children's park
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Dwr Cymru Welsh Water - Maenclochog</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Waitress/Barista - Llys-Y-Fran</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>services</IndustryDescription></OrgIndustry>
+<Description>Responsibilities Making tea and coffee, including cappuccinos using a frothing wand Cooking breakfasts and lunches Stock rotation and ordering from suppliers Food safety checks
+</Description>
+<StartDate>
+<AnyDate>2015-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Aberystwyth University - Aberystwyth</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Tutor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Aberystwyth</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>* Created and taught a physical geography module to young people * Managed practicals and a field trip of ten students * 100% pass rate and top feedback marks
+</Description>
+<StartDate>
+<AnyDate>2014-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Victoria Bookshop</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Shop Clerk</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>clerical</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2014-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Pembrokeshire College</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Managed stock * Helped customers
+</Description>
+<StartDate>
+<AnyDate>2014-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Wolfe Inn</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Waitress</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>services</IndustryDescription></OrgIndustry>
+<Description>Wolfcastle. * Served customers in a busy environment * Cleaning after shift and dishwashing
+</Description>
+<StartDate>
+<AnyDate>2013-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Small Nations Festival - Cilycwm</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Steward</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Cilycwm</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Selling tickets checking bands helping festival-goers backstage work. * Site management team leader in 2011, with four team members. * Safety steward monitoring behaviour counting heads to comply with license agreement.
+</Description>
+<StartDate>
+<AnyDate>2006-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Y Mochyn Drwg - Newport</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Waitress</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Newport</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>services</IndustryDescription></OrgIndustry>
+<Description>* Dealing with customers * Serving food and drink * Cleaning and dishwashing
+</Description>
+<StartDate>
+<AnyDate>2008-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Aberystwyth University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>BSc</DegreeName>
+<DegreeDate>
+<AnyDate>2014-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Environmental Earth Science</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Pembrokeshire College</SchoolName>
+</School>
+<Degree>
+<DegreeName>A Levels</DegreeName>
+<DegreeDate>
+<AnyDate>2011-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Photography</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Clubs">
+<CompetencyId description="HireAbility taxonomy" id="9485" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Clubs" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Desktop Computer">
+<CompetencyId description="HireAbility taxonomy" id="5163" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Desktop Computer">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Technology">
+<CompetencyId description="HireAbility taxonomy" id="10107" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Technology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Python Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4521" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Python Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QnJhbndlbiBIdWdoZXMKCkJyaXN0b2wgLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9CcmFud2VuLUh1Z2hlcy9hZDExN2RmYjVlN2YwNmRhCgpXT1JLIEVYUEVSSUVOQ0UKClNjaWVuY2UgUHJlc2VudGVyCgpGaXp6IFBvcCBTY2llbmNlIC0gQnJpc3RvbCAtIEZlYnJ1YXJ5IDIwMTcgdG8gUHJlc2VudAoKSSBydW4gYWZ0ZXItc2Nob29sIHNjaWVuY2UgY2x1YnMgaW4gQnJpc3RvbCwgdGVhY2hpbmcga2lkcyBhYm91dCBzY2llbnRpZmljIGNvbmNlcHRzIHdoaWxlIGVudGh1c2luZyB0aGVtIGFib3V0Cgp0aGUgc3ViamVjdCB3aXRoIGZ1biBleHBlcmltZW50cyBhbmQgYWN0aXZpdGllcy4KClJlc2lkZW50aWFsIFN1cHBvcnQgV29ya2VyCgpGdWxicmlkZ2UgU29jaWFsIENhcmUgLSBCcmlzdG9sIC0gRGVjZW1iZXIgMjAxNiB0byBQcmVzZW50CgpTY2hvb2wgUHJvZ3JhbW1lIENvbnRyaWJ1dG9yIC0gQ2FzdGVsbCBIZW5sbHlzCgpQZW1icm9rZXNoaXJlIENvYXN0IE5hdGlvbmFsIFBhcmsgQXV0aG9yaXR5IC0gUGVtYnJva2VzaGlyZSAtIEphbnVhcnkgMjAxNSB0byBEZWNlbWJlciAyMDE2CgpSZXNwb25zaWJpbGl0aWVzCgpQcmFjdGljYWwgaGlzdG9yeSBmb3IgcHJpbWFyeSBzY2hvb2wgdHJpcHMKClRlYWNoaW5nIGJhc2tldHJ5LCB3YXJyaW9yIHRyYWluaW5nLCBjb29raW5nIGFuZCBidWlsZGluZwoKQ29zdHVtZWQgYWN0aXZpdGllcyBmb3IgdGhlIHB1YmxpYyAtIGhlYWRkcmVzcyBtYWtpbmc7IHNwZWFyIHRocm93aW5nOyBzbGluZ3Nob3QKCklDUyBWb2x1bnRlZXIKClBST0dSRVNTSU8gLSBFbCBTYWx2YWRvciAtIEphbnVhcnkgMjAxNiB0byBNYXJjaCAyMDE2CgpSZXNwb25zaWJpbGl0aWVzCgpUaHJlZSBtb250aCBwcm9ncmFtbWUgaW4gRWwgU2FsdmFkb3I6CgotV29ya2VkIHdpdGggbG9jYWxzIHRvIGltcHJvdmUgcGVyY2VwdGlvbnMgb2YgeW91dGgKCi1SYW4gd29ya3Nob3BzIGFuZCBldmVudHMgZm9yIHRoZSBjb21tdW5pdHkKCi1CdWlsdCBhIGNoaWxkcmVuJ3MgcGFyawoKV2FpdHJlc3MvQmFyaXN0YSAtIExseXMtWS1GcmFuCgpEd3IgQ3ltcnUgV2Vsc2ggV2F0ZXIgLSBNYWVuY2xvY2hvZyAtIEFwcmlsIDIwMTUgdG8gT2N0b2JlciAyMDE1CgpSZXNwb25zaWJpbGl0aWVzCgpNYWtpbmcgdGVhIGFuZCBjb2ZmZWUsIGluY2x1ZGluZyBjYXBwdWNjaW5vcyB1c2luZyBhIGZyb3RoaW5nIHdhbmQKCkNvb2tpbmcgYnJlYWtmYXN0cyBhbmQgbHVuY2hlcwoKU3RvY2sgcm90YXRpb24gYW5kIG9yZGVyaW5nIGZyb20gc3VwcGxpZXJzCgpGb29kIHNhZmV0eSBjaGVja3MKClR1dG9yCgpBYmVyeXN0d3l0aCBVbml2ZXJzaXR5IC0gQWJlcnlzdHd5dGggLSBKdWx5IDIwMTQgdG8gSmFudWFyeSAyMDE1CgpBYmVyeXN0d3l0aC4KCiogQ3JlYXRlZCBhbmQgdGF1Z2h0IGEgcGh5c2ljYWwgZ2VvZ3JhcGh5IG1vZHVsZSB0byB5b3VuZyBwZW9wbGUKCiogTWFuYWdlZCBwcmFjdGljYWxzIGFuZCBhIGZpZWxkIHRyaXAgb2YgdGVuIHN0dWRlbnRzCgoqIDEwMCUgcGFzcyByYXRlIGFuZCB0b3AgZmVlZGJhY2sgbWFya3MKClNob3AgQ2xlcmsKClZpY3RvcmlhIEJvb2tzaG9wLCBQZW1icm9rZXNoaXJlIENvbGxlZ2UgLSAyMDE0IHRvIERlY2VtYmVyIDIwMTQKCk1hbmFnZWQgc3RvY2sKCiogSGVscGVkIGN1c3RvbWVycwoKV2FpdHJlc3MKCldvbGZlIElubiAtIEp1bmUgMjAxMyB0byBBdWd1c3QgMjAxMwoKV29sZmNhc3RsZS4KCiogU2VydmVkIGN1c3RvbWVycyBpbiBhIGJ1c3kgZW52aXJvbm1lbnQKCiogQ2xlYW5pbmcgYWZ0ZXIgc2hpZnQgYW5kIGRpc2h3YXNoaW5nCgpTdGV3YXJkCgpTbWFsbCBOYXRpb25zIEZlc3RpdmFsIC0gQ2lseWN3bSAtIEF1Z3VzdCAyMDA2IHRvIDIwMTEKCkNpbHljd20uCgoqIFNlbGxpbmcgdGlja2V0czsgY2hlY2tpbmcgYmFuZHM7IGhlbHBpbmcgZmVzdGl2YWwtZ29lcnM7IGJhY2tzdGFnZSB3b3JrLgoKKiBTaXRlIG1hbmFnZW1lbnQgdGVhbSBsZWFkZXIgaW4gMjAxMSwgd2l0aCBmb3VyIHRlYW0gbWVtYmVycy4KCiogU2FmZXR5IHN0ZXdhcmQ7IG1vbml0b3JpbmcgYmVoYXZpb3VyOyBjb3VudGluZyBoZWFkcyB0byBjb21wbHkgd2l0aCBsaWNlbnNlIGFncmVlbWVudC4KCldhaXRyZXNzCgpZIE1vY2h5biBEcndnIC0gTmV3cG9ydCAtIEp1bHkgMjAwOCB0byBPY3RvYmVyIDIwMDgKCk5ld3BvcnQuCgoqIERlYWxpbmcgd2l0aCBjdXN0b21lcnMKCiogU2VydmluZyBmb29kIGFuZCBkcmluawoKKiBDbGVhbmluZyBhbmQgZGlzaHdhc2hpbmcKCkVEVUNBVElPTgoKQlNjIGluIEVudmlyb25tZW50YWwgRWFydGggU2NpZW5jZQoKQWJlcnlzdHd5dGggVW5pdmVyc2l0eQoKMjAxMSB0byAyMDE0CgpBIExldmVscyBpbiBQaG90b2dyYXBoeQoKUGVtYnJva2VzaGlyZSBDb2xsZWdlCgoyMDA5IHRvIDIwMTEKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KCklUIFNraWxsczogSSBhbSBJVCBsaXRlcmF0ZSwgY2FuIHVzZSBvZmZpY2UgcHJvZ3JhbW1lcy4gSSBoYXZlIGJ1aWx0IHR3byBoaWdoLXNwZWMgZGVza3RvcCBjb21wdXRlcnMgYW5kIGNhbgoKcHJvZ3JhbSBzaW1wbGUgdGFza3MgdXNpbmcgUHl0aG9uLgoKUGVyc29uYWwgRGV2ZWxvcG1lbnQgQWN0aXZpdGllcwoKKiBMZWFkZXIgb2YgTEdCVCBncm91cCBpbiBjb2xsZWdlOiBzdXBwb3J0IHByb3Zpc2lvbjsgb3JnYW5pc2luZyBtZWV0aW5ncyBhbmQgZXZlbnRzLgoKKiBXb3JsZCBTa2lsbHMgVUsgdGVhbSBsZWFkZXIgMjAxMSwgM3JkIHBsYWNlIGluIHRoZSBVSy4KCiogQ2lyY3VzIFNraWxscyBTb2NpZXR5IHNlY3JldGFyeSBpbiB1bml2ZXJzaXR5OiBydW5uaW5nIG9mIGNsdWI7IHRlYWNoaW5nIGJhc2ljIGNpcmN1cyBza2lsbHMuCgpJIGFtIGEgd2VsbCByb3VuZGVkLCBzZWxmLW1vdGl2YXRlZCBhbmQgcHJvYWN0aXZlIGluZGl2aWR1YWwgd2hvIHdvcmtzIHdlbGwgaW4gYW55IGVudmlyb25tZW50IGFuZCBlbmpveXMKCmNoYWxsZW5naW5nIGhlcnNlbGYgdG8gbGVhcm4uIEkgYW0gb2Z0ZW4gZGVzY3JpYmVkIGFzIGZyaWVuZGx5LCBvdXRnb2luZyBhbmQgc2Vuc2libGUu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916456365432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

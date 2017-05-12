@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2916561160532"  usageLimitType="allocation" usageLimit="100" currentUsage="43" remainingUsage="57" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Christopher Callahan</FormattedName>
+<GivenName>Christopher</GivenName>
+<FamilyName>Callahan</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>IN</Region>
+<Municipality>Greenfield</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Christopher-Callahan/a7d94c0317132c22</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Central Indiana Hardware</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Project Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>IN</Region>
+<Municipality>Indianapolis</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Communication * Coordination and Scheduling * Customer Service * Estimating * Field Verification * Maintain Project Documents * Material Procurement * Produce Submittals * Project Closeout * Vendor Relations Construction Team Member
+</Description>
+<StartDate>
+<AnyDate>2014-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Mike's Carwash</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Capital Improvements</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>IN</Region>
+<Municipality>Indianapolis</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>* Fabrication * Installation and Maintenance
+</Description>
+<StartDate>
+<AnyDate>2011-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Purdue School of Engineering & Technology</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>BS</DegreeName>
+<DegreeMajor>
+<Name>Construction Engineering Management Technology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Franklin College</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>IN</Region>
+<Municipality>Franklin</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>2008-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Business Management</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>Occupational Safety and Health Administration 30-hour Training Course</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>GROUPS</Name>
+<EffectiveDate>
+<ValidFrom>
+<AnyDate>2009-12-01</AnyDate>
+</ValidFrom>
+</EffectiveDate>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>Sigma Alpha Epsilon</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>Held office as Eminent Correspondent</Name>
+<EffectiveDate>
+<ValidFrom>
+<AnyDate>2006-08-01</AnyDate>
+</ValidFrom>
+</EffectiveDate>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="Autocad">
+<CompetencyId description="HireAbility taxonomy" id="17369" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Autocad">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Autodesk AutoCAD">
+<CompetencyId description="HireAbility taxonomy" id="4287" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Autodesk AutoCAD">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Compaq Alpha">
+<CompetencyId description="HireAbility taxonomy" id="4923" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Compaq Alpha">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Construct (App Dev Tool)">
+<CompetencyId description="HireAbility taxonomy" id="1873" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Construct (App Dev Tool)">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Construction">
+<CompetencyId description="HireAbility taxonomy" id="14537" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Construction" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Fabrication">
+<CompetencyId description="HireAbility taxonomy" id="7643" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Fabrication" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Procurement">
+<CompetencyId description="HireAbility taxonomy" id="7707" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Procurement" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Management">
+<CompetencyId description="HireAbility taxonomy" id="337" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Management" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Manager">
+<CompetencyId description="HireAbility taxonomy" id="1719" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Manager" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Scheduling">
+<CompetencyId description="HireAbility taxonomy" id="15881" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Scheduling" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Training">
+<CompetencyId description="HireAbility taxonomy" id="2281" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Training">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2007-11-01 - 2011-05-01</StringDate></Date>
+<Description>Wash Associate Mike's Carwash - Indianapolis IN</Description>
+</Achievement>
+<Achievement>
+<Description>Customer Service Sales</Description>
+</Achievement>
+<Achievement>
+<Description>Teamwork Minor Equipment Maintenance</Description>
+</Achievement>
+<Achievement>
+<Description>Landscaping and Exterior Maintenance Crew Leader</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-05-01 - 2007-07-01</StringDate></Date>
+<Description>W.E Beaty Construction (Formerly Accu-Pro) - Indianapolis IN</Description>
+</Achievement>
+<Achievement>
+<Description>Crew Leader Knowledge of Footings</Description>
+</Achievement>
+<Achievement>
+<Description>Read and Understand Drawings Laborer</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-05-01 - 2007-05-01</StringDate></Date>
+<Description>Accu-Pro Trenching - Indianapolis IN</Description>
+</Achievement>
+<Achievement>
+<Description>Equipment Experience Prepare Footings</Description>
+</Achievement>
+<Achievement>
+<Description>Pour and Finish Concrete</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>Member of the Safety Workgroup New Construction</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2hyaXN0b3BoZXIgQ2FsbGFoYW4KCkdyZWVuZmllbGQsIElOIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQ2hyaXN0b3BoZXItQ2FsbGFoYW4vYTdkOTRjMDMxNzEzMmMyMgoKTXkgb2JqZWN0aXZlIGlzIHRvIG9idGFpbiBhIGNhcmVlciBpbiBhbiBlbnZpcm9ubWVudCB3aGVyZSBJIGFtIGFibGUgdG8gZGVkaWNhdGUgbXkgYWJpbGl0aWVzLCBnYWluIGV4cGVyaWVuY2UKCmluIHRoZSBpbmR1c3RyeSwgYW5kIGxlYXJuIHRoZSBza2lsbHMgYW5kIGtub3dsZWRnZSBuZWNlc3NhcnkgdG8gYmVjb21lIGFuIGFzc2V0IGZvciBteSBlbXBsb3llci4KCkF1dGhvcml6ZWQgdG8gd29yayBpbiB0aGUgVVMgZm9yIGFueSBlbXBsb3llcgoKV09SSyBFWFBFUklFTkNFCgpQcm9qZWN0IE1hbmFnZXIKCkNlbnRyYWwgSW5kaWFuYSBIYXJkd2FyZSAtIEluZGlhbmFwb2xpcywgSU4gLSBNYXkgMjAxNCB0byBKYW51YXJ5IDIwMTcKCiogQ29tbXVuaWNhdGlvbgoKKiBDb29yZGluYXRpb24gYW5kIFNjaGVkdWxpbmcKCiogQ3VzdG9tZXIgU2VydmljZQoKKiBFc3RpbWF0aW5nCgoqIEZpZWxkIFZlcmlmaWNhdGlvbgoKKiBNYWludGFpbiBQcm9qZWN0IERvY3VtZW50cwoKKiBNYXRlcmlhbCBQcm9jdXJlbWVudAoKKiBQcm9kdWNlIFN1Ym1pdHRhbHMKCiogUHJvamVjdCBDbG9zZW91dAoKKiBWZW5kb3IgUmVsYXRpb25zCgpDb25zdHJ1Y3Rpb24gVGVhbSBNZW1iZXIKCk1pa2UncyBDYXJ3YXNoIC0gSW5kaWFuYXBvbGlzLCBJTiAtIE1heSAyMDExIHRvIEFwcmlsIDIwMTQKCiogQ2FwaXRhbCBJbXByb3ZlbWVudHMKCiogRmFicmljYXRpb24KCiogSW5zdGFsbGF0aW9uIGFuZCBNYWludGVuYW5jZQoKKiBMZWFkZXJzaGlwCgoqIE1lbWJlciBvZiB0aGUgU2FmZXR5IFdvcmtncm91cAoKKiBOZXcgQ29uc3RydWN0aW9uCgpXYXNoIEFzc29jaWF0ZQoKTWlrZSdzIENhcndhc2ggLSBJbmRpYW5hcG9saXMsIElOIC0gTm92ZW1iZXIgMjAwNyB0byBNYXkgMjAxMQoKKiBDdXN0b21lciBTZXJ2aWNlCgoqIFNhbGVzCgoqIFRlYW13b3JrCgoqIE1pbm9yIEVxdWlwbWVudCBNYWludGVuYW5jZQoKKiBMYW5kc2NhcGluZyBhbmQgRXh0ZXJpb3IgTWFpbnRlbmFuY2UKCkNyZXcgTGVhZGVyCgpXLkUgQmVhdHkgQ29uc3RydWN0aW9uIChGb3JtZXJseSBBY2N1LVBybykgLSBJbmRpYW5hcG9saXMsIElOIC0gTWF5IDIwMDcgdG8gSnVseSAyMDA3CgoqIENyZXcgTGVhZGVyCgoqIEtub3dsZWRnZSBvZiBGb290aW5ncwoKKiBSZWFkIGFuZCBVbmRlcnN0YW5kIERyYXdpbmdzCgpMYWJvcmVyCgpBY2N1LVBybyBUcmVuY2hpbmcgLSBJbmRpYW5hcG9saXMsIElOIC0gTWF5IDIwMDYgdG8gTWF5IDIwMDcKCiogRXF1aXBtZW50IEV4cGVyaWVuY2UKCiogUHJlcGFyZSBGb290aW5ncwoKKiBQb3VyIGFuZCBGaW5pc2ggQ29uY3JldGUKCkVEVUNBVElPTgoKQlMgaW4gQ29uc3RydWN0aW9uIEVuZ2luZWVyaW5nIE1hbmFnZW1lbnQgVGVjaG5vbG9neQoKUHVyZHVlIFNjaG9vbCBvZiBFbmdpbmVlcmluZyAmIFRlY2hub2xvZ3ksIElVUFVJIC0gSW5kaWFuYXBvbGlzLCBJTgoKMjAwOCB0byAyMDEzCgpCdXNpbmVzcyBNYW5hZ2VtZW50CgpGcmFua2xpbiBDb2xsZWdlIC0gRnJhbmtsaW4sIElOCgoyMDA2IHRvIDIwMDgKClNLSUxMUwoKUHJvamVjdCBNYW5hZ2VtZW50ICgzIHllYXJzKSwgRmFicmljYXRpb24gKDMgeWVhcnMpLCBBdXRvY2FkICgzIHllYXJzKSwgTWljcm9zb2Z0IE9mZmljZSAoMTArIHllYXJzKSwKClJlbm92YXRpb24gKDEwKyB5ZWFycykKCkNFUlRJRklDQVRJT05TL0xJQ0VOU0VTCgpPY2N1cGF0aW9uYWwgU2FmZXR5IGFuZCBIZWFsdGggQWRtaW5pc3RyYXRpb24gMzAtaG91ciBUcmFpbmluZyBDb3Vyc2UKCkRlY2VtYmVyIDIwMDkgdG8gUHJlc2VudAoKR1JPVVBTCgpTaWdtYSBBbHBoYSBFcHNpbG9uCgpBdWd1c3QgMjAwNiB0byBQcmVzZW50CgpIZWxkIG9mZmljZSBhcyBFbWluZW50IENvcnJlc3BvbmRlbnQKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KCkNvbXBldGVkIGluIHRoZSBDb25zdHJ1Y3Rpb24gU3BlY2lmaWNhdGlvbnMgSW5zdGl0dXRlJ3MgU3R1ZGVudCBDb25zdHJ1Y3QgQ29tcGV0aXRpb24gU3VtbWVyIDIwMDk=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916561160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

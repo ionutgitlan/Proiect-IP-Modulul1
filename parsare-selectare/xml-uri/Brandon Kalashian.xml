@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2911326365432"  usageLimitType="allocation" usageLimit="100" currentUsage="4" remainingUsage="96" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Brandon Kalashian</FormattedName>
+<GivenName>Brandon</GivenName>
+<FamilyName>Kalashian</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Brandon-Kalashian/dfd4ea794f669541</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Tux Creations</EmployerOrgName>
+<JobType>Part-Time</JobType>
+<PositionHistory>
+<Title>Software Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Developed several applications for iOS and Android that first started as a hobby but turned financially into a part time job while studying at university. Developer pages: https://itunes.apple.com/us/developer/brandon-kalashian/id1033251093 https://play.google.com/store/search*q=tuxcreations&hl=en Skills I've explored: GUI design including managing storyboards in Xcode and XML in Android Java and Swift programming Languages Monetization Experience using libraries through Cocoapods and Gradle Soundboards, calculators, and other application design layouts 2D game development and modding with Java and Libgdx Data management with local storage Digital design with Adobe Photoshop and Gimp
+</Description>
+<StartDate>
+<AnyDate>2014-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Cerebral Palsy of Massachusetts</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Personal Care Assistant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Waltham</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Provided aid with Activities of Daily Life mobility/transfers passive range of motion taking medications bathing and grooming dressing and undressing eating Helped find technology to assist clients with disability accessories for wheelchair made an automatically flushing toilet using arduino, etc.
+</Description>
+<StartDate>
+<AnyDate>2013-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Illinois Springfield</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>IL</Region>
+<Municipality>Springfield</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Science</DegreeName>
+<DegreeMajor>
+<Name>Computer Science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Adobe">
+<CompetencyId description="HireAbility taxonomy" id="5334" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Adobe Photoshop">
+<CompetencyId description="HireAbility taxonomy" id="36" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe Photoshop" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Android">
+<CompetencyId description="HireAbility taxonomy" id="18255" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Android" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Apple">
+<CompetencyId description="HireAbility taxonomy" id="25" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Apple" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Application Design">
+<CompetencyId description="HireAbility taxonomy" id="12041" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Application Design" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Applications">
+<CompetencyId description="HireAbility taxonomy" id="2" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Applications" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4317" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Data Management">
+<CompetencyId description="HireAbility taxonomy" id="7616" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Data Management" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Digital Design">
+<CompetencyId description="HireAbility taxonomy" id="8928" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Digital Design" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Extensible Markup Language (XML)">
+<CompetencyId description="HireAbility taxonomy" id="5969" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Extensible Markup Language (XML)" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Git">
+<CompetencyId description="HireAbility taxonomy" id="18278" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Git">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HTTPs">
+<CompetencyId description="HireAbility taxonomy" id="168" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HTTPs" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux">
+<CompetencyId description="HireAbility taxonomy" id="218" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Programming">
+<CompetencyId description="HireAbility taxonomy" id="10" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Programming" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Programming Languages">
+<CompetencyId description="HireAbility taxonomy" id="10962" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Programming Languages" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Security">
+<CompetencyId description="HireAbility taxonomy" id="7096" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Security">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Society for Worldwide Interbank Financial Telecommunication">
+<CompetencyId description="HireAbility taxonomy" id="6864" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Society for Worldwide Interbank Financial Telecommunication">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Swift">
+<CompetencyId description="HireAbility taxonomy" id="19296" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Swift">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Unix">
+<CompetencyId description="HireAbility taxonomy" id="439" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Unix">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Xcode">
+<CompetencyId description="HireAbility taxonomy" id="18263" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Xcode" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QnJhbmRvbiBLYWxhc2hpYW4KClNvZnR3YXJlIERldmVsb3BlciAtIFR1eCBDcmVhdGlvbnMKCldhbHRoYW0sIE1BIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQnJhbmRvbi1LYWxhc2hpYW4vZGZkNGVhNzk0ZjY2OTU0MQoKU29mdHdhcmUgRGV2ZWxvcGVyIHNraWxsZWQgYXQgc29mdHdhcmUgZGVzaWduIGFuZCBlbmdpbmVlcmluZy4gRXhwZXJpZW5jZWQgaW4gZnVsbCBwcm9qZWN0IGxpZmUgY3ljbGUgZnJvbQoKZGVzaWduIHRvCgppbXBsZW1lbnRhdGlvbiB0byBpbnRlZ3JhdGlvbi4KCldPUksgRVhQRVJJRU5DRQoKU29mdHdhcmUgRGV2ZWxvcGVyCgpUdXggQ3JlYXRpb25zIC0gSmFudWFyeSAyMDE0IHRvIFByZXNlbnQKCkRldmVsb3BlZCBzZXZlcmFsIGFwcGxpY2F0aW9ucyBmb3IgaU9TIGFuZCBBbmRyb2lkIHRoYXQgZmlyc3Qgc3RhcnRlZCBhcyBhIGhvYmJ5IGJ1dCB0dXJuZWQgZmluYW5jaWFsbHkgaW50bwoKYSBwYXJ0Cgp0aW1lIGpvYiB3aGlsZSBzdHVkeWluZyBhdCB1bml2ZXJzaXR5LgoKRGV2ZWxvcGVyIHBhZ2VzOgoKaHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL2RldmVsb3Blci9icmFuZG9uLWthbGFzaGlhbi9pZDEwMzMyNTEwOTMKCmh0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL3NlYXJjaD9xPXR1eGNyZWF0aW9ucyZobD1lbgoKU2tpbGxzIEkndmUgZXhwbG9yZWQ6CgpHVUkgZGVzaWduIGluY2x1ZGluZyBtYW5hZ2luZyBzdG9yeWJvYXJkcyBpbiBYY29kZSBhbmQgWE1MIGluIEFuZHJvaWQKCkphdmEgYW5kIFN3aWZ0IHByb2dyYW1taW5nIExhbmd1YWdlcwoKTW9uZXRpemF0aW9uCgpFeHBlcmllbmNlIHVzaW5nIGxpYnJhcmllcyB0aHJvdWdoIENvY29hcG9kcyBhbmQgR3JhZGxlCgpTb3VuZGJvYXJkcywgY2FsY3VsYXRvcnMsIGFuZCBvdGhlciBhcHBsaWNhdGlvbiBkZXNpZ24gbGF5b3V0cwoKMkQgZ2FtZSBkZXZlbG9wbWVudCBhbmQgbW9kZGluZyB3aXRoIEphdmEgYW5kIExpYmdkeAoKRGF0YSBtYW5hZ2VtZW50IHdpdGggbG9jYWwgc3RvcmFnZQoKRGlnaXRhbCBkZXNpZ24gd2l0aCBBZG9iZSBQaG90b3Nob3AgYW5kIEdpbXAKClBlcnNvbmFsIENhcmUgQXNzaXN0YW50CgpDZXJlYnJhbCBQYWxzeSBvZiBNYXNzYWNodXNldHRzIC0gV2FsdGhhbSwgTUEgLSBKYW51YXJ5IDIwMTMgdG8gSmFudWFyeSAyMDE1CgpQcm92aWRlZCBhaWQgd2l0aCBBY3Rpdml0aWVzIG9mIERhaWx5IExpZmUKCm1vYmlsaXR5L3RyYW5zZmVycwoKcGFzc2l2ZSByYW5nZSBvZiBtb3Rpb24KCnRha2luZyBtZWRpY2F0aW9ucwoKYmF0aGluZyBhbmQgZ3Jvb21pbmcKCmRyZXNzaW5nIGFuZCB1bmRyZXNzaW5nCgplYXRpbmcKCkhlbHBlZCBmaW5kIHRlY2hub2xvZ3kgdG8gYXNzaXN0IGNsaWVudHMgd2l0aCBkaXNhYmlsaXR5CgphY2Nlc3NvcmllcyBmb3Igd2hlZWxjaGFpcgoKbWFkZSBhbiBhdXRvbWF0aWNhbGx5IGZsdXNoaW5nIHRvaWxldCB1c2luZyBhcmR1aW5vLCBldGMuCgpFRFVDQVRJT04KCkJhY2hlbG9yIG9mIFNjaWVuY2UgaW4gQ29tcHV0ZXIgU2NpZW5jZQoKVW5pdmVyc2l0eSBvZiBJbGxpbm9pcyBTcHJpbmdmaWVsZCAtIFNwcmluZ2ZpZWxkLCBJTAoKU0tJTExTCgpKQVZBICg3IHllYXJzKSwgQysrICg1IHllYXJzKSwgR2l0ICgyIHllYXJzKSwgTElOVVggKDcgeWVhcnMpLCBVTklYIChMZXNzIHRoYW4gMSB5ZWFyKSwgU3dpZnQgKDMgeWVhcnMpCgpBRERJVElPTkFMIElORk9STUFUSU9OCgpTa2lsbHMKCkphdmEsIEMsIEMrKywgU3dpZnQgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzCgpEZXNpZ25pbmcgYW5kIGltcGxlbWVudGluZyBtb2JpbGUgYXBwbGljYXRpb25zCgpHaXQgYW5kIGNvbGxhYm9yYXRpbmcgd2l0aCBvdGhlcnMKCkJhc2ljIGVtYmVkZGVkIGRldmljZXMga25vd2xlZGdlIChBcmR1aW5vLAoKcmFzcGJlcnJ5IHBpKQoKTGludXggYW5kIFVuaXgga25vd2xlZGdlOiBjb21tYW5kcywgc2VjdXJpdHksIGV0Yy4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911326365432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

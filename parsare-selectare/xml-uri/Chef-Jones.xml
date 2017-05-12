@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2915021465432"  usageLimitType="allocation" usageLimit="100" currentUsage="26" remainingUsage="74" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Chef Jones</FormattedName>
+<GivenName>Chef</GivenName>
+<FamilyName>Jones</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Chef-Jones/0760d8cdcc5af273</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>College Chefs LLC</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Private Chef Services</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Chef for Fraternities and Sororities * Write a fresh and rotating menu every week. * Menu items are not repeated in a six week allotted gap. * Order food based on a weekly budget. * Cook a well-balanced meal twice a day for 50 members. * Responsible for sanitation and cleanliness of kitchen.
+</Description>
+<StartDate>
+<AnyDate>2016-09-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The Columbia Club</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Sous Chef</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>5 star Platinum Star Award Prive Social Club * Supervision of 5 or more staff. * Execution of banqueted events. * Interview and hire process for kitchen employees. * Work closely with Master Chef Simon Gosling from Great Britain. * Execute inventory protocol every month. * Responsible for ordering product twice a week. KJ
+</Description>
+<StartDate>
+<AnyDate>2016-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>West Baden Springs Dome Hotel and Resort</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Sous Chef</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>5 Star, 4 Diamond Hotel and Resort * Planning the menus and recipes which includes five working venues which are the café, in room dining, fine dining, casual dining, and banquets. * Oversee 30 kitchen employees, ensuring that all kitchen workers are performing at the level required by a professional kitchen. * Execute all inventory responsibilities. * Execution of menu and menu design 3 times a year. * Training interns and new kitchen staff on all West Baden Springs Hotel's standards. * Supervise banquets and large private dining parties, ranging from numbers of 5 to 2,100. * Scheduling of all employees, including to but not limited to all line cooks, stewards, and cleaning crews. * Expediting all food, which includes quality checks for proper plate presentation and insure all items are made according to the proper recipes and specifications.
+</Description>
+<StartDate>
+<AnyDate>2012-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Indiana State University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelors</DegreeName>
+<DegreeDate>
+<AnyDate>2012-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Science of Psychology</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>Springs Valley High School</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>Serve Safe certification</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="Chef">
+<CompetencyId description="HireAbility taxonomy" id="18487" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Chef">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HTTPs">
+<CompetencyId description="HireAbility taxonomy" id="168" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HTTPs">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Inventory">
+<CompetencyId description="HireAbility taxonomy" id="7670" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Inventory" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Excel">
+<CompetencyId description="HireAbility taxonomy" id="252" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Excel">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Word">
+<CompetencyId description="HireAbility taxonomy" id="266" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Word">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Platinum">
+<CompetencyId description="HireAbility taxonomy" id="2136" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Platinum" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Protocol">
+<CompetencyId description="HireAbility taxonomy" id="338" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Protocol" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="SAFE (Slab Analysis by the Finite Element Method)">
+<CompetencyId description="HireAbility taxonomy" id="7853" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="SAFE (Slab Analysis by the Finite Element Method)">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Sales">
+<CompetencyId description="HireAbility taxonomy" id="7733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Sales">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Scheduling">
+<CompetencyId description="HireAbility taxonomy" id="15881" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Scheduling" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Services">
+<CompetencyId description="HireAbility taxonomy" id="15611" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Services" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2hlZiBKb25lcwoKQ2hlZiAtIENvbGxlZ2UgQ2hlZnMgTExDCgpNdW5jaWUsIElOIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQ2hlZi1Kb25lcy8wNzYwZDhjZGNjNWFmMjczCgpBcyBhbiBpbmZvcm1hbGx5IHRyYWluZWQgY2hlZiwgSSBzdHJpdmUgdG8gcHVzaCB0aGUgYm91bmRhcmllcyBvZiB0aGUgY3VsaW5hcnkgd29ybGQgYnkgbGVhcm5pbmcgbmV3IGNvb2tpbmcKCmFuZCBwbGF0aW5nIHRlY2huaXF1ZXMsIGFzIHdlbGwgYXMgbmV3IGN1bGluYXJ5IHRyZW5kcy4gQnJpbmdpbmcgZXhwZXJpZW5jZSBmcm9tIGEga2l0Y2hlbiB0aGF0IGludm9sdmVzIGZvb2QKCmZyb20gZmluZSBkaW5pbmcgdG8gY2FzdWFsIGRpbmluZywgSSBhbSBub3cgc2Vla2luZyBlbXBsb3ltZW50IGluIGEgY29tcGFueSB0aGF0IG9mZmVycyBhIHRydWx5IHVuaXF1ZSB3b3JrCgplbnZpcm9ubWVudCBhbG9uZyB3aXRoIGV4Y2VsbGVudCBjYXJlZXIKCmRldmVsb3BtZW50IG9wcG9ydHVuaXRpZXMuCgpXaWxsaW5nIHRvIHJlbG9jYXRlOiBBbnl3aGVyZQoKQXV0aG9yaXplZCB0byB3b3JrIGluIHRoZSBVUyBmb3IgYW55IGVtcGxveWVyCgpXT1JLIEVYUEVSSUVOQ0UKCkNoZWYKCkNvbGxlZ2UgQ2hlZnMgTExDIC0gU2VwdGVtYmVyIDIwMTYgdG8gUHJlc2VudAoKUHJpdmF0ZSBDaGVmIFNlcnZpY2VzIGZvciBGcmF0ZXJuaXRpZXMgYW5kIFNvcm9yaXRpZXMKCiogV3JpdGUgYSBmcmVzaCBhbmQgcm90YXRpbmcgbWVudSBldmVyeSB3ZWVrLgoKKiBNZW51IGl0ZW1zIGFyZSBub3QgcmVwZWF0ZWQgaW4gYSBzaXggd2VlayBhbGxvdHRlZCBnYXAuCgoqIE9yZGVyIGZvb2QgYmFzZWQgb24gYSB3ZWVrbHkgYnVkZ2V0LgoKKiBDb29rIGEgd2VsbC1iYWxhbmNlZCBtZWFsIHR3aWNlIGEgZGF5IGZvciA1MCBtZW1iZXJzLgoKKiBSZXNwb25zaWJsZSBmb3Igc2FuaXRhdGlvbiBhbmQgY2xlYW5saW5lc3Mgb2Yga2l0Y2hlbi4KClNvdXMgQ2hlZgoKVGhlIENvbHVtYmlhIENsdWIgLSBKdW5lIDIwMTYgdG8gU2VwdGVtYmVyIDIwMTYKCjUgc3RhciBQbGF0aW51bSBTdGFyIEF3YXJkIFByaXZlIFNvY2lhbCBDbHViCgoqIFN1cGVydmlzaW9uIG9mIDUgb3IgbW9yZSBzdGFmZi4KCiogRXhlY3V0aW9uIG9mIGJhbnF1ZXRlZCBldmVudHMuCgoqIEludGVydmlldyBhbmQgaGlyZSBwcm9jZXNzIGZvciBraXRjaGVuIGVtcGxveWVlcy4KCiogV29yayBjbG9zZWx5IHdpdGggTWFzdGVyIENoZWYgU2ltb24gR29zbGluZyBmcm9tIEdyZWF0IEJyaXRhaW4uCgoqIEV4ZWN1dGUgaW52ZW50b3J5IHByb3RvY29sIGV2ZXJ5IG1vbnRoLgoKKiBSZXNwb25zaWJsZSBmb3Igb3JkZXJpbmcgcHJvZHVjdCB0d2ljZSBhIHdlZWsuCgpLSgoKU291cyBDaGVmCgpXZXN0IEJhZGVuIFNwcmluZ3MgRG9tZSBIb3RlbCBhbmQgUmVzb3J0IC0gTWFyY2ggMjAxMiB0byBNYXJjaCAyMDE2Cgo1IFN0YXIsIDQgRGlhbW9uZCBIb3RlbCBhbmQgUmVzb3J0CgoqIFBsYW5uaW5nIHRoZSBtZW51cyBhbmQgcmVjaXBlcyB3aGljaCBpbmNsdWRlcyBmaXZlIHdvcmtpbmcgdmVudWVzOyB3aGljaCBhcmUgdGhlIGNhZsOpLCBpbiByb29tIGRpbmluZywgZmluZQoKZGluaW5nLCBjYXN1YWwgZGluaW5nLCBhbmQgYmFucXVldHMuCgoqIE92ZXJzZWUgMzAga2l0Y2hlbiBlbXBsb3llZXMsIGVuc3VyaW5nIHRoYXQgYWxsIGtpdGNoZW4gd29ya2VycyBhcmUgcGVyZm9ybWluZyBhdCB0aGUgbGV2ZWwgcmVxdWlyZWQgYnkgYQoKcHJvZmVzc2lvbmFsIGtpdGNoZW4uCgoqIEV4ZWN1dGUgYWxsIGludmVudG9yeSByZXNwb25zaWJpbGl0aWVzLgoKKiBFeGVjdXRpb24gb2YgbWVudSBhbmQgbWVudSBkZXNpZ24gMyB0aW1lcyBhIHllYXIuCgoqIFRyYWluaW5nIGludGVybnMgYW5kIG5ldyBraXRjaGVuIHN0YWZmIG9uIGFsbCBXZXN0IEJhZGVuIFNwcmluZ3MgSG90ZWwncyBzdGFuZGFyZHMuCgoqIFN1cGVydmlzZSBiYW5xdWV0cyBhbmQgbGFyZ2UgcHJpdmF0ZSBkaW5pbmcgcGFydGllcywgcmFuZ2luZyBmcm9tIG51bWJlcnMgb2YgNSB0byAyLDEwMC4KCiogU2NoZWR1bGluZyBvZiBhbGwgZW1wbG95ZWVzLCBpbmNsdWRpbmcgdG8gYnV0IG5vdCBsaW1pdGVkIHRvIGFsbCBsaW5lIGNvb2tzLCBzdGV3YXJkcywgYW5kIGNsZWFuaW5nIGNyZXdzLgoKKiBFeHBlZGl0aW5nIGFsbCBmb29kLCB3aGljaCBpbmNsdWRlcyBxdWFsaXR5IGNoZWNrcyBmb3IgcHJvcGVyIHBsYXRlIHByZXNlbnRhdGlvbiBhbmQgaW5zdXJlIGFsbCBpdGVtcyBhcmUKCm1hZGUgYWNjb3JkaW5nIHRvIHRoZSBwcm9wZXIgcmVjaXBlcyBhbmQgc3BlY2lmaWNhdGlvbnMuCgpFRFVDQVRJT04KCkJhY2hlbG9ycyBpbiBTY2llbmNlIG9mIFBzeWNob2xvZ3kKCkluZGlhbmEgU3RhdGUgVW5pdmVyc2l0eQoKMjAwOCB0byAyMDEyCgpTcHJpbmdzIFZhbGxleSBIaWdoIFNjaG9vbAoKMjAwNCB0byAyMDA4CgpTS0lMTFMKClNBTklUQVRJT04gKExlc3MgdGhhbiAxIHllYXIpLCBDTE9TSU5HIChMZXNzIHRoYW4gMSB5ZWFyKSwgRVhDRUwgKExlc3MgdGhhbiAxIHllYXIpLCBNSUNST1NPRlQKCk9GRklDRSAoTGVzcyB0aGFuIDEgeWVhciksIE1TIE9GRklDRSAoTGVzcyB0aGFuIDEgeWVhcikKCkxJTktTCgpodHRwczovL3d3dy5iZWhhbmNlLm5ldC9nYWxsZXJ5LzMwMDg4MjMxL0NoZWYtS2F0aWUtSm9uZXMtUHJvZmVzc2lvbmFsLUN1bGluYXJ5LVBvcnRmb2xpbwoKQURESVRJT05BTCBJTkZPUk1BVElPTgoKU2tpbGxzCgoqIFNlcnZlIFNhZmUgY2VydGlmaWNhdGlvbi4KCiogUHJvZmljaWVudCBtdWx0aS10YXNraW5nIHNraWxscy4KCiogS25vd2xlZGdlIG9mIE1pY3Jvc29mdCBPZmZpY2UsIGluY2x1ZGluZyBFeGNlbCBhbmQgV29yZC4KCiogRXhwZXJpZW5jZWQgaW4gZGV0YWlsIG9mIHdyaXRpbmcgaW5zdHJ1Y3Rpb25zIGZvciBlbXBsb3llZXMsIGluY2x1ZGluZyBwcmVwIGFuZCBzYW5pdGF0aW9uIGxpc3RzLCBhcyB3ZWxsIGFzCgpvcGVuaW5nIGFuZAoKY2xvc2luZyBjaGVja2xpc3RzLgoKKiBGb2xsb3dzIGRldGFpbGVkIGluc3RydWN0aW9ucyBoYW5kZWQgZnJvbSBFeGVjdXRpdmUgQ2hlZiBhbmQgb3RoZXIgbWFuYWdlbWVudC4KCiogVmVyc2F0aWxlIGluIHJ1bm5pbmcgbXVsdGlwbGUgbWVudXMgb2ZmIG9mIG9uZSBsaW5lLgoKKiBRdWFsaWZpZWQgdG8gb3BlbiBhIG5ldyByZXN0YXVyYW50IGFuZCBlbnN1cmUgcHJvcGVyIHNldHVwIGJlZm9yZSBvcGVuaW5nLgoKKiBFeHBlcmllbmNlIG5lZ290aWF0aW5nIHdpdGggc2FsZXMgcmVwcmVzZW50YXRpdmVzIGZyb20gZm9vZCBkaXN0cmlidXRvcnMgdG8gcmVjZWl2ZSBleGNlbGxlbnQgcHJvZHVjdC4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915021465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

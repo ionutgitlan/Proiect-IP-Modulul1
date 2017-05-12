@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2911104160532"  usageLimitType="allocation" usageLimit="100" currentUsage="61" remainingUsage="39" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Ding Zou</FormattedName>
+<GivenName>Ding</GivenName>
+<FamilyName>Zou</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>AZ</Region>
+<Municipality>Tucson</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Ding-Zou/a5606c34be341f70</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>University of Arizona</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Research Assistant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>Developed the pthreads-based C/C++ system simulator to evaluate multidimensional coded modulation over 1,000km few-mode fiber (FMF) transmission. * Developed Iterative distance-based clustering inspired optimum signal constellation design for additive Gaussian noise channel. * Developed high parallel FPGA-based hardware architecture for adaptive LDPC coded modulation, the bit error rate of
+</Description>
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>check node processor</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>has been demonstrated for 6.4Gb/s throughput for fiber-optics and free space optical communication. * Binary search tree and backtracking is employed to locate the first and second minimum in one pass thus reduces both computational complexity and memory usage the binary LDPC hardware architecture. * Min-max algorithm is adopted update the trellis involved in the non-binary LDPC hardware architecture. * Dynamic programming technique is adopted to find the minimum path, which reduces the time complexity from * (* * $ ) to * (* ), in the generalized LDPC hardware architecture.
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType>Intern</JobType>
+<PositionHistory>
+<Title>Research Intern</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>* Evaluated hard-decision forward error correction codes for access networks. * Demonstrated a FPGA-based real-time OFDM-aggregation and de-aggregation efficient mobile front-haul transmission over 80km SSMF.
+</Description>
+<StartDate>
+<AnyDate>2015-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType>Intern</JobType>
+<PositionHistory>
+<Title>Research Intern</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Designed several offline digital signal processing modules for DP-QPSK 6,000km long-haul optical transmission.
+</Description>
+<StartDate>
+<AnyDate>2012-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Arizona</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>AZ</Region>
+<Municipality>Tucson</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2017-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Electrical and Computer Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Arizona</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>AZ</Region>
+<Municipality>Tucson</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>2012-12-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Electrical and Computer Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C/C++ Programming Languages">
+<CompetencyId description="HireAbility taxonomy" id="7240" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C/C++ Programming Languages" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Clustering">
+<CompetencyId description="HireAbility taxonomy" id="4919" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Clustering" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Digital Signal Processing">
+<CompetencyId description="HireAbility taxonomy" id="113" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Digital Signal Processing" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Matlab">
+<CompetencyId description="HireAbility taxonomy" id="9462" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Matlab">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Noise">
+<CompetencyId description="HireAbility taxonomy" id="498" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Noise" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Python Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4521" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Python Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Research">
+<CompetencyId description="HireAbility taxonomy" id="8958" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Research" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="VERILOG">
+<CompetencyId description="HireAbility taxonomy" id="7788" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="VERILOG">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RGluZyBab3UKClJlc2VhcmNoIEFzc2lzdGFudAoKVHVjc29uLCBBWiAtIEVtYWlsIG1lIG9uIEluZGVlZDogaW5kZWVkLmNvbS9yL0RpbmctWm91L2E1NjA2YzM0YmUzNDFmNzAKCldpbGxpbmcgdG8gcmVsb2NhdGUgdG86IENBIC0gQ08gLSBOVgoKU3BvbnNvcnNoaXAgcmVxdWlyZWQgdG8gd29yayBpbiB0aGUgVVMKCldPUksgRVhQRVJJRU5DRQoKUmVzZWFyY2ggQXNzaXN0YW50CgpVbml2ZXJzaXR5IG9mIEFyaXpvbmEgLSBKYW51YXJ5IDIwMTEgdG8gSmFudWFyeSAyMDE3CgpEZXZlbG9wZWQgdGhlIHB0aHJlYWRzLWJhc2VkIEMvQysrIHN5c3RlbSBzaW11bGF0b3IgdG8gZXZhbHVhdGUgbXVsdGlkaW1lbnNpb25hbCBjb2RlZCBtb2R1bGF0aW9uIG92ZXIKCjEsMDAwa20gZmV3LW1vZGUKCmZpYmVyIChGTUYpIHRyYW5zbWlzc2lvbi4KCiogRGV2ZWxvcGVkIEl0ZXJhdGl2ZSBkaXN0YW5jZS1iYXNlZCBjbHVzdGVyaW5nIGluc3BpcmVkIG9wdGltdW0gc2lnbmFsIGNvbnN0ZWxsYXRpb24gZGVzaWduIGZvciBhZGRpdGl2ZQoKR2F1c3NpYW4gbm9pc2UgY2hhbm5lbC4KCiogRGV2ZWxvcGVkIGhpZ2ggcGFyYWxsZWwgRlBHQS1iYXNlZCBoYXJkd2FyZSBhcmNoaXRlY3R1cmUgZm9yIGFkYXB0aXZlIExEUEMgY29kZWQgbW9kdWxhdGlvbiwgdGhlIGJpdAoKZXJyb3IgcmF0ZSBvZiAxMC0xNSBoYXMKCmJlZW4gZGVtb25zdHJhdGVkIGZvciA2LjRHYi9zIHRocm91Z2hwdXQgZm9yIGZpYmVyLW9wdGljcyBhbmQgZnJlZSBzcGFjZSBvcHRpY2FsIGNvbW11bmljYXRpb24uCgoqIEJpbmFyeSBzZWFyY2ggdHJlZSBhbmQgYmFja3RyYWNraW5nIGlzIGVtcGxveWVkIHRvIGxvY2F0ZSB0aGUgZmlyc3QgYW5kIHNlY29uZCBtaW5pbXVtIGluIG9uZSBwYXNzLCB0aHVzCgpyZWR1Y2VzIGJvdGggY29tcHV0YXRpb25hbCBjb21wbGV4aXR5IGFuZCBtZW1vcnkgdXNhZ2UgaW4gdGhlIGJpbmFyeSBMRFBDIGhhcmR3YXJlIGFyY2hpdGVjdHVyZS4KCiogTWluLW1heCBhbGdvcml0aG0gaXMgYWRvcHRlZCBpbiB1cGRhdGUgdGhlIHRyZWxsaXMgaW52b2x2ZWQgaW4gY2hlY2sgbm9kZSBwcm9jZXNzb3IgaW4gdGhlIG5vbi1iaW5hcnkgTERQQwoKaGFyZHdhcmUKCmFyY2hpdGVjdHVyZS4KCiogRHluYW1pYyBwcm9ncmFtbWluZyB0ZWNobmlxdWUgaXMgYWRvcHRlZCB0byBmaW5kIHRoZSBtaW5pbXVtIHBhdGgsIHdoaWNoIHJlZHVjZXMgdGhlIHRpbWUgY29tcGxleGl0eQoKZnJvbSAqKioqKCoqKiogJCApIHRvICoqKiooKioqKioqKiopLCBpbiB0aGUgZ2VuZXJhbGl6ZWQgTERQQyBoYXJkd2FyZSBhcmNoaXRlY3R1cmUuCgpSZXNlYXJjaCBJbnRlcm4KClVuaXZlcnNpdHkgb2YgQXJpem9uYSAtIE1heSAyMDE1IHRvIERlY2VtYmVyIDIwMTUKCiogRXZhbHVhdGVkIGhhcmQtZGVjaXNpb24gZm9yd2FyZCBlcnJvciBjb3JyZWN0aW9uIGNvZGVzIGZvciBhY2Nlc3MgbmV0d29ya3MuCgoqIERlbW9uc3RyYXRlZCBhIEZQR0EtYmFzZWQgcmVhbC10aW1lIE9GRE0tYWdncmVnYXRpb24gYW5kIGRlLWFnZ3JlZ2F0aW9uIGVmZmljaWVudCBtb2JpbGUgZnJvbnQtaGF1bAoKdHJhbnNtaXNzaW9uIG92ZXIgODBrbQoKU1NNRi4KClJlc2VhcmNoIEludGVybgoKVW5pdmVyc2l0eSBvZiBBcml6b25hIC0gTWF5IDIwMTIgdG8gQXVndXN0IDIwMTIKCkRlc2lnbmVkIHNldmVyYWwgb2ZmbGluZSBkaWdpdGFsIHNpZ25hbCBwcm9jZXNzaW5nIG1vZHVsZXMgZm9yIERQLVFQU0sgNiwwMDBrbSBsb25nLWhhdWwgb3B0aWNhbAoKdHJhbnNtaXNzaW9uLgoKRURVQ0FUSU9OCgpQaC5ELiBpbiBFbGVjdHJpY2FsIGFuZCBDb21wdXRlciBFbmdpbmVlcmluZwoKVW5pdmVyc2l0eSBvZiBBcml6b25hIC0gVHVjc29uLCBBWgoKSmFudWFyeSAyMDE3CgpNLlMuIGluIEVsZWN0cmljYWwgYW5kIENvbXB1dGVyIEVuZ2luZWVyaW5nCgpVbml2ZXJzaXR5IG9mIEFyaXpvbmEgLSBUdWNzb24sIEFaCgpEZWNlbWJlciAyMDEyCgpTS0lMTFMKCkMrKyAoNiB5ZWFycyksIEpBVkEgKDIgeWVhcnMpLCBNQVRMQUIgKDYgeWVhcnMpLCBQWVRIT04gKExlc3MgdGhhbiAxIHllYXIpLCBWRVJJTE9HICg0IHllYXJzKQoKQURESVRJT05BTCBJTkZPUk1BVElPTgoKVGVjaG5pY2FsIFNraWxscwoKKiBDL0MrKywgSmF2YSwgUHl0aG9uLCBNQVRMQUIsIFZlcmlsb2csIFZpdmFkbywgTVBJLCBPcGVuTVAu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911104160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

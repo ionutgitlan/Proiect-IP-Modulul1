@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2912514160532"  usageLimitType="allocation" usageLimit="100" currentUsage="64" remainingUsage="36" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Do Om</FormattedName>
+<GivenName>Do</GivenName>
+<FamilyName>Om</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Do-Om/c256de797c6d9e40</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Buffalo IT Help Center</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Buffalo</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>IT University Support Provide IT support for students, alumni, and faculty * Troubleshoot hardware and software problems, manage accounts and passwords, and give general information to prospective students.
+</Description>
+<StartDate>
+<AnyDate>2016-09-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Brookhaven National Laboratory RHIC-ATLAS Computing Facility</EmployerOrgName>
+<JobType>Intern</JobType>
+<PositionHistory>
+<Title>Intern</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Upton</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Wrote a web application that modeled the layout of the facility's data center * Created an interface that provides search functionality of all their servers, returning and displaying statistical and locational data about each one. * Written using JavaScript, PHP, HTML, CSS, MySQL
+</Description>
+<StartDate>
+<AnyDate>2015-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chung Ang High School</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>South Korea - ESL Teacher</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Region>KR</Region>
+<Municipality>Seoul</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Created and used my own curriculum for three grade levels during the regular school year, as well as for winter and summer classes * Organized a variety of after school activities, including tutoring sessions, public speaking contests, and an English newspaper.
+</Description>
+<StartDate>
+<AnyDate>2009-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Awards</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Dr. Robert Frey Family Mathematics Scholarship
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Science Foundation S-STEM Scholar</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2015-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University at Buffalo</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Buffalo</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>BS</DegreeName>
+<DegreeDate>
+<AnyDate>2018-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Computer Engineering</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2018-06-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University at Buffalo</SchoolName>
+</School>
+<Degree>
+<DegreeName>AS</DegreeName>
+<DegreeMajor>
+<Name>Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="C Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4317" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C Programming Language" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cascading Style Sheets">
+<CompetencyId description="HireAbility taxonomy" id="5838" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cascading Style Sheets">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CSS">
+<CompetencyId description="HireAbility taxonomy" id="12177" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CSS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Git">
+<CompetencyId description="HireAbility taxonomy" id="18278" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Git">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HyperText Markup Language">
+<CompetencyId description="HireAbility taxonomy" id="5174" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HyperText Markup Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hypertext Transfer Protocol">
+<CompetencyId description="HireAbility taxonomy" id="4566" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hypertext Transfer Protocol">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Javascript">
+<CompetencyId description="HireAbility taxonomy" id="211" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Javascript" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Layout">
+<CompetencyId description="HireAbility taxonomy" id="9379" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Layout" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="MySQL Database">
+<CompetencyId description="HireAbility taxonomy" id="6401" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="MySQL Database" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="PHP Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4512" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="PHP Programming Language" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RG8gT20KCklUIFN1cHBvcnQgLSBVbml2ZXJzaXR5IGF0IEJ1ZmZhbG8gSVQgSGVscCBDZW50ZXIKCkJ1ZmZhbG8sIE5ZIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvRG8tT20vYzI1NmRlNzk3YzZkOWU0MAoKV09SSyBFWFBFUklFTkNFCgpJVCBTdXBwb3J0CgpVbml2ZXJzaXR5IGF0IEJ1ZmZhbG8gSVQgSGVscCBDZW50ZXIgLSBCdWZmYWxvLCBOWSAtIFNlcHRlbWJlciAyMDE2IHRvIFByZXNlbnQKClByb3ZpZGUgSVQgc3VwcG9ydCBmb3Igc3R1ZGVudHMsIGFsdW1uaSwgYW5kIGZhY3VsdHkKCiogVHJvdWJsZXNob290IGhhcmR3YXJlIGFuZCBzb2Z0d2FyZSBwcm9ibGVtcywgbWFuYWdlIGFjY291bnRzIGFuZCBwYXNzd29yZHMsIGFuZCBnaXZlCgpnZW5lcmFsIGluZm9ybWF0aW9uIHRvIHByb3NwZWN0aXZlIHN0dWRlbnRzLgoKSW50ZXJuCgpCcm9va2hhdmVuIE5hdGlvbmFsIExhYm9yYXRvcnkgUkhJQy1BVExBUyBDb21wdXRpbmcgRmFjaWxpdHkgLSBVcHRvbiwgTlkgLSBKdW5lIDIwMTUgdG8gSnVuZSAyMDE1CgpXcm90ZSBhIHdlYiBhcHBsaWNhdGlvbiB0aGF0IG1vZGVsZWQgdGhlIGxheW91dCBvZiB0aGUgZmFjaWxpdHkncyBkYXRhIGNlbnRlcgoKKiBDcmVhdGVkIGFuIGludGVyZmFjZSB0aGF0IHByb3ZpZGVzIHNlYXJjaCBmdW5jdGlvbmFsaXR5IG9mIGFsbCB0aGVpciBzZXJ2ZXJzLCByZXR1cm5pbmcgYW5kIGRpc3BsYXlpbmcgc3RhdGlzdGljYWwKCmFuZCBsb2NhdGlvbmFsIGRhdGEgYWJvdXQgZWFjaCBvbmUuCgoqIFdyaXR0ZW4gdXNpbmcgSmF2YVNjcmlwdCwgUEhQLCBIVE1MLCBDU1MsIE15U1FMCgpTb3V0aCBLb3JlYSAtIEVTTCBUZWFjaGVyCgpDaHVuZyBBbmcgSGlnaCBTY2hvb2wgLSBTZW91bCwgS1IgLSBTZXB0ZW1iZXIgMjAwOSB0byBNYXJjaCAyMDE0CgpDcmVhdGVkIGFuZCB1c2VkIG15IG93biBjdXJyaWN1bHVtIGZvciB0aHJlZSBncmFkZSBsZXZlbHMgZHVyaW5nIHRoZSByZWd1bGFyIHNjaG9vbCB5ZWFyLCBhcyB3ZWxsIGFzIGZvciB3aW50ZXIKCmFuZCBzdW1tZXIgY2xhc3NlcwoKKiBPcmdhbml6ZWQgYSB2YXJpZXR5IG9mIGFmdGVyIHNjaG9vbCBhY3Rpdml0aWVzLCBpbmNsdWRpbmcgdHV0b3Jpbmcgc2Vzc2lvbnMsIHB1YmxpYyBzcGVha2luZwoKY29udGVzdHMsIGFuZCBhbiBFbmdsaXNoIG5ld3NwYXBlci4KCkVEVUNBVElPTgoKQlMgaW4gQ29tcHV0ZXIgRW5naW5lZXJpbmcKClVuaXZlcnNpdHkgYXQgQnVmZmFsbyAtIEJ1ZmZhbG8sIE5ZCgpKYW51YXJ5IDIwMTYgdG8gSnVuZSAyMDE4CgpBUyBpbiBFbmdpbmVlcmluZwoKU3VmZm9sayBDb3VudHkgQ29tbXVuaXR5IENvbGxlZ2UgLSBTZWxkZW4sIE5ZCgpTZXB0ZW1iZXIgMjAxNCB0byBEZWNlbWJlciAyMDE1CgpTS0lMTFMKCkMrKyAoTGVzcyB0aGFuIDEgeWVhciksIEdpdCAoTGVzcyB0aGFuIDEgeWVhciksIE1BVEhFTUFUSUNTIChMZXNzIHRoYW4gMSB5ZWFyKSwgQ1NTIChMZXNzIHRoYW4gMSB5ZWFyKSwKCkhUTUwgKExlc3MgdGhhbiAxIHllYXIpCgpMSU5LUwoKaHR0cDovL2RveW9tMTIzLmdpdGh1Yi5pbwoKQURESVRJT05BTCBJTkZPUk1BVElPTgoKU2tpbGxzCgpDLCBDKyssIEhUTUwvQ1NTLCBKYXZhU2NyaXB0LCBHaXQsIEFTTQoKQWRkaXRpb25hbCBFeHBlcmllbmNlIEFuZCBBd2FyZHMKCiogMjAxNiBEci4gUm9iZXJ0IEZyZXkgRmFtaWx5IE1hdGhlbWF0aWNzIFNjaG9sYXJzaGlwCgoqIDIwMTUgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIFMtU1RFTSBTY2hvbGFy</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912514160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

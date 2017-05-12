@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2911310465432"  usageLimitType="allocation" usageLimit="100" currentUsage="10" remainingUsage="90" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Brett Wyrick</FormattedName>
+<GivenName>Brett</GivenName>
+<FamilyName>Wyrick</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>La Mirada</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Brett-Wyrick/a5bb7b96faf47652</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>http://www.linkedin.com/in/brettwyrick</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Global Database Marketing - Remote</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Project Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Successfully managed marketing projects with budgets from $2K up to $1M+ . * Created a streamlined 150+ page training handbook for new Account Managers and Coordinators, which improved our budget towards our new hire process. * Developed new company processes internally to improve time needed to complete projects through adding a digital project management system, email tracking, time tracking, in-network chat, and various other enhancements for the company. * Responsible for the operation, scope, creation, tracking, execution and approvals of the company's direct marketing product lifecycles. Led multiple project teams of up to 5 members, and trained new Account Managers and Coordinators. * Oversaw end-to-end development and execution of direct marketing campaigns with individual clients, regional dealer groups, vendors and suppliers to support marketing efforts.
+</Description>
+<StartDate>
+<AnyDate>2014-04-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Verizon Wireless</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Sales Representative</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>AZ</Region>
+<Municipality>Scottsdale</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>sales</IndustryDescription></OrgIndustry>
+<Description>* Functioned in several roles ranging from support, customer service, troubleshooting and sales. * Responsible for creating and maintaining good business relationships with both small businesses and individual wireless accounts through ongoing account maintenance, customer service, and selling products relationally. * Worked with all popular operating systems across multiple devices, with an emphasis on support for iOS and Android.
+</Description>
+<StartDate>
+<AnyDate>2013-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Scholfield Honda</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>New Car Sales Consultant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>KS</Region>
+<Municipality>Wichita</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>sales</IndustryDescription></OrgIndustry>
+<Description>Responsibilities Worked with customers seeking to purchase a new Honda. Negotiated vehicle prices and finance contracts. Presented vehicle attributes, model options, features, store policies and services to customers. Negotiated prices and finance contracts. Solely responsible for marketing myself to customers and prospecting/following up with sales leads. Accomplishments * Became a certified member of Honda's Council of Sales Excellence, a program reserved to sales consultants who attain more training than what is required. * Received a 96% or higher Customer Service Index score from new car customer surveys. * Reached departmental sales goals every month and helped move the new car sales team to the highest- selling Honda dealership in the Midwestern district in six months. Skills Used Sales, negotiation, automotive knowledge, product knowledge, CRM, Windows
+</Description>
+<StartDate>
+<AnyDate>2012-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Wichita State University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>KS</Region>
+<Municipality>Wichita</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2012-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Communication</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Automotive">
+<CompetencyId description="HireAbility taxonomy" id="15253" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Automotive" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Customer Relationship Management">
+<CompetencyId description="HireAbility taxonomy" id="7084" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Customer Relationship Management" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Customer Service">
+<CompetencyId description="HireAbility taxonomy" id="91" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Customer Service" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Email">
+<CompetencyId description="HireAbility taxonomy" id="1639" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Email" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hypertext Transfer Protocol">
+<CompetencyId description="HireAbility taxonomy" id="4566" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hypertext Transfer Protocol">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Marketing Management">
+<CompetencyId description="HireAbility taxonomy" id="247" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Marketing Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Excel">
+<CompetencyId description="HireAbility taxonomy" id="252" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Excel">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Operating Systems">
+<CompetencyId description="HireAbility taxonomy" id="9" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Operating Systems" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Process Improvement">
+<CompetencyId description="HireAbility taxonomy" id="13187" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Process Improvement">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Product Management">
+<CompetencyId description="HireAbility taxonomy" id="4518" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Product Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Product Marketing">
+<CompetencyId description="HireAbility taxonomy" id="11542" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Product Marketing">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Management">
+<CompetencyId description="HireAbility taxonomy" id="337" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Management" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Manager">
+<CompetencyId description="HireAbility taxonomy" id="1719" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Manager" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Sales">
+<CompetencyId description="HireAbility taxonomy" id="7733" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Sales" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Training">
+<CompetencyId description="HireAbility taxonomy" id="2281" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Training" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Troubleshooting">
+<CompetencyId description="HireAbility taxonomy" id="2283" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Troubleshooting" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Wireless">
+<CompetencyId description="HireAbility taxonomy" id="6698" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Wireless" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QnJldHQgV3lyaWNrCgpMYSBNaXJhZGEsIENBIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQnJldHQtV3lyaWNrL2E1YmI3Yjk2ZmFmNDc2NTIKCklubm92YXRpdmUsIHN0cmF0ZWdpYyBQcm9qZWN0IE1hbmFnZXIgd2l0aCBhIHBhc3Npb24gZm9yIGRvaW5nIHRoaW5ncyB0aGUgcmlnaHQgYW5kIGhvbmVzdCB3YXkuCgpodHRwOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9icmV0dHd5cmljawoKV2lsbGluZyB0byByZWxvY2F0ZTogQW55d2hlcmUKCkF1dGhvcml6ZWQgdG8gd29yayBpbiB0aGUgVVMgZm9yIGFueSBlbXBsb3llcgoKV09SSyBFWFBFUklFTkNFCgpQcm9qZWN0IE1hbmFnZXIKCkdsb2JhbCBEYXRhYmFzZSBNYXJrZXRpbmcgLSBSZW1vdGUgLSBBcHJpbCAyMDE0IHRvIFByZXNlbnQKCiogU3VjY2Vzc2Z1bGx5IG1hbmFnZWQgbWFya2V0aW5nIHByb2plY3RzIHdpdGggYnVkZ2V0cyBmcm9tICQySyB1cCB0byAkMU0rIC4KCiogQ3JlYXRlZCBhIHN0cmVhbWxpbmVkIDE1MCsgcGFnZSB0cmFpbmluZyBoYW5kYm9vayBmb3IgbmV3IEFjY291bnQgTWFuYWdlcnMgYW5kIENvb3JkaW5hdG9ycywgd2hpY2gKCmltcHJvdmVkIG91ciBidWRnZXQgdG93YXJkcyBvdXIgbmV3IGhpcmUgcHJvY2Vzcy4KCiogRGV2ZWxvcGVkIG5ldyBjb21wYW55IHByb2Nlc3NlcyBpbnRlcm5hbGx5IHRvIGltcHJvdmUgdGltZSBuZWVkZWQgdG8gY29tcGxldGUgcHJvamVjdHMgdGhyb3VnaCBhZGRpbmcKCmEgZGlnaXRhbCBwcm9qZWN0IG1hbmFnZW1lbnQgc3lzdGVtLCBlbWFpbCB0cmFja2luZywgdGltZSB0cmFja2luZywgaW4tbmV0d29yayBjaGF0LCBhbmQgdmFyaW91cyBvdGhlcgoKZW5oYW5jZW1lbnRzIGZvciB0aGUgY29tcGFueS4KCiogUmVzcG9uc2libGUgZm9yIHRoZSBvcGVyYXRpb24sIHNjb3BlLCBjcmVhdGlvbiwgdHJhY2tpbmcsIGV4ZWN1dGlvbiBhbmQgYXBwcm92YWxzIG9mIHRoZSBjb21wYW55J3MgZGlyZWN0CgptYXJrZXRpbmcgcHJvZHVjdCBsaWZlY3ljbGVzLgoKTGVkIG11bHRpcGxlIHByb2plY3QgdGVhbXMgb2YgdXAgdG8gNSBtZW1iZXJzLCBhbmQgdHJhaW5lZCBuZXcgQWNjb3VudCBNYW5hZ2VycyBhbmQgQ29vcmRpbmF0b3JzLgoKKiBPdmVyc2F3IGVuZC10by1lbmQgZGV2ZWxvcG1lbnQgYW5kIGV4ZWN1dGlvbiBvZiBkaXJlY3QgbWFya2V0aW5nIGNhbXBhaWducyB3aXRoIGluZGl2aWR1YWwgY2xpZW50cywKCnJlZ2lvbmFsIGRlYWxlciBncm91cHMsIHZlbmRvcnMgYW5kIHN1cHBsaWVycyB0byBzdXBwb3J0IG1hcmtldGluZyBlZmZvcnRzLgoKU2FsZXMgUmVwcmVzZW50YXRpdmUKClZlcml6b24gV2lyZWxlc3MgLSBTY290dHNkYWxlLCBBWiAtIEZlYnJ1YXJ5IDIwMTMgdG8gTWFyY2ggMjAxNAoKKiBGdW5jdGlvbmVkIGluIHNldmVyYWwgcm9sZXMgcmFuZ2luZyBmcm9tIHN1cHBvcnQsIGN1c3RvbWVyIHNlcnZpY2UsIHRyb3VibGVzaG9vdGluZyBhbmQgc2FsZXMuCgoqIFJlc3BvbnNpYmxlIGZvciBjcmVhdGluZyBhbmQgbWFpbnRhaW5pbmcgZ29vZCBidXNpbmVzcyByZWxhdGlvbnNoaXBzIHdpdGggYm90aCBzbWFsbCBidXNpbmVzc2VzIGFuZAoKaW5kaXZpZHVhbCB3aXJlbGVzcyBhY2NvdW50cyB0aHJvdWdoIG9uZ29pbmcgYWNjb3VudCBtYWludGVuYW5jZSwgY3VzdG9tZXIgc2VydmljZSwgYW5kIHNlbGxpbmcgcHJvZHVjdHMKCnJlbGF0aW9uYWxseS4KCiogV29ya2VkIHdpdGggYWxsIHBvcHVsYXIgb3BlcmF0aW5nIHN5c3RlbXMgYWNyb3NzIG11bHRpcGxlIGRldmljZXMsIHdpdGggYW4gZW1waGFzaXMgb24gc3VwcG9ydCBmb3IgaU9TCgphbmQgQW5kcm9pZC4KCk5ldyBDYXIgU2FsZXMgQ29uc3VsdGFudAoKU2Nob2xmaWVsZCBIb25kYSAtIFdpY2hpdGEsIEtTIC0gSnVseSAyMDEyIHRvIEphbnVhcnkgMjAxMwoKUmVzcG9uc2liaWxpdGllcwoKV29ya2VkIHdpdGggY3VzdG9tZXJzIHNlZWtpbmcgdG8gcHVyY2hhc2UgYSBuZXcgSG9uZGEuIE5lZ290aWF0ZWQgdmVoaWNsZSBwcmljZXMgYW5kIGZpbmFuY2UgY29udHJhY3RzLgoKUHJlc2VudGVkIHZlaGljbGUgYXR0cmlidXRlcywgbW9kZWwgb3B0aW9ucywgZmVhdHVyZXMsIHN0b3JlIHBvbGljaWVzIGFuZCBzZXJ2aWNlcyB0byBjdXN0b21lcnMuIE5lZ290aWF0ZWQKCnByaWNlcyBhbmQgZmluYW5jZSBjb250cmFjdHMuIFNvbGVseSByZXNwb25zaWJsZSBmb3IgbWFya2V0aW5nIG15c2VsZiB0byBjdXN0b21lcnMgYW5kIHByb3NwZWN0aW5nL2ZvbGxvd2luZwoKdXAgd2l0aCBzYWxlcyBsZWFkcy4KCkFjY29tcGxpc2htZW50cwoKKiBCZWNhbWUgYSBjZXJ0aWZpZWQgbWVtYmVyIG9mIEhvbmRhJ3MgQ291bmNpbCBvZiBTYWxlcyBFeGNlbGxlbmNlLCBhIHByb2dyYW0gcmVzZXJ2ZWQgdG8gc2FsZXMgY29uc3VsdGFudHMKCndobyBhdHRhaW4gbW9yZSB0cmFpbmluZyB0aGFuIHdoYXQgaXMgcmVxdWlyZWQuCgoqIFJlY2VpdmVkIGEgOTYlIG9yIGhpZ2hlciBDdXN0b21lciBTZXJ2aWNlIEluZGV4IHNjb3JlIGZyb20gbmV3IGNhciBjdXN0b21lciBzdXJ2ZXlzLgoKKiBSZWFjaGVkIGRlcGFydG1lbnRhbCBzYWxlcyBnb2FscyBldmVyeSBtb250aCBhbmQgaGVscGVkIG1vdmUgdGhlIG5ldyBjYXIgc2FsZXMgdGVhbSB0byB0aGUgaGlnaGVzdC0KCnNlbGxpbmcgSG9uZGEgZGVhbGVyc2hpcCBpbiB0aGUgTWlkd2VzdGVybiBkaXN0cmljdCBpbiBzaXggbW9udGhzLgoKU2tpbGxzIFVzZWQKClNhbGVzLCBuZWdvdGlhdGlvbiwgYXV0b21vdGl2ZSBrbm93bGVkZ2UsIHByb2R1Y3Qga25vd2xlZGdlLCBDUk0sIFdpbmRvd3MKCkVEVUNBVElPTgoKQ29tbXVuaWNhdGlvbgoKV2ljaGl0YSBTdGF0ZSBVbml2ZXJzaXR5IC0gV2ljaGl0YSwgS1MKCjIwMTAgdG8gMjAxMgoKQWxsZW4gQ291bnR5IENvbW11bml0eSBDb2xsZWdlIC0gSW9sYSwgS1MKCjIwMDcgdG8gMjAwOQoKU0tJTExTCgpQcm9jZXNzIEltcHJvdmVtZW50ICgzIHllYXJzKSwgUHJvamVjdCBNYW5hZ2VtZW50ICgzIHllYXJzKSwgVHJhaW5pbmcgJiBEZXZlbG9wbWVudCAoMiB5ZWFycyksIENvbnRlbnQKCkNyZWF0aW9uICgyIHllYXJzKSwgRXhjZWwgKDMgeWVhcnMpLCBNaWNyb3NvZnQgT2ZmaWNlICg2IHllYXJzKSwgR29vZ2xlIERvY3MgKDcgeWVhcnMpLCBNYXJrZXRpbmcgKDMgeWVhcnMpLAoKUHJvZHVjdCBNYXJrZXRpbmcgKDMgeWVhcnMpLCBEaXJlY3QgTWFya2V0aW5nICgzIHllYXJzKSwgRGlyZWN0IE1haWwgKDMgeWVhcnMpLCBQcm9kdWN0IE1hbmFnZW1lbnQgKDMKCnllYXJzKSwgQ3VzdG9tZXIgU2VydmljZSAoNyB5ZWFycykKCkxJTktTCgpodHRwOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9icmV0dHd5cmljaw==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911310465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

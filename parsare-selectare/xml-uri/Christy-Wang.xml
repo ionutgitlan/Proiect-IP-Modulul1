@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2910312160532"  usageLimitType="allocation" usageLimit="100" currentUsage="47" remainingUsage="53" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Christy Wang</FormattedName>
+<GivenName>Christy</GivenName>
+<FamilyName>Wang</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Los Angeles</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Christy-Wang/16caddf0ca5f6df4</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>HSBC Software Development Limited</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Software Engineer / Service Desk</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CN</Region>
+<Municipality>Guangzhou</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>* Implement, maintain and evolve products and services * Integrate with internal users and external 3rd-party systems via mails, phones, face-to-face, and online sharing * Operates various office machines such as photocopiers, scanners, voicemail systems, and personal computers * Perform extensive research and analysis to make optimal architecture and design decisions * Interface with other groups including Product Management, QA, Operations, Knowledge Management, and Continual improvement * Write articles to create knowledge base, and to provide knowledge transition for team members
+</Description>
+<StartDate>
+<AnyDate>2012-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>China Life Insurance</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Human Resources Trainee</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CN</Region>
+<Municipality>Guangzhou</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>human resources</IndustryDescription></OrgIndustry>
+<Description>Human resources, including review resumes, recruitment, documentation and training.
+</Description>
+<StartDate>
+<AnyDate>2012-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Guangzhou Manulife-Sinochem Co., LTD</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Insurance Agent Trainee</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CN</Region>
+<Municipality>Guangzhou</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>During the period, I learned relative knowledge, enterprise culture, incentive system, and performance management, and successfully got the Certificated Insurance Agent.
+</Description>
+<StartDate>
+<AnyDate>2011-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The 26th Guangzhou Asian Games</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Volunteer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CN</Region>
+<Municipality>Guangzhou</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>During the Asian Games, I communicated with foreign athletes with English, and provided various services for them, which was appreciated and evaluated as "Smiling Star".
+</Description>
+<StartDate>
+<AnyDate>2010-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The 107th Canton Fair</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Volunteer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CN</Region>
+<Municipality>Guangzhou</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>To guide guests, keep order, and offer services for foreigners.
+</Description>
+<StartDate>
+<AnyDate>2010-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>South China Normal University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CN</Region>
+<Municipality>Guangzhou</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Art</DegreeName>
+<DegreeDate>
+<AnyDate>2014-07-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>English</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2009-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-07-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>South China Normal University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CN</Region>
+<Municipality>Guangzhou</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Science</DegreeName>
+<DegreeDate>
+<AnyDate>2013-07-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Computer Science</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2009-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-07-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>Driver's License</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>to</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<Qualifications>
+<Competency name="Adobe Photoshop">
+<CompetencyId description="HireAbility taxonomy" id="36" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Adobe Photoshop">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Bilingual">
+<CompetencyId description="HireAbility taxonomy" id="5405" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Bilingual">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Communication Skills">
+<CompetencyId description="HireAbility taxonomy" id="16264" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Communication Skills">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Documentation">
+<CompetencyId description="HireAbility taxonomy" id="12375" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Documentation" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="English Language">
+<CompetencyId description="HireAbility taxonomy" id="17622" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="English Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Fast-paced Environment">
+<CompetencyId description="HireAbility taxonomy" id="17673" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Fast-paced Environment">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Human Resources">
+<CompetencyId description="HireAbility taxonomy" id="7657" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Human Resources" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Insurance">
+<CompetencyId description="HireAbility taxonomy" id="1985" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Insurance" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Integrate">
+<CompetencyId description="HireAbility taxonomy" id="4712" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Integrate" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux">
+<CompetencyId description="HireAbility taxonomy" id="218" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Lotus">
+<CompetencyId description="HireAbility taxonomy" id="11522" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Lotus">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Lotus Notes">
+<CompetencyId description="HireAbility taxonomy" id="226" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Lotus Notes">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="MySQL Database">
+<CompetencyId description="HireAbility taxonomy" id="6401" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="MySQL Database">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle">
+<CompetencyId description="HireAbility taxonomy" id="305" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Pc">
+<CompetencyId description="HireAbility taxonomy" id="313" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Pc">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Personal Computer">
+<CompetencyId description="HireAbility taxonomy" id="9774" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Personal Computer">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Presentation Skills">
+<CompetencyId description="HireAbility taxonomy" id="15875" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Presentation Skills">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Product Management">
+<CompetencyId description="HireAbility taxonomy" id="4518" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Product Management" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Structured Query Language">
+<CompetencyId description="HireAbility taxonomy" id="4806" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Structured Query Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Typing">
+<CompetencyId description="HireAbility taxonomy" id="7783" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Typing">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Video">
+<CompetencyId description="HireAbility taxonomy" id="1764" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Video">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Languages>
+<Language>
+<LanguageCode>EN</LanguageCode>
+<Read>false</Read>
+<Write>false</Write>
+<Speak>true</Speak>
+</Language>
+<Language>
+<LanguageCode>ZH</LanguageCode>
+<Read>false</Read>
+<Write>false</Write>
+<Speak>true</Speak>
+</Language>
+</Languages>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2hyaXN0eSBXYW5nCgpMb3MgQW5nZWxlcywgQ0EgLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9DaHJpc3R5LVdhbmcvMTZjYWRkZjBjYTVmNmRmNAoKRnJpZW5kbHksIEVuZXJnZXRpYywgT3B0aW1pc3RpYzsgSGFyZHdvcmtpbmcsIERlcGVuZGFibGUsIE1vdGl2YXRlZCwgQXB0IHRvIGFjY2VwdCBuZXcga25vd2xlZGdlOyBEZXRhaWxlZC0KCm9yaWVudGVkOyBSZXNwb25zaWJsZSBhbmQgZW5qb3kgdGVhbXdvcmsuCgpJIHN0cm9uZ2x5IGhvcGUgdG8gYmUgYSBtZW1iZXIgb2YgeW91ciBncmVhdCBjb21wYW55LCBhbmQgdHJ5IG15IGJlc3QgdG8gbWFrZSBjb250cmlidXRpb25zLgoKV09SSyBFWFBFUklFTkNFCgpTb2Z0d2FyZSBFbmdpbmVlciAvIFNlcnZpY2UgRGVzawoKSFNCQyBTb2Z0d2FyZSBEZXZlbG9wbWVudCBMaW1pdGVkIC0gR3Vhbmd6aG91LCBDTiAtIFNlcHRlbWJlciAyMDEyIHRvIERlY2VtYmVyIDIwMTYKCiogSW1wbGVtZW50LCBtYWludGFpbiBhbmQgZXZvbHZlIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcwoKKiBJbnRlZ3JhdGUgd2l0aCBpbnRlcm5hbCB1c2VycyBhbmQgZXh0ZXJuYWwgM3JkLXBhcnR5IHN5c3RlbXMgdmlhIG1haWxzLCBwaG9uZXMsIGZhY2UtdG8tZmFjZSwgYW5kIG9ubGluZQoKc2hhcmluZwoKKiBPcGVyYXRlcyB2YXJpb3VzIG9mZmljZSBtYWNoaW5lcyBzdWNoIGFzIHBob3RvY29waWVycywgc2Nhbm5lcnMsIHZvaWNlbWFpbCBzeXN0ZW1zLCBhbmQgcGVyc29uYWwKCmNvbXB1dGVycwoKKiBQZXJmb3JtIGV4dGVuc2l2ZSByZXNlYXJjaCBhbmQgYW5hbHlzaXMgdG8gbWFrZSBvcHRpbWFsIGFyY2hpdGVjdHVyZSBhbmQgZGVzaWduIGRlY2lzaW9ucwoKKiBJbnRlcmZhY2Ugd2l0aCBvdGhlciBncm91cHMgaW5jbHVkaW5nIFByb2R1Y3QgTWFuYWdlbWVudCwgUUEsIE9wZXJhdGlvbnMsIEtub3dsZWRnZSBNYW5hZ2VtZW50LCBhbmQKCkNvbnRpbnVhbCBpbXByb3ZlbWVudAoKKiBXcml0ZSBhcnRpY2xlcyB0byBjcmVhdGUga25vd2xlZGdlIGJhc2UsIGFuZCB0byBwcm92aWRlIGtub3dsZWRnZSB0cmFuc2l0aW9uIGZvciB0ZWFtIG1lbWJlcnMKCkh1bWFuIFJlc291cmNlcyBUcmFpbmVlCgpDaGluYSBMaWZlIEluc3VyYW5jZSAtIEd1YW5nemhvdSwgQ04gLSBBdWd1c3QgMjAxMiB0byBTZXB0ZW1iZXIgMjAxMgoKSHVtYW4gcmVzb3VyY2VzLCBpbmNsdWRpbmcgcmV2aWV3IHJlc3VtZXMsIHJlY3J1aXRtZW50LCBkb2N1bWVudGF0aW9uIGFuZCB0cmFpbmluZy4KCkluc3VyYW5jZSBBZ2VudCBUcmFpbmVlCgpHdWFuZ3pob3UgTWFudWxpZmUtU2lub2NoZW0gQ28uLCBMVEQgLSBHdWFuZ3pob3UsIENOIC0gRmVicnVhcnkgMjAxMSB0byBGZWJydWFyeSAyMDExCgpEdXJpbmcgdGhlIHBlcmlvZCwgSSBsZWFybmVkIHJlbGF0aXZlIGtub3dsZWRnZSwgZW50ZXJwcmlzZSBjdWx0dXJlLCBpbmNlbnRpdmUgc3lzdGVtLCBhbmQgcGVyZm9ybWFuY2UKCm1hbmFnZW1lbnQsIGFuZCBzdWNjZXNzZnVsbHkgZ290IHRoZSBDZXJ0aWZpY2F0ZWQgSW5zdXJhbmNlIEFnZW50LgoKVm9sdW50ZWVyCgpUaGUgMjZ0aCBHdWFuZ3pob3UgQXNpYW4gR2FtZXMgLSBHdWFuZ3pob3UsIENOIC0gTm92ZW1iZXIgMjAxMCB0byBOb3ZlbWJlciAyMDEwCgpEdXJpbmcgdGhlIEFzaWFuIEdhbWVzLCBJIGNvbW11bmljYXRlZCB3aXRoIGZvcmVpZ24gYXRobGV0ZXMgd2l0aCBFbmdsaXNoLCBhbmQgcHJvdmlkZWQgdmFyaW91cyBzZXJ2aWNlcyBmb3IKCnRoZW0sIHdoaWNoIHdhcyBhcHByZWNpYXRlZCBhbmQgZXZhbHVhdGVkIGFzICJTbWlsaW5nIFN0YXIiLgoKVm9sdW50ZWVyCgpUaGUgMTA3dGggQ2FudG9uIEZhaXIgLSBHdWFuZ3pob3UsIENOIC0gTWF5IDIwMTAgdG8gTWF5IDIwMTAKClRvIGd1aWRlIGd1ZXN0cywga2VlcCBvcmRlciwgYW5kIG9mZmVyIHNlcnZpY2VzIGZvciBmb3JlaWduZXJzLgoKRURVQ0FUSU9OCgpCYWNoZWxvciBvZiBBcnQgaW4gRW5nbGlzaAoKU291dGggQ2hpbmEgTm9ybWFsIFVuaXZlcnNpdHkgLSBHdWFuZ3pob3UsIENOCgpTZXB0ZW1iZXIgMjAwOSB0byBKdWx5IDIwMTQKCkJhY2hlbG9yIG9mIFNjaWVuY2UgaW4gQ29tcHV0ZXIgU2NpZW5jZQoKU291dGggQ2hpbmEgTm9ybWFsIFVuaXZlcnNpdHkgLSBHdWFuZ3pob3UsIENOCgpTZXB0ZW1iZXIgMjAwOSB0byBKdWx5IDIwMTMKClNLSUxMUwoKREFUQUJBU0VTICg1IHllYXJzKSwgTElOVVggKDQgeWVhcnMpLCBMT1RVUyBOT1RFUyAoNCB5ZWFycyksIE1JQ1JPU09GVCBPRkZJQ0UgKDEwKyB5ZWFycyksCgpTUUwgKDUgeWVhcnMpLCBQaG90b3Nob3AgKDUgeWVhcnMpLCBQaG90b2dyYXBoeSAoMTArIHllYXJzKSwgVmlkZW8gRWRpdGluZyAoNiB5ZWFycyksIFBDICgxMCsgeWVhcnMpLAoKVHlwaW5nICgxMCsgeWVhcnMpCgpDRVJUSUZJQ0FUSU9OUy9MSUNFTlNFUwoKRHJpdmVyJ3MgTGljZW5zZQoKTWFyY2ggMjAxNyB0byBPY3RvYmVyIDIwMjEKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KClNLSUxMUzoKCi0gRXhjZXB0aW9uYWwgU29mdHdhcmUgU2tpbGxzIChNUyBPZmZpY2UsIExvdHVzIE5vdGVzLCBMaW51eCwgZXRjLikgLSBTdHJvbmcgY29tbXVuaWNhdGlvbiBza2lsbHMKCi0gQWJpbGl0eSB0byBoYW5kbGUgbXVsdGlwbGUgdGFza3MgaW4gYSBmYXN0LXBhY2VkIGVudmlyb25tZW50IC0gR29vZCB3cml0aW5nIGFuZCBwcmVzZW50YXRpb24gc2tpbGxzCgotIEJpbGluZ3VhbCBpbiBFbmdsaXNoIGFuZCBDaGluZXNlIChNYW5kYXJpbiAmIENhbnRvbmVzZSkgLSBTUUwgd2l0aCBPcmFjbGUgYW5kIE15U1FMIGRhdGFiYXNlcw==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910312160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

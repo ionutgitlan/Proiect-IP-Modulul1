@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2915660465432"  usageLimitType="allocation" usageLimit="100" currentUsage="18" remainingUsage="82" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Carson Gedeus</FormattedName>
+<GivenName>Carson</GivenName>
+<FamilyName>Gedeus</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>FL</Region>
+<Municipality>Orlando</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Carson-Gedeus/230e50f8677bc2ab</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Thought Laboratory</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Research Assistant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>Machine Responsible for programming robots via Arduino and C programming * Maintain the software for vehicle simulation * Link: mit.cos.ucf.edu/carson-gedeus/
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University Central Florida</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Resident Assistant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>* Enrolled in a mandatory "Foundations of Leadership" as job training * Revised on how to work in teams of diverse personalities and thought patterns * Achieved 15 hours of community service against hunger and homelessness College of Aviation Representative
+</Description>
+<StartDate>
+<AnyDate>2016-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Embry-Riddle Student Government Association</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>* Worked in the legislative body of the SGA to solve student concerns * Hosted events and service projects to enhance student life (i.e. free flu shots, etc.)
+</Description>
+<StartDate>
+<AnyDate>2014-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Society of Black Engineers</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Vice-President</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Reinforced the NSBE mission by revising our chapter's constitution * Helped prepared students for career opportunities through seminars, workshops and ERAU career services * Developed a website that enabled people to help members cover the cost of trips via online donations * Created weekly to do lists to fulfill sub-goals and major goals Mentor Embry-Riddle Orientation Team
+</Description>
+<StartDate>
+<AnyDate>2014-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Embry-Riddle Radio-Frequency Identification Laboratory</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>RFID Assistant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>* Guided freshmen towards transitioning into student life at Embry-Riddle a group of students to plan and set up campus events (i.e. homecoming convocation etc.) * Mentored first-year students throughout the entire school year
+</Description>
+<StartDate>
+<AnyDate>2013-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Central Florida</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>FL</Region>
+<Municipality>Orlando</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelors of Science</DegreeName>
+<DegreeDate>
+<AnyDate>2015-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Computer Science</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2011-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-05-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Embry-Riddle Aeronautical University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>FL</Region>
+<Municipality>Daytona Beach</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelors of Science</DegreeName>
+<DegreeDate>
+<AnyDate>2015-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Air Traffic Management</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2011-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-05-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<MilitaryHistory>
+<ServiceDetail branch="Army">
+<DatesOfService>
+<StartDate>
+<AnyDate>2013-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-03-01</AnyDate>
+</EndDate>
+</DatesOfService>
+<AreaOfExpertise>Army ROTC cadets during physical training 
+* Used RFID tags to track * Coupled RFID tags with a GPS application to get real-time location of cadets * Researched areas regarding inventory location and aircraft component tracking
+</AreaOfExpertise>
+</ServiceDetail>
+</MilitaryHistory>
+<Qualifications>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C/C++ Programming Languages">
+<CompetencyId description="HireAbility taxonomy" id="7240" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C/C++ Programming Languages">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cascading Style Sheets">
+<CompetencyId description="HireAbility taxonomy" id="5838" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cascading Style Sheets">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CSS">
+<CompetencyId description="HireAbility taxonomy" id="12177" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CSS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="French Language">
+<CompetencyId description="HireAbility taxonomy" id="8987" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="French Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="HyperText Markup Language">
+<CompetencyId description="HireAbility taxonomy" id="5174" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="HyperText Markup Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hypertext Transfer Protocol">
+<CompetencyId description="HireAbility taxonomy" id="4566" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hypertext Transfer Protocol">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Inventory">
+<CompetencyId description="HireAbility taxonomy" id="7670" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Inventory" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Javascript">
+<CompetencyId description="HireAbility taxonomy" id="211" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Javascript">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="LESS">
+<CompetencyId description="HireAbility taxonomy" id="18491" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="LESS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Linux">
+<CompetencyId description="HireAbility taxonomy" id="218" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Linux">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Matlab">
+<CompetencyId description="HireAbility taxonomy" id="9462" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Matlab">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Python Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4521" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Python Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Research">
+<CompetencyId description="HireAbility taxonomy" id="8958" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Research" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="RFID">
+<CompetencyId description="HireAbility taxonomy" id="16029" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="RFID" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Unix">
+<CompetencyId description="HireAbility taxonomy" id="439" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Unix">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Languages>
+<Language>
+<LanguageCode>FR</LanguageCode>
+<Read>false</Read>
+<Write>false</Write>
+<Speak>true</Speak>
+</Language>
+</Languages>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2Fyc29uIEdlZGV1cwoKUmVzZWFyY2ggQXNzaXN0YW50CgpPcmxhbmRvLCBGTCAtIEVtYWlsIG1lIG9uIEluZGVlZDogaW5kZWVkLmNvbS9yL0NhcnNvbi1HZWRldXMvMjMwZTUwZjg2NzdiYzJhYgoKV09SSyBFWFBFUklFTkNFCgpSZXNlYXJjaCBBc3Npc3RhbnQKCk1hY2hpbmUgaW4gVGhvdWdodCBMYWJvcmF0b3J5IC0gSmFudWFyeSAyMDE2IHRvIEZlYnJ1YXJ5IDIwMTcKCiogUmVzcG9uc2libGUgZm9yIHByb2dyYW1taW5nIHJvYm90cyB2aWEgQXJkdWlubyBhbmQgQyBwcm9ncmFtbWluZwoKKiBNYWludGFpbiB0aGUgc29mdHdhcmUgZm9yIHZlaGljbGUgc2ltdWxhdGlvbgoKKiBMaW5rOiBtaXQuY29zLnVjZi5lZHUvY2Fyc29uLWdlZGV1cy8KClJlc2lkZW50IEFzc2lzdGFudAoKVW5pdmVyc2l0eSBDZW50cmFsIEZsb3JpZGEgLSBKYW51YXJ5IDIwMTYgdG8gQXVndXN0IDIwMTYKCiogRW5yb2xsZWQgaW4gYSBtYW5kYXRvcnkgIkZvdW5kYXRpb25zIG9mIExlYWRlcnNoaXAiIGFzIGpvYiB0cmFpbmluZwoKKiBSZXZpc2VkIG9uIGhvdyB0byB3b3JrIGluIHRlYW1zIG9mIGRpdmVyc2UgcGVyc29uYWxpdGllcyBhbmQgdGhvdWdodCBwYXR0ZXJucwoKKiBBY2hpZXZlZCAxNSBob3VycyBvZiBjb21tdW5pdHkgc2VydmljZSBhZ2FpbnN0IGh1bmdlciBhbmQgaG9tZWxlc3NuZXNzCgpDb2xsZWdlIG9mIEF2aWF0aW9uIFJlcHJlc2VudGF0aXZlCgpFbWJyeS1SaWRkbGUgU3R1ZGVudCBHb3Zlcm5tZW50IEFzc29jaWF0aW9uIC0gTWFyY2ggMjAxNCB0byBKdW5lIDIwMTUKCiogV29ya2VkIGluIHRoZSBsZWdpc2xhdGl2ZSBib2R5IG9mIHRoZSBTR0EgdG8gc29sdmUgc3R1ZGVudCBjb25jZXJucwoKKiBIb3N0ZWQgZXZlbnRzIGFuZCBzZXJ2aWNlIHByb2plY3RzIHRvIGVuaGFuY2Ugc3R1ZGVudCBsaWZlIChpLmUuIGZyZWUgZmx1IHNob3RzLCBldGMuKQoKVmljZS1QcmVzaWRlbnQKCk5hdGlvbmFsIFNvY2lldHkgb2YgQmxhY2sgRW5naW5lZXJzIC0gQXVndXN0IDIwMTQgdG8gTWF5IDIwMTUKCiogUmVpbmZvcmNlZCB0aGUgTlNCRSBtaXNzaW9uIGJ5IHJldmlzaW5nIG91ciBjaGFwdGVyJ3MgY29uc3RpdHV0aW9uCgoqIEhlbHBlZCBwcmVwYXJlZCBzdHVkZW50cyBmb3IgY2FyZWVyIG9wcG9ydHVuaXRpZXMgdGhyb3VnaCBzZW1pbmFycywgd29ya3Nob3BzIGFuZCBFUkFVIGNhcmVlciBzZXJ2aWNlcwoKKiBEZXZlbG9wZWQgYSB3ZWJzaXRlIHRoYXQgZW5hYmxlZCBwZW9wbGUgdG8gaGVscCBtZW1iZXJzIGNvdmVyIHRoZSBjb3N0IG9mIHRyaXBzIHZpYSBvbmxpbmUgZG9uYXRpb25zCgoqIENyZWF0ZWQgd2Vla2x5IHRvIGRvIGxpc3RzIHRvIGZ1bGZpbGwgc3ViLWdvYWxzIGFuZCBtYWpvciBnb2FscwoKTWVudG9yCgpFbWJyeS1SaWRkbGUgT3JpZW50YXRpb24gVGVhbSAtIE9jdG9iZXIgMjAxMyB0byBKYW51YXJ5IDIwMTUKCiogR3VpZGVkIGZyZXNobWVuIHRvd2FyZHMgdHJhbnNpdGlvbmluZyBpbnRvIHN0dWRlbnQgbGlmZSBhdCBFbWJyeS1SaWRkbGUKCiogV29ya2VkIHdpdGggYSBncm91cCBvZiBzdHVkZW50cyB0byBwbGFuIGFuZCBzZXQgdXAgY2FtcHVzIGV2ZW50cyAoaS5lLiBob21lY29taW5nLCBjb252b2NhdGlvbiwgZXRjLikKCiogTWVudG9yZWQgZmlyc3QteWVhciBzdHVkZW50cyB0aHJvdWdob3V0IHRoZSBlbnRpcmUgc2Nob29sIHllYXIKClJGSUQgQXNzaXN0YW50CgpFbWJyeS1SaWRkbGUgUmFkaW8tRnJlcXVlbmN5IElkZW50aWZpY2F0aW9uIExhYm9yYXRvcnkgLSBKYW51YXJ5IDIwMTMgdG8gTWFyY2ggMjAxNAoKKiBVc2VkIFJGSUQgdGFncyB0byB0cmFjayBBcm15IFJPVEMgY2FkZXRzIGR1cmluZyBwaHlzaWNhbCB0cmFpbmluZwoKKiBDb3VwbGVkIFJGSUQgdGFncyB3aXRoIGEgR1BTIGFwcGxpY2F0aW9uIHRvIGdldCByZWFsLXRpbWUgbG9jYXRpb24gb2YgY2FkZXRzCgoqIFJlc2VhcmNoZWQgYXJlYXMgcmVnYXJkaW5nIGludmVudG9yeSBsb2NhdGlvbiBhbmQgYWlyY3JhZnQgY29tcG9uZW50IHRyYWNraW5nCgpMZWFkZXJzaGlwCgpFRFVDQVRJT04KCkJhY2hlbG9ycyBvZiBTY2llbmNlIGluIENvbXB1dGVyIFNjaWVuY2UKClVuaXZlcnNpdHkgb2YgQ2VudHJhbCBGbG9yaWRhIC0gT3JsYW5kbywgRkwKCkF1Z3VzdCAyMDExIHRvIE1heSAyMDE1CgpCYWNoZWxvcnMgb2YgU2NpZW5jZSBpbiBBaXIgVHJhZmZpYyBNYW5hZ2VtZW50CgpFbWJyeS1SaWRkbGUgQWVyb25hdXRpY2FsIFVuaXZlcnNpdHkgLSBEYXl0b25hIEJlYWNoLCBGTAoKQXVndXN0IDIwMTEgdG8gTWF5IDIwMTUKClNLSUxMUwoKQysrIChMZXNzIHRoYW4gMSB5ZWFyKSwgQ1NTIChMZXNzIHRoYW4gMSB5ZWFyKSwgSFRNTCAoTGVzcyB0aGFuIDEgeWVhciksIElPUyAoTGVzcyB0aGFuIDEgeWVhciksIEpBVkEKCihMZXNzIHRoYW4gMSB5ZWFyKQoKTElOS1MKCmh0dHA6Ly9naXRodWIuY29tL2NhcnNvbnRlc2gKCmh0dHA6Ly93d3cubGlua2VkaW4uY29tL2luL2NhcnNvbi1nZWRldXMtNjZhM2IxODAKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KClNraWxscwoKUHJvZ3JhbSBMYW5ndWFnZXM6IEMvQysrLCBKYXZhLCBIVE1ML0NTUywgSmF2YVNjcmlwdCwgQXJkdWlubywgUHl0aG9uLCBNYXRsYWIvU2ltdWxpbmssIERPT1JTLAoKUFJFUAoKU3lzdGVtczogV2luZG93cywgVW5peCwgTGludXgsIE1hYyBpT1MKClN0cmVuZ3RoIEZpbmRlciAyLjAsIGJ5IFRvbSBSYXRoOiBGdXR1cmlzdGljLCBTdHJhdGVnaWMsIEFuYWx5dGljYWwsIEFjdGl2YXRvciwgRGVsaWJlcmF0aXZlCgpMYW5ndWFnZXM6IEZyZW5jaA==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915660465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

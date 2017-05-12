@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2910221465432"  usageLimitType="allocation" usageLimit="100" currentUsage="27" remainingUsage="73" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Chencheng Shao</FormattedName>
+<GivenName>Chencheng</GivenName>
+<FamilyName>Shao</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Chencheng-Shao/0f01ac4ce660ca50</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>The University of Texas</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Research Assistant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Dallas</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>TX</Region>
+<Municipality>Richardson</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>* Develop and test SDN orchestrator using C++ to manage multilayer network, including L0 (DWDM) and L2 (Ethernet). * Research in cloud Robotic network application using ROS, C++, PCL, Gazebo.
+</Description>
+<StartDate>
+<AnyDate>2015-09-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>HUAWEI TECHNOLOGIES</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Senior Optical System Test Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>TX</Region>
+<Municipality>Plano</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Product support and system testing of optical equipment while in compliance with ITU-T standard and vendor specifications in US market and Latin American region. Lead a team to design and perform acceptance test cases to meet key Tier customers' specifications. Develop key demonstrations of Huawei's next generation WDM/OTN/ASON/40G/100G/MS-OTN/Layer-2 solution to customers based on customers' requirement.
+</Description>
+<StartDate>
+<AnyDate>2011-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Optical System Test Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Shenzhen</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2007-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Optical System Test Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Responsible for carrying out the verification and admittance testing activities for WDM/OTN products. Design and perform acceptance test cases to meet customer's specifications.
+</Description>
+<StartDate>
+<AnyDate>2007-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>VISIONSKY TECHNOLOGY LTD</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Software Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Guangzhou</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Carry out the software development and test engineering for Bank BI system using UNIX C programming. Conduct the software maintenance engineering provide on-site support.
+</Description>
+<StartDate>
+<AnyDate>2005-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>The University of Texas at Dallas</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>TX</Region>
+<Municipality>Richardson</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>Master of Telecommunication Engineering</DegreeName>
+<DegreeDate>
+<AnyDate>2017-08-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Telecommunication Engineering</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2015-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2017-08-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>SOUTH CHINA UNIVERSITY of TECHNOLOGY</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CN</Region>
+<Municipality>Guangzhou</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor's</DegreeName>
+<DegreeDate>
+<AnyDate>2005-07-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Applied Mathematics</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2001-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-07-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cisco">
+<CompetencyId description="HireAbility taxonomy" id="76" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cisco">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Ethernet">
+<CompetencyId description="HireAbility taxonomy" id="133" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Ethernet" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Extensible Markup Language (XML)">
+<CompetencyId description="HireAbility taxonomy" id="5969" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Extensible Markup Language (XML)">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hardware/Systems">
+<CompetencyId description="HireAbility taxonomy" id="6" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hardware/Systems">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="JSON">
+<CompetencyId description="HireAbility taxonomy" id="18370" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="JSON">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Networking">
+<CompetencyId description="HireAbility taxonomy" id="8" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Networking">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Programming">
+<CompetencyId description="HireAbility taxonomy" id="10" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Programming" lastUsed="2007-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Research">
+<CompetencyId description="HireAbility taxonomy" id="8958" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Research">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="REST">
+<CompetencyId description="HireAbility taxonomy" id="18490" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="REST">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Robotics">
+<CompetencyId description="HireAbility taxonomy" id="362" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Robotics" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Simple Network Management Protocol">
+<CompetencyId description="HireAbility taxonomy" id="4604" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Simple Network Management Protocol">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software" lastUsed="2007-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software Development">
+<CompetencyId description="HireAbility taxonomy" id="2232" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software Development" lastUsed="2007-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Structured Query Language">
+<CompetencyId description="HireAbility taxonomy" id="4806" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Structured Query Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="System Testing">
+<CompetencyId description="HireAbility taxonomy" id="11593" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="System Testing" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test">
+<CompetencyId description="HireAbility taxonomy" id="4723" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">9</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test Cases">
+<CompetencyId description="HireAbility taxonomy" id="13557" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test Cases" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Troubleshooting">
+<CompetencyId description="HireAbility taxonomy" id="2283" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Troubleshooting">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Unix">
+<CompetencyId description="HireAbility taxonomy" id="439" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Unix" lastUsed="2007-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2hlbmNoZW5nIFNoYW8KClJlc2VhcmNoIEFzc2lzdGFudCAtIFRoZSBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IERhbGxhcwoKIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQ2hlbmNoZW5nLVNoYW8vMGYwMWFjNGNlNjYwY2E1MAoKV2lsbGluZyB0byByZWxvY2F0ZTogQW55d2hlcmUKCkF1dGhvcml6ZWQgdG8gd29yayBpbiB0aGUgVVMgZm9yIGFueSBlbXBsb3llcgoKV09SSyBFWFBFUklFTkNFCgpSZXNlYXJjaCBBc3Npc3RhbnQKClRoZSBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IERhbGxhcyAtIFJpY2hhcmRzb24sIFRYIC0gU2VwdGVtYmVyIDIwMTUgdG8gUHJlc2VudAoKKiBEZXZlbG9wIGFuZCB0ZXN0IFNETiBvcmNoZXN0cmF0b3IgdXNpbmcgQysrIHRvIG1hbmFnZSBtdWx0aWxheWVyIG5ldHdvcmssIGluY2x1ZGluZyBMMCAoRFdETSkgYW5kIEwyCgooRXRoZXJuZXQpLgoKKiBSZXNlYXJjaCBpbiBjbG91ZCBSb2JvdGljIG5ldHdvcmsgYXBwbGljYXRpb24gdXNpbmcgUk9TLCBDKyssIFBDTCwgR2F6ZWJvLgoKU2VuaW9yIE9wdGljYWwgU3lzdGVtIFRlc3QgRW5naW5lZXIKCkhVQVdFSSBURUNITk9MT0dJRVMgLSBQbGFubywgVFggLSBOb3ZlbWJlciAyMDExIHRvIEphbnVhcnkgMjAxNQoKUHJvZHVjdCBzdXBwb3J0IGFuZCBzeXN0ZW0gdGVzdGluZyBvZiBvcHRpY2FsIGVxdWlwbWVudCB3aGlsZSBpbiBjb21wbGlhbmNlIHdpdGggSVRVLVQgc3RhbmRhcmQgYW5kIHZlbmRvcgoKc3BlY2lmaWNhdGlvbnMgaW4gVVMgbWFya2V0IGFuZCBMYXRpbiBBbWVyaWNhbiByZWdpb24uCgpMZWFkIGEgdGVhbSB0byBkZXNpZ24gYW5kIHBlcmZvcm0gYWNjZXB0YW5jZSB0ZXN0IGNhc2VzIHRvIG1lZXQga2V5IFRpZXIgY3VzdG9tZXJzJyBzcGVjaWZpY2F0aW9ucy4KCkRldmVsb3Aga2V5IGRlbW9uc3RyYXRpb25zIG9mIEh1YXdlaSdzIG5leHQgZ2VuZXJhdGlvbiBXRE0vT1ROL0FTT04vNDBHLzEwMEcvTVMtT1ROL0xheWVyLTIKCnNvbHV0aW9uIHRvIGN1c3RvbWVycyBiYXNlZCBvbiBjdXN0b21lcnMnIHJlcXVpcmVtZW50LgoKT3B0aWNhbCBTeXN0ZW0gVGVzdCBFbmdpbmVlcgoKSFVBV0VJIFRFQ0hOT0xPR0lFUyAtIFNoZW56aGVuLENoaW5hIC0gTm92ZW1iZXIgMjAwNyB0byBOb3ZlbWJlciAyMDExCgpPcHRpY2FsIFN5c3RlbSBUZXN0IEVuZ2luZWVyCgpSZXNwb25zaWJsZSBmb3IgY2Fycnlpbmcgb3V0IHRoZSB2ZXJpZmljYXRpb24gYW5kIGFkbWl0dGFuY2UgdGVzdGluZyBhY3Rpdml0aWVzIGZvciBXRE0vT1ROIHByb2R1Y3RzLgoKRGVzaWduIGFuZCBwZXJmb3JtIGFjY2VwdGFuY2UgdGVzdCBjYXNlcyB0byBtZWV0IGN1c3RvbWVyJ3Mgc3BlY2lmaWNhdGlvbnMuCgpTb2Z0d2FyZSBFbmdpbmVlcgoKVklTSU9OU0tZIFRFQ0hOT0xPR1kgTFREIC0gR3Vhbmd6aG91LCBDaGluYSAtIEp1bHkgMjAwNSB0byBPY3RvYmVyIDIwMDcKCkNhcnJ5IG91dCB0aGUgc29mdHdhcmUgZGV2ZWxvcG1lbnQgYW5kIHRlc3QgZW5naW5lZXJpbmcgZm9yIEJhbmsgQkkgc3lzdGVtIHVzaW5nIFVOSVggQyBwcm9ncmFtbWluZy4KCkNvbmR1Y3QgdGhlIHNvZnR3YXJlIG1haW50ZW5hbmNlIGVuZ2luZWVyaW5nOyBwcm92aWRlIG9uLXNpdGUgc3VwcG9ydC4KCkVEVUNBVElPTgoKTWFzdGVyIG9mIFRlbGVjb21tdW5pY2F0aW9uIEVuZ2luZWVyaW5nIGluIFRlbGVjb21tdW5pY2F0aW9uIEVuZ2luZWVyaW5nCgpUaGUgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBEYWxsYXMgLSBSaWNoYXJkc29uLCBUWAoKU2VwdGVtYmVyIDIwMTUgdG8gQXVndXN0IDIwMTcKCkJhY2hlbG9yJ3MgaW4gQXBwbGllZCBNYXRoZW1hdGljcwoKU09VVEggQ0hJTkEgVU5JVkVSU0lUWSBvZiBURUNITk9MT0dZIC0gR3Vhbmd6aG91LCBDTgoKU2VwdGVtYmVyIDIwMDEgdG8gSnVseSAyMDA1CgpTS0lMTFMKCkMrKyAoNCB5ZWFycyksIFNETiAoMiB5ZWFycyksIERXRE0vT1ROICg4IHllYXJzKQoKQURESVRJT05BTCBJTkZPUk1BVElPTgoKVEVDSE5JQ0FMIEVYUEVSVElTRQoKLSBPdmVyIDcgeWVhcnMgb2YgYWR2YW5jZWQgZXhwZXJpZW5jZSBpbiBPVE4vV0RNIG5ldHdvcmsgc3lzdGVtIHRlc3RpbmcsIGluY2x1ZGluZyBIdWF3ZWkgYW5kIENpc2NvCgpPVE4vV0RNIGVxdWlwbWVudHMuCgotIE92ZXIgNCB5ZWFycyBvZiBwcm9ncmFtbWluZyBleHBlcmllbmNlIGluIEMrKyBvbiB2YXJpZXR5IG9mIGZpZWxkLCBzdWNoIGFzIFNETi9PcmNoZXN0cmF0b3IsIFJPUyByb2JvdGljcwoKYXBwbGljYXRpb24sIGFsc28gZmFtaWxpYXIgd2l0aCBKYXZhLCBTUUwuCgotIFN0cm9uZyB3b3JraW5nIGV4cGVyaWVuY2UgaW4gZGV2ZWxvcGluZyBzb2Z0d2FyZSBkZWZpbmVkIG5ldHdvcmtpbmcgKFNETikgT3JjaGVzdHJhdG9yLCBhbmQgYWxzbyBnb29kCgprbm93bGVkZ2Ugb2YgdGhlIHJlbGF0ZWQgb3BlbiBzb3VyY2UgY29udHJvbGxlciAoT0RMLCBPTk9TKS4KCi0gU3Ryb25nIHdvcmtpbmcgZXhwZXJpZW5jZSBpbiBSRVNULCBSRVNUQ09ORiwgSlNPTiBhbmQgWE1MIHRlY2hub2xvZ2llcy4KCi0gRXhwZXJ0IGtub3dsZWRnZSBvZiBjYXJyaWVyLWNsYXNzIG5ldHdvcmtpbmcgYXJjaGl0ZWN0dXJlLCBpbmNsdWRpbmcgdGhlIGZvbGxvd2luZyB0ZWNobm9sb2dpZXM6IFdETS9PVE4sCgpMMiBTd2l0Y2hpbmcsIGFuZCBTTk1QLgoKLSBJbi1kZXB0aCB0ZWNobmljYWwga25vd2xlZGdlIG9mIE9wdGljYWwgTGF5ZXItMSBUcmFuc3BvcnQgc3lzdGVtcywgT1ROLCBST0FETSwgY3Jvc3MtY29ubmVjdCBzd2l0Y2hpbmcsCgpzaWduYWwgZ3Jvb21pbmcsIHByb3Zpc2lvbmluZywgYXMgd2VsbCBhcyByaW5nIGFuZCBtZXNoIG5ldHdvcmsgdG9wb2xvZ2llcy4KCi0gSGlnaGx5IHNraWxsZWQgaW4gaWRlbnRpZnlpbmcgYW5kIHRyb3VibGVzaG9vdGluZyBOZXR3b3JrIEVsZW1lbnQgc29mdHdhcmUgYW5kIGhhcmR3YXJlIGlzc3Vlcy4KCi0gRXh0ZW5zaXZlIGtub3dsZWRnZSBvZiBwcm9kdWN0IHRlc3QgcHJvY2VkdXJlLCBpbmNsdWRpbmcgYWRtaXR0YW5jZSB0ZXN0LCBCQklUIHRlc3QsIFNEViwgU1ZUIGFuZCBTSVQuCgpBRERJVElPTkFMIFNLSUxMUwoKKiBFeHBlcnQgd2l0aCBUTDEgY29tbWFuZCBsaW5lIGxhbmd1YWdlLgoKKiBUZXN0IGVxdWlwbWVudDogSkRTVSwgSVhJQSwgU3BpcmVudCBUZXN0IENlbnRlciwgQWdpbGVudCwgRVhGTywgU21hcnRiaXRzLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910221465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

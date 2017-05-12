@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2912214160532"  usageLimitType="allocation" usageLimit="100" currentUsage="63" remainingUsage="37" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Donna Sander</FormattedName>
+<GivenName>Donna</GivenName>
+<FamilyName>Sander</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<Municipality>Veteran</Municipality>
+<DeliveryAddress>
+<AddressLine>indeed.com/r/Donna-Sander/f9f196571786c471 Military</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Donna-Sander/f9f196571786c471</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Everything I.T.</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>I.T. Consultant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Oxnard</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Design/develop websites, computer repair, and anything related to I.T., I do it all. crew lead
+</Description>
+<StartDate>
+<AnyDate>2006-06-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Lockheed Martin</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Ontario</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Built and installed many types of wiring and cable on C-130 aircraft. Determined signal type (audio, video, digital, microwave, RF sensitive signal, AC and DC power, coax, twinax databus, fiber optics, etc.) and establishing wire runs throughout aircraft accordingly. Built/installed necessary structural supports using drawing, rivet guns, squeezes and pullers. Performed continuity, power on voltage, operational tests, and troubleshooting as necessary. Modified all non-depot level components. Read electrical and structural blueprints. Worked with engineering designing prototypes. Removed/installed/repaired all structural components/flight controls. (Hydraulic, pneumatic, electrical, fuel, structural) Performed final acceptance testing and troubleshooting. Worked as a crew lead for 4 years on a program installing in-flight air-refueling capability. Supervised a crew of up to 13 working on up to 14 aircraft spread out over the many acre facility and scheduled job assignments and monitored progress of the modifications of each of those aircraft. Submitted document changes/engineering improvements. Worked with quality to sell completed modifications to the USAF. I worked as a controller for about a year and a half, maintaining the inventory and status of all parts removed from, or to be installed on the aircraft, including high value and classified government parts, and interfaced with venders & various shops on base, for a major 2 yr. mod. Checked parts in and out for 'fit checks'. I also ordered all kits, and parts necessary for DR's, MDR's, Squawks, and kit shortages, inventoried all modification kits, and maintained up-to-date status on all parts, and provided daily reports to management. Spent some time in the skunkworks hangar as well.
+</Description>
+<StartDate>
+<AnyDate>1979-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1984-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>CSU Channel Islands</SchoolName>
+</School>
+<PostalAddress>
+<Region>CA</Region>
+</PostalAddress>
+<Degree>
+<DegreeName>Associate</DegreeName>
+<DegreeDate>
+<AnyDate>2009-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>none in Computer Science</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2006-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-06-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Oxnard College</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Oxnard</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2006-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Computer Information Systems</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2003-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-06-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>FAA A & P School mostly all general education requirements and some early Comp Tech</SchoolName>
+</School>
+<Degree>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>FAA Mechanic</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<MilitaryHistory>
+<ServiceDetail>
+<RankAchieved>
+<CurrentOrEndRank>Integrated Avionics Systems Specialist -Comm./Nav./Electronic Countermeasures</CurrentOrEndRank>
+</RankAchieved>
+<DatesOfService>
+<StartDate>
+<AnyDate>1979-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1984-08-01</AnyDate>
+</EndDate>
+</DatesOfService>
+<AreaOfExpertise>USAF 
+Kadena AB, Okinowa, Japan Worked on the flightline on F-15 fighter aircraft. I troubleshot malfunctioning avionics systems to component level. I was also on the elite "Red Ball" team that parked and worked at the end of the runway to quickly troubleshoot, repair, and launch or re-launch grounded aircraft. I was also double engine run, tie-down, 100% power (sound suppresser) certified. (vs. standard cert.=single engine 80%) I also designed a test box to troubleshoot an electronic countermeasures system on F-15's that continually failed built-in-test, but could not be powered up for operational test due to classified frequencies security risk.
+</AreaOfExpertise>
+</ServiceDetail>
+<ServiceDetail>
+<UnitOrDivision>Branch</UnitOrDivision>
+<RankAchieved>
+<CurrentOrEndRank>Service Country</CurrentOrEndRank>
+</RankAchieved>
+<DatesOfService>
+<StartDate>
+<AnyDate>1979-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1984-08-01</AnyDate>
+</EndDate>
+</DatesOfService>
+<AreaOfExpertise>USAF 
+Rank: E5
+</AreaOfExpertise>
+</ServiceDetail>
+<ServiceDetail>
+<RankAchieved>
+<CurrentOrEndRank>Avionics Technician</CurrentOrEndRank>
+</RankAchieved>
+<DatesOfService>
+<StartDate>
+<AnyDate>1979-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1979-02-01</AnyDate>
+</EndDate>
+</DatesOfService>
+<AreaOfExpertise>USAF 
+F-15 fighters
+</AreaOfExpertise>
+</ServiceDetail>
+</MilitaryHistory>
+<Qualifications>
+<Competency name="Acceptance Testing">
+<CompetencyId description="HireAbility taxonomy" id="11585" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Acceptance Testing" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Avionics">
+<CompetencyId description="HireAbility taxonomy" id="1597" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Avionics">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Blue Prints">
+<CompetencyId description="HireAbility taxonomy" id="16343" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Blue Prints" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Blueprints">
+<CompetencyId description="HireAbility taxonomy" id="9162" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Blueprints" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="FAA">
+<CompetencyId description="HireAbility taxonomy" id="17335" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="FAA">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Fiber Optics">
+<CompetencyId description="HireAbility taxonomy" id="16330" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Fiber Optics" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Integrate">
+<CompetencyId description="HireAbility taxonomy" id="4712" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Integrate" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Inventory">
+<CompetencyId description="HireAbility taxonomy" id="7670" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Inventory" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Rf">
+<CompetencyId description="HireAbility taxonomy" id="351" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Rf" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Security">
+<CompetencyId description="HireAbility taxonomy" id="7096" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Security" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Test">
+<CompetencyId description="HireAbility taxonomy" id="4723" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Test" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Troubleshooting">
+<CompetencyId description="HireAbility taxonomy" id="2283" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Troubleshooting" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Video">
+<CompetencyId description="HireAbility taxonomy" id="1764" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Video" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RG9ubmEgU2FuZGVyCgpXZWIgRGV2ZWxvcGVyIC8gQ29tcHV0ZXIgUmVwYWlyIC8gVGVjaCBTdXBwb3J0IC8gQ3VzdG9tZXIgU2VydmljZSAvIEFkbWluaXN0cmF0aXZlCgpPeG5hcmQsIENBIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvRG9ubmEtU2FuZGVyL2Y5ZjE5NjU3MTc4NmM0NzEKCk1pbGl0YXJ5IFZldGVyYW4sIFF1YWxpdHkgSW5zcGVjdG9yLCBGQUEgbWVjaGFuaWMsIEVsZWN0cmljaWFuLCBoYWQgY2FyZWVyIGNoYW5nZSB0byBXZWIgZGV2ZWxvcG1lbnQsCgpwcm9ncmFtbWluZywgYW5kIGNvbXB1dGVyIHJlcGFpci4gRGlhZ25vc3RpY3MgaXMgd2hhdCBJIGRvLCBJIGNhbiB0cm91Ymxlc2hvb3QgYW55dGhpbmcuCgpBdXRob3JpemVkIHRvIHdvcmsgaW4gdGhlIFVTIGZvciBhbnkgZW1wbG95ZXIKCldPUksgRVhQRVJJRU5DRQoKSS5ULiBDb25zdWx0YW50CgpFdmVyeXRoaW5nIEkuVC4gLSBPeG5hcmQsIENBIC0gSnVuZSAyMDA2IHRvIFByZXNlbnQKCkRlc2lnbi9kZXZlbG9wIHdlYnNpdGVzLCBjb21wdXRlciByZXBhaXIsIGFuZCBhbnl0aGluZyByZWxhdGVkIHRvIEkuVC4sIEkgZG8gaXQgYWxsLgoKY3JldyBsZWFkCgpMb2NraGVlZCBNYXJ0aW4gLSBPbnRhcmlvLCBDQSAtIEZlYnJ1YXJ5IDE5NzkgdG8gQXVndXN0IDE5ODQKCkJ1aWx0IGFuZCBpbnN0YWxsZWQgbWFueSB0eXBlcyBvZiB3aXJpbmcgYW5kIGNhYmxlIG9uIEMtMTMwIGFpcmNyYWZ0LiBEZXRlcm1pbmVkIHNpZ25hbCB0eXBlIChhdWRpbywKCnZpZGVvLCBkaWdpdGFsLCBtaWNyb3dhdmUsIFJGIHNlbnNpdGl2ZSBzaWduYWwsIEFDIGFuZCBEQyBwb3dlciwgY29heCwgdHdpbmF4IGRhdGFidXMsIGZpYmVyIG9wdGljcywKCmV0Yy4pIGFuZCBlc3RhYmxpc2hpbmcgd2lyZSBydW5zIHRocm91Z2hvdXQgYWlyY3JhZnQgYWNjb3JkaW5nbHkuIEJ1aWx0L2luc3RhbGxlZCBuZWNlc3Nhcnkgc3RydWN0dXJhbCBzdXBwb3J0cwoKdXNpbmcgZHJhd2luZywgcml2ZXQgZ3Vucywgc3F1ZWV6ZXMgYW5kIHB1bGxlcnMuIFBlcmZvcm1lZCBjb250aW51aXR5LCBwb3dlciBvbiB2b2x0YWdlLCBvcGVyYXRpb25hbAoKdGVzdHMsIGFuZCB0cm91Ymxlc2hvb3RpbmcgYXMgbmVjZXNzYXJ5LiBNb2RpZmllZCBhbGwgbm9uLWRlcG90IGxldmVsIGNvbXBvbmVudHMuIFJlYWQgZWxlY3RyaWNhbCBhbmQKCnN0cnVjdHVyYWwgYmx1ZXByaW50cy4gV29ya2VkIHdpdGggZW5naW5lZXJpbmcgZGVzaWduaW5nIHByb3RvdHlwZXMuIFJlbW92ZWQvaW5zdGFsbGVkL3JlcGFpcmVkIGFsbCBzdHJ1Y3R1cmFsCgpjb21wb25lbnRzL2ZsaWdodCBjb250cm9scy4gKEh5ZHJhdWxpYywgcG5ldW1hdGljLCBlbGVjdHJpY2FsLCBmdWVsLCBzdHJ1Y3R1cmFsKSBQZXJmb3JtZWQgZmluYWwgYWNjZXB0YW5jZQoKdGVzdGluZyBhbmQgdHJvdWJsZXNob290aW5nLiBXb3JrZWQgYXMgYSBjcmV3IGxlYWQgZm9yIDQgeWVhcnMgb24gYSBwcm9ncmFtIGluc3RhbGxpbmcgaW4tZmxpZ2h0IGFpci1yZWZ1ZWxpbmcKCmNhcGFiaWxpdHkuIFN1cGVydmlzZWQgYSBjcmV3IG9mIHVwIHRvIDEzIHdvcmtpbmcgb24gdXAgdG8gMTQgYWlyY3JhZnQgc3ByZWFkIG91dCBvdmVyIHRoZSBtYW55IGFjcmUgZmFjaWxpdHkgYW5kCgpzY2hlZHVsZWQgam9iIGFzc2lnbm1lbnRzIGFuZCBtb25pdG9yZWQgcHJvZ3Jlc3Mgb2YgdGhlIG1vZGlmaWNhdGlvbnMgb2YgZWFjaCBvZiB0aG9zZSBhaXJjcmFmdC4gU3VibWl0dGVkCgpkb2N1bWVudCBjaGFuZ2VzL2VuZ2luZWVyaW5nIGltcHJvdmVtZW50cy4gV29ya2VkIHdpdGggcXVhbGl0eSB0byBzZWxsIGNvbXBsZXRlZCBtb2RpZmljYXRpb25zIHRvIHRoZQoKVVNBRi4gSSB3b3JrZWQgYXMgYSBjb250cm9sbGVyIGZvciBhYm91dCBhIHllYXIgYW5kIGEgaGFsZiwgbWFpbnRhaW5pbmcgdGhlIGludmVudG9yeSBhbmQgc3RhdHVzIG9mIGFsbCBwYXJ0cwoKcmVtb3ZlZCBmcm9tLCBvciB0byBiZSBpbnN0YWxsZWQgb24gdGhlIGFpcmNyYWZ0LCBpbmNsdWRpbmcgaGlnaCB2YWx1ZSBhbmQgY2xhc3NpZmllZCBnb3Zlcm5tZW50IHBhcnRzLCBhbmQKCmludGVyZmFjZWQgd2l0aCB2ZW5kZXJzICYgdmFyaW91cyBzaG9wcyBvbiBiYXNlLCBmb3IgYSBtYWpvciAyIHlyLiBtb2QuIENoZWNrZWQgcGFydHMgaW4gYW5kIG91dCBmb3IgJ2ZpdAoKY2hlY2tzJy4gSSBhbHNvIG9yZGVyZWQgYWxsIGtpdHMsIGFuZCBwYXJ0cyBuZWNlc3NhcnkgZm9yIERSJ3MsIE1EUidzLCBTcXVhd2tzLCBhbmQga2l0IHNob3J0YWdlcywgaW52ZW50b3JpZWQKCmFsbCBtb2RpZmljYXRpb24ga2l0cywgYW5kIG1haW50YWluZWQgdXAtdG8tZGF0ZSBzdGF0dXMgb24gYWxsIHBhcnRzLCBhbmQgcHJvdmlkZWQgZGFpbHkgcmVwb3J0cyB0byBtYW5hZ2VtZW50LgoKU3BlbnQgc29tZSB0aW1lIGluIHRoZSBza3Vua3dvcmtzIGhhbmdhciBhcyB3ZWxsLgoKSW50ZWdyYXRlZCBBdmlvbmljcyBTeXN0ZW1zIFNwZWNpYWxpc3QgLUNvbW0uL05hdi4vRWxlY3Ryb25pYyBDb3VudGVybWVhc3VyZXMgMi83OSB0byA4Lzg0CgpVU0FGLCBLYWRlbmEgQUIsIE9raW5vd2EsIEphcGFuCgpXb3JrZWQgb24gdGhlIGZsaWdodGxpbmUgb24gRi0xNSBmaWdodGVyIGFpcmNyYWZ0LiBJIHRyb3VibGVzaG90IG1hbGZ1bmN0aW9uaW5nIGF2aW9uaWNzIHN5c3RlbXMgdG8gY29tcG9uZW50CgpsZXZlbC4gSSB3YXMgYWxzbyBvbiB0aGUgZWxpdGUgIlJlZCBCYWxsIiB0ZWFtIHRoYXQgcGFya2VkIGFuZCB3b3JrZWQgYXQgdGhlIGVuZCBvZiB0aGUgcnVud2F5IHRvIHF1aWNrbHkKCnRyb3VibGVzaG9vdCwgcmVwYWlyLCBhbmQgbGF1bmNoIG9yIHJlLWxhdW5jaCBncm91bmRlZCBhaXJjcmFmdC4gSSB3YXMgYWxzbyBkb3VibGUgZW5naW5lIHJ1biwgdGllLWRvd24sIDEwMCUKCnBvd2VyIChzb3VuZCBzdXBwcmVzc2VyKSBjZXJ0aWZpZWQuICh2cy4gc3RhbmRhcmQgY2VydC49c2luZ2xlIGVuZ2luZSA4MCUpIEkgYWxzbyBkZXNpZ25lZCBhIHRlc3QgYm94IHRvCgp0cm91Ymxlc2hvb3QgYW4gZWxlY3Ryb25pYyBjb3VudGVybWVhc3VyZXMgc3lzdGVtIG9uIEYtMTUncyB0aGF0IGNvbnRpbnVhbGx5IGZhaWxlZCBidWlsdC1pbi10ZXN0LCBidXQgY291bGQgbm90CgpiZSBwb3dlcmVkIHVwIGZvciBvcGVyYXRpb25hbCB0ZXN0IGR1ZSB0byBjbGFzc2lmaWVkIGZyZXF1ZW5jaWVzIHNlY3VyaXR5IHJpc2suCgpFRFVDQVRJT04KCm5vbmUgaW4gQ29tcHV0ZXIgU2NpZW5jZQoKQ1NVIENoYW5uZWwgSXNsYW5kcyAtIENoYW5uZWwgSXNsYW5kcywgQ0EKCkF1Z3VzdCAyMDA2IHRvIEp1bmUgMjAwOQoKQXNzb2NpYXRlIGluIENvbXB1dGVyIEluZm9ybWF0aW9uIFN5c3RlbXMKCk94bmFyZCBDb2xsZWdlIC0gT3huYXJkLCBDQQoKQXVndXN0IDIwMDMgdG8gSnVuZSAyMDA2CgpNYXRoZW1hdGljcwoKRkFBIEEgJiBQIFNjaG9vbAoKbW9zdGx5IGFsbCBnZW5lcmFsIGVkdWNhdGlvbiByZXF1aXJlbWVudHMgYW5kIHNvbWUgZWFybHkgQ29tcCBUZWNoCgpNSUxJVEFSWSBTRVJWSUNFCgpTZXJ2aWNlIENvdW50cnk6IFVTCgpCcmFuY2g6IFVTQUYKClJhbms6IEU1CgpGZWJydWFyeSAxOTc5IHRvIEF1Z3VzdCAxOTg0CgpBdmlvbmljcyBUZWNobmljaWFuLCBGLTE1IGZpZ2h0ZXJzCgpDRVJUSUZJQ0FUSU9OUy9MSUNFTlNFUwoKRkFBIE1lY2hhbmlj</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912214160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

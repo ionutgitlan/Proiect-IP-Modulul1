@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2913260465432"  usageLimitType="allocation" usageLimit="100" currentUsage="17" remainingUsage="83" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Carlos Mayo</FormattedName>
+<GivenName>Carlos</GivenName>
+<FamilyName>Mayo</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Carlos-Mayo/03aee4fff1b9007e</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Angry Turtle Entertainment & Tricky Walrus Studios</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>C# Programmer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>până la Prezent - This degree focused on building the base for a higher education. My goal here is to build a small studio where we can create fun Most of my fundamental educational blocks were established here. projects and products. I'm in charge of creating innovative game ideas, bringing them to prototype, and then build the game according to the feedback and testing. Daily tasks include Technical Skills: programming, game engine concepts, the creation of art, and testing.
+</Description>
+<StartDate>
+<AnyDate>2015-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Home Depot</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>C# Programmer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Kitchen and Bath Sales Associate până la 2015 developing interesting solutions to solve problems on the My primary focus for this position was providing excellent customer computer. service to do-it-yourself customers. I explained materials and Computer hardware repair installation procedures to the customers to fulfill most, if not all, of the customer's project needs. My second tasks was stocking the I can diagnose many computer hardware issues because I shelving or to use Home Depot terminology, "packing down." The used to fix computers in my spare time when I was replenishment of product often requires the use of heavy younger. machinery, of which I had a license to, and the knowledge of safety procedures according to company policy. * Apple & Windows & MS Office I can operate on both windows and mac software
+</Description>
+<StartDate>
+<AnyDate>2014-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Miami-Dade College</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Vice President / Co-Founder</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>FL</Region>
+<Municipality>Miami</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>până la 2010
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Dixie Animal Hospital</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Veterinary Technician</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>până la 2010 experience with windows dating back to Windows 95, I provided medical care of canine and feline patients for this and my home computer is a mac on which I have three position. The hospital doctors entrusted me with pre-operation years experience with. I have used the MS suite on both procedures such as: blood analysis, medications, and proper machines for that length of time as well. restraining of patients. My duties also included surgical operation monitoring of anesthesia machines and assistance, post-operation * Problem Solver care by way of monitoring, kennel preparation, and the Not only am I able to find the problem, but I also find administration of controlled drugs under the supervision of the multiple solutions to solve the problem. I strive to make medical staff. I cleaned and maintained surgical equipment and my core duties as efficient as possible so I have time to facilities daily. This job also presented me with extreme customer work on project for organizational improvement. care situations such as: euthanasia or the loss of a patient, were common. * Efficiency/Adaptable Computer Sales Tiger Direct - 2006 până la 2006 improve through experimentation and different Duties were to sell quality products over the phone to customers approaches. calling in for assistance. Strong knowledge of consumer electronics with a specialization in personal computers was a requirement for * Ability to Self Teach this position. Consumers were given personal recommendations of which quality parts to purchase and use on their personal I often prefer to learn new subjects at my own pace and computing projects. do not need too much explanation to grasp difficult concepts. I yearn for knowledge on an everyday basis and spend most of my time learning when possible.
+</Description>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Florida</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Apple">
+<CompetencyId description="HireAbility taxonomy" id="25" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Apple" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C# Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="5829" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C# Programming Language">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Consumer Electronics">
+<CompetencyId description="HireAbility taxonomy" id="9874" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Consumer Electronics" lastUsed="2007-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Electronics">
+<CompetencyId description="HireAbility taxonomy" id="1929" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Electronics" lastUsed="2007-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Entertainment">
+<CompetencyId description="HireAbility taxonomy" id="15349" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Entertainment">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Hardware/Systems">
+<CompetencyId description="HireAbility taxonomy" id="6" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Hardware/Systems" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Install">
+<CompetencyId description="HireAbility taxonomy" id="4711" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Install" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office" lastUsed="2007-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows">
+<CompetencyId description="HireAbility taxonomy" id="5217" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows 95">
+<CompetencyId description="HireAbility taxonomy" id="4475" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows 95" lastUsed="2007-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Software">
+<CompetencyId description="HireAbility taxonomy" id="11082" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Software" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Surgical">
+<CompetencyId description="HireAbility taxonomy" id="8172" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Surgical" lastUsed="2007-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2FybG9zIE1heW8KCkMjIFByb2dyYW1tZXIgLSBBbmdyeSBUdXJ0bGUgRW50ZXJ0YWlubWVudCAmIFRyaWNreSBXYWxydXMgU3R1ZGlvcwoKTWlhbWksIEZMIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQ2FybG9zLU1heW8vMDNhZWU0ZmZmMWI5MDA3ZQoKV09SSyBFWFBFUklFTkNFCgpDIyBQcm9ncmFtbWVyCgpBbmdyeSBUdXJ0bGUgRW50ZXJ0YWlubWVudCAmIFRyaWNreSBXYWxydXMgU3R1ZGlvcyAtIDIwMTUgcMOibsSDIGxhIFByZXplbnQKCjIwMTUgLSBUaGlzIGRlZ3JlZSBmb2N1c2VkIG9uIGJ1aWxkaW5nIHRoZSBiYXNlIGZvciBhIGhpZ2hlciBlZHVjYXRpb24uCgpNeSBnb2FsIGhlcmUgaXMgdG8gYnVpbGQgYSBzbWFsbCBzdHVkaW8gd2hlcmUgd2UgY2FuIGNyZWF0ZSBmdW4KCk1vc3Qgb2YgbXkgZnVuZGFtZW50YWwgZWR1Y2F0aW9uYWwgYmxvY2tzIHdlcmUgZXN0YWJsaXNoZWQgaGVyZS4KCnByb2plY3RzIGFuZCBwcm9kdWN0cy4gSSdtIGluIGNoYXJnZSBvZiBjcmVhdGluZyBpbm5vdmF0aXZlIGdhbWUKCmlkZWFzLCBicmluZ2luZyB0aGVtIHRvIHByb3RvdHlwZSwgYW5kIHRoZW4gYnVpbGQgdGhlIGdhbWUKCmFjY29yZGluZyB0byB0aGUgZmVlZGJhY2sgYW5kIHRlc3RpbmcuIERhaWx5IHRhc2tzIGluY2x1ZGUgVGVjaG5pY2FsIFNraWxsczoKCnByb2dyYW1taW5nLCBnYW1lIGVuZ2luZSBjb25jZXB0cywgdGhlIGNyZWF0aW9uIG9mIGFydCwgYW5kCgp0ZXN0aW5nLgoKKiBDIyBQcm9ncmFtbWVyCgpLaXRjaGVuIGFuZCBCYXRoIFNhbGVzIEFzc29jaWF0ZQoKSG9tZSBEZXBvdCAtIDIwMTQgcMOibsSDIGxhIDIwMTUKCmRldmVsb3BpbmcgaW50ZXJlc3Rpbmcgc29sdXRpb25zIHRvIHNvbHZlIHByb2JsZW1zIG9uIHRoZQoKTXkgcHJpbWFyeSBmb2N1cyBmb3IgdGhpcyBwb3NpdGlvbiB3YXMgcHJvdmlkaW5nIGV4Y2VsbGVudCBjdXN0b21lciBjb21wdXRlci4KCnNlcnZpY2UgdG8gZG8taXQteW91cnNlbGYgY3VzdG9tZXJzLiBJIGV4cGxhaW5lZCBtYXRlcmlhbHMgYW5kCgoqIENvbXB1dGVyIGhhcmR3YXJlIHJlcGFpcgoKaW5zdGFsbGF0aW9uIHByb2NlZHVyZXMgdG8gdGhlIGN1c3RvbWVycyB0byBmdWxmaWxsIG1vc3QsIGlmIG5vdCBhbGwsIG9mIHRoZSBjdXN0b21lcidzIHByb2plY3QgbmVlZHMuIE15IHNlY29uZAoKdGFza3Mgd2FzIHN0b2NraW5nIHRoZSBJIGNhbiBkaWFnbm9zZSBtYW55IGNvbXB1dGVyIGhhcmR3YXJlIGlzc3VlcyBiZWNhdXNlIEkKCnNoZWx2aW5nIG9yIHRvIHVzZSBIb21lIERlcG90IHRlcm1pbm9sb2d5LCAicGFja2luZyBkb3duLiIgVGhlIHVzZWQgdG8gZml4IGNvbXB1dGVycyBpbiBteSBzcGFyZSB0aW1lCgp3aGVuIEkgd2FzCgpyZXBsZW5pc2htZW50IG9mIHByb2R1Y3Qgb2Z0ZW4gcmVxdWlyZXMgdGhlIHVzZSBvZiBoZWF2eSB5b3VuZ2VyLgoKbWFjaGluZXJ5LCBvZiB3aGljaCBJIGhhZCBhIGxpY2Vuc2UgdG8sIGFuZCB0aGUga25vd2xlZGdlIG9mIHNhZmV0eQoKcHJvY2VkdXJlcyBhY2NvcmRpbmcgdG8gY29tcGFueSBwb2xpY3kuICogQXBwbGUgJiBXaW5kb3dzICYgTVMgT2ZmaWNlCgpJIGNhbiBvcGVyYXRlIG9uIGJvdGggd2luZG93cyBhbmQgbWFjIHNvZnR3YXJlCgpWaWNlIFByZXNpZGVudCAvIENvLUZvdW5kZXIKCk1pYW1pLURhZGUgQ29sbGVnZSAtIE1pYW1pLCBGTCAtIDIwMTAgcMOibsSDIGxhIDIwMTAKClZldGVyaW5hcnkgVGVjaG5pY2lhbgoKRGl4aWUgQW5pbWFsIEhvc3BpdGFsIC0gMjAwNyBww6JuxIMgbGEgMjAxMAoKZXhwZXJpZW5jZSB3aXRoIHdpbmRvd3MgZGF0aW5nIGJhY2sgdG8gV2luZG93cyA5NSwKCkkgcHJvdmlkZWQgbWVkaWNhbCBjYXJlIG9mIGNhbmluZSBhbmQgZmVsaW5lIHBhdGllbnRzIGZvciB0aGlzIGFuZCBteSBob21lIGNvbXB1dGVyIGlzIGEgbWFjIG9uIHdoaWNoIEkKCmhhdmUgdGhyZWUKCnBvc2l0aW9uLiBUaGUgaG9zcGl0YWwgZG9jdG9ycyBlbnRydXN0ZWQgbWUgd2l0aCBwcmUtb3BlcmF0aW9uIHllYXJzIGV4cGVyaWVuY2Ugd2l0aC4gSSBoYXZlIHVzZWQgdGhlIE1TIHN1aXRlCgpvbiBib3RoIHByb2NlZHVyZXMgc3VjaCBhczogYmxvb2QgYW5hbHlzaXMsIG1lZGljYXRpb25zLCBhbmQgcHJvcGVyIG1hY2hpbmVzIGZvciB0aGF0IGxlbmd0aCBvZiB0aW1lIGFzIHdlbGwuCgpyZXN0cmFpbmluZyBvZiBwYXRpZW50cy4gTXkgZHV0aWVzIGFsc28gaW5jbHVkZWQgc3VyZ2ljYWwgb3BlcmF0aW9uCgptb25pdG9yaW5nIG9mIGFuZXN0aGVzaWEgbWFjaGluZXMgYW5kIGFzc2lzdGFuY2UsIHBvc3Qtb3BlcmF0aW9uICogUHJvYmxlbSBTb2x2ZXIKCmNhcmUgYnkgd2F5IG9mIG1vbml0b3JpbmcsIGtlbm5lbCBwcmVwYXJhdGlvbiwgYW5kIHRoZSBOb3Qgb25seSBhbSBJIGFibGUgdG8gZmluZCB0aGUgcHJvYmxlbSwgYnV0IEkgYWxzbyBmaW5kCgphZG1pbmlzdHJhdGlvbiBvZiBjb250cm9sbGVkIGRydWdzIHVuZGVyIHRoZSBzdXBlcnZpc2lvbiBvZiB0aGUgbXVsdGlwbGUgc29sdXRpb25zIHRvIHNvbHZlIHRoZSBwcm9ibGVtLiBJIHN0cml2ZQoKdG8gbWFrZQoKbWVkaWNhbCBzdGFmZi4gSSBjbGVhbmVkIGFuZCBtYWludGFpbmVkIHN1cmdpY2FsIGVxdWlwbWVudCBhbmQgbXkgY29yZSBkdXRpZXMgYXMgZWZmaWNpZW50IGFzIHBvc3NpYmxlIHNvIEkKCmhhdmUgdGltZSB0bwoKZmFjaWxpdGllcyBkYWlseS4gVGhpcyBqb2IgYWxzbyBwcmVzZW50ZWQgbWUgd2l0aCBleHRyZW1lIGN1c3RvbWVyCgp3b3JrIG9uIHByb2plY3QgZm9yIG9yZ2FuaXphdGlvbmFsIGltcHJvdmVtZW50LgoKY2FyZSBzaXR1YXRpb25zIHN1Y2ggYXM6IGV1dGhhbmFzaWEgb3IgdGhlIGxvc3Mgb2YgYSBwYXRpZW50LCB3ZXJlCgpjb21tb24uICogRWZmaWNpZW5jeS9BZGFwdGFibGUKCkNvbXB1dGVyIFNhbGVzCgpUaWdlciBEaXJlY3QgLSAyMDA2IHDDom7EgyBsYSAyMDA2CgppbXByb3ZlIHRocm91Z2ggZXhwZXJpbWVudGF0aW9uIGFuZCBkaWZmZXJlbnQKCkR1dGllcyB3ZXJlIHRvIHNlbGwgcXVhbGl0eSBwcm9kdWN0cyBvdmVyIHRoZSBwaG9uZSB0byBjdXN0b21lcnMKCmFwcHJvYWNoZXMuCgpjYWxsaW5nIGluIGZvciBhc3Npc3RhbmNlLiBTdHJvbmcga25vd2xlZGdlIG9mIGNvbnN1bWVyIGVsZWN0cm9uaWNzCgp3aXRoIGEgc3BlY2lhbGl6YXRpb24gaW4gcGVyc29uYWwgY29tcHV0ZXJzIHdhcyBhIHJlcXVpcmVtZW50IGZvciAqIEFiaWxpdHkgdG8gU2VsZiBUZWFjaAoKdGhpcyBwb3NpdGlvbi4gQ29uc3VtZXJzIHdlcmUgZ2l2ZW4gcGVyc29uYWwgcmVjb21tZW5kYXRpb25zIG9mIHdoaWNoIHF1YWxpdHkgcGFydHMgdG8gcHVyY2hhc2UgYW5kIHVzZQoKb24gdGhlaXIgcGVyc29uYWwgSSBvZnRlbiBwcmVmZXIgdG8gbGVhcm4gbmV3IHN1YmplY3RzIGF0IG15IG93biBwYWNlIGFuZAoKY29tcHV0aW5nIHByb2plY3RzLiBkbyBub3QgbmVlZCB0b28gbXVjaCBleHBsYW5hdGlvbiB0byBncmFzcCBkaWZmaWN1bHQKCmNvbmNlcHRzLiBJIHllYXJuIGZvciBrbm93bGVkZ2Ugb24gYW4gZXZlcnlkYXkgYmFzaXMgYW5kIHNwZW5kIG1vc3Qgb2YgbXkgdGltZSBsZWFybmluZyB3aGVuIHBvc3NpYmxlLgoKRURVQ0FUSU9OCgpVbml2ZXJzaXR5IG9mIEZsb3JpZGEKCjIwMTY=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913260465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

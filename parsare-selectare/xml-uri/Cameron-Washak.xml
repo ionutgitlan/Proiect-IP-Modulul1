@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2911130465432"  usageLimitType="allocation" usageLimit="100" currentUsage="13" remainingUsage="87" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Cameron Washak</FormattedName>
+<GivenName>Cameron</GivenName>
+<FamilyName>Washak</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Walpole</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Cameron-Washak/75b674b362ba0b55</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Metropolitan Cabinet</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Project Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Norwood</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Met with a consulting firm to select the hardware and software needed for the envisioned project * Worked with an outside vendor to make changes to their base program to keep costs down as well as meet our needs * Tested software and hardware to meet requirements of the work in process system
+</Description>
+<StartDate>
+<AnyDate>2016-08-01</AnyDate>
+</StartDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Project Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Norwood</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Worked with a third-party vendor to design a custom program to accurately track cabinets after assembly though shipment * Created a training program to keep all employees up to date on system improvements * Managed a team of two that dealt with the day to day issues with the programing software * Pioneered continuous growth of the system through four program expansions
+</Description>
+<StartDate>
+<AnyDate>2016-05-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Metropolitan Cabinet and Countertops</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Manufacturing Engineer Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Norwood</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>* Manage a team that implements and maintains a custom Work in Process tracking system * Design and executed an access database to track machine problems and maintenance to make it easy to accomplish repairs and upkeep * Spearhead a project that tracks all completed goods through a customized barcoding program * Wrote Excel macros with userforms to simplify data entry as well as preparing analytic data for identifying and fixing problems * Continuous training of all operators on their machines proper use, setup and maintenance * Initiate the use of the Continuous Improvement process to attack low hanging fruit causing larger manufacturing problems * Supervise quality of all manufactured products by doing random testing to ensure the quality of all parts * Researching new technologies to implement cost savings and increase productivity * Reduce tact times on assembly lines by optimizing parts to reduce machining and assembly time * Working on special projects for new hardware and custom products * Creating gauges, fixtures and jigs to increase quality and standardize work * Design new shop layout for improved productivity and flow with AutoCAD * Create a Standard Workbook to properly train employees and manage changes to keep standards current
+</Description>
+<StartDate>
+<AnyDate>2014-10-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Bridgemans Restaurant</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Head of Bussing and Expedition Staff</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Hull</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>* Started as a dish washer and was quickly promoted to busser and was moved to the more difficult location * Promoted to expediter studied the menu and learned to prepare the food along with the presentation of the food * After 2 years became head busser and expediter along with being a desert and salad chef then later became a sever * Starting this summer I took charge of main kitchen and increased efficiency and decreased wait time for food by 2 min * Never received a negative complaint in 4 years serving over 50 people on a weekday night and 150 on a weekend night
+</Description>
+<StartDate>
+<AnyDate>2008-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Manufacturing Lab Assistant</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Wentworth Institute of Technology - Maintain the cleaning and functional operation of the lab equipment 〓 Supervise the students and instruct them on proper use of the machine while enforcing safety protocols - * Maintained all lab equipment for easy use in all student based operation * Taught students how to properly use equipment safely and accurately * Supervised the students and instructed them on proper use of the machine while enforcing safety protocols
+</Description>
+<StartDate>
+<AnyDate>2012-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Wentworth Institute of Technology</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Project Leader</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Boston</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Leader of a group of four students in the design process of the second engine with the required adjustments * Built a working model of the second engine in an eight-week time span with four hours a week of lab time * First sophomores at Wentworth to build a functioning model
+</Description>
+<StartDate>
+<AnyDate>2012-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Volkswagen Group of America</EmployerOrgName>
+<JobType>Intern</JobType>
+<PositionHistory>
+<Title>Quality Engineering Intern</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Fall River</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>* Instituted Poka Yoke Systems to create a system using colors, numbers and shapes to reduce errors by 45% * Innovated Scraping Reporting system taking it from 20% to 99% in six weeks * Reviewed engine dress processes for tact time improvements finding a reduction of 2.4 seconds per pitch * Built device to collect dropped parts preventing possible injuries Manufacturing Engineer intern Symmetry medical -
+</Description>
+<StartDate>
+<AnyDate>2013-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Wobble 2</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Project leader</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Fall River</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Worked with the customer focus team on new and old products * Developed Methods of Manufacture along with inspection documentation * Analyzed designs for manufacturability making changes improve time and cost * Made Base Quotes from prints for new products * Created Documented Control Plans for new products * Expedited the processing of first production run parts ship on time
+</Description>
+<StartDate>
+<AnyDate>2011-12-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Leader of a group</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>of 4 students in the design process of the second engine with the required adjustments * Built a working model of the second engine in a 8 week time span with 4 hours a week of lab time with minimal help from group and supervisors * Model work on the second start functioning to with minimal deviation of predicted values * Only sophomores at Wentworth to build a functioning model
+</Description>
+<StartDate>
+<AnyDate>2011-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Volkswagen Group Chattanooga Operations</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Project Leader</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>TN</Region>
+<Municipality>Chattanooga</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Created a training program that used PowerPoints, Colors and Shapes to train shop floor personnel on proper procedures * Directed a group of three other interns in collecting data in a SAP System * Reported findings in production meetings with upper management every morning
+</Description>
+<StartDate>
+<AnyDate>2011-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Wentworth Institute of Technology</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>MA</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="3 Axis">
+<CompetencyId description="HireAbility taxonomy" id="16174" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="3 Axis">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Applications">
+<CompetencyId description="HireAbility taxonomy" id="2" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Applications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="ARM">
+<CompetencyId description="HireAbility taxonomy" id="17078" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="ARM">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Associate in Risk Management">
+<CompetencyId description="HireAbility taxonomy" id="17079" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Associate in Risk Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Autocad">
+<CompetencyId description="HireAbility taxonomy" id="17369" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Autocad" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Autodesk AutoCAD">
+<CompetencyId description="HireAbility taxonomy" id="4287" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Autodesk AutoCAD" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="CNC">
+<CompetencyId description="HireAbility taxonomy" id="14299" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="CNC">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Coding">
+<CompetencyId description="HireAbility taxonomy" id="6740" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Coding">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Consulting">
+<CompetencyId description="HireAbility taxonomy" id="1874" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Consulting" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Data Entry">
+<CompetencyId description="HireAbility taxonomy" id="4786" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Data Entry" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Documentation">
+<CompetencyId description="HireAbility taxonomy" id="12375" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Documentation" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Engineering">
+<CompetencyId description="HireAbility taxonomy" id="1932" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Engineering" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Expediter">
+<CompetencyId description="HireAbility taxonomy" id="12411" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Expediter" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Layout">
+<CompetencyId description="HireAbility taxonomy" id="9379" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Layout" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Manufacturing">
+<CompetencyId description="HireAbility taxonomy" id="2028" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Manufacturing" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="MCAD Solidworks">
+<CompetencyId description="HireAbility taxonomy" id="4717" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="MCAD Solidworks">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Excel">
+<CompetencyId description="HireAbility taxonomy" id="252" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Excel">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft PowerPoint">
+<CompetencyId description="HireAbility taxonomy" id="260" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft PowerPoint">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Visual Basic for Applications">
+<CompetencyId description="HireAbility taxonomy" id="6378" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Visual Basic for Applications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Word">
+<CompetencyId description="HireAbility taxonomy" id="266" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Word">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="MIG">
+<CompetencyId description="HireAbility taxonomy" id="15125" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="MIG">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Operating Systems">
+<CompetencyId description="HireAbility taxonomy" id="9" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Operating Systems">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Leader">
+<CompetencyId description="HireAbility taxonomy" id="1718" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Leader" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Management">
+<CompetencyId description="HireAbility taxonomy" id="337" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Management" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Manager">
+<CompetencyId description="HireAbility taxonomy" id="1719" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Manager" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality">
+<CompetencyId description="HireAbility taxonomy" id="19259" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality Assurance">
+<CompetencyId description="HireAbility taxonomy" id="2163" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality Assurance" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Router">
+<CompetencyId description="HireAbility taxonomy" id="6517" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Router">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="SAP">
+<CompetencyId description="HireAbility taxonomy" id="364" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="SAP" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Welding">
+<CompetencyId description="HireAbility taxonomy" id="7801" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Welding">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2FtZXJvbiBXYXNoYWsKCldhbHBvbGUsIE1BIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQ2FtZXJvbi1XYXNoYWsvNzViNjc0YjM2MmJhMGI1NQoKV2lsbGluZyB0byByZWxvY2F0ZSB0bzogVmlyZ2luaWEgLSBNYXJ5bGFuZAoKQXV0aG9yaXplZCB0byB3b3JrIGluIHRoZSBVUyBmb3IgYW55IGVtcGxveWVyCgpXT1JLIEVYUEVSSUVOQ0UKClByb2plY3QgTWFuYWdlcgoKTWV0cm9wb2xpdGFuIENhYmluZXQgLSBOb3J3b29kLCBNQSAtIEF1Z3VzdCAyMDE2IHRvIFByZXNlbnQKCiogTWV0IHdpdGggYSBjb25zdWx0aW5nIGZpcm0gdG8gc2VsZWN0IHRoZSBoYXJkd2FyZSBhbmQgc29mdHdhcmUgbmVlZGVkIGZvciB0aGUgZW52aXNpb25lZCBwcm9qZWN0CgoqIFdvcmtlZCB3aXRoIGFuIG91dHNpZGUgdmVuZG9yIHRvIG1ha2UgY2hhbmdlcyB0byB0aGVpciBiYXNlIHByb2dyYW0gdG8ga2VlcCBjb3N0cyBkb3duIGFzIHdlbGwgYXMgbWVldAoKb3VyIG5lZWRzCgoqIFRlc3RlZCBzb2Z0d2FyZSBhbmQgaGFyZHdhcmUgdG8gbWVldCByZXF1aXJlbWVudHMgb2YgdGhlIHdvcmsgaW4gcHJvY2VzcyBzeXN0ZW0KClByb2plY3QgTWFuYWdlcgoKTWV0cm9wb2xpdGFuIENhYmluZXQgLSBOb3J3b29kLCBNQSAtIE1heSAyMDE2IHRvIFByZXNlbnQKCiogV29ya2VkIHdpdGggYSB0aGlyZC1wYXJ0eSB2ZW5kb3IgdG8gZGVzaWduIGEgY3VzdG9tIHByb2dyYW0gdG8gYWNjdXJhdGVseSB0cmFjayBjYWJpbmV0cyBhZnRlciBhc3NlbWJseQoKdGhvdWdoIHNoaXBtZW50CgoqIENyZWF0ZWQgYSB0cmFpbmluZyBwcm9ncmFtIHRvIGtlZXAgYWxsIGVtcGxveWVlcyB1cCB0byBkYXRlIG9uIHN5c3RlbSBpbXByb3ZlbWVudHMKCiogTWFuYWdlZCBhIHRlYW0gb2YgdHdvIHRoYXQgZGVhbHQgd2l0aCB0aGUgZGF5IHRvIGRheSBpc3N1ZXMgd2l0aCB0aGUgcHJvZ3JhbWluZyBzb2Z0d2FyZQoKKiBQaW9uZWVyZWQgY29udGludW91cyBncm93dGggb2YgdGhlIHN5c3RlbSB0aHJvdWdoIGZvdXIgcHJvZ3JhbSBleHBhbnNpb25zCgpNYW51ZmFjdHVyaW5nIEVuZ2luZWVyIE1hbmFnZXIKCk1ldHJvcG9saXRhbiBDYWJpbmV0IGFuZCBDb3VudGVydG9wcyAtIE5vcndvb2QsIE1BIC0gT2N0b2JlciAyMDE0IHRvIFByZXNlbnQKCiogTWFuYWdlIGEgdGVhbSB0aGF0IGltcGxlbWVudHMgYW5kIG1haW50YWlucyBhIGN1c3RvbSBXb3JrIGluIFByb2Nlc3MgdHJhY2tpbmcgc3lzdGVtCgoqIERlc2lnbiBhbmQgZXhlY3V0ZWQgYW4gYWNjZXNzIGRhdGFiYXNlIHRvIHRyYWNrIG1hY2hpbmUgcHJvYmxlbXMgYW5kIG1haW50ZW5hbmNlIHRvIG1ha2UgaXQgZWFzeSB0bwoKYWNjb21wbGlzaCByZXBhaXJzIGFuZCB1cGtlZXAKCiogU3BlYXJoZWFkIGEgcHJvamVjdCB0aGF0IHRyYWNrcyBhbGwgY29tcGxldGVkIGdvb2RzIHRocm91Z2ggYSBjdXN0b21pemVkIGJhcmNvZGluZyBwcm9ncmFtCgoqIFdyb3RlIEV4Y2VsIG1hY3JvcyB3aXRoIHVzZXJmb3JtcyB0byBzaW1wbGlmeSBkYXRhIGVudHJ5IGFzIHdlbGwgYXMgcHJlcGFyaW5nIGFuYWx5dGljIGRhdGEgZm9yIGlkZW50aWZ5aW5nCgphbmQgZml4aW5nIHByb2JsZW1zCgoqIENvbnRpbnVvdXMgdHJhaW5pbmcgb2YgYWxsIG9wZXJhdG9ycyBvbiB0aGVpciBtYWNoaW5lcyBwcm9wZXIgdXNlLCBzZXR1cCBhbmQgbWFpbnRlbmFuY2UKCiogSW5pdGlhdGUgdGhlIHVzZSBvZiB0aGUgQ29udGludW91cyBJbXByb3ZlbWVudCBwcm9jZXNzIHRvIGF0dGFjayBsb3cgaGFuZ2luZyBmcnVpdCBjYXVzaW5nIGxhcmdlcgoKbWFudWZhY3R1cmluZyBwcm9ibGVtcwoKKiBTdXBlcnZpc2UgcXVhbGl0eSBvZiBhbGwgbWFudWZhY3R1cmVkIHByb2R1Y3RzIGJ5IGRvaW5nIHJhbmRvbSB0ZXN0aW5nIHRvIGVuc3VyZSB0aGUgcXVhbGl0eSBvZiBhbGwgcGFydHMKCiogUmVzZWFyY2hpbmcgbmV3IHRlY2hub2xvZ2llcyB0byBpbXBsZW1lbnQgY29zdCBzYXZpbmdzIGFuZCBpbmNyZWFzZSBwcm9kdWN0aXZpdHkKCiogUmVkdWNlIHRhY3QgdGltZXMgb24gYXNzZW1ibHkgbGluZXMgYnkgb3B0aW1pemluZyBwYXJ0cyB0byByZWR1Y2UgbWFjaGluaW5nIGFuZCBhc3NlbWJseSB0aW1lCgoqIFdvcmtpbmcgb24gc3BlY2lhbCBwcm9qZWN0cyBmb3IgbmV3IGhhcmR3YXJlIGFuZCBjdXN0b20gcHJvZHVjdHMKCiogQ3JlYXRpbmcgZ2F1Z2VzLCBmaXh0dXJlcyBhbmQgamlncyB0byBpbmNyZWFzZSBxdWFsaXR5IGFuZCBzdGFuZGFyZGl6ZSB3b3JrCgoqIERlc2lnbiBuZXcgc2hvcCBsYXlvdXQgZm9yIGltcHJvdmVkIHByb2R1Y3Rpdml0eSBhbmQgZmxvdyB3aXRoIEF1dG9DQUQKCiogQ3JlYXRlIGEgU3RhbmRhcmQgV29ya2Jvb2sgdG8gcHJvcGVybHkgdHJhaW4gZW1wbG95ZWVzIGFuZCBtYW5hZ2UgY2hhbmdlcyB0byBrZWVwIHN0YW5kYXJkcyBjdXJyZW50CgpIZWFkIG9mIEJ1c3NpbmcgYW5kIEV4cGVkaXRpb24gU3RhZmYKCkJyaWRnZW1hbnMgUmVzdGF1cmFudCAtIEh1bGwsIE1BIC0gQXVndXN0IDIwMDggdG8gRGVjZW1iZXIgMjAxNAoKKiBTdGFydGVkIGFzIGEgZGlzaCB3YXNoZXIgYW5kIHdhcyBxdWlja2x5IHByb21vdGVkIHRvIGJ1c3NlciBhbmQgd2FzIG1vdmVkIHRvIHRoZSBtb3JlIGRpZmZpY3VsdCBsb2NhdGlvbgoKKiBQcm9tb3RlZCB0byBleHBlZGl0ZXIgc3R1ZGllZCB0aGUgbWVudSBhbmQgbGVhcm5lZCB0byBwcmVwYXJlIHRoZSBmb29kIGFsb25nIHdpdGggdGhlIHByZXNlbnRhdGlvbiBvZiB0aGUKCmZvb2QKCiogQWZ0ZXIgMiB5ZWFycyBiZWNhbWUgaGVhZCBidXNzZXIgYW5kIGV4cGVkaXRlciBhbG9uZyB3aXRoIGJlaW5nIGEgZGVzZXJ0IGFuZCBzYWxhZCBjaGVmIHRoZW4gbGF0ZXIgYmVjYW1lCgphIHNldmVyCgoqIFN0YXJ0aW5nIHRoaXMgc3VtbWVyIEkgdG9vayBjaGFyZ2Ugb2YgbWFpbiBraXRjaGVuIGFuZCBpbmNyZWFzZWQgZWZmaWNpZW5jeSBhbmQgZGVjcmVhc2VkIHdhaXQgdGltZSBmb3IKCmZvb2QgYnkgMiBtaW4KCiogTmV2ZXIgcmVjZWl2ZWQgYSBuZWdhdGl2ZSBjb21wbGFpbnQgaW4gNCB5ZWFycyBzZXJ2aW5nIG92ZXIgNTAgcGVvcGxlIG9uIGEgd2Vla2RheSBuaWdodCBhbmQgMTUwIG9uIGEKCndlZWtlbmQgbmlnaHQKCk1hbnVmYWN0dXJpbmcgTGFiIEFzc2lzdGFudAoKV2VudHdvcnRoIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5IC0gTWFpbnRhaW4gdGhlIGNsZWFuaW5nIGFuZCBmdW5jdGlvbmFsIG9wZXJhdGlvbiBvZiB0aGUgbGFiIGVxdWlwbWVudAoK44CTIFN1cGVydmlzZSB0aGUgc3R1ZGVudHMgYW5kIGluc3RydWN0IHRoZW0gb24gcHJvcGVyIHVzZSBvZiB0aGUgbWFjaGluZSB3aGlsZSBlbmZvcmNpbmcgc2FmZXR5Cgpwcm90b2NvbHMgLSBBdWd1c3QgMjAxMiB0byBBdWd1c3QgMjAxNAoKKiBNYWludGFpbmVkIGFsbCBsYWIgZXF1aXBtZW50IGZvciBlYXN5IHVzZSBpbiBhbGwgc3R1ZGVudCBiYXNlZCBvcGVyYXRpb24KCiogVGF1Z2h0IHN0dWRlbnRzIGhvdyB0byBwcm9wZXJseSB1c2UgZXF1aXBtZW50IHNhZmVseSBhbmQgYWNjdXJhdGVseQoKKiBTdXBlcnZpc2VkIHRoZSBzdHVkZW50cyBhbmQgaW5zdHJ1Y3RlZCB0aGVtIG9uIHByb3BlciB1c2Ugb2YgdGhlIG1hY2hpbmUgd2hpbGUgZW5mb3JjaW5nIHNhZmV0eSBwcm90b2NvbHMKClByb2plY3QgTGVhZGVyCgpXZW50d29ydGggSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3kgLSBCb3N0b24sIE1BIC0gRmVicnVhcnkgMjAxMiB0byBBdWd1c3QgMjAxNAoKKiBMZWFkZXIgb2YgYSBncm91cCBvZiBmb3VyIHN0dWRlbnRzIGluIHRoZSBkZXNpZ24gcHJvY2VzcyBvZiB0aGUgc2Vjb25kIGVuZ2luZSB3aXRoIHRoZSByZXF1aXJlZCBhZGp1c3RtZW50cwoKKiBCdWlsdCBhIHdvcmtpbmcgbW9kZWwgb2YgdGhlIHNlY29uZCBlbmdpbmUgaW4gYW4gZWlnaHQtd2VlayB0aW1lIHNwYW4gd2l0aCBmb3VyIGhvdXJzIGEgd2VlayBvZiBsYWIgdGltZQoKKiBGaXJzdCBzb3Bob21vcmVzIGF0IFdlbnR3b3J0aCB0byBidWlsZCBhIGZ1bmN0aW9uaW5nIG1vZGVsCgpRdWFsaXR5IEVuZ2luZWVyaW5nIEludGVybgoKVm9sa3N3YWdlbiBHcm91cCBvZiBBbWVyaWNhIC0gQ2hhdHRhbm9vZ2EsIFROIC0gU2VwdGVtYmVyIDIwMTMgdG8gRGVjZW1iZXIgMjAxMwoKKiBJbnN0aXR1dGVkIFBva2EgWW9rZSBTeXN0ZW1zIHRvIGNyZWF0ZSBhIHN5c3RlbSB1c2luZyBjb2xvcnMsIG51bWJlcnMgYW5kIHNoYXBlcyB0byByZWR1Y2UgZXJyb3JzIGJ5IDQ1JQoKKiBJbm5vdmF0ZWQgU2NyYXBpbmcgUmVwb3J0aW5nIHN5c3RlbSB0YWtpbmcgaXQgZnJvbSAyMCUgdG8gOTklIGluIHNpeCB3ZWVrcwoKKiBSZXZpZXdlZCBlbmdpbmUgZHJlc3MgcHJvY2Vzc2VzIGZvciB0YWN0IHRpbWUgaW1wcm92ZW1lbnRzIGZpbmRpbmcgYSByZWR1Y3Rpb24gb2YgMi40IHNlY29uZHMgcGVyIHBpdGNoCgoqIEJ1aWx0IGRldmljZSB0byBjb2xsZWN0IGRyb3BwZWQgcGFydHMgcHJldmVudGluZyBwb3NzaWJsZSBpbmp1cmllcwoKTWFudWZhY3R1cmluZyBFbmdpbmVlciBpbnRlcm4KClN5bW1ldHJ5IG1lZGljYWwgLSBGYWxsIFJpdmVyLCBNQSAtIERlY2VtYmVyIDIwMTEgdG8gQXByaWwgMjAxMgoKKiBXb3JrZWQgd2l0aCB0aGUgY3VzdG9tZXIgZm9jdXMgdGVhbSBvbiBuZXcgYW5kIG9sZCBwcm9kdWN0cwoKKiBEZXZlbG9wZWQgTWV0aG9kcyBvZiBNYW51ZmFjdHVyZSBhbG9uZyB3aXRoIGluc3BlY3Rpb24gZG9jdW1lbnRhdGlvbgoKKiBBbmFseXplZCBkZXNpZ25zIGZvciBtYW51ZmFjdHVyYWJpbGl0eSBtYWtpbmcgY2hhbmdlcyB0byBpbXByb3ZlIHRpbWUgYW5kIGNvc3QKCiogTWFkZSBCYXNlIFF1b3RlcyBmcm9tIHByaW50cyBmb3IgbmV3IHByb2R1Y3RzCgoqIENyZWF0ZWQgRG9jdW1lbnRlZCBDb250cm9sIFBsYW5zIGZvciBuZXcgcHJvZHVjdHMKCiogRXhwZWRpdGVkIHRoZSBwcm9jZXNzaW5nIG9mIGZpcnN0IHByb2R1Y3Rpb24gcnVuIHBhcnRzIHRvIHNoaXAgb24gdGltZQoKUHJvamVjdCBsZWFkZXIKCldvYmJsZSAyIC0gT2N0b2JlciAyMDExIHRvIERlY2VtYmVyIDIwMTEKCiogTGVhZGVyIG9mIGEgZ3JvdXAgb2YgNCBzdHVkZW50cyBpbiB0aGUgZGVzaWduIHByb2Nlc3Mgb2YgdGhlIHNlY29uZCBlbmdpbmUgd2l0aCB0aGUgcmVxdWlyZWQgYWRqdXN0bWVudHMKCiogQnVpbHQgYSB3b3JraW5nIG1vZGVsIG9mIHRoZSBzZWNvbmQgZW5naW5lIGluIGEgOCB3ZWVrIHRpbWUgc3BhbiB3aXRoIDQgaG91cnMgYSB3ZWVrIG9mIGxhYiB0aW1lIHdpdGggbWluaW1hbAoKaGVscCBmcm9tIGdyb3VwIGFuZCBzdXBlcnZpc29ycwoKKiBNb2RlbCB3b3JrIG9uIHRoZSBzZWNvbmQgc3RhcnQgZnVuY3Rpb25pbmcgdG8gd2l0aCBtaW5pbWFsIGRldmlhdGlvbiBvZiBwcmVkaWN0ZWQgdmFsdWVzCgoqIE9ubHkgc29waG9tb3JlcyBhdCBXZW50d29ydGggdG8gYnVpbGQgYSBmdW5jdGlvbmluZyBtb2RlbAoKUHJvamVjdCBMZWFkZXIKClZvbGtzd2FnZW4gR3JvdXAgQ2hhdHRhbm9vZ2EgT3BlcmF0aW9ucyAtIENoYXR0YW5vb2dhLCBUTiAtIE9jdG9iZXIgMjAxMSB0byBEZWNlbWJlciAyMDExCgoqIENyZWF0ZWQgYSB0cmFpbmluZyBwcm9ncmFtIHRoYXQgdXNlZCBQb3dlclBvaW50cywgQ29sb3JzIGFuZCBTaGFwZXMgdG8gdHJhaW4gc2hvcCBmbG9vciBwZXJzb25uZWwgb24gcHJvcGVyCgpwcm9jZWR1cmVzCgoqIERpcmVjdGVkIGEgZ3JvdXAgb2YgdGhyZWUgb3RoZXIgaW50ZXJucyBpbiBjb2xsZWN0aW5nIGRhdGEgaW4gYSBTQVAgU3lzdGVtCgoqIFJlcG9ydGVkIGZpbmRpbmdzIGluIHByb2R1Y3Rpb24gbWVldGluZ3Mgd2l0aCB1cHBlciBtYW5hZ2VtZW50IGV2ZXJ5IG1vcm5pbmcKCkVEVUNBVElPTgoKTUEKCldlbnR3b3J0aCBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neQoKU0tJTExTCgpNYWNoaW5lcyAqIFRyYWluZWQgdG8gcnVuIGEgQ05DIDMgYXhpcyBsYXRoZSBhbmQgdXNpbmcgYSBoYW5kIG1vZGVsICogU2tpbGxlZCBpbiB3b3JraW5nIGEgQ05DIGtuZWUgbWlsbAoKYW5kIG1pbGwgdXNpbmcgYm90aCAzIGF4aXMgYW5kIDIgYXhpcyBtb2RlIGFuZCB1c2luZyBoYW5kIG1vZGVsICogRWR1Y2F0ZWQgaW4gdXNpbmcgQVJDLCBNSUcsIE1JRyBmbHV4LAoKYW5kIGdhcyB3ZWxkaW5nICogNCB5cnMgb2Ygd29vZCB3b3JraW5nIGV4cGVyaWVuY2U6IGNob3Agc2F3LCBiYW5kIHNhdywgcmFkaWFsIGFybSBzYXcsIGpvaW50ZXIsIHBsYW5lciwKCnJvdXRlciwgYmlzY3VpdCBqb2ludGVyIGFuZCBuYWlsIGd1biBEZXNpZ24gQXBwbGljYXRpb25zICogUmVjZWl2ZWQgYW4gQSBpbiBBdXRvQ0FEIGFibGUgdG8gZG8gMmQgYW5kIDNkCgpkcmF3aW5nICogQ2VydGlmaWVkIGluIFNvbGlkd29ya3MgQ29tcHV0ZXIgKiBMZWFybmVkIEJlbmNobWFuIHByb2dyYW1pbmcgdXNpbmcgRyBjb2RlICogVHJhaW5lZCB0byB1c2UKCnRoZSBQcm90b3RyYWsgb3BlcmF0aW5nIHN5c3RlbSBmb3IgYm90aCBMYXRoZSBhbmQgKiBDb21wZXRlbnQgd2l0aCB1c2luZyBNaWNyb3NvZnQgZXhjZWwsIHdvcmQsIHdvcmtzLAoKYWNjZXMsIFdyaXRpbmcgbWFjcm9zLCBWQkEgc2NyaXB0cywgcG93ZXIgcG9pbnQsIHByb2plY3RzLCBhbmQgdmlzdWFsIHN0dWRpb3MgKDMgeWVhcnMp</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911130465432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

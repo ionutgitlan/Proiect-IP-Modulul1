@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2916624160532"  usageLimitType="allocation" usageLimit="100" currentUsage="67" remainingUsage="33" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Elaine Kymes</FormattedName>
+<GivenName>Elaine</GivenName>
+<FamilyName>Kymes</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Elaine-Kymes/78fe0e2e4887df9e</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>(formerly Billing Concepts, also known as BSG Clearing Solutions) Responsible for each project from request to deployment. * Responsible to analysis requirements to determine business needs. * Responsible for project timeframes and scheduled within other priorities. * Responsible for Financial documentation for each project including Level of Effort, Work Orders, Slide Presentation for Management Team, and weekly accounting of each project. * Provided Business Requirements Documentation and User Guides as needed. * Coordinated several different customers at one time for projects holding weekly meeting, providing minutes to the team, work to resolve system problems with each customers, plan deployments working with each schedule. * Provided information for upper management on a weekly basis of statuses, challenges and accomplishments on each project. Process Improvements * Developed task list to help the team determine the priority of each project, who was working on it and when it would be completed. * Developed a tracking list to track the status of each project financially with time tracking aspects. * Improved the process for storing documentation on projects where information was readily available for the team.</ExecutiveSummary>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Premier Solution Division</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Project Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>TX</Region>
+<Municipality>Waco</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Examination Management Service, Inc Responsible for each project from request to deployment. * Responsible to analysis requirements to determine business needs. * Responsible for project timeframes and scheduled within other priorities. * Responsible for Financial documentation for each project including Level of Effort, Work Orders, Slide Presentation for Management Team, and weekly accounting of each project. * Provided Business Requirements Documentation and User Guides as needed. * Coordinated several different customers at one time for projects holding weekly meeting, providing minutes to the team, work to resolve system problems with each customers, plan deployments working with each schedule. * Provided information for upper management on a weekly basis of statuses, challenges and accomplishments on each project. Process Improvements * Developed task list to help the team determine the priority of each project, who was working on it and when it would be completed. * Developed a tracking list to track the status of each project financially with time tracking aspects. * Improved the process for storing documentation on projects where information was readily available for the team.
+</Description>
+<StartDate>
+<AnyDate>2013-04-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Billing Services Group</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>TX</Region>
+<Municipality>San Antonio</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Manager, System Development
+</Description>
+<StartDate>
+<AnyDate>1996-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Manager, System Development</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>TX</Region>
+<Municipality>San Antonio</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>accounting</IndustryDescription></OrgIndustry>
+<Description>Responsible for Project Plans on several projects at one time following each to completion. * Responded to priority changes, sometimes day-to-day, to ensure all active projects to progress to completion. * Produced project requirement specifications and design documentation, as well as end user documentation. * Applied effective problem solving skills to system requirement conflicts and system design alternatives. * Coordinated daily with customers and end users on the maintenance and upgrades of delivered systems, tools and products. * Defined accurate overviews of problems and provided possible solutions consistent with technical, cost and schedule constraints. * Supervised groups of system designers, programmers, and system testers * Responsible for maintenance of delivered systems. * Responsible for data analysis and research of existing systems or as part of new projects. * Responsible for reporting implementation details to the user community on a weekly basis. Projects Managed * Customer Service System ◦ Created, managed and updated project plan to develop a system to be used in multiple call centers and by customers remotely. ◦ The project provided a system that was easy to deploy and train call center representatives on how to use. * Customer Accounting System ◦ Created, managed and updated project plans for different aspects of the customer accounting system over a period of four plus years. ◦ This system provided a more efficient and accurate accounting system, provided the company the ability to pass required audits, and reduced the manual work being done outside the system. * Integration of companies purchased by BSG ◦ ACI Integration - BSG purchased a competitor in 2003 ◦ LEC Clearing Integration - BSG purchased a provider in 2007 ◦ VoiceLog Third Party Verification and Call Recording Integration - BSG purchased a new line of business prior to 2008 * Process Improvements ◦ In 2007 with the elimination of the design team and management changes were made in the project process. Rapid development process was implemented along with a new tracking system called Trac. ◦ In 2008 all system documentation was moved to a new WIKI system deployed. Structured the system documentation in such a way that it was easy to find and maintain. Structured and set up the initial pages for each department.
+</Description>
+<StartDate>
+<AnyDate>1992-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Lux Artificial Limb & Brace Co</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>TX</Region>
+<Municipality>San Antonio</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>accounting</IndustryDescription></OrgIndustry>
+<Description>* Family owned and operated business * Administrative support and bookkeeping * Converted manual accounting system to computerized system
+</Description>
+<StartDate>
+<AnyDate>1983-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1992-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>St. Mary's University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>TX</Region>
+<Municipality>San Antonio</Municipality>
+</PostalAddress>
+<OrganizationUnit>Student Life Department</OrganizationUnit>
+<Degree degreeType="internship">
+<DegreeName>Internship</DegreeName>
+<DegreeDate>
+<AnyDate>1996-08-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>and updated reports for Student Life staff</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>1995-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-08-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+<Comments>Developed and maintained Access database system for Student Orientation staff</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>St. Mary's University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>TX</Region>
+<Municipality>San Antonio</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Business Administration</DegreeName>
+<DegreeDate>
+<AnyDate>1996-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Information Systems Management</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>San Antonio College</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>TX</Region>
+<Municipality>San Antonio</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1976-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Business Technology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Accounting">
+<CompetencyId description="HireAbility taxonomy" id="4198" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Accounting" lastUsed="1992-01-01">
+<NumericValue description="Range in years of experience">14</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Billing">
+<CompetencyId description="HireAbility taxonomy" id="1819" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Billing">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Business Analysis">
+<CompetencyId description="HireAbility taxonomy" id="4311" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Analysis">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Business Requirements">
+<CompetencyId description="HireAbility taxonomy" id="55" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Business Requirements" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Call Center">
+<CompetencyId description="HireAbility taxonomy" id="1845" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Call Center">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Communication Skills">
+<CompetencyId description="HireAbility taxonomy" id="16264" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Communication Skills">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Data Analysis">
+<CompetencyId description="HireAbility taxonomy" id="7614" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Data Analysis">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Database">
+<CompetencyId description="HireAbility taxonomy" id="4" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Database">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Documentation">
+<CompetencyId description="HireAbility taxonomy" id="12375" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Documentation" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Install">
+<CompetencyId description="HireAbility taxonomy" id="4711" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Install">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Integrate">
+<CompetencyId description="HireAbility taxonomy" id="4712" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Integrate">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Access">
+<CompetencyId description="HireAbility taxonomy" id="250" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Access">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Excel">
+<CompetencyId description="HireAbility taxonomy" id="252" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Excel">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Outlook">
+<CompetencyId description="HireAbility taxonomy" id="259" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Outlook">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft PowerPoint">
+<CompetencyId description="HireAbility taxonomy" id="260" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft PowerPoint">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Visio">
+<CompetencyId description="HireAbility taxonomy" id="265" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Visio">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Windows 7">
+<CompetencyId description="HireAbility taxonomy" id="17802" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Windows 7">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Word">
+<CompetencyId description="HireAbility taxonomy" id="266" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Word">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="MySQL Database">
+<CompetencyId description="HireAbility taxonomy" id="6401" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="MySQL Database">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Planning">
+<CompetencyId description="HireAbility taxonomy" id="7694" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Planning">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Problem Solving">
+<CompetencyId description="HireAbility taxonomy" id="17842" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Problem Solving">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Problem Solving Skills">
+<CompetencyId description="HireAbility taxonomy" id="12439" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Problem Solving Skills">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Process Improvements">
+<CompetencyId description="HireAbility taxonomy" id="7705" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Process Improvements" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Progress">
+<CompetencyId description="HireAbility taxonomy" id="335" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Progress">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Management">
+<CompetencyId description="HireAbility taxonomy" id="337" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Management">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Project Manager">
+<CompetencyId description="HireAbility taxonomy" id="1719" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Project Manager">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Requirements Definition">
+<CompetencyId description="HireAbility taxonomy" id="11563" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Requirements Definition">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support" lastUsed="1992-01-01">
+<NumericValue description="Range in years of experience">9</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="System design">
+<CompetencyId description="HireAbility taxonomy" id="9464" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="System design">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Systems Development">
+<CompetencyId description="HireAbility taxonomy" id="7766" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Systems Development">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Training">
+<CompetencyId description="HireAbility taxonomy" id="2281" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Training">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="User Documentation">
+<CompetencyId description="HireAbility taxonomy" id="13643" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="User Documentation">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Verbal Communication">
+<CompetencyId description="HireAbility taxonomy" id="17838" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Verbal Communication">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Verbal Communication Skills">
+<CompetencyId description="HireAbility taxonomy" id="7787" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Verbal Communication Skills">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="VISIO">
+<CompetencyId description="HireAbility taxonomy" id="17568" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="VISIO">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Windows 7">
+<CompetencyId description="HireAbility taxonomy" id="18242" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Windows 7">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2007-01-01</StringDate></Date>
+<Description>Employee of the Year Award for Outstanding Performance and Individual Effort</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-01-01</StringDate></Date>
+<Description> - Most Valuable Player Award 2nd Quarter</Description>
+</Achievement>
+</Achievements>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RWxhaW5lIEt5bWVzCgpQcm9qZWN0IE1hbmFnZXIgLSBFeGFtaW5hdGlvbiBNYW5hZ2VtZW50IFNlcnZpY2UsIEluYwoKV2FjbywgVFggLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9FbGFpbmUtS3ltZXMvNzhmZTBlMmU0ODg3ZGY5ZQoKVG8gb2J0YWluIGEgcG9zaXRpb24gaW4gYW4gb3JnYW5pemF0aW9uIHRoYXQgZW5hYmxlcyBtZSB0byBjb250cmlidXRlIG15IGRlbW9uc3RyYXRlZCBza2lsbHMgaW4gcHJvamVjdAoKbWFuYWdlbWVudCwgYW5hbHlzaXMsIGRldGFpbCBvcmllbnRhdGlvbiBhbmQgZGVzaWduLgoKQXV0aG9yaXplZCB0byB3b3JrIGluIHRoZSBVUyBmb3IgYW55IGVtcGxveWVyCgpXT1JLIEVYUEVSSUVOQ0UKClByb2plY3QgTWFuYWdlcgoKRXhhbWluYXRpb24gTWFuYWdlbWVudCBTZXJ2aWNlLCBJbmMgLSBXYWNvLCBUWCAtIEFwcmlsIDIwMTMgdG8gUHJlc2VudAoKUHJlbWllciBTb2x1dGlvbiBEaXZpc2lvbgoKKiBSZXNwb25zaWJsZSBmb3IgZWFjaCBwcm9qZWN0IGZyb20gcmVxdWVzdCB0byBkZXBsb3ltZW50LgoKKiBSZXNwb25zaWJsZSB0byBhbmFseXNpcyByZXF1aXJlbWVudHMgdG8gZGV0ZXJtaW5lIGJ1c2luZXNzIG5lZWRzLgoKKiBSZXNwb25zaWJsZSBmb3IgcHJvamVjdCB0aW1lZnJhbWVzIGFuZCBzY2hlZHVsZWQgd2l0aGluIG90aGVyIHByaW9yaXRpZXMuCgoqIFJlc3BvbnNpYmxlIGZvciBGaW5hbmNpYWwgZG9jdW1lbnRhdGlvbiBmb3IgZWFjaCBwcm9qZWN0IGluY2x1ZGluZyBMZXZlbCBvZiBFZmZvcnQsIFdvcmsgT3JkZXJzLCBTbGlkZQoKUHJlc2VudGF0aW9uIGZvciBNYW5hZ2VtZW50IFRlYW0sIGFuZCB3ZWVrbHkgYWNjb3VudGluZyBvZiBlYWNoIHByb2plY3QuCgoqIFByb3ZpZGVkIEJ1c2luZXNzIFJlcXVpcmVtZW50cyBEb2N1bWVudGF0aW9uIGFuZCBVc2VyIEd1aWRlcyBhcyBuZWVkZWQuCgoqIENvb3JkaW5hdGVkIHNldmVyYWwgZGlmZmVyZW50IGN1c3RvbWVycyBhdCBvbmUgdGltZSBmb3IgcHJvamVjdHM7IGhvbGRpbmcgd2Vla2x5IG1lZXRpbmcsIHByb3ZpZGluZyBtaW51dGVzCgp0byB0aGUgdGVhbSwgd29yayB0byByZXNvbHZlIHN5c3RlbSBwcm9ibGVtcyB3aXRoIGVhY2ggY3VzdG9tZXJzLCBwbGFuIGRlcGxveW1lbnRzIHdvcmtpbmcgd2l0aCBlYWNoCgpzY2hlZHVsZS4KCiogUHJvdmlkZWQgaW5mb3JtYXRpb24gZm9yIHVwcGVyIG1hbmFnZW1lbnQgb24gYSB3ZWVrbHkgYmFzaXMgb2Ygc3RhdHVzZXMsIGNoYWxsZW5nZXMgYW5kIGFjY29tcGxpc2htZW50cwoKb24gZWFjaCBwcm9qZWN0LgoKUHJvY2VzcyBJbXByb3ZlbWVudHMKCiogRGV2ZWxvcGVkIHRhc2sgbGlzdCB0byBoZWxwIHRoZSB0ZWFtIGRldGVybWluZSB0aGUgcHJpb3JpdHkgb2YgZWFjaCBwcm9qZWN0LCB3aG8gd2FzIHdvcmtpbmcgb24gaXQgYW5kIHdoZW4KCml0IHdvdWxkIGJlIGNvbXBsZXRlZC4KCiogRGV2ZWxvcGVkIGEgdHJhY2tpbmcgbGlzdCB0byB0cmFjayB0aGUgc3RhdHVzIG9mIGVhY2ggcHJvamVjdCBmaW5hbmNpYWxseSB3aXRoIHRpbWUgdHJhY2tpbmcgYXNwZWN0cy4KCiogSW1wcm92ZWQgdGhlIHByb2Nlc3MgZm9yIHN0b3JpbmcgZG9jdW1lbnRhdGlvbiBvbiBwcm9qZWN0cyB3aGVyZSBpbmZvcm1hdGlvbiB3YXMgcmVhZGlseSBhdmFpbGFibGUgZm9yIHRoZQoKdGVhbS4KCk1hbmFnZXIsIFN5c3RlbSBEZXZlbG9wbWVudAoKQmlsbGluZyBTZXJ2aWNlcyBHcm91cCAtIFNhbiBBbnRvbmlvLCBUWCAtIFNlcHRlbWJlciAxOTk2IHRvIEp1bmUgMjAxMgoKU2FuIEFudG9uaW8sIFRleGFzCgooZm9ybWVybHkgQmlsbGluZyBDb25jZXB0cywgYWxzbyBrbm93biBhcyBCU0cgQ2xlYXJpbmcgU29sdXRpb25zKQoKTWFuYWdlciwgU3lzdGVtIERldmVsb3BtZW50CgoqIFJlc3BvbnNpYmxlIGZvciBQcm9qZWN0IFBsYW5zIG9uIHNldmVyYWwgcHJvamVjdHMgYXQgb25lIHRpbWUgZm9sbG93aW5nIGVhY2ggdG8gY29tcGxldGlvbi4KCiogUmVzcG9uZGVkIHRvIHByaW9yaXR5IGNoYW5nZXMsIHNvbWV0aW1lcyBkYXktdG8tZGF5LCB0byBlbnN1cmUgYWxsIGFjdGl2ZSBwcm9qZWN0cyB0byBwcm9ncmVzcyB0byBjb21wbGV0aW9uLgoKKiBQcm9kdWNlZCBwcm9qZWN0IHJlcXVpcmVtZW50IHNwZWNpZmljYXRpb25zIGFuZCBkZXNpZ24gZG9jdW1lbnRhdGlvbiwgYXMgd2VsbCBhcyBlbmQgdXNlciBkb2N1bWVudGF0aW9uLgoKKiBBcHBsaWVkIGVmZmVjdGl2ZSBwcm9ibGVtIHNvbHZpbmcgc2tpbGxzIHRvIHN5c3RlbSByZXF1aXJlbWVudCBjb25mbGljdHMgYW5kIHN5c3RlbSBkZXNpZ24gYWx0ZXJuYXRpdmVzLgoKKiBDb29yZGluYXRlZCBkYWlseSB3aXRoIGN1c3RvbWVycyBhbmQgZW5kIHVzZXJzIG9uIHRoZSBtYWludGVuYW5jZSBhbmQgdXBncmFkZXMgb2YgZGVsaXZlcmVkIHN5c3RlbXMsCgp0b29scyBhbmQgcHJvZHVjdHMuCgoqIERlZmluZWQgYWNjdXJhdGUgb3ZlcnZpZXdzIG9mIHByb2JsZW1zIGFuZCBwcm92aWRlZCBwb3NzaWJsZSBzb2x1dGlvbnMgY29uc2lzdGVudCB3aXRoIHRlY2huaWNhbCwgY29zdCBhbmQKCnNjaGVkdWxlIGNvbnN0cmFpbnRzLgoKKiBTdXBlcnZpc2VkIGdyb3VwcyBvZiBzeXN0ZW0gZGVzaWduZXJzLCBwcm9ncmFtbWVycywgYW5kIHN5c3RlbSB0ZXN0ZXJzCgoqIFJlc3BvbnNpYmxlIGZvciBtYWludGVuYW5jZSBvZiBkZWxpdmVyZWQgc3lzdGVtcy4KCiogUmVzcG9uc2libGUgZm9yIGRhdGEgYW5hbHlzaXMgYW5kIHJlc2VhcmNoIG9mIGV4aXN0aW5nIHN5c3RlbXMgb3IgYXMgcGFydCBvZiBuZXcgcHJvamVjdHMuCgoqIFJlc3BvbnNpYmxlIGZvciByZXBvcnRpbmcgaW1wbGVtZW50YXRpb24gZGV0YWlscyB0byB0aGUgdXNlciBjb21tdW5pdHkgb24gYSB3ZWVrbHkgYmFzaXMuCgpQcm9qZWN0cyBNYW5hZ2VkCgoqIEN1c3RvbWVyIFNlcnZpY2UgU3lzdGVtCgril6YgQ3JlYXRlZCwgbWFuYWdlZCBhbmQgdXBkYXRlZCBwcm9qZWN0IHBsYW4gdG8gZGV2ZWxvcCBhIHN5c3RlbSB0byBiZSB1c2VkIGluIG11bHRpcGxlIGNhbGwgY2VudGVycyBhbmQKCmJ5IGN1c3RvbWVycyByZW1vdGVseS4KCuKXpiBUaGUgcHJvamVjdCBwcm92aWRlZCBhIHN5c3RlbSB0aGF0IHdhcyBlYXN5IHRvIGRlcGxveSBhbmQgdHJhaW4gY2FsbCBjZW50ZXIgcmVwcmVzZW50YXRpdmVzIG9uIGhvdyB0byB1c2UuCgoqIEN1c3RvbWVyIEFjY291bnRpbmcgU3lzdGVtCgril6YgQ3JlYXRlZCwgbWFuYWdlZCBhbmQgdXBkYXRlZCBwcm9qZWN0IHBsYW5zIGZvciBkaWZmZXJlbnQgYXNwZWN0cyBvZiB0aGUgY3VzdG9tZXIgYWNjb3VudGluZyBzeXN0ZW0gb3ZlcgoKYSBwZXJpb2Qgb2YgZm91ciBwbHVzIHllYXJzLgoK4pemIFRoaXMgc3lzdGVtIHByb3ZpZGVkIGEgbW9yZSBlZmZpY2llbnQgYW5kIGFjY3VyYXRlIGFjY291bnRpbmcgc3lzdGVtLCBwcm92aWRlZCB0aGUgY29tcGFueSB0aGUgYWJpbGl0eSB0bwoKcGFzcyByZXF1aXJlZCBhdWRpdHMsIGFuZCByZWR1Y2VkIHRoZSBtYW51YWwgd29yayBiZWluZyBkb25lIG91dHNpZGUgdGhlIHN5c3RlbS4KCiogSW50ZWdyYXRpb24gb2YgY29tcGFuaWVzIHB1cmNoYXNlZCBieSBCU0cKCuKXpiBBQ0kgSW50ZWdyYXRpb24gLSBCU0cgcHVyY2hhc2VkIGEgY29tcGV0aXRvciBpbiAyMDAzCgril6YgTEVDIENsZWFyaW5nIEludGVncmF0aW9uIC0gQlNHIHB1cmNoYXNlZCBhIHByb3ZpZGVyIGluIDIwMDcKCuKXpiBWb2ljZUxvZyBUaGlyZCBQYXJ0eSBWZXJpZmljYXRpb24gYW5kIENhbGwgUmVjb3JkaW5nIEludGVncmF0aW9uIC0gQlNHIHB1cmNoYXNlZCBhIG5ldyBsaW5lIG9mIGJ1c2luZXNzCgpwcmlvciB0byAyMDA4CgoqIFByb2Nlc3MgSW1wcm92ZW1lbnRzCgril6YgSW4gMjAwNyB3aXRoIHRoZSBlbGltaW5hdGlvbiBvZiB0aGUgZGVzaWduIHRlYW0gYW5kIG1hbmFnZW1lbnQgY2hhbmdlcyB3ZXJlIG1hZGUgaW4gdGhlIHByb2plY3QgcHJvY2Vzcy4KClJhcGlkIGRldmVsb3BtZW50IHByb2Nlc3Mgd2FzIGltcGxlbWVudGVkIGFsb25nIHdpdGggYSBuZXcgdHJhY2tpbmcgc3lzdGVtIGNhbGxlZCBUcmFjLgoK4pemIEluIDIwMDggYWxsIHN5c3RlbSBkb2N1bWVudGF0aW9uIHdhcyBtb3ZlZCB0byBhIG5ldyBXSUtJIHN5c3RlbSBkZXBsb3llZC4gU3RydWN0dXJlZCB0aGUgc3lzdGVtCgpkb2N1bWVudGF0aW9uIGluIHN1Y2ggYSB3YXkgdGhhdCBpdCB3YXMgZWFzeSB0byBmaW5kIGFuZCBtYWludGFpbi4gU3RydWN0dXJlZCBhbmQgc2V0IHVwIHRoZSBpbml0aWFsIHBhZ2VzCgpmb3IgZWFjaCBkZXBhcnRtZW50LgoKUHJvZmljaWVuY2llczoKCiogV2luZG93cyA3CgoqIE1TLU9mZmljZSBzdWl0ZTIwMTAgLSBPdXRsb29rLCBXb3JkLCBFeGNlbCwgQWNjZXNzLCBWaXNpbywgUG93ZXJQb2ludCwgUHJvamVjdAoKKiBNdWx0aS1FZGl0IDguMAoKKiBwaHBNeUFkbWluIDIuNi4xLSBNeVNRTCBkYXRhYmFzZSBtYW5hZ2VtZW50CgoqIFdpa2kgLSBNaW5kVG91Y2ggRGVraSBPcGVuIFNvdXJjZSBFZGl0aW9uIHYuOC4wOC4yCgpBd2FyZHM6CgoqIDIwMDcgLSBFbXBsb3llZSBvZiB0aGUgWWVhciBBd2FyZCBmb3IgT3V0c3RhbmRpbmcgUGVyZm9ybWFuY2UgYW5kIEluZGl2aWR1YWwgRWZmb3J0CgoqIDIwMDcgLSBNb3N0IFZhbHVhYmxlIFBsYXllciBBd2FyZCAybmQgUXVhcnRlcgoKSW50ZXJuIFN0dWRlbnQgTGlmZSBEZXBhcnRtZW50CgpTdC4gTWFyeSdzIFVuaXZlcnNpdHkgLSBTYW4gQW50b25pbywgVFggLSBTZXB0ZW1iZXIgMTk5NSB0byBBdWd1c3QgMTk5NgoKKiBEZXZlbG9wZWQgYW5kIG1haW50YWluZWQgQWNjZXNzIGRhdGFiYXNlIHN5c3RlbSBmb3IgU3R1ZGVudCBPcmllbnRhdGlvbiBzdGFmZgoKKiBEZXZlbG9wZWQgYW5kIHVwZGF0ZWQgcmVwb3J0cyBmb3IgU3R1ZGVudCBMaWZlIHN0YWZmCgoqIFByb3ZpZGVkIHN1cHBvcnQgZm9yIGFsbCBTdHVkZW50IExpZmUgc3RhZmYgYW5kIHZvbHVudGVlcnMKCkNvbXB1dGVyIE9wZXJhdG9yL1NlY3JldGFyeQoKTHV4IEFydGlmaWNpYWwgTGltYiAmIEJyYWNlIENvIC0gU2FuIEFudG9uaW8sIFRYIC0gTWF5IDE5ODMgdG8gSnVseSAxOTkyCgoqIEZhbWlseSBvd25lZCBhbmQgb3BlcmF0ZWQgYnVzaW5lc3MKCiogQWRtaW5pc3RyYXRpdmUgc3VwcG9ydCBhbmQgYm9va2tlZXBpbmcKCiogQ29udmVydGVkIG1hbnVhbCBhY2NvdW50aW5nIHN5c3RlbSB0byBjb21wdXRlcml6ZWQgc3lzdGVtCgpFRFVDQVRJT04KCkJhY2hlbG9yIG9mIEJ1c2luZXNzIEFkbWluaXN0cmF0aW9uIGluIEluZm9ybWF0aW9uIFN5c3RlbXMgTWFuYWdlbWVudAoKU3QuIE1hcnkncyBVbml2ZXJzaXR5IC0gU2FuIEFudG9uaW8sIFRYCgpNYXkgMTk5NgoKQnVzaW5lc3MgVGVjaG5vbG9neQoKU2FuIEFudG9uaW8gQ29sbGVnZSAtIFNhbiBBbnRvbmlvLCBUWAoKTWF5IDE5NzYKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KCkFuIGFjY29tcGxpc2hlZCBTeXN0ZW0gRGV2ZWxvcG1lbnQgTWFuYWdlciB3aXRoIEJ1c2luZXNzIEFuYWx5c2lzIGFuZCBQcm9qZWN0IE1hbmFnZW1lbnQgZXhwZXJ0aXNlLgoKKiBPdmVyIDIwIHllYXJzIG9mIGV4cGVyaWVuY2UgaW4gYSBTeXN0ZW1zIERldmVsb3BtZW50IGRlcGFydG1lbnQuCgoqIE1hbmFnZSBwcm9qZWN0cyBieSBhbmFseXNpcyByZXF1aXJlbWVudHMsIHBsYW5uaW5nLCBvcmdhbml6aW5nIHRhc2ssIGNvb3JkaW5hdGluZyBiZXR3ZWVuIHRlYW0gcGxheWVycywKCnRyYWNraW5nIHByb2dyZXNzLCByZXBvcnQgcHJvZ3Jlc3MgYW5kIHByb3ZpZGUgZ3VpZGFuY2UgdG8gdGhlIHRlYW0uCgoqIE1hbmFnZSBtdWx0aXBsZSBwcm9qZWN0cyBhdCB0aGUgc2FtZSB0aW1lLCBrZWVwaW5nIHByaW9yaXRpZXMgYW5kIGRlYWRsaW5lcyBhcyByZXF1aXJlZC4KCiogQW5hbHlzaXMgYnVzaW5lc3MgcmVxdWlyZW1lbnRzIHRvIGRldGVybWluZSB0aGUgcmVxdWlyZW1lbnRzIGFuZCBzY29wZSBvZiBwcm9qZWN0cy4KCiogRGV2ZWxvcGVkIHByb2plY3QgcGxhbnMsIGRldGVybWluZWQgcHJvamVjdCBwcmlvcml0eSBhbmQgbWFuYWdlZCBwcm9qZWN0cyB0byBzdWNjZXNzZnVsIGNvbXBsZXRpb24uCgoqIE1hbmFnZSBwcm9qZWN0IHRlYW1zIGZvciB0aGUgY29tcGxldGUgZGV2ZWxvcG1lbnQgY3ljbGUgZnJvbSByZXF1aXJlbWVudHMgZGVmaW5pdGlvbiB0byBpbnN0YWxsYXRpb24KCnZhbGlkYXRpb24gYXQgdXNlciBzaXRlcy4KCiogQXBwbHkgZXhjZWxsZW50IHdyaXR0ZW4gYW5kIHZlcmJhbCBjb21tdW5pY2F0aW9uIHNraWxscyB0byBlbnN1cmUgZWZmZWN0aXZlIHRlYW0gZGlyZWN0aW9uIGFuZCBjb21tdW5pY2F0aW9uLAoKYW5kIHRvIHByb2R1Y2Ugc3lzdGVtIHNwZWNpZmljYXRpb25zIGFuZCB1c2VyIGRvY3VtZW50YXRpb24uCgoqIFByb3ZpZGUgdHJhaW5pbmcgdG8gZW5kIHVzZXJzIGZvciBkZWxpdmVyZWQgc3lzdGVtcywgYW5kIHN1cHBvcnQgdG8gZW5zdXJlIHN5c3RlbXMgbWV0IHVzZXIgbmVlZHMu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916624160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

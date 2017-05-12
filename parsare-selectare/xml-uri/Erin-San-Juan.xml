@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2913054160532"  usageLimitType="allocation" usageLimit="100" currentUsage="71" remainingUsage="29" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Erin San Juan</FormattedName>
+<GivenName>Erin</GivenName>
+<FamilyName>San Juan</FamilyName>
+</PersonName>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Ironwood Pharmaceuticals</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Programmer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Quincy</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Email me on Indeed: indeed.com/r/Erin-San-Juan/1b1504870c20ae5f
+</Description>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Programmer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Cambridge</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Devised and constructed a series of programs to migrate vendor data into JReview postgresql for Data Manager review. * Specializing in extracting data from documents for transformation and upload for end user review.
+</Description>
+<StartDate>
+<AnyDate>2016-06-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Premier Research</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Database Developer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Quincy</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Constructed medical database to be used by physicians and doctors to collect patient data on drug research trials using Oracle Clinical, DataLabs, and Medidata Rave. * Developed procedures in both PL/SQL and VB.net to verify and analyze patient data for any discrepancies either physician mistakes or abnormalities in patient condition.
+</Description>
+<StartDate>
+<AnyDate>2010-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>SCAN TV, UNH</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>General Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NH</Region>
+<Municipality>Durham</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Executive-level leadership role overseeing numerous volunteers and managers to facilitate the day-to-day operations of the TV station with in-house developed content. * Oversaw project to modernize the station with the latest equipment and the maintenance of TV production equipment.
+</Description>
+<StartDate>
+<AnyDate>2007-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of New Hampshire</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NH</Region>
+<Municipality>Durham</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>2009-12-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Interdisciplinary Mathematics, Computer Science</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2005-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-12-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="A SERIES">
+<CompetencyId description="HireAbility taxonomy" id="15762" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="A SERIES" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4317" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Data General Eclipse">
+<CompetencyId description="HireAbility taxonomy" id="5916" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Data General Eclipse">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Data Manager">
+<CompetencyId description="HireAbility taxonomy" id="8610" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Data Manager" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Database">
+<CompetencyId description="HireAbility taxonomy" id="4" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Database" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Eclipse">
+<CompetencyId description="HireAbility taxonomy" id="18273" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Eclipse">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Email">
+<CompetencyId description="HireAbility taxonomy" id="1639" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Email">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Java Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="6302" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Java Programming Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft VB.Net">
+<CompetencyId description="HireAbility taxonomy" id="6376" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft VB.Net" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="NetBeans">
+<CompetencyId description="HireAbility taxonomy" id="11865" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="NetBeans">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle">
+<CompetencyId description="HireAbility taxonomy" id="305" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle Clinical">
+<CompetencyId description="HireAbility taxonomy" id="10862" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle Clinical" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Oracle PL/SQL Programming language">
+<CompetencyId description="HireAbility taxonomy" id="4804" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Oracle PL/SQL Programming language" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Pharmaceutical Industry">
+<CompetencyId description="HireAbility taxonomy" id="5126" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Pharmaceutical Industry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="PostgreSQL">
+<CompetencyId description="HireAbility taxonomy" id="8891" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="PostgreSQL" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Structured Query Language">
+<CompetencyId description="HireAbility taxonomy" id="4806" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Structured Query Language" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RXJpbiBTYW4gSnVhbgoKUHJvZ3JhbW1lciAtIElyb253b29kIFBoYXJtYWNldXRpY2FscwoKUXVpbmN5LCBNQSAtIEVtYWlsIG1lIG9uIEluZGVlZDogaW5kZWVkLmNvbS9yL0VyaW4tU2FuLUp1YW4vMWIxNTA0ODcwYzIwYWU1ZgoKV2lsbGluZyB0byByZWxvY2F0ZTogQW55d2hlcmUKCkF1dGhvcml6ZWQgdG8gd29yayBpbiB0aGUgVVMgZm9yIGFueSBlbXBsb3llcgoKV09SSyBFWFBFUklFTkNFCgpQcm9ncmFtbWVyCgpJcm9ud29vZCBQaGFybWFjZXV0aWNhbHMgLSBDYW1icmlkZ2UsIE1BIC0gSnVuZSAyMDE2IHRvIFByZXNlbnQKCkRldmlzZWQgYW5kIGNvbnN0cnVjdGVkIGEgc2VyaWVzIG9mIHByb2dyYW1zIHRvIG1pZ3JhdGUgdmVuZG9yIGRhdGEgaW50byBKUmV2aWV3IHBvc3RncmVzcWwgZm9yIERhdGEKCk1hbmFnZXIgcmV2aWV3LgoKKiBTcGVjaWFsaXppbmcgaW4gZXh0cmFjdGluZyBkYXRhIGZyb20gZG9jdW1lbnRzIGZvciB0cmFuc2Zvcm1hdGlvbiBhbmQgdXBsb2FkIGZvciBlbmQgdXNlciByZXZpZXcuCgpEYXRhYmFzZSBEZXZlbG9wZXIKClByZW1pZXIgUmVzZWFyY2ggLSBRdWluY3ksIE1BIC0gU2VwdGVtYmVyIDIwMTAgdG8gSnVuZSAyMDE2CgpDb25zdHJ1Y3RlZCBtZWRpY2FsIGRhdGFiYXNlIHRvIGJlIHVzZWQgYnkgcGh5c2ljaWFucyBhbmQgZG9jdG9ycyB0byBjb2xsZWN0IHBhdGllbnQgZGF0YSBvbiBkcnVnIHJlc2VhcmNoCgp0cmlhbHMgdXNpbmcgT3JhY2xlIENsaW5pY2FsLCBEYXRhTGFicywgYW5kIE1lZGlkYXRhIFJhdmUuCgoqIERldmVsb3BlZCBwcm9jZWR1cmVzIGluIGJvdGggUEwvU1FMIGFuZCBWQi5uZXQgdG8gdmVyaWZ5IGFuZCBhbmFseXplIHBhdGllbnQgZGF0YSBmb3IgYW55IGRpc2NyZXBhbmNpZXMKCmVpdGhlciBwaHlzaWNpYW4gbWlzdGFrZXMgb3IgYWJub3JtYWxpdGllcyBpbiBwYXRpZW50IGNvbmRpdGlvbi4KCkdlbmVyYWwgTWFuYWdlcgoKU0NBTiBUViwgVU5IIC0gRHVyaGFtLCBOSCAtIEp1bmUgMjAwNyB0byBKdW5lIDIwMDkKCkV4ZWN1dGl2ZS1sZXZlbCBsZWFkZXJzaGlwIHJvbGUgb3ZlcnNlZWluZyBudW1lcm91cyB2b2x1bnRlZXJzIGFuZCBtYW5hZ2VycyB0byBmYWNpbGl0YXRlIHRoZSBkYXktdG8tZGF5CgpvcGVyYXRpb25zIG9mIHRoZSBUViBzdGF0aW9uIHdpdGggaW4taG91c2UgZGV2ZWxvcGVkIGNvbnRlbnQuCgoqIE92ZXJzYXcgcHJvamVjdCB0byBtb2Rlcm5pemUgdGhlIHN0YXRpb24gd2l0aCB0aGUgbGF0ZXN0IGVxdWlwbWVudCBhbmQgdGhlIG1haW50ZW5hbmNlIG9mIFRWIHByb2R1Y3Rpb24KCmVxdWlwbWVudC4KCkVEVUNBVElPTgoKQi5TLiBpbiBJbnRlcmRpc2NpcGxpbmFyeSBNYXRoZW1hdGljcywgQ29tcHV0ZXIgU2NpZW5jZQoKVW5pdmVyc2l0eSBvZiBOZXcgSGFtcHNoaXJlIC0gRHVyaGFtLCBOSAoKQXVndXN0IDIwMDUgdG8gRGVjZW1iZXIgMjAwOQoKU0tJTExTCgpPUkFDTEUgKDUgeWVhcnMpLCBTUUwgKDUgeWVhcnMpLCBWQi5ORVQgKDUgeWVhcnMpLCBCQUNLVVBTIChMZXNzIHRoYW4gMSB5ZWFyKSwgQysrIChMZXNzIHRoYW4gMSB5ZWFyKQoKQURESVRJT05BTCBJTkZPUk1BVElPTgoKU0tJTExTOgoKUHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzOiBKYXZhLCBTUUwsIEMrKywgQywgVkIubmV0LgoKVG9vbHM6IE5ldGJlYW5zLCBFY2xpcHNlLCBOb3RlcGFkKyssIFZJTSwgT3JhY2xlIENsaW5pY2FsLCBNZWRpZGF0YSBSQVZFLCBEYXRhbGFicywgTUVSR0UuCgpOT1RBQkxFIFBST0pFQ1RTOgoKRGlyZWN0b3J5IENsb3VkLCBQZXJzb25hbCBwcm9qZWN0IEphdmEKCiogRGV2ZWxvcGVkIEphdmEgYmFzZWQgY2xvdWQgc29mdHdhcmUgZm9yIHNlY3VyZSBpbmNyZW1lbnRhbCByZW1vdGUgYmFja3Vwcy4KCiogRGVzaWduZWQgcHJvZ3JhbSB0byBwcmVzZXJ2ZSBkZWxldGUgZmlsZXMgZm9yIHVwIHRvIGEgd2Vlay4KCiogQWJpbGl0eSB0byB3aXBlIG91dCBsb2NhbCBjb21wdXRlciBpZiBhY2NvdW50IGlzIGNvbXByb21pc2VkLgoKVHJhbnNsYXRvciwgSXJvbndvb2QgUGhhcm1hY2V1dGljYWxzIEphdmEsIFBvc3RncmVzcWwsIE15c3FsLCBTQVMgWFBUCgoqIERldmVsb3BlZCBlbnRpcmUgZWNvc3lzdGVtIG9mIHByb2dyYW1zIHRvIGZhY2lsaXRhdGUgdHJhbnNmZXIgb2YgdmVuZG9yIGZpbGVzIGluIG11bHRpcGxlIGZvcm1hdHMgaW50byBhIGRhdGEKCndhcmVob3VzZSBmb3IgcmV2aWV3LgoKKiBUb29sIHdhcyBhYmxlIHRvIGF1dG9tYXRlIG11bHRpcGxlIG1hbnVhbCBwcm9jZXNzIGFuZCByZWR1Y2VkIHRpbWUgdG8gdXBsb2FkIGRhdGEuCgpEYXRhbGFicyBWYWxpZGF0aW9uLCBQcmVtaWVyIFJlc2VhcmNoIEphdmEsIFhNTAoKKiBDcmVhdGVkIGEgc2VyaWVzIG9mIHByb2dyYW1zIHRvIHJldmlldyBYTUwgZGF0YSBmcm9tIERhdGFMYWJzIHRvIHBlcmZvcm0gZXJyb3IgY2hlY2tpbmcgYW5kIGRpYWdub3N0aWNzIG9uCgpzdHVkeSBidWlsZHMuCgoqIFByb2dyYW0gd2FzIHVzZWQgdG8gcmVkdWNlIGVycm9yIGxvY2F0aW5nIGFuZCBjb3JyZWN0aW9uIHRpbWUgZnJvbSA1IGJ1c2luZXNzIGRheXMgdG8gbGVzcyB0aGFuIG9uZS4KCiogRGVzaWduZWQgdG8gYmUgT08gYW5kIG1vZHVsYXIgc28gYWRkaXRpb25hbCB2YWxpZGF0aW9uIGNoZWNrcyBjb3VsZCBiZSBjcmVhdGVkIHdpdGggbWluaW1hbCByZWJ1aWxkaW5nCgpvZiB0aGUKCmNvZGUu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913054160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

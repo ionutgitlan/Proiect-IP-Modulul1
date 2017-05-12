@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2914430105432"  usageLimitType="allocation" usageLimit="100" currentUsage="2" remainingUsage="98" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+	<ContactInfo>
+		<PersonName>
+			<FormattedName>Aaron Metcalfe</FormattedName>
+			<GivenName>Aaron</GivenName>
+			<FamilyName>Metcalfe</FamilyName>
+		</PersonName>
+		<ContactMethod>
+			<InternetEmailAddress>indeed.com/r/Aaron-Metcalfe/a66b84d6dd167c8e</InternetEmailAddress>
+		</ContactMethod>
+	</ContactInfo>
+	<ExecutiveSummary>Areas of Expertise: People management (Learners and Stake holders) Ability to present to/train varying group sizes of differing ability levels Ability to produce resources and management of Virtual Learning Environments In-depth knowledge of learning styles and pedagogies Data Analysis of both in house and National data Intervention strategies</ExecutiveSummary>
+	<EmploymentHistory>
+		<EmployerOrg>
+			<EmployerOrgName>NEW COLLEGE LEICESTER - Leicester</EmployerOrgName>
+			<JobType/>
+			<PositionHistory>
+				<Title>Head of Computer Science</Title>
+				<OrgName>
+					<OrganizationName/>
+				</OrgName>
+				<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+			<Description>* Redevelopment of curriculum to be CS focused * Development of assessment strategies (AWOL documentation) * Training of both specialist and non specialist CS teachers * Development of departmental improvement strategies * Completion of Quality Assurance procedures
+			</Description>
+			<StartDate>
+				<AnyDate>2016-09-01</AnyDate>
+			</StartDate>
+			</PositionHistory>
+		</EmployerOrg>
+		<EmployerOrg>
+			<EmployerOrgName>Chellaston Academy - Stage, CO</EmployerOrgName>
+			<JobType/>
+			<PositionHistory>
+				<Title>Key Stage 4 Co-ordinator of Computing</Title>
+				<OrgName>
+				<OrganizationName/>
+				</OrgName>
+				<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+				<Description>Lead role in the selection and implementation of the Applied and computer science qualifications at Ks4 including teaching JavaScript Python and App Inventor. * Teacher of Computer Science to all year groups and abilities. * Analysis of data and management of intervention. * Development and management of Virtual Learning Platform
+				</Description>
+				<StartDate>
+					<AnyDate>2014-09-01</AnyDate>
+				</StartDate>
+			</PositionHistory>
+		</EmployerOrg>
+		<EmployerOrg>
+			<EmployerOrgName>Chellaston Academy</EmployerOrgName>
+			<JobType/>
+			<PositionHistory>
+				<Title>Teacher of Computing</Title>
+				<OrgName>
+					<OrganizationName/>
+				</OrgName>
+				<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+				<Description>Delivery of effective teaching to mixed ability classes, age 11-18 (ICT and Computing) * Timely monitoring and reporting of student progress * Appropriately differentiating teaching resources for classes.
+				</Description>
+				<StartDate>
+				<AnyDate>2011-09-01</AnyDate>
+				</StartDate>
+				<EndDate>
+				<AnyDate>2014-09-01</AnyDate>
+				</EndDate>
+			</PositionHistory>
+		</EmployerOrg>
+		<EmployerOrg>
+			<EmployerOrgName>Plume School</EmployerOrgName>
+			<JobType/>
+			<PositionHistory>
+				<Title>ICT Assistant Teacher</Title>
+				<OrgName>
+					<OrganizationName/>
+				</OrgName>
+				<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+				<Description>Cover Supervisor and IT Technician Working exclusively within the ICT Department to aid and help prepare lesson for lower school students * ICT cover supervisor, covering ICT teacher illness for year 7 - 9 * Helped run IT extracurricular activates held at lunch times * Assistant Rugby Coach for Years 7 - 9 * IT Technician for lower school campus
+				</Description>
+				<StartDate>
+					<AnyDate>2006-09-01</AnyDate>
+				</StartDate>
+				<EndDate>
+					<AnyDate>2007-09-01</AnyDate>
+				</EndDate>
+			</PositionHistory>
+		</EmployerOrg>
+	</EmploymentHistory>
+	<EducationHistory>
+		<SchoolOrInstitution schoolType="university">
+			<School>
+				<SchoolName>The University of Warwick</SchoolName>
+			</School>
+			<PostalAddress>
+				<Municipality>Warwick</Municipality>
+			</PostalAddress>
+			<Degree degreeType="masters">
+				<DegreeName>Masters</DegreeName>
+				<DegreeDate>
+					<AnyDate>2011-01-01</AnyDate>
+				</DegreeDate>
+				<DegreeMajor>
+					<Name>Computing technologies</Name>
+				</DegreeMajor>
+				<DatesOfAttendance currentlyEnrolled="false">
+				<StartDate>
+					<AnyDate>2010-01-01</AnyDate>
+				</StartDate>
+				<EndDate>
+					<AnyDate>2011-01-01</AnyDate>
+				</EndDate>
+				</DatesOfAttendance>
+			</Degree>
+		</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Coventry University</SchoolName>
+				</School>
+				<PostalAddress>
+					<Municipality>Coventry</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>BSc</DegreeName>
+					<DegreeDate>
+						<AnyDate>2011-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science</Name>
+					</DegreeMajor>
+					<DatesOfAttendance currentlyEnrolled="false">
+						<StartDate>
+							<AnyDate>2007-01-01</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2011-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<DegreeMeasure>
+						<EducationalMeasure>
+						<MeasureSystem>GPA</MeasureSystem>
+						<MeasureValue>
+						<StringValue>Hons</StringValue>
+						</MeasureValue>
+						<LowestPossibleValue>
+						<StringValue>0</StringValue>
+						</LowestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="college">
+				<School>
+				<SchoolName>Chelmsford College</SchoolName>
+				</School>
+				<Degree>
+					<DegreeName>A levels</DegreeName>
+				<DegreeDate>
+				<AnyDate>2007-01-01</AnyDate>
+				</DegreeDate>
+				<DatesOfAttendance currentlyEnrolled="false">
+					<StartDate>
+					<AnyDate>2004-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+					<AnyDate>2007-01-01</AnyDate>
+					</EndDate>
+				</DatesOfAttendance>
+				</Degree>
+			</SchoolOrInstitution>
+		<SchoolOrInstitution schoolType="college">
+		<School>
+		<SchoolName>Witham Technology college</SchoolName>
+		</School>
+		<Degree>
+		<DegreeName>NVQ</DegreeName>
+		<DegreeDate>
+		<AnyDate>2006-01-01</AnyDate>
+		</DegreeDate>
+		</Degree>
+		</SchoolOrInstitution>
+		<SchoolOrInstitution schoolType="">
+		<School>
+		<SchoolName>Sandon School</SchoolName>
+		</School>
+		<Degree>
+		<DegreeName>A level</DegreeName>
+		<DegreeDate>
+		<AnyDate>1998-03-01</AnyDate>
+		</DegreeDate>
+		<DegreeMajor>
+		<Name>Computer Science, History, Government and Politics</Name>
+		</DegreeMajor>
+		</Degree>
+		</SchoolOrInstitution>
+	</EducationHistory>
+	<Qualifications>
+		<Competency name="Adobe">
+			<CompetencyId description="HireAbility taxonomy" id="5334" idOwner="HireAbility"/>
+			<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+			<CompetencyEvidence name="Adobe">
+				<NumericValue description="Range in years of experience">1</NumericValue>
+			</CompetencyEvidence>
+		</Competency>
+		<Competency name="Data Analysis">
+		<CompetencyId description="HireAbility taxonomy" id="7614" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Data Analysis">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Documentation">
+		<CompetencyId description="HireAbility taxonomy" id="12375" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Documentation" lastUsed="2017-01-01">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Evaluate">
+		<CompetencyId description="HireAbility taxonomy" id="4692" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Evaluate">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Javascript">
+		<CompetencyId description="HireAbility taxonomy" id="211" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Javascript" lastUsed="2017-01-01">
+		<NumericValue description="Range in years of experience">3</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Management">
+		<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Management" lastUsed="2017-01-01">
+		<NumericValue description="Range in years of experience">3</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Microsoft Visual Studio">
+		<CompetencyId description="HireAbility taxonomy" id="6948" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Microsoft Visual Studio">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="People Management">
+		<CompetencyId description="HireAbility taxonomy" id="17850" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="People Management">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Programming">
+		<CompetencyId description="HireAbility taxonomy" id="10" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Programming">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Progress">
+		<CompetencyId description="HireAbility taxonomy" id="335" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Progress" lastUsed="2014-01-01">
+		<NumericValue description="Range in years of experience">3</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Python Programming Language">
+		<CompetencyId description="HireAbility taxonomy" id="4521" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Python Programming Language" lastUsed="2017-01-01">
+		<NumericValue description="Range in years of experience">3</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Quality Assurance">
+		<CompetencyId description="HireAbility taxonomy" id="2163" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Quality Assurance" lastUsed="2017-01-01">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Rational">
+		<CompetencyId description="HireAbility taxonomy" id="7560" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Rational">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Rational Rose">
+		<CompetencyId description="HireAbility taxonomy" id="358" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Rational Rose">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Science">
+		<CompetencyId description="HireAbility taxonomy" id="11108" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Science">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Structured Query Language">
+		<CompetencyId description="HireAbility taxonomy" id="4806" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Structured Query Language">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Test">
+		<CompetencyId description="HireAbility taxonomy" id="4723" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Test" lastUsed="2017-01-01">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Training">
+		<CompetencyId description="HireAbility taxonomy" id="2281" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Training" lastUsed="2017-01-01">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Use Case Diagrams">
+		<CompetencyId description="HireAbility taxonomy" id="6631" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Use Case Diagrams">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+		<Competency name="Use Cases">
+		<CompetencyId description="HireAbility taxonomy" id="6630" idOwner="HireAbility"/>
+		<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+		<CompetencyEvidence name="Use Cases">
+		<NumericValue description="Range in years of experience">1</NumericValue>
+		</CompetencyEvidence>
+		</Competency>
+	</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QWFyb24gTWV0Y2FsZmUKCkhlYWQgb2YgQ29tcHV0ZXIgU2NpZW5jZSBkZXBhcnRtZW50IGxvb2tpbmcgdG8gdHJhbnNpdGlvbiBpbnRvIHByaW1hcnkgdGVhY2hpbmcKClN3YWRsaW5jb3RlIC0gRW1haWwgbWUgb24gSW5kZWVkOiBpbmRlZWQuY29tL3IvQWFyb24tTWV0Y2FsZmUvYTY2Yjg0ZDZkZDE2N2M4ZQoKQW4gZXhwaWVyZW5jZWQgc2Vjb25kYXJ5IGNvbXB1dGluZyBzcGVjaWFsaXN0IGxvb2tpbmcgdG8gdHJhbnNpdGlvbiBpbnRvIHByaW1hcnkgdGVhY2hpbmcuCgpXT1JLIEVYUEVSSUVOQ0UKCkhlYWQgb2YgQ29tcHV0ZXIgU2NpZW5jZQoKTkVXIENPTExFR0UgTEVJQ0VTVEVSIC0gTGVpY2VzdGVyIC0gU2VwdGVtYmVyIDIwMTYgdG8gUHJlc2VudAoKKiBSZWRldmVsb3BtZW50IG9mIGN1cnJpY3VsdW0gdG8gYmUgQ1MgZm9jdXNlZAoKKiBEZXZlbG9wbWVudCBvZiBhc3Nlc3NtZW50IHN0cmF0ZWdpZXMgKEFXT0wgZG9jdW1lbnRhdGlvbikKCiogVHJhaW5pbmcgb2YgYm90aCBzcGVjaWFsaXN0IGFuZCBub24gc3BlY2lhbGlzdCBDUyB0ZWFjaGVycwoKKiBEZXZlbG9wbWVudCBvZiBkZXBhcnRtZW50YWwgaW1wcm92ZW1lbnQgc3RyYXRlZ2llcwoKKiBDb21wbGV0aW9uIG9mIFF1YWxpdHkgQXNzdXJhbmNlIHByb2NlZHVyZXMKCktleSBTdGFnZSA0IENvLW9yZGluYXRvciBvZiBDb21wdXRpbmcKCkNoZWxsYXN0b24gQWNhZGVteSAtIFN0YWdlLCBDTyAtIFNlcHRlbWJlciAyMDE0IHRvIFByZXNlbnQKCkxlYWQgcm9sZSBpbiB0aGUgc2VsZWN0aW9uICYgaW1wbGVtZW50YXRpb24gb2YgdGhlIEFwcGxpZWQgJiBjb21wdXRlciBzY2llbmNlIHF1YWxpZmljYXRpb25zIGF0IEtzNCBpbmNsdWRpbmcKCnRlYWNoaW5nIEphdmFTY3JpcHQKClB5dGhvbiBhbmQgQXBwIEludmVudG9yLgoKKiBUZWFjaGVyIG9mIENvbXB1dGVyIFNjaWVuY2UgdG8gYWxsIHllYXIgZ3JvdXBzIGFuZCBhYmlsaXRpZXMuCgoqIEFuYWx5c2lzIG9mIGRhdGEgJiBtYW5hZ2VtZW50IG9mIGludGVydmVudGlvbi4KCiogRGV2ZWxvcG1lbnQgYW5kIG1hbmFnZW1lbnQgb2YgVmlydHVhbCBMZWFybmluZyBQbGF0Zm9ybQoKVGVhY2hlciBvZiBDb21wdXRpbmcKCkNoZWxsYXN0b24gQWNhZGVteSAtIFNlcHRlbWJlciAyMDExIHRvIFNlcHRlbWJlciAyMDE0CgpEZWxpdmVyeSBvZiBlZmZlY3RpdmUgdGVhY2hpbmcgdG8gbWl4ZWQgYWJpbGl0eSBjbGFzc2VzLCBhZ2UgMTEtMTggKElDVAoKJiBDb21wdXRpbmcpCgoqIFRpbWVseSBtb25pdG9yaW5nICYgcmVwb3J0aW5nIG9mIHN0dWRlbnQgcHJvZ3Jlc3MKCiogQXBwcm9wcmlhdGVseSBkaWZmZXJlbnRpYXRpbmcgdGVhY2hpbmcgcmVzb3VyY2VzIGZvciBjbGFzc2VzLgoKSUNUIEFzc2lzdGFudCBUZWFjaGVyLCBDb3ZlciBTdXBlcnZpc29yICYgSVQgVGVjaG5pY2lhbgoKUGx1bWUgU2Nob29sIC0gU2VwdGVtYmVyIDIwMDYgdG8gU2VwdGVtYmVyIDIwMDcKCldvcmtpbmcgZXhjbHVzaXZlbHkgd2l0aGluIHRoZSBJQ1QgRGVwYXJ0bWVudCB0byBhaWQgYW5kIGhlbHAKCnByZXBhcmUgbGVzc29uIGZvciBsb3dlciBzY2hvb2wgc3R1ZGVudHMKCiogSUNUIGNvdmVyIHN1cGVydmlzb3IsIGNvdmVyaW5nIElDVCB0ZWFjaGVyIGlsbG5lc3MgZm9yIHllYXIgNyAtIDkKCiogSGVscGVkIHJ1biBJVCBleHRyYWN1cnJpY3VsYXIgYWN0aXZhdGVzIGhlbGQgYXQgbHVuY2ggdGltZXMKCiogQXNzaXN0YW50IFJ1Z2J5IENvYWNoIGZvciBZZWFycyA3IC0gOQoKKiBJVCBUZWNobmljaWFuIGZvciBsb3dlciBzY2hvb2wgY2FtcHVzCgpFRFVDQVRJT04KClBHQ0UgTWFzdGVycwoKVGhlIFVuaXZlcnNpdHkgb2YgV2Fyd2ljayAtIFdhcndpY2sKCjIwMTAgdG8gMjAxMQoKQ29tcHV0aW5nIHRlY2hub2xvZ2llcyBCU2MgKEhvbnMpIGluIENvbXB1dGVyIFNjaWVuY2UKCkNvdmVudHJ5IFVuaXZlcnNpdHkgLSBDb3ZlbnRyeQoKMjAwNyB0byAyMDExCgpBIGxldmVscwoKQ2hlbG1zZm9yZCBDb2xsZWdlCgoyMDA0IHRvIDIwMDcKCk5WUQoKV2l0aGFtIFRlY2hub2xvZ3kgY29sbGVnZQoKMjAwNgoKQSBsZXZlbCBpbiBDb21wdXRlciBTY2llbmNlLCBIaXN0b3J5LCBHb3Zlcm5tZW50ICYgUG9saXRpY3MKClNhbmRvbiBTY2hvb2wKCk1hcmNoIDE5OTgKCkxJTktTCgpodHRwOi8vdWsubGlua2VkaW4uY29tL2luL0FKTWV0Y2FsZmUKCkFERElUSU9OQUwgSU5GT1JNQVRJT04KCkFyZWFzIG9mIEV4cGVydGlzZToKClBlb3BsZSBtYW5hZ2VtZW50IChMZWFybmVycyBhbmQgU3Rha2UgaG9sZGVycykKCkFiaWxpdHkgdG8gcHJlc2VudCB0by90cmFpbiB2YXJ5aW5nIGdyb3VwIHNpemVzIG9mIGRpZmZlcmluZyBhYmlsaXR5IGxldmVscwoKQWJpbGl0eSB0byBwcm9kdWNlIHJlc291cmNlcyAmIG1hbmFnZW1lbnQgb2YgVmlydHVhbCBMZWFybmluZyBFbnZpcm9ubWVudHMKCkluLWRlcHRoIGtub3dsZWRnZSBvZiBsZWFybmluZyBzdHlsZXMgYW5kIHBlZGFnb2dpZXMKCkRhdGEgQW5hbHlzaXMgb2YgYm90aCBpbiBob3VzZSBhbmQgTmF0aW9uYWwgZGF0YQoKSW50ZXJ2ZW50aW9uIHN0cmF0ZWdpZXMKClNraWxsczoKClRlY2huaWNhbAoKUHl0aG9uLCBKYXZhU2NyaXB0ICYgU1FMIFByb2dyYW1taW5nCgpOdW1lcm91cyBQcm9qZWN0IExpZmUgQ3ljbGUgTWV0aG9kb2xvZ2llcyBpbmNsdWRpbmcgT2JqZWN0IE9yaWVudGF0ZWQKClJhdGlvbmFsIFJvc2UgKFVzZSBDYXNlIERpYWdyYW1zKQoKVmlzdWFsIFN0dWRpbwoKVXNhYmlsaXR5ICYgUGVydmFzaXZlIENvbXB1dGluZyBUZXN0aW5nIFByb3RvY29scwoKQ3JlYXRpb24gJiBtYWludGVuYW5jZSBvZiB3ZWJzaXRlcwoKSW4tZGVwdGggS25vd2xlZGdlIG9mIEFkb2JlIGNyZWF0aXZlIHBhY2thZ2UKCkxlYXJuaW5nICYgRGV2ZWxvcG1lbnQKCkV4cGVyaWVuY2Ugb2YgcHJvZHVjaW5nIHRyYWluaW5nIHBsYW5zIHRvIG1lZXQgY2xpZW50IHJlcXVpcmVtZW50cy4KCkV4cGVyaWVuY2Ugb2YgZGVsaXZlcmluZyB0cmFpbmluZyAxIG9uIDEgYW5kIHRvIGxhcmdlIGdyb3VwcyBvZiB2YXJ5aW5nIGFnZXMgYW5kIGFiaWxpdGllcy4KCkNyZWF0aW9uIG9mIGFzc2Vzc21lbnQgdGVjaG5pcXVlcyB0byB0cmFjayBwcm9ncmVzcyAmIGV2YWx1YXRlIHByb2dyYW0gc3VjY2VzcwoKRXhjZWxsZW50IG9yZ2FuaXNhdGlvbmFsIGFuZCBjby1vcmRpbmF0aW9uIHNraWxscy4KClN0cm9uZyBpbnRlcnBlcnNvbmFsIHNraWxscyBhbmQgY3VzdG9tZXIgZmFjaW5nIHByZXNlbnRhdGlvbiBxdWFsaXRpZXMuCgpFeHBlcmllbmNlIG9mIGNvLW9yZGluYXRpbmcgdGVhbSBtZW1iZXJzIGFuZCBvcmdhbmlzYXRpb24gb2YgZXh0ZXJuYWwgZXhhbWluYXRpb25zLAoKY291cnNld29yayBtb2RlcmF0aW9uIGFuZCB0cmlwcy4KClN0YWZmIG1hbmFnZW1lbnQgJiBwZXJmb3JtYW5jZSBvYnNlcnZhdGlvbnMuCgpUcmFpbmVlIHNlbGVjdGlvbiAmIG1hbmFnZW1lbnQgaW4gY29uanVuY3Rpb24gd2l0aCBJbml0aWFsIFRlYWNoZXIgVHJhaW5pbmcgcHJvdmlkZXJzLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914430105432">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

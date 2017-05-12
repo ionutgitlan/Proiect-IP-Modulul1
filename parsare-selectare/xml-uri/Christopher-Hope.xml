@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2913402160532"  usageLimitType="allocation" usageLimit="100" currentUsage="45" remainingUsage="55" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Christopher Hope</FormattedName>
+<GivenName>Christopher</GivenName>
+<FamilyName>Hope</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<Region>BT</Region>
+<Municipality>Fully</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Christopher-Hope/fdaa1bc4362b6594</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Blackburn University - Blackburn</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Field EPOS Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Computer Science Student
+</Description>
+<StartDate>
+<AnyDate>2016-09-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Barron McCann Ltd</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Installation Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<Municipality>Blackburn</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Maintain EPOS for High Street Retailers and fix onsite. Installation Engineer
+</Description>
+<StartDate>
+<AnyDate>2016-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>4COM PLC</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Install, Upgrade, Maintain Samsung PBX Phone systems throughout UK. OSF, 7030, 7100, 7200 mainly, using Digital ISDN Lines using IP handsets and Analogue lines, TDM handsets.
+</Description>
+<StartDate>
+<AnyDate>2015-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2016-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The Centre</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>IT Support Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2015-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>is an executive body of the Science and</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Maritime Research and Experimentation (IS SUPPORT) - for Maritime Research and Experimentation (CMRE) is an executive body of the Science and Technology Organization (STO). The CMRE organizes and conducts scientific research and technology development and delivers innovative field-tested science and technology solutions to address the defense and security needs of the Alliance. Within the CMRE Research and Engineering Division the Information Laboratories Office (ILAB) supports the execution of the program of work (POW) through the conception, design, development and construction of state of the art technologies in computing, networking and modeling & simulation (M&S), ensuring interoperability, security and compliance with relevant NATO policies and regulations.
+</Description>
+<StartDate>
+<AnyDate>2015-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Thales</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Installation Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Fibre optic cable installation services for single mode and multi-mode Fibre optic cables, Installation of internal Fibre networks to cross site Fibre optic cables up to 5 km including Fibre optic cabling and Fibre optic transmission equipment and termination solutions. Assemble and set up all tools, materials and equipment to create cable pathways Install cable supports prepare cables for installation, refurbishment of equipment cabinets.
+</Description>
+<StartDate>
+<AnyDate>2014-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Installation Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>6G - Install, configure and maintain the network and systems infrastructure based at POP and transmission sites. Travel to POPs in various UK locations where required. Out of hours support i.e. ensures the POP's and Systems are accessible 24/7 and provide on-call assistance and monitoring where required. Installation of VOIP, CCTV cameras, Access control door entry systems in Business premises.
+</Description>
+<StartDate>
+<AnyDate>2014-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>BT Openreach</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Installation Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Fibre-Optic and Copper Installs. Commercial and Business installations of cable television (BT Vision), telephones and broadband internet services, managed Fibre-optic installs and Copper ADSL. The work includes connecting customers to the network at distribution cabinets, provisioning overhead copper drop- wires, pulling cables, external and internal wiring of the customers premise, commissioning of the equipment and educating the customer in its use. In addition, Compliance with Health and Safety plan and method statements. Wearing and using appropriate PPE. Keeping tools and equipment in good order.
+</Description>
+<StartDate>
+<AnyDate>2013-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2014-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Creative Information Technologies Inc</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Installation Engineer</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>* Carried out the Installation and Maintenance of identity card systems under the ISAF TACTIC programme at ISAF HQ in Kabul, and other sites in Afghanistan. * Prior to Deployment to Afghanistan, received training on the installation requirements at an installation and training session at an NCIA site. * Installed the workstations, system peripherals and software as instructed by my In-Country Programme
+</Description>
+<StartDate>
+<AnyDate>2013-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<JobType/>
+<PositionHistory>
+<Title>Manager</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>* Worked closely on the highly successful project with the NCIA and ISAF personnel.
+</Description>
+<StartDate>
+<AnyDate>2012-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>British Telecom.</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>* Qualified as a Class 2 Communication Systems Engineer, gaining a strong recommendation for promotion. * Service management: providing help-desk support and troubleshooting.
+</Description>
+<StartDate>
+<AnyDate>2011-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Teleconferencing</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Communications Specialist</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>operating video teleconferencing equipment and digital telephone exchanges.
+</Description>
+<StartDate>
+<AnyDate>2008-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Army Learning Centre</SchoolName>
+</School>
+<Degree>
+<DegreeName>Diploma</DegreeName>
+<DegreeDate>
+<AnyDate>2013-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Web Design</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2012-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Royal School of Signals</SchoolName>
+</School>
+<Degree>
+<DegreeName>NVQ</DegreeName>
+<DegreeDate>
+<AnyDate>2010-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Communication Technology Professionals</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Army Training Centre</SchoolName>
+</School>
+<PostalAddress>
+<Municipality>Pirbright</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>GCSEs</DegreeName>
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>City and Guilds</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Communications Cabling</Name>
+</DegreeMajor>
+<DatesOfAttendance currentlyEnrolled="false">
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</DatesOfAttendance>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<MilitaryHistory>
+<ServiceDetail branch="Army">
+<RankAchieved>
+<CurrentOrEndRank>Senior Communications Specialist</CurrentOrEndRank>
+</RankAchieved>
+<DatesOfService>
+<StartDate>
+<AnyDate>2011-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-11-01</AnyDate>
+</EndDate>
+</DatesOfService>
+<AreaOfExpertise>British Army 
+* Led a small specialist team providing direct engineering support to Afghanistan. This included providing guidance to junior team members and monitoring performance which ensured quality control was maintained and deadlines were met. * Mentored junior staff during probationary periods, providing guidance and feedback where required. * Provided input into junior soldiers annual reports, making recommendations for potential promotion.
+</AreaOfExpertise>
+</ServiceDetail>
+<ServiceDetail branch="Army">
+<RankAchieved>
+<CurrentOrEndRank>Communications Network Manager</CurrentOrEndRank>
+</RankAchieved>
+<DatesOfService>
+<StartDate>
+<AnyDate>2011-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-11-01</AnyDate>
+</EndDate>
+</DatesOfService>
+<AreaOfExpertise>British Army 
+* Employed as a Communications Network Manager supporting operations in Afghanistan, using a PROMINA multiplexer server system. * Primarily role included forming part of a team responsible for the maintenance and operation of the PSC 506 Communications Base (CB), providing engineering support to the deployed tactical PSC 506 satellite communications network. * A member of the deployed Operational Networks engineering desk (Promina), providing 24 hour level 3 technical management and direct engineering support to the operational theatre in Afghanistan. * Briefed high profile visitors and worked closely on a number of highly successful projects with THALES and
+</AreaOfExpertise>
+</ServiceDetail>
+<ServiceDetail branch="Army">
+<RankAchieved>
+<CurrentOrEndRank>Communications Specialist</CurrentOrEndRank>
+</RankAchieved>
+<DatesOfService>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-06-01</AnyDate>
+</EndDate>
+</DatesOfService>
+<AreaOfExpertise>British Army 
+* Computer software systems: installing computer workstations into a systems network and then maintaining, engineering and controlling these systems.Fibre-Optics and Fusion Splicing. * Radio: HF to UHF and Bowman radio equipment, satellite and theatre-wide area digital communications networks.
+</AreaOfExpertise>
+</ServiceDetail>
+<ServiceDetail branch="Army">
+<RankAchieved>
+<CurrentOrEndRank>Technical and Military Training</CurrentOrEndRank>
+</RankAchieved>
+<DatesOfService>
+<StartDate>
+<AnyDate>2008-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</DatesOfService>
+<AreaOfExpertise>British Army 
+* Played a prominent role taking part in numerous team orientated training activities designed to improve discipline, team work and effective communication skills. * Took part in Command Tasks focused on leadership, organizational skills and problem solving. * Extremely technically skilled in the installation, maintenance of all Telecommunications equipment.
+</AreaOfExpertise>
+</ServiceDetail>
+</MilitaryHistory>
+<Qualifications>
+<Competency name="broadband">
+<CompetencyId description="HireAbility taxonomy" id="4827" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="broadband" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Cabling">
+<CompetencyId description="HireAbility taxonomy" id="1844" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Cabling" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Communications">
+<CompetencyId description="HireAbility taxonomy" id="9350" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Communications" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Configure">
+<CompetencyId description="HireAbility taxonomy" id="4691" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Configure" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Distribution">
+<CompetencyId description="HireAbility taxonomy" id="1907" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Distribution" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Information Technology">
+<CompetencyId description="HireAbility taxonomy" id="10107" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Information Technology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Infrastructure">
+<CompetencyId description="HireAbility taxonomy" id="7664" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Infrastructure" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Install">
+<CompetencyId description="HireAbility taxonomy" id="4711" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Install" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="ISDN">
+<CompetencyId description="HireAbility taxonomy" id="189" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="ISDN" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Management">
+<CompetencyId description="HireAbility taxonomy" id="7" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Management" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Networking">
+<CompetencyId description="HireAbility taxonomy" id="8" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Networking" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Osf1">
+<CompetencyId description="HireAbility taxonomy" id="300" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Osf1" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Pbx">
+<CompetencyId description="HireAbility taxonomy" id="312" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Pbx" lastUsed="2016-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality">
+<CompetencyId description="HireAbility taxonomy" id="19259" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality Assurance">
+<CompetencyId description="HireAbility taxonomy" id="2163" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality Assurance" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Quality Control">
+<CompetencyId description="HireAbility taxonomy" id="13249" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Quality Control" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Satellite">
+<CompetencyId description="HireAbility taxonomy" id="391" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Satellite" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Science">
+<CompetencyId description="HireAbility taxonomy" id="11108" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Science" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Security">
+<CompetencyId description="HireAbility taxonomy" id="7096" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Security" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Support">
+<CompetencyId description="HireAbility taxonomy" id="14" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Support">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Systems Engineer">
+<CompetencyId description="HireAbility taxonomy" id="13509" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Systems Engineer">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Telecommunications">
+<CompetencyId description="HireAbility taxonomy" id="2270" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Telecommunications" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Teleconferencing">
+<CompetencyId description="HireAbility taxonomy" id="7772" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Teleconferencing" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Training">
+<CompetencyId description="HireAbility taxonomy" id="2281" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Training" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Troubleshooting">
+<CompetencyId description="HireAbility taxonomy" id="2283" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Troubleshooting">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Video">
+<CompetencyId description="HireAbility taxonomy" id="1764" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Video" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Video Teleconferencing">
+<CompetencyId description="HireAbility taxonomy" id="7790" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Video Teleconferencing" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Willing to relocate">
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2hyaXN0b3BoZXIgSG9wZQoKUHJvZmVzc2lvbmFsCgpCbGFja2J1cm4gLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9DaHJpc3RvcGhlci1Ib3BlL2ZkYWExYmM0MzYyYjY1OTQKCkEgZm9ybWVyIG1lbWJlciBvZiB0aGUgUm95YWwgQ29ycHMgb2YgU2lnbmFscy4gUXVhbGlmaWVkIGFzIGEgTGV2ZWwgMyBDb21tdW5pY2F0aW9ucyBUZWNobm9sb2d5CgpQcm9mZXNzaW9uYWwgYW5kIGFuIGFkdmFuY2VkIElUIHNwZWNpYWxpc3QsIEkgYW0gYSBza2lsbGVkIHRlY2huaWNpYW4gd2l0aCBzdHJvbmcgcHJvYmxlbSBzb2x2aW5nIHNraWxscy4gRnVsbHkKCkJUIEFjY3JlZGl0ZWQuIEZhbWlsaWFyIHdpdGggd29ya2luZyBpbiB0ZWFtcyBhbmQgaW5kZXBlbmRlbnRseSwgSSBhbSBhbHNvIGFibGUgdG8gY29tbXVuaWNhdGUgd2VsbCBvbiBhbGwKCmxldmVscy4gRGlzY2lwbGluZWQgYW5kIHJlbGlhYmxlLCBJIGJlbGlldmUgSSB3b3VsZCBiZSBhbiBhc3NldCB0byBhbnkgZW1wbG95ZXIuCgpXaWxsaW5nIHRvIHJlbG9jYXRlCgpXT1JLIEVYUEVSSUVOQ0UKCkNvbXB1dGVyIFNjaWVuY2UgU3R1ZGVudAoKQmxhY2tidXJuIFVuaXZlcnNpdHkgLSBCbGFja2J1cm4KCkZpZWxkIEVQT1MgRW5naW5lZXIKCkJhcnJvbiBNY0Nhbm4gTHRkIC0gQmxhY2tidXJuIC0gQXByaWwgMjAxNiB0byBTZXB0ZW1iZXIgMjAxNgoKTWFpbnRhaW4gRVBPUyBmb3IgSGlnaCBTdHJlZXQgUmV0YWlsZXJzIGFuZCBmaXggb25zaXRlLgoKSW5zdGFsbGF0aW9uIEVuZ2luZWVyCgo0Q09NIFBMQyAtIE5vdmVtYmVyIDIwMTUgdG8gQXByaWwgMjAxNgoKSW5zdGFsbCwgVXBncmFkZSwgTWFpbnRhaW4gU2Ftc3VuZyBQQlggUGhvbmUgc3lzdGVtcyB0aHJvdWdob3V0IFVLLiBPU0YsIDcwMzAsIDcxMDAsIDcyMDAgbWFpbmx5LCB1c2luZwoKRGlnaXRhbCBJU0ROIExpbmVzIHVzaW5nIElQIGhhbmRzZXRzIGFuZCBBbmFsb2d1ZSBsaW5lcywgVERNIGhhbmRzZXRzLgoKSVQgU3VwcG9ydCBFbmdpbmVlcgoKVGhlIENlbnRyZSBmb3IgTWFyaXRpbWUgUmVzZWFyY2ggYW5kIEV4cGVyaW1lbnRhdGlvbiAoSVMgU1VQUE9SVCkgLSBNYXJjaCAyMDE1IHRvIE1heSAyMDE1CgpUaGUgQ2VudHJlIGZvciBNYXJpdGltZSBSZXNlYXJjaCBhbmQgRXhwZXJpbWVudGF0aW9uIChDTVJFKSBpcyBhbiBleGVjdXRpdmUgYm9keSBvZiB0aGUgU2NpZW5jZSBhbmQKClRlY2hub2xvZ3kgT3JnYW5pemF0aW9uIChTVE8pLiBUaGUgQ01SRSBvcmdhbml6ZXMgYW5kIGNvbmR1Y3RzIHNjaWVudGlmaWMgcmVzZWFyY2ggYW5kIHRlY2hub2xvZ3kKCmRldmVsb3BtZW50IGFuZCBkZWxpdmVycyBpbm5vdmF0aXZlIGZpZWxkLXRlc3RlZCBzY2llbmNlIGFuZCB0ZWNobm9sb2d5IHNvbHV0aW9ucyB0byBhZGRyZXNzIHRoZSBkZWZlbnNlCgphbmQgc2VjdXJpdHkgbmVlZHMgb2YgdGhlIEFsbGlhbmNlLiBXaXRoaW4gdGhlIENNUkUgUmVzZWFyY2ggYW5kIEVuZ2luZWVyaW5nIERpdmlzaW9uIHRoZSBJbmZvcm1hdGlvbgoKTGFib3JhdG9yaWVzIE9mZmljZSAoSUxBQikgc3VwcG9ydHMgdGhlIGV4ZWN1dGlvbiBvZiB0aGUgcHJvZ3JhbSBvZiB3b3JrIChQT1cpIHRocm91Z2ggdGhlIGNvbmNlcHRpb24sCgpkZXNpZ24sIGRldmVsb3BtZW50IGFuZCBjb25zdHJ1Y3Rpb24gb2Ygc3RhdGUgb2YgdGhlIGFydCB0ZWNobm9sb2dpZXMgaW4gY29tcHV0aW5nLCBuZXR3b3JraW5nIGFuZCBtb2RlbGluZwoKJiBzaW11bGF0aW9uIChNJlMpLCBlbnN1cmluZyBpbnRlcm9wZXJhYmlsaXR5LCBzZWN1cml0eSBhbmQgY29tcGxpYW5jZSB3aXRoIHJlbGV2YW50IE5BVE8gcG9saWNpZXMgYW5kCgpyZWd1bGF0aW9ucy4KCkluc3RhbGxhdGlvbiBFbmdpbmVlcgoKVGhhbGVzIC0gTm92ZW1iZXIgMjAxNCB0byBNYXkgMjAxNQoKRmlicmUgb3B0aWMgY2FibGUgaW5zdGFsbGF0aW9uIHNlcnZpY2VzIGZvciBzaW5nbGUgbW9kZSBhbmQgbXVsdGktbW9kZSBGaWJyZSBvcHRpYyBjYWJsZXMsIEluc3RhbGxhdGlvbiBvZiBpbnRlcm5hbAoKRmlicmUgbmV0d29ya3MgdG8gY3Jvc3Mgc2l0ZSBGaWJyZSBvcHRpYyBjYWJsZXMgdXAgdG8gNSBrbSBpbmNsdWRpbmcgRmlicmUgb3B0aWMgY2FibGluZyBhbmQgRmlicmUgb3B0aWMKCnRyYW5zbWlzc2lvbiBlcXVpcG1lbnQgYW5kIHRlcm1pbmF0aW9uIHNvbHV0aW9ucy4gQXNzZW1ibGUgYW5kIHNldCB1cCBhbGwgdG9vbHMsIG1hdGVyaWFscyBhbmQgZXF1aXBtZW50Cgp0byBjcmVhdGUgY2FibGUgcGF0aHdheXM7IEluc3RhbGwgY2FibGUgc3VwcG9ydHM7IHByZXBhcmUgY2FibGVzIGZvciBpbnN0YWxsYXRpb24sIHJlZnVyYmlzaG1lbnQgb2YgZXF1aXBtZW50CgpjYWJpbmV0cy4KCkluc3RhbGxhdGlvbiBFbmdpbmVlcgoKNkcgLSBBdWd1c3QgMjAxNCB0byBOb3ZlbWJlciAyMDE0CgpJbnN0YWxsLCBjb25maWd1cmUgYW5kIG1haW50YWluIHRoZSBuZXR3b3JrIGFuZCBzeXN0ZW1zIGluZnJhc3RydWN0dXJlIGJhc2VkIGF0IFBPUCBhbmQgdHJhbnNtaXNzaW9uIHNpdGVzLgoKVHJhdmVsIHRvIFBPUHMgaW4gdmFyaW91cyBVSyBsb2NhdGlvbnMgd2hlcmUgcmVxdWlyZWQuIE91dCBvZiBob3VycyBzdXBwb3J0IGkuZS4gZW5zdXJlcyB0aGUgUE9QJ3MgYW5kCgpTeXN0ZW1zIGFyZSBhY2Nlc3NpYmxlIDI0LzcgYW5kIHByb3ZpZGUgb24tY2FsbCBhc3Npc3RhbmNlIGFuZCBtb25pdG9yaW5nIHdoZXJlIHJlcXVpcmVkLiBJbnN0YWxsYXRpb24gb2YKClZPSVAsIENDVFYgY2FtZXJhcywgQWNjZXNzIGNvbnRyb2wgZG9vciBlbnRyeSBzeXN0ZW1zIGluIEJ1c2luZXNzIHByZW1pc2VzLgoKSW5zdGFsbGF0aW9uIEVuZ2luZWVyCgpCVCBPcGVucmVhY2ggLSBTZXB0ZW1iZXIgMjAxMyB0byBBcHJpbCAyMDE0CgpGaWJyZS1PcHRpYyBhbmQgQ29wcGVyIEluc3RhbGxzLiBDb21tZXJjaWFsIGFuZCBCdXNpbmVzcyBpbnN0YWxsYXRpb25zIG9mIGNhYmxlIHRlbGV2aXNpb24gKEJUIFZpc2lvbiksCgp0ZWxlcGhvbmVzIGFuZCBicm9hZGJhbmQgaW50ZXJuZXQgc2VydmljZXMsIG1hbmFnZWQgRmlicmUtb3B0aWMgaW5zdGFsbHMgYW5kIENvcHBlciBBRFNMLiBUaGUgd29yawoKaW5jbHVkZXMgY29ubmVjdGluZyBjdXN0b21lcnMgdG8gdGhlIG5ldHdvcmsgYXQgZGlzdHJpYnV0aW9uIGNhYmluZXRzLCBwcm92aXNpb25pbmcgb3ZlcmhlYWQgY29wcGVyIGRyb3AtCgp3aXJlcywgcHVsbGluZyBjYWJsZXMsIGV4dGVybmFsIGFuZCBpbnRlcm5hbCB3aXJpbmcgb2YgdGhlIGN1c3RvbWVycyBwcmVtaXNlLCBjb21taXNzaW9uaW5nIG9mIHRoZSBlcXVpcG1lbnQKCmFuZCBlZHVjYXRpbmcgdGhlIGN1c3RvbWVyIGluIGl0cyB1c2UuIEluIGFkZGl0aW9uLCBDb21wbGlhbmNlIHdpdGggSGVhbHRoIGFuZCBTYWZldHkgcGxhbiBhbmQgbWV0aG9kCgpzdGF0ZW1lbnRzLiBXZWFyaW5nIGFuZCB1c2luZyBhcHByb3ByaWF0ZSBQUEUuIEtlZXBpbmcgdG9vbHMgYW5kIGVxdWlwbWVudCBpbiBnb29kIG9yZGVyLgoKSW5zdGFsbGF0aW9uIEVuZ2luZWVyCgpDcmVhdGl2ZSBJbmZvcm1hdGlvbiBUZWNobm9sb2dpZXMgSW5jIC0gQXByaWwgMjAxMyB0byBTZXB0ZW1iZXIgMjAxMwoKKiBDYXJyaWVkIG91dCB0aGUgSW5zdGFsbGF0aW9uIGFuZCBNYWludGVuYW5jZSBvZiBpZGVudGl0eSBjYXJkIHN5c3RlbXMgdW5kZXIgdGhlIElTQUYgVEFDVElDIHByb2dyYW1tZQoKYXQgSVNBRiBIUSBpbiBLYWJ1bCwgYW5kIG90aGVyIHNpdGVzIGluIEFmZ2hhbmlzdGFuLgoKKiBQcmlvciB0byBEZXBsb3ltZW50IHRvIEFmZ2hhbmlzdGFuLCByZWNlaXZlZCB0cmFpbmluZyBvbiB0aGUgaW5zdGFsbGF0aW9uIHJlcXVpcmVtZW50cyBhdCBhbiBpbnN0YWxsYXRpb24gYW5kCgp0cmFpbmluZyBzZXNzaW9uIGF0IGFuIE5DSUEgc2l0ZS4KCiogSW5zdGFsbGVkIHRoZSB3b3Jrc3RhdGlvbnMsIHN5c3RlbSBwZXJpcGhlcmFscyBhbmQgc29mdHdhcmUgYXMgaW5zdHJ1Y3RlZCBieSBteSBJbi1Db3VudHJ5IFByb2dyYW1tZQoKTWFuYWdlci4KCiogV29ya2VkIGNsb3NlbHkgb24gdGhlIGhpZ2hseSBzdWNjZXNzZnVsIHByb2plY3Qgd2l0aCB0aGUgTkNJQSBhbmQgSVNBRiBwZXJzb25uZWwuCgpTZW5pb3IgQ29tbXVuaWNhdGlvbnMgU3BlY2lhbGlzdAoKQnJpdGlzaCBBcm15IC0gTm92ZW1iZXIgMjAxMSB0byBOb3ZlbWJlciAyMDEyCgoqIExlZCBhIHNtYWxsIHNwZWNpYWxpc3QgdGVhbSBwcm92aWRpbmcgZGlyZWN0IGVuZ2luZWVyaW5nIHN1cHBvcnQgdG8gQWZnaGFuaXN0YW4uIFRoaXMgaW5jbHVkZWQgcHJvdmlkaW5nCgpndWlkYW5jZSB0byBqdW5pb3IgdGVhbSBtZW1iZXJzIGFuZCBtb25pdG9yaW5nIHBlcmZvcm1hbmNlIHdoaWNoIGVuc3VyZWQgcXVhbGl0eSBjb250cm9sIHdhcyBtYWludGFpbmVkCgphbmQgZGVhZGxpbmVzIHdlcmUgbWV0LgoKKiBNZW50b3JlZCBqdW5pb3Igc3RhZmYgZHVyaW5nIHByb2JhdGlvbmFyeSBwZXJpb2RzLCBwcm92aWRpbmcgZ3VpZGFuY2UgYW5kIGZlZWRiYWNrIHdoZXJlIHJlcXVpcmVkLgoKKiBQcm92aWRlZCBpbnB1dCBpbnRvIGp1bmlvciBzb2xkaWVycyBhbm51YWwgcmVwb3J0cywgbWFraW5nIHJlY29tbWVuZGF0aW9ucyBmb3IgcG90ZW50aWFsIHByb21vdGlvbi4KCkNvbW11bmljYXRpb25zIE5ldHdvcmsgTWFuYWdlcgoKQnJpdGlzaCBBcm15IC0gSnVuZSAyMDExIHRvIE5vdmVtYmVyIDIwMTEKCiogRW1wbG95ZWQgYXMgYSBDb21tdW5pY2F0aW9ucyBOZXR3b3JrIE1hbmFnZXIgc3VwcG9ydGluZyBvcGVyYXRpb25zIGluIEFmZ2hhbmlzdGFuLCB1c2luZyBhIFBST01JTkEKCm11bHRpcGxleGVyIHNlcnZlciBzeXN0ZW0uCgoqIFByaW1hcmlseSByb2xlIGluY2x1ZGVkIGZvcm1pbmcgcGFydCBvZiBhIHRlYW0gcmVzcG9uc2libGUgZm9yIHRoZSBtYWludGVuYW5jZSBhbmQgb3BlcmF0aW9uIG9mIHRoZSBQU0MKCjUwNiBDb21tdW5pY2F0aW9ucyBCYXNlIChDQiksIHByb3ZpZGluZyBlbmdpbmVlcmluZyBzdXBwb3J0IHRvIHRoZSBkZXBsb3llZCB0YWN0aWNhbCBQU0MgNTA2IHNhdGVsbGl0ZQoKY29tbXVuaWNhdGlvbnMgbmV0d29yay4KCiogQSBtZW1iZXIgb2YgdGhlIGRlcGxveWVkIE9wZXJhdGlvbmFsIE5ldHdvcmtzIGVuZ2luZWVyaW5nIGRlc2sgKFByb21pbmEpLCBwcm92aWRpbmcgMjQgaG91ciBsZXZlbCAzCgp0ZWNobmljYWwgbWFuYWdlbWVudCBhbmQgZGlyZWN0IGVuZ2luZWVyaW5nIHN1cHBvcnQgdG8gdGhlIG9wZXJhdGlvbmFsIHRoZWF0cmUgaW4gQWZnaGFuaXN0YW4uCgoqIEJyaWVmZWQgaGlnaCBwcm9maWxlIHZpc2l0b3JzIGFuZCB3b3JrZWQgY2xvc2VseSBvbiBhIG51bWJlciBvZiBoaWdobHkgc3VjY2Vzc2Z1bCBwcm9qZWN0cyB3aXRoIFRIQUxFUyBhbmQKCkJyaXRpc2ggVGVsZWNvbS4KCiogUXVhbGlmaWVkIGFzIGEgQ2xhc3MgMiBDb21tdW5pY2F0aW9uIFN5c3RlbXMgRW5naW5lZXIsIGdhaW5pbmcgYSBzdHJvbmcgcmVjb21tZW5kYXRpb24gZm9yIHByb21vdGlvbi4KCiogU2VydmljZSBtYW5hZ2VtZW50OiBwcm92aWRpbmcgaGVscC1kZXNrIHN1cHBvcnQgYW5kIHRyb3VibGVzaG9vdGluZy4KCkNvbW11bmljYXRpb25zIFNwZWNpYWxpc3QKCkJyaXRpc2ggQXJteSAtIEphbnVhcnkgMjAxMCB0byBKdW5lIDIwMTEKCiogQ29tcHV0ZXIgc29mdHdhcmUgc3lzdGVtczogaW5zdGFsbGluZyBjb21wdXRlciB3b3Jrc3RhdGlvbnMgaW50byBhIHN5c3RlbXMgbmV0d29yayBhbmQgdGhlbiBtYWludGFpbmluZywKCmVuZ2luZWVyaW5nIGFuZCBjb250cm9sbGluZyB0aGVzZSBzeXN0ZW1zLkZpYnJlLU9wdGljcyBhbmQgRnVzaW9uIFNwbGljaW5nLgoKKiBSYWRpbzogSEYgdG8gVUhGIGFuZCBCb3dtYW4gcmFkaW8gZXF1aXBtZW50LCBzYXRlbGxpdGUgYW5kIHRoZWF0cmUtd2lkZSBhcmVhIGRpZ2l0YWwgY29tbXVuaWNhdGlvbnMKCm5ldHdvcmtzLgoKQ29tbXVuaWNhdGlvbnMgU3BlY2lhbGlzdAoKVGVsZWNvbmZlcmVuY2luZyAtIE9jdG9iZXIgMjAwOCB0byBKYW51YXJ5IDIwMTAKCm9wZXJhdGluZyB2aWRlbyB0ZWxlY29uZmVyZW5jaW5nIGVxdWlwbWVudCBhbmQgZGlnaXRhbCB0ZWxlcGhvbmUgZXhjaGFuZ2VzLgoKVGVjaG5pY2FsIGFuZCBNaWxpdGFyeSBUcmFpbmluZywgQnJpdGlzaCBBcm15IE9jdCAyMDA4LUphbiAyMDEwCgoqIFBsYXllZCBhIHByb21pbmVudCByb2xlIHRha2luZyBwYXJ0IGluIG51bWVyb3VzIHRlYW0gb3JpZW50YXRlZCB0cmFpbmluZyBhY3Rpdml0aWVzIGRlc2lnbmVkIHRvIGltcHJvdmUKCmRpc2NpcGxpbmUsIHRlYW0gd29yayBhbmQgZWZmZWN0aXZlIGNvbW11bmljYXRpb24gc2tpbGxzLgoKKiBUb29rIHBhcnQgaW4gQ29tbWFuZCBUYXNrcyBmb2N1c2VkIG9uIGxlYWRlcnNoaXAsIG9yZ2FuaXphdGlvbmFsIHNraWxscyBhbmQgcHJvYmxlbSBzb2x2aW5nLgoKKiBFeHRyZW1lbHkgdGVjaG5pY2FsbHkgc2tpbGxlZCBpbiB0aGUgaW5zdGFsbGF0aW9uLCBtYWludGVuYW5jZSBvZiBhbGwgVGVsZWNvbW11bmljYXRpb25zIGVxdWlwbWVudC4KCkVEVUNBVElPTgoKRGlwbG9tYSBpbiBXZWIgRGVzaWduCgpBcm15IExlYXJuaW5nIENlbnRyZQoKMjAxMiB0byAyMDEzCgpOVlEgaW4gQ29tbXVuaWNhdGlvbiBUZWNobm9sb2d5IFByb2Zlc3Npb25hbHMKClJveWFsIFNjaG9vbCBvZiBTaWduYWxzCgoyMDA5IHRvIDIwMTAKClBlcnNvbmFsIFNraWxscwoKQXJteSBUcmFpbmluZyBDZW50cmUgLSBQaXJicmlnaHQKCjIwMDggdG8gMjAwOQoKR0NTRXMKCk91ciBMYWR5IGFuZCBTdCBKb2huIENhdGhvbGljcyBBcnRzIENvbGxlZ2UKCjIwMDIgdG8gMjAwNwoKQ29tbXVuaWNhdGlvbnMgQ2FibGluZwoKQ2l0eSBhbmQgR3VpbGRz</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913402160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

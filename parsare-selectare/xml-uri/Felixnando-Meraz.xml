@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Results>
+<HireAbilityXMLResults id="2910654160532"  usageLimitType="allocation" usageLimit="100" currentUsage="72" remainingUsage="28" accountValidThrough="05-27-2017">
+<Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="https://s3.amazonaws.com/Build_2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue/>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<ContactMethod>
+<InternetEmailAddress>indeed.com/r/Felixnando-Meraz/efedd59f8db1ca8b</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Mesa Community College</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>Student In class experience in Matlab, C++, Chemistry/lab experience, Microsoft office word, excel and PowerPoint.
+</Description>
+<StartDate>
+<AnyDate>2013-08-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Meraz Woodwork</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Worker</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Use of power tools such as, table saw, band saw, jig saw, circle saw, router, drill, air compressor, compressor nail guns and compressor spray painting. * Taking measurements, estimating cost of cabinets/furniture, cutting wood, building cabinets/furniture, installing cabinets, delivering furniture.
+</Description>
+<StartDate>
+<AnyDate>2011-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2015-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>New Structure Building</EmployerOrgName>
+<JobType/>
+<PositionHistory>
+<Title>Worker</Title>
+<OrgName>
+<OrganizationName/>
+</OrgName>
+<Description>Use of power tools such as wet tile cutter and drill, Installing tile, backsplash, pavers, ceiling tiles, drywall and some electrical work.
+</Description>
+<StartDate>
+<AnyDate>2009-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Mesa Community College</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>Poston Butte High School</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name="Autocad">
+<CompetencyId description="HireAbility taxonomy" id="17369" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Autocad">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Autodesk AutoCAD">
+<CompetencyId description="HireAbility taxonomy" id="4287" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Autodesk AutoCAD">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Bilingual">
+<CompetencyId description="HireAbility taxonomy" id="5405" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Bilingual">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="C++ Programming Language">
+<CompetencyId description="HireAbility taxonomy" id="4318" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="C++ Programming Language" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Chemistry">
+<CompetencyId description="HireAbility taxonomy" id="9193" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Chemistry" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Drywall">
+<CompetencyId description="HireAbility taxonomy" id="16187" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Drywall" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="LESS">
+<CompetencyId description="HireAbility taxonomy" id="18491" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="LESS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Matlab">
+<CompetencyId description="HireAbility taxonomy" id="9462" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Matlab" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft">
+<CompetencyId description="HireAbility taxonomy" id="11528" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft Office">
+<CompetencyId description="HireAbility taxonomy" id="258" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft Office" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Microsoft PowerPoint">
+<CompetencyId description="HireAbility taxonomy" id="260" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Microsoft PowerPoint" lastUsed="2017-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Router">
+<CompetencyId description="HireAbility taxonomy" id="6517" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Router" lastUsed="2015-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name="Team Player">
+<CompetencyId description="HireAbility taxonomy" id="13535" idOwner="HireAbility"/>
+<TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
+<CompetencyEvidence name="Team Player">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RmVsaXhuYW5kbyBNZXJhegoKU3R1ZGVudCAtIE1lc2EgQ29tbXVuaXR5IENvbGxlZ2UKClNhbnRhbiwgQVogLSBFbWFpbCBtZSBvbiBJbmRlZWQ6IGluZGVlZC5jb20vci9GZWxpeG5hbmRvLU1lcmF6L2VmZWRkNTlmOGRiMWNhOGIKCkkgYW0gY3VycmVudGx5IHdvcmtpbmcgdG93YXJkcyBhIEJhY2hlbG9yJ3MgaW4gRWxlY3RyaWNhbCBFbmdpbmVlcmluZy4gSSB3b3VsZCBsaWtlIHRvIGhhdmUgdGhlIG9wcG9ydHVuaXR5IHRvCgp1c2UgdGhlIGtub3dsZWRnZSB0aGF0IEkndmUgbGVhcm5lZCBpbiBjbGFzc2VzIGFuZCB0aHJvdWdoIHdvcmsgZXhwZXJpZW5jZXMgdG8gYXBwbHkgdGhlbSBpbiBhIGpvYiByZWxhdGVkIHRvCgpteSBmaWVsZCBvZiBlZHVjYXRpb24uIEkgYW0gd2lsbGluZyB0byBsZWFybiBuZXcgdGhpbmdzIG91dHNpZGUgb2YgbXkgZmllbGQgb2YgZGVncmVlIHRvIGV4dGVuZCBteSBrbm93bGVkZ2UKCmFuZCBnYWluIGV4cGVyaWVuY2UgaW4gYSBkaWZmZXJlbnQgYXJlYS4KCldPUksgRVhQRVJJRU5DRQoKU3R1ZGVudAoKTWVzYSBDb21tdW5pdHkgQ29sbGVnZSAtIEF1Z3VzdCAyMDEzIHRvIFByZXNlbnQKCkluIGNsYXNzIGV4cGVyaWVuY2UgaW47IE1hdGxhYiwgQysrLCBDaGVtaXN0cnkvbGFiIGV4cGVyaWVuY2UsIE1pY3Jvc29mdCBvZmZpY2Ugd29yZCwgZXhjZWwgYW5kIFBvd2VyUG9pbnQuCgpXb3JrZXIKCk1lcmF6IFdvb2R3b3JrIC0gTWF5IDIwMTEgdG8gQXVndXN0IDIwMTUKClVzZSBvZiBwb3dlciB0b29scyBzdWNoIGFzLCB0YWJsZSBzYXcsIGJhbmQgc2F3LCBqaWcgc2F3LCBjaXJjbGUgc2F3LCByb3V0ZXIsIGRyaWxsLCBhaXIgY29tcHJlc3NvciwgY29tcHJlc3NvcgoKbmFpbCBndW5zIGFuZCBjb21wcmVzc29yIHNwcmF5IHBhaW50aW5nLgoKKiBUYWtpbmcgbWVhc3VyZW1lbnRzLCBlc3RpbWF0aW5nIGNvc3Qgb2YgY2FiaW5ldHMvZnVybml0dXJlLCBjdXR0aW5nIHdvb2QsIGJ1aWxkaW5nIGNhYmluZXRzL2Z1cm5pdHVyZSwKCmluc3RhbGxpbmcgY2FiaW5ldHMsIGRlbGl2ZXJpbmcgZnVybml0dXJlLgoKV29ya2VyCgpOZXcgU3RydWN0dXJlIEJ1aWxkaW5nIC0gTWF5IDIwMDkgdG8gQXVndXN0IDIwMTEKClVzZSBvZiBwb3dlciB0b29scyBzdWNoIGFzIHdldCB0aWxlIGN1dHRlciBhbmQgZHJpbGwsIEluc3RhbGxpbmcgdGlsZSwgYmFja3NwbGFzaCwgcGF2ZXJzLCBjZWlsaW5nIHRpbGVzLCBkcnl3YWxsIGFuZAoKc29tZSBlbGVjdHJpY2FsIHdvcmsuCgpFRFVDQVRJT04KCk1lc2EgQ29tbXVuaXR5IENvbGxlZ2UKCjIwMTkKClBvc3RvbiBCdXR0ZSBIaWdoIFNjaG9vbAoKTWF5IDIwMTIKClNLSUxMUwoKQysrICgzIHllYXJzKSwgTUFUTEFCICgzIHllYXJzKSwgTUlDUk9TT0ZUIE9GRklDRSAoMyB5ZWFycyksIE1TIE9GRklDRSAoMyB5ZWFycyksIEFVVE9DQUQKCihMZXNzIHRoYW4gMSB5ZWFyKQoKQURESVRJT05BTCBJTkZPUk1BVElPTgoKU2tpbGxzCgoqIEJpbGluZ3VhbAoKKiBDb2FjaGFibGUKCiogRmFzdCBsZWFybmVyCgoqIFdlbGwgb3JnYW5pemVkCgoqIE1pY3Jvc29mdCBPZmZpY2UKCiogQ2FycGVudHJ5CgoqIFRlYW0gcGxheWVyCgoqIEtub3dsZWRnZSBpbiBNYXRsYWIsIEMrKyBhbmQgQXV0b0NBRA==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910654160532">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

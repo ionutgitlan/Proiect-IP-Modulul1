@@ -1,0 +1,129 @@
+Chandra Dronadula
+
+Temple Terrace, FL - Email me on Indeed: indeed.com/r/Chandra-Dronadula/d5e53b571ce3ef87
+
+* I have 6 years of experience in software development using Java/J2EE, Oracle, and Microsoft SQL Server
+
+Technologies.
+
+* Experienced in development in Java Collections, OOPS applications.
+
+* Have good experience in MVC frameworks like SPRING3.x.(Spring JMS, Spring MVC, Spring core)
+
+* Experienced in ORM frameworks like Hibernate, IBATIS, JPA.
+
+* Experienced in Applications Servers like Jboss and Web Servers like Apache [ ]
+
+* Experienced in REST and SOAP Web services exposure and Client development.
+
+* Knowledge in front end development using JavaScript, Ajax and HTML.
+
+* Experienced in Agile methodology and also designing (Low Level and High Level) of Applications.
+
+* Have Worked on Database sql.
+
+* Experienced in Unit Testing using Junit and TestNg.
+
+* Have Knowledge on Hadoop framework and also had corporate training.
+
+* Highly motivated and hardworking individual with strong verbal and written communication skills.
+
+* Ability to learn quickly and to correctly apply new tools and technology.
+
+* Participated in Peer Code reviews of desired Applications.
+
+* Excellent knowledge of Oracle 10g/11g database environment with expertise in Stored Procedures, Triggers,
+
+Functions, Packages using SQL, PL/SQL and SQL*Plus.
+
+* Excellent analytical, design and development skills.
+
+* Application development with all stages of System Development Life Cycle (SDLC): design, analysis, coding,
+
+and testing
+
+* Feasibility study, planning, implementation, testing, deployment and close-out
+
+* Created logical and physical Database Design, data structures, Data Modeling, Schema Design
+
+* Applied Database Tuning and Optimization, Normalization in the new database design
+
+* Created Schema, Users, Tables, Constraints, Indexes, Triggers, Privileges, Roles, Cursors, Ref Cursors,
+
+User Profiles, anonymous blocks, directories, sequences and synonyms.
+
+* Granted resources, privileges and roles to users
+
+* Tuned SQL queries using EXPLAIN PLAN, Hints and SQL*Plus Auto trace report for query optimization
+
+* Wrote Audit programs for data consistency check and validation
+
+* Used Materialized Views, Packages and Dynamic SQL
+
+* Created programs to transform data from Legacy systems into Oracle database
+
+* Tested and modified codes for quality
+
+* Strong communication, interpersonal skills and excellent team player.
+
+* Knowledge in Hadoop, qlikview technologies.
+
+Willing to relocate: Anywhere
+
+WORK EXPERIENCE
+
+Sr. Software Engineer
+
+Verizon - Temple Terrace, FL - June 2016 to Present
+
+Java Micro services,spring ,hibernate,Jpa,webservices rest and soap,Junit,mockito,sql ,sql server,oracle 10g.
+
+Sr. Software Engineer
+
+Omnitracs, LLC - San Diego, CA - March 2011 to June 2016
+
+Assistance software engineer
+
+T-SQL - Hyderabad, Andhra Pradesh - July 2010 to February 2011
+
+V-SOFT consulting is one of the best consultancy provider in US. Grabber and Browser is the internal tool to
+
+this client .This grabber grabs the job seekers details from the job sites like monster and insert those details
+
+into local database and then bowser is displaying those details on the screen.
+
+Job Responsibilities:
+
+* Involved in Spring Core, MVC, ORM and DAO modules.
+
+* Developed Util classes for code reusability as part of business logic.
+
+* Fixing bugs in any part of the code either in Java or in Oracle..
+
+* Developed Oracle PL/SQL packages, procedures, functions, triggers.
+
+* Optimized the PL/SQL Code and SQL Queries for better performance.
+
+* Performance tuning and optimization on SQL queries using Analyze, Explain Plan.
+
+* Application development with all stages of System Development Life Cycle (SDLC): design, analysis, coding,
+
+and testing
+
+* Feasibility study, planning, implementation, testing, deployment and close-out
+
+* Created logical and physical Database Design, data structures, Data Modeling, Schema Design
+
+* Applied Database Tuning and Optimization, Normalization in the new database design
+
+Environment:: Java 5, iBATIS, XML, java script, hibernate , Oracle 9i, SQL, PL/SQL, SQL developer, PLSQL
+
+developer
+
+EDUCATION
+
+Masters in Computer science
+
+Birla institute of technology
+
+2010

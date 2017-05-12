@@ -1,0 +1,93 @@
+Endrit Chouka
+
+Software Engineer
+
+Swindon - Email me on Indeed: indeed.com/r/Endrit-Chouka/b3d81a56bcf6aaf2
+
+WORK EXPERIENCE
+
+Software Developer
+
+SSGC Ltd - Swindon - September 2016 to Present
+
+Swindon (United Kingdom)
+
+Android & Front-end Web Developer
+
+Web Developer
+
+CustomEyes.me - London - February 2016 to June 2016
+
+London (United Kingdom)
+
+Back-end and Front-end Web Developer in Laravel Framework.
+
+Startups - Web Developer
+
+Startups - Αθήνα - November 2015 to June 2016
+
+Greece)
+
+- http://www.startupmajestic.com "StartupMajestic in Microsoft Hellas"
+
+- http://www.ebob.gr "Ebob Ltd"
+
+Web Developer
+
+Microsoft Hellas - Αθήνα - November 2015 to March 2016
+
+Athens (Greece)
+
+At StartupMajestic, we give you a platform to easily create your own web site & landing pages, sell
+
+digital products, collect payments and run a complete online business without writing a single line of code.
+
+http://www.startupmajestic.com
+
+MasterCard Global Hackathon
+
+MasterCard Global Hackathon - London - November 2015 to November 2015
+
+MasterCard, London (United Kingdom)
+
+I developed this app in my participation at MasterCard Global Hackathon in London at 2015.
+
+https://github.com/ScanGo/ScanGo
+
+Faster
+
+Faster - Αθήνα - June 2015 to June 2015
+
+Athens (Greece)
+
+On Crowdpolicy #transport hackathon (http://crowdhackathon.com/transport/) I developed a game
+
+that motivtes its user to use public transport. The application was awarded with the 5th place award in this vent
+
+The project has been covered by these Articles of the biggest newspapes in Greece:
+
+http://www.kathimerini.gr/838611/article/epikairothta/ellada/oi-sygkoinwnies-gennoyn-idees
+
+http://www.ethnos.gr/article.asp?catid=22768&subid=2&pubid=64291123
+
+Unfortunately the game is not yet available on the web but you can read and fork the code on https://github.com/
+
+kawai-developers/faster
+
+EDUCATION
+
+IT Engineering & Telecommunications
+
+University of Western Macedonia - Κοζάνη
+
+2013 to Present
+
+ADDITIONAL INFORMATION
+
+Job-related skills PHP, MySQL, Python, JavaScript, HTML5, CSS, jQuery, HTML, WordPress, Drupal, Web
+
+Development, CodeIgniter, Laravel, CakePHP, Symphony, Zend Framework, Ionic Framework,
+
+Phalcon Framework, Node.js, AngularJS, D3.js, Django, Backbone.js, PyQt, Bootstrap,
+
+Foundation Framework, Web Design, Software Development, C#, ASP.NET, MVC

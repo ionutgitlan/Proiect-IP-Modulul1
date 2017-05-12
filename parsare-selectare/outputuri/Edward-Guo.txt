@@ -1,0 +1,89 @@
+Edward Guo
+
+Seal Beach, CA - Email me on Indeed: indeed.com/r/Edward-Guo/011e8490e84640fb
+
+Willing to relocate: Anywhere
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Software Engineer
+
+NEAT Consulting - Seal Beach, CA - October 2015 to Present
+
+Architected front end for noise prediction software using Java Swing API, providing clients with an intuitive
+
+interface, streamlining input and calculation of acoustic data at scale.
+
+Created reusable, decoupled application components using MVC and object oriented design patterns to
+
+facilitate future updates and changes to software.
+
+Built and managed company website as a single page application built in React.
+
+Wrote VBA scripts to automate scraping of monthly stock market data from thousands of corporate Excel
+
+sheets.
+
+Software Engineer
+
+Brainfreeze - Playa Vista, CA - September 2016 to January 2017
+
+Provided users of large scale Redux applications with a performance optimized library, targeting the overhead
+
+of unnecessary listener triggers by allowing developers to reference specific pieces of state.
+
+Developed deep map algorithm to generate object of key paths to distinguish between leaves in nested state
+
+objects.
+
+Created custom store subscription method taking in specific key path argument, targeting only pertinent
+
+changes to state.
+
+Engineered partial state locking to centralize functional logic in store service, improving code readability and
+
+DRY.
+
+Balanced compromises between the integrity of storing deep cloned state history objects versus the optimal
+
+space complexity of saving an action history to address issues of memory and performance.
+
+EDUCATION
+
+Advanced Software Engineering Residency in Computer Science
+
+Codesmith - Playa Vista, CA
+
+September 2016 to January 2017
+
+Certificate Program in Computer Science
+
+University of California-Irvine - Irvine, CA
+
+September 2015 to May 2016
+
+Bachelor of Arts in Cognitive Science
+
+University of California, Berkeley - Berkeley, CA
+
+August 2010 to May 2015
+
+SKILLS
+
+Javascript (3 years), Python (2 years), Java (2 years), Node (2 years), React (2 years), JQuery (1 year),
+
+HTML (3 years), CSS (3 years), C (1 year), Web Development (2 years)
+
+LINKS
+
+http://github.com/Eviscerare
+
+http://linkedin.com/in/edwardhguo
+
+AWARDS
+
+National Merit Scholar
+
+2008

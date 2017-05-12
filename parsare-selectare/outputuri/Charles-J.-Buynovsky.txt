@@ -1,0 +1,115 @@
+Charles J. Buynovsky
+
+Software Engineer
+
+Orange, CT - Email me on Indeed: indeed.com/r/Charles-J-Buynovsky/cdb06e98f89ff109
+
+*4+ years of practical, real-world engineering experience
+
+*Thorough understanding of C++, C#, JavaScript, and Python
+
+*Recognized for writing clean, self-documenting code utilizing agile development principles
+
+*Known for being a quick learner with an innate feel for technology
+
+*Demonstrated track record of performing well under pressure, an ability to multi task and meet deadlines
+
+*Results-oriented team player, strong collaborator and communicator, and flexible
+
+*Personable, outgoing independent thinker committed to a career in software engineering
+
+WORK EXPERIENCE
+
+Embedded Software Engineer
+
+JBT Corporation, JBT FoodTech - Kingston, NY - October 2016 to Present
+
+Embedded Software Engineer for top 10 supplier of best-in-class food processing solutions in the world
+
+* Optimizing C++ classes for embedded QNX proprietary real-time
+
+operating system of Novus X-Ray food inspection system
+
+* Creating Windows Forms Applications in C# to assist production team in
+
+the deployment and configuration of all Novus X-Ray model types
+
+* Developing secure IoT solution for customer data analysis of food
+
+processing chain using Kaa platform
+
+Embedded Software Engineer
+
+Belcan LLC, Belcan Engineering Corporation - Shelton, CT - May 2016 to September 2016
+
+Embedded Software Engineering contractor for helicopter manufacturer of Fortune 100 defense corporation
+
+* Utilized Ada to design features of Combat Rescue Helicopter (CRH) Flight Management System (FMS) to
+
+then test and embed on proprietary hardware
+
+*Specified documentation updates on IBM DOORS and reviewing the accuracy of requirements fulfillment
+
+according to Problem Change Report (PCR)
+
+*Reviewed the code of fellow engineers to be discussed alongside team, recommending changes due to format
+
+and function
+
+Information Security Intern
+
+NBCUniversal, CNBC - Englewood Cliffs, NJ - June 2015 to August 2015
+
+Information Security intern for financial broadcasting division of Fortune 50 global media corporation
+
+* Spearheaded creation of Block List Vetting Procedure, detailing step-by-step instructions on interpreting
+
+VirusTotal and IPVoid results for associates undergoing training
+
+* Assigned use cases to FireEye reports sent daily via ArcSight and responded to credible threats appropriately,
+
+communicating risk evaluation to team members
+
+* Analyzed packet capture data using Wireshark and patched vulnerabilities in regard to level of priority;
+
+according to a metric-driven philosophy of system security
+
+Post-Production Engineering Intern
+
+NBCUniversal, NBC Sports - Stamford, CT - September 2013 to May 2015
+
+Post-Production Engineering intern for sports broadcasting division of Fortune 50 global media corporation
+
+* Assembled and tested functionality of "Super Bowl XLIX" edit stations; meticulous coordination of teamwork
+
+helped drive viewership to all time highs
+
+* Granted venues access to encrypted footage of legacy "Olympic Games" to support the narratives being
+
+shared during the "Sochi 2014 Winter Olympics"
+
+* Integrated Alli Sports files into Windows Server 2012 by converting them to house format using Vantage
+
+workflows, preserving full quality of source material
+
+EDUCATION
+
+M.S. in Cybersecurity
+
+Sacred Heart University - Fairfield, CT
+
+September 2014 to December 2016
+
+B.S. in Computer Science
+
+Sacred Heart University - Fairfield, CT
+
+September 2010 to May 2014
+
+SKILLS
+
+C++, C#, Javascript, Python, Application Security, Information Security, Software Security, Web
+
+Development, SQL, Cybersecurity, Penetration Testing, Unix Administration, Software Development,
+
+Application Development, Network Security, Cryptography, Ada

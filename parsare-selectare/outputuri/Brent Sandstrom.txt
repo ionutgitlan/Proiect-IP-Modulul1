@@ -1,0 +1,85 @@
+Brent Sandstrom
+
+Sanbornton, NH - Email me on Indeed: indeed.com/r/Brent-Sandstrom/46718ad490bf48d4
+
+* BS in Computer Science with minor in Math from Plymouth State University
+
+* 8 months experience post-graduation, two years internship experience
+
+* Wrote two large Spring MVC web applications
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Programmer
+
+Bandtel - Gilford, NH - 2013 to Present
+
+Wrote TotalView2, a customer portal allowing users to pay their bill online, and to see all the information about
+
+their
+
+VOIP phone account with BandTel. They may see their bill, payments, minutes and completion ratio (including
+
+hour by hour graphs), details about what numbers they own, various reports, and details about every call
+
+they make. They may also request new numbers through the TotalView2 application. This is a Spring MVC,
+
+Hibernate Maven application
+
+running on Tomcat 7. This application has over 10,000 lines of Java, XML, html and css.
+
+* Wrote Client2, similar to TotalView2, but for use by authorized resellers working with BandTel.
+
+* Wrote a Java application with simple Swing GUI that saved BandTel thousands by finding unused phone
+
+numbers, a
+
+task which would have been impossible to do manually.
+
+* Worked with Red Hat Linux servers running Tomcat 7
+
+* Configured Microtic Routerboards (firewall/routers). Learned the Microtic scripting language to create build
+
+scripts for the units, saving us from having to manually configure the units.
+
+* Documented and improved upon network structure in of two server racks
+
+* Configured a web server from scratch.
+
+Programmer
+
+Bradford Networks - Concord, NH - October 2016 to March 2017
+
+Developed new features and fixed bugs on the Network Sentry product. Most of the work done on this product
+
+was in Javascript. I also worked on a Spring MVC reporting application.
+
+Computer Repair Technician
+
+Plymouth State University - Plymouth, NH - 2013 to 2014
+
+Resolved both hardware and software issues on a variety of computers, mostly Windows PCs.
+
+EDUCATION
+
+Bachelor's in Computer Science
+
+Plymouth State University - Plymouth, NH
+
+2011 to 2016
+
+SKILLS
+
+Java (4 years), Spring MVC (2 years), Hibernate (2 years), Sql and MySql (3 years), HTML (3 years), Maven
+
+(2 years), Bootstrap (1 year), CSS (3 years), Javascript (2 years), JQuery (2 years), Java Standard Tag
+
+Library (JSTL) (1 year), Apache Tomcat v7.0 (2 years), Eclipse (3 years), Hibernate-jconsole (Less than 1
+
+year), JFreeChart (Less than 1 year), Log4j (Less than 1 year), Itextpdf (Less than 1 year), Jsoup (Less than
+
+1 year), Netbeans (2 years), C (1 year), Adobe Flash (Less than 1 year), PHP (Less than 1 year), Visual
+
+Basic (Less than 1 year), Linux (4 years), Python (Less than 1 year)

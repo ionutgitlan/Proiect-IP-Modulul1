@@ -1,0 +1,89 @@
+Ding Zou
+
+Research Assistant
+
+Tucson, AZ - Email me on Indeed: indeed.com/r/Ding-Zou/a5606c34be341f70
+
+Willing to relocate to: CA - CO - NV
+
+Sponsorship required to work in the US
+
+WORK EXPERIENCE
+
+Research Assistant
+
+University of Arizona - January 2011 to January 2017
+
+Developed the pthreads-based C/C++ system simulator to evaluate multidimensional coded modulation over
+
+1,000km few-mode
+
+fiber (FMF) transmission.
+
+* Developed Iterative distance-based clustering inspired optimum signal constellation design for additive
+
+Gaussian noise channel.
+
+* Developed high parallel FPGA-based hardware architecture for adaptive LDPC coded modulation, the bit
+
+error rate of 10-15 has
+
+been demonstrated for 6.4Gb/s throughput for fiber-optics and free space optical communication.
+
+* Binary search tree and backtracking is employed to locate the first and second minimum in one pass, thus
+
+reduces both computational complexity and memory usage in the binary LDPC hardware architecture.
+
+* Min-max algorithm is adopted in update the trellis involved in check node processor in the non-binary LDPC
+
+hardware
+
+architecture.
+
+* Dynamic programming technique is adopted to find the minimum path, which reduces the time complexity
+
+from ****(**** $ ) to ****(********), in the generalized LDPC hardware architecture.
+
+Research Intern
+
+University of Arizona - May 2015 to December 2015
+
+* Evaluated hard-decision forward error correction codes for access networks.
+
+* Demonstrated a FPGA-based real-time OFDM-aggregation and de-aggregation efficient mobile front-haul
+
+transmission over 80km
+
+SSMF.
+
+Research Intern
+
+University of Arizona - May 2012 to August 2012
+
+Designed several offline digital signal processing modules for DP-QPSK 6,000km long-haul optical
+
+transmission.
+
+EDUCATION
+
+Ph.D. in Electrical and Computer Engineering
+
+University of Arizona - Tucson, AZ
+
+January 2017
+
+M.S. in Electrical and Computer Engineering
+
+University of Arizona - Tucson, AZ
+
+December 2012
+
+SKILLS
+
+C++ (6 years), JAVA (2 years), MATLAB (6 years), PYTHON (Less than 1 year), VERILOG (4 years)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+* C/C++, Java, Python, MATLAB, Verilog, Vivado, MPI, OpenMP.

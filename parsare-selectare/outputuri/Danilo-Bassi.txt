@@ -1,0 +1,191 @@
+Danilo Bassi
+
+Machine Learning and Robotics
+
+San Jose, CA - Email me on Indeed: indeed.com/r/Danilo-Bassi/2fbabd1c8781eb40
+
+Willing to relocate: Anywhere
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+
+H20.ai - Mountain View, CA - October 2016 to Present
+
+Machine learning development: deep learning and time series (tensorflow, python, java,...)
+
+Natural Language Engineer
+
+Apple Inc - Cupertino, CA - January 2016 to June 2016
+
+Natural Language processing, at the core of Siri, for foreign language understanding.
+
+President, CTO & Founder
+
+SymLogical LLC - Exton, PA - January 2011 to January 2016
+
+Leading the development of solution for high-level dynamic planning.
+
+* Conceived an efficient and unique algorithm based on linear temporal logic, dynamic and logic programming
+
+approach.
+
+* Development of aerial vehicle (drone) for autonomous inspection.
+
+Senior Consultant
+
+GLOTEX - New York, NY - November 2013 to July 2015
+
+Worked as Quantitative Analyst / Chief Scientist, developed innovative algorithms for currency portfolio risk
+
+management and automated trading operations.
+
+Associate Researcher
+
+Villanova University - June 2011 to July 2015
+
+Business Analytics research: credit risk analysis and modeling.
+
+Associate Researcher
+
+Villanova University - Villanova, PA - November 2008 to July 2015
+
+Senior Consultant
+
+Business Analytics & Financial Systems - Berwyn, PA - April 1994 to October 2013
+
+PA / Santiago, Chile
+
+Business Analytics & Financial Systems
+
+Developed multiple projects and studies on business analytics involving machine
+
+learning paradigm, probabilities, data-mining and decision support systems, with focus in credit risk and
+
+predictive decision systems.
+
+* Provided advice/systems/recommendations to over 10 institutional customers.
+
+* Solutions delivered in credit risk management were key to improve efficiency and decision-making in many
+
+companies with large (1M +) credit holders base.
+
+Research Professor
+
+Villanova University - November 2008 to May 2011
+
+Worked in Autonomous Systems fundamental research and applied projects, using
+
+machine learning and symbolic approaches.
+
+1
+
+Full Professor
+
+Business Analytics & Financial Systems - January 2006 to December 2010
+
+Professor
+
+Universidad de Santiago - Santiago de Chile, Región Metropolitana - September 1995 to December
+
+2010
+
+Santiago, Chile
+
+Associate Professor
+
+Universidad de Santiago - Santiago, MN - September 1995 to December 2005
+
+Teaching and Research in Computational Intelligence, Robotics/Automation areas.
+
+* Obtained novel results by applying learning methods for robot motion control and complex process control
+
+(resulting in 10+ publications).
+
+* Generated new results in based on Computational Intelligence: probabilistic and time-series modeling,
+
+clustering analysis and anomaly detectors.
+
+* Managed and secured significant grants for several research projects ($1.5M+)
+
+President, CTO & Founder
+
+Business Analytics & Financial Systems - Santiago de Chile, Región Metropolitana - July 1996 to April
+
+2003
+
+Santiago, Chile.
+
+Rednova offered complete credit risk/management solution to large institutions.
+
+President, CTO & Founder
+
+Provided Credit efficient risk models based on machine learning over big database of financial institutional
+
+customers. Those solutions were obtained through proprietary
+
+technologies/methodologies that I created and managed
+
+* Data mining software for performing machine learning analysis/modeling
+
+* Generic software/hardware engine for real time computation of produced models.
+
+Assistant Professor, Department of Industrial Engineering
+
+Universidad de Chile - Santiago de Chile, Región Metropolitana - January 1991 to August 1995
+
+Teaching and Research in Artificial Intelligence and Manufacture/Automation areas.
+
+* Pioneering research in Machine Learning applied to Robotics and Automation, signal
+
+processing and quantitative finance.
+
+* Managed large research projects, securing grants and financing ($500K+).
+
+EDUCATION
+
+PhD
+
+University of Southern California - Los Angeles, CA
+
+Master of Science in Electrical Engineering
+
+Universidad de Chile - Santiago de Chile, Región Metropolitana
+
+Bachelor of Science in Machine Learning and Knowledge Discovery
+
+Universidad de Chile - Santiago de Chile, Región Metropolitana
+
+LINKS
+
+https://www.linkedin.com/pub/danilo-bassi/0/a12/57a
+
+ADDITIONAL INFORMATION
+
+Experienced professional with over 25 years in the field of Robotics & Automation doing research,
+
+development and engineering. Deep knowledge of multiple aspects involved in robotics: hardware design,
+
+simulation, perception, including machine vision, control at different levels, programming and applications.
+
+Mastering development of Automation solutions from fundamentals using advanced techniques including
+
+Machine Learning (for learning and adaptive control), multilevel, optimal and symbolic control. Developing
+
+Autonomous Systems to provide a more advanced solution to the problem of robotic control.
+
+Skilled at creating and managing innovation projects that turned original research and theoretical results
+
+into business with innovative edge. This entrepreneurship side is reflected in different ventures that I led,
+
+starting with T&S RedNova, a company that provided risk models based on machine learning. Later I
+
+founded the Robotic Mining Consortium (aimed autonomous mining solutions), Robotica Aerea Chile for
+
+UAV (aerial) systems, and SymLogical for dynamic planning of autonomous systems.
+
+Strong experience conducting innovation, leading/building teams, and managing project or business.
+
+Good interpersonal and communication skills, proficient in three languages (English, Spanish & French).

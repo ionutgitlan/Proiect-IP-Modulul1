@@ -1,0 +1,77 @@
+Connor Hendrix
+
+FULL STACK DEVELOPER - S&P Global Platts
+
+Houston, TX - Email me on Indeed: indeed.com/r/Connor-Hendrix/e2904c6e9c633976
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Full Stack Developer
+
+S&P Global Platts - Houston, TX - martie 2016 până la Prezent
+
+* Coordinated with multiple teams to reduce the billing process turnaround time by 50%
+
+* Developed content import system for The Editorial Team to cut total process time by 90%
+
+* Supported Continuous Integration and BDD using JBehave + Selenium Webdriver by
+
+writing automated tests to ensure user acceptance criteria is met with each build
+
+* Works directly with Business Analysts to achieve business goals through technical means
+
+* Develops within a rapid and highly effective Agile environment
+
+* Tasked with developing containerized environments for Dev-Ops using Docker and Jenkins
+
+Full Stack Developer
+
+MCCARRA CREATIVE - Houston, TX - octombrie 2012 până la martie 2016
+
+* Developed a multi-tiered OSX/IOS application to process image data for a fully interactive photo booth
+
+* Designed and development numerous web applications for clients of varying needs from large
+
+national business organizations to stylish barber shops
+
+* Transformed designs into fully realized solutions at all levels of the stack
+
+* Utilized top responsive frameworks to deliver praised frontend solutions to design savvy clients
+
+SOFTWARE ENGINEER INTERN
+
+DSGNFRG - Houston, TX - mai 2012 până la august 2012
+
+* Created a real-time service to quickly parse social media API data for an art installation
+
+* Designed and implemented a responsive and engaging interface for the same installation
+
+* Helped setup and personally administer the installation during the exhibit
+
+WEB DEVELOPER INTERN
+
+ICON ART SUPPLY - Houston, TX - iunie 2011 până la august 2011
+
+* Developed an automated ordering system utilizing a vendor API to reduce needed staff labor
+
+* Maintained and monitored the ordering system to achieve a 100% error-free status
+
+* Developed an automated scraper that reduced data entry labor time from days to minutes
+
+EDUCATION
+
+BACHELOR OF ARCHITECTURE in Architecture
+
+UNIVERSITY OF HOUSTON - Houston, TX
+
+2010 până la 2015
+
+SKILLS
+
+OOP (6 years), MVC (6 years), Ecommerce (5 years), LAMP (6 years), Responsive Web Design (5 years),
+
+Zurb Foundation (4 years), HTML (6 years), CSS (5 years), Javascript (5 years), PHP (6 years), MySQL (4
+
+years), PostgresSQL (3 years), Node.js (5 years), Docker (1 year), Devops (1 year), Python (5 years)

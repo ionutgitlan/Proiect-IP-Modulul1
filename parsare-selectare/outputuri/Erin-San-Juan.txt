@@ -1,0 +1,97 @@
+Erin San Juan
+
+Programmer - Ironwood Pharmaceuticals
+
+Quincy, MA - Email me on Indeed: indeed.com/r/Erin-San-Juan/1b1504870c20ae5f
+
+Willing to relocate: Anywhere
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Programmer
+
+Ironwood Pharmaceuticals - Cambridge, MA - June 2016 to Present
+
+Devised and constructed a series of programs to migrate vendor data into JReview postgresql for Data
+
+Manager review.
+
+* Specializing in extracting data from documents for transformation and upload for end user review.
+
+Database Developer
+
+Premier Research - Quincy, MA - September 2010 to June 2016
+
+Constructed medical database to be used by physicians and doctors to collect patient data on drug research
+
+trials using Oracle Clinical, DataLabs, and Medidata Rave.
+
+* Developed procedures in both PL/SQL and VB.net to verify and analyze patient data for any discrepancies
+
+either physician mistakes or abnormalities in patient condition.
+
+General Manager
+
+SCAN TV, UNH - Durham, NH - June 2007 to June 2009
+
+Executive-level leadership role overseeing numerous volunteers and managers to facilitate the day-to-day
+
+operations of the TV station with in-house developed content.
+
+* Oversaw project to modernize the station with the latest equipment and the maintenance of TV production
+
+equipment.
+
+EDUCATION
+
+B.S. in Interdisciplinary Mathematics, Computer Science
+
+University of New Hampshire - Durham, NH
+
+August 2005 to December 2009
+
+SKILLS
+
+ORACLE (5 years), SQL (5 years), VB.NET (5 years), BACKUPS (Less than 1 year), C++ (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+SKILLS:
+
+Programming languages: Java, SQL, C++, C, VB.net.
+
+Tools: Netbeans, Eclipse, Notepad++, VIM, Oracle Clinical, Medidata RAVE, Datalabs, MERGE.
+
+NOTABLE PROJECTS:
+
+Directory Cloud, Personal project Java
+
+* Developed Java based cloud software for secure incremental remote backups.
+
+* Designed program to preserve delete files for up to a week.
+
+* Ability to wipe out local computer if account is compromised.
+
+Translator, Ironwood Pharmaceuticals Java, Postgresql, Mysql, SAS XPT
+
+* Developed entire ecosystem of programs to facilitate transfer of vendor files in multiple formats into a data
+
+warehouse for review.
+
+* Tool was able to automate multiple manual process and reduced time to upload data.
+
+Datalabs Validation, Premier Research Java, XML
+
+* Created a series of programs to review XML data from DataLabs to perform error checking and diagnostics on
+
+study builds.
+
+* Program was used to reduce error locating and correction time from 5 business days to less than one.
+
+* Designed to be OO and modular so additional validation checks could be created with minimal rebuilding
+
+of the
+
+code.

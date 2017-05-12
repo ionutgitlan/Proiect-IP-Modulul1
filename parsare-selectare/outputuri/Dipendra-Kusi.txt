@@ -1,0 +1,241 @@
+Dipendra Kusi
+
+San Antonio, TX - Email me on Indeed: indeed.com/r/Dipendra-Kusi/fb32787e56d80e21
+
+Willing to relocate: Anywhere
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+C# .Net Developer Software Engineer
+
+VERISK NEPAL, KATHMANDU, NEPAL; AN OFFSHORE OPERATION OF VERISK ANALYTICS, NJ, USA
+
+(FORMERLY VERISK INFORMATION TECHNOLOGIES PVT. LTD) - KATHMANDU, NP - May 2015 to
+
+August 2016
+
+International software research and development firm focused on risk assessment and decision analytics in
+
+health care area.
+
+Description: The wcPrism Injury Reporter is a fully automated, business rules engine for the determination and
+
+delivery of both first and subsequent reports of injury (FROI/SROI) to all mandatory and voluntary IAIABC EDI
+
+Release 1, Release 2 and Release 3 states in United State of America.
+
+Responsibilities & Achievements
+
+* Facilitated the EDI Claims Release 2.0 Standard Documents version release by designing new large-scale
+
+report generation tools based on rule based report generation and text reporting requirements.
+
+* DIPENDRA KUSI * * 972.742.8574 * dipendra.kusi@gmail.com
+
+VERSIK NEPAL PVT. LTD.,:
+
+* Defined EDI reporting processes for workers' compensation claims for First Reports of Injury (FROI) and
+
+Subsequent Reports of Injury (SROI), using International Association of Industrial Accident Boards and
+
+Commissions (IAIABC) standards and based on U.S. jurisdictions.
+
+* Optimized and wrote new highly complex queries.
+
+* Reduced time for testing and debugging by designing a data loader tool capable of loading production data
+
+into the testing environment or UAT for testing purposes and bug fixing.
+
+* Designed and coded application components in an Agile environment utilizing a Test-Driven Development
+
+approach.
+
+* Used ASP.NET MVC 4.0 for creating Web API for database and process request/response data.
+
+* Designed templates using HTML5, CSS3, JavaScript, JQuery.
+
+* Designed code, tested and deployed SOAP and REST web services in C#.
+
+* Created ASP.NET Web API for http based services to provide stateless, restful services.
+
+* Using Entity Framework, connected to relational data by writing LINQ to SQL Queries.
+
+* Responsible for maintaining versions of source code using GIT and SVN.
+
+* Implemented Unit Testing, Integration Testing and System Testing using NUNIT.
+
+* Worked on SQL queries like stored procedures, Functions, Triggers to get the data from SQL Server and
+
+Oracle.
+
+* Worked with ASP.NET MVC framework to create controllers, http services, and views.
+
+* Collaborated with other members of the product development team using Active Collab tools
+
+* Involved in branching the code and preparing the deployment guide for the release.
+
+* Worked using LINQ to Entity Framework Data Access Layer designer for application.
+
+* Designed a service oriented architecture design and implemented a prototype of the design.
+
+* Maintain and modify SQL Server databases and wrote the Store Procedures.
+
+* Broad design, development and testing experience.
+
+Environment: C#, MVC 4.0, HTML 5, CSS, JavaScript, JQuery, Web API, NET Framework 4.5, SSIS, Visual
+
+Studio 2012/2013, bootstrap, SVN, Active Collab, LINQ, SQL Server 2013.
+
+C# .Net Developer
+
+TARANGA CREATION PVT. LTD - Kathmandu, NP - March 2011 to January 2015
+
+Nepali software outsourcing and solutions firm driving custom product development and IT service delivery.
+
+Description: Automated training is an application for conducting virtual training section for the employee. It
+
+tracks all the employee training details and provides the training material to the user. The user can take the
+
+appropriate training provided by the company. They can view and take the training at any time. Admin can add
+
+all the training material that include audio, video, text, pdf and can give access to the user group based on the
+
+requirement. Admin can also view the summary report of all user and individual as well.
+
+Responsibilities & Achievements
+
+* Involved in Requirements Collection, Design, Analysis, Development and Customization of the Application
+
+Care plus.
+
+* Designed and implemented application using .NET Framework 4.0.
+
+* Used Git for managing the release of projects and Testing.
+
+* Worked on MVC 4.0 and involved in development of various Models, Views and Controllers.
+
+* Proficient in developing Client/Server Applications on various architectural design patterns including MVC
+
+4.0 and N-Tier Architecture for Multi users.
+
+* Created various controllers, action results as per the requirements and returned to results to views.
+
+* Extensively created various views, partial views. Customized the views as per requirements, created
+
+validations and applied necessary CSS.
+
+* Created custom C# utility classes and JavaScript and Ajax method to make calls to the controller actions
+
+and also perform client side logics.
+
+* Used Ninject IOC container to manage dependency Injection.
+
+* Building Site core components that involved working with .NET platform with C# as the programming
+
+language.
+
+* Involved in development of UI (User Interface) Pages using the HTML5, and Master Pages.
+
+* Developed the User controls and Custom controls to support the Front-end of the application.
+
+* Created Cascading style sheets (CSS) to attain uniformity through all pages.
+
+* Used Entity Framework extensively for data retrieving, querying, storage, manipulation and for achieving
+
+disconnected database connectivity.
+
+* Created Restful Web Service using Web API to provide services to mobile application and other clients.
+
+* DIPENDRA KUSI * * 972.742.8574 * dipendra.kusi@gmail.com
+
+TARANGA CREATION PVT. LTD.,:
+
+* Developed stored procedures and triggers in SQL Server 2012.
+
+* Used D3.js for visualization in dashboard
+
+* Developed Web Service for retrieving product data based on XML, WSDL, and SOAP..
+
+* Deployed web security via Cross-Site Request Forgery(CSRF) validation and Microsoft AntiXSS Library for
+
+Cross-Site Scripting(XSS); used parameterized queries, stored procedures, and ORM (Entity framework) to
+
+prevent SQL injections.
+
+* Implemented agile SCRUM methodology for project management.
+
+* Developed Test Scripts and involved in Unit testing and bug fixing.
+
+* Involved in writing Test plans and Test cases.
+
+Environment: ASP.NET, C#, ADO.NET, MVC 4.0, HTML, CSS, JavaScript, bootstrap, Visual Studio 2013,
+
+SQL Server 2013, T-SQL, IIS, Web Services, SOAP, XML, Java Script, AJAX, .NET Framework 4.0, XML.
+
+EDUCATION
+
+Master's Degree in Computer Science ( ON PROGRESS)
+
+Maharishi University of Management - Fairfield, IA
+
+August 2016 to April 2019
+
+Bachelor's Degree in Computer Science
+
+Advanced College of Engineering & Management - Kathmandu
+
+2010 to 2014
+
+SKILLS
+
+.NET (5 years), WEB API (5 years), ASP.NET MVC (5 years), ASP.NET (4 years), C# (5 years), Entity
+
+Framework (4 years), NUnit (4 years), WPF (3 years), Wcf (3 years), Design Pattern (4 years)
+
+LINKS
+
+http://www.linkedin.com/in/dipendrakusi
+
+ADDITIONAL INFORMATION
+
+CORE COMPETENCIES
+
+.NET Programming * Web and Windows Application Development * Object-Oriented Development
+
+N-Tier Applications * Test-Driven Development * Requirements Analysis * User Acceptance Testing
+
+Troubleshooting & End User Support * Reporting * Big Data Analysis
+
+Statistical Analysis * Predictive Analytics * Clustering * Classification
+
+Languages: C, C++, C#, SQL, T-SQL, Java Script, PL/SQL, Python
+
+Web Technologies: ASP.NET Web Forms, ASP.NET MVC, HTML, HTM5, CSS, JavaScript, JQuery, AJAX,
+
+ADO.NET
+
+Database: SQL Server [ ] Oracle [ ] OLEDB, ODBC, MySql.
+
+Reporting Services: Crystal Reports, SQL Server Integrated services (SSIS).
+
+Testing: NUnit
+
+Web/App Services: IIS, RESTful API, WCF
+
+Design Patterns: Singleton, Factory Method, Facade, MVC
+
+SDLC: Agile-SCRUM, Waterfall
+
+Tools: SVN, GIT, Visual Studio .Net [ ] SQL server Management Studio.
+
+Web Servers & Protocols: IIS [ ] WCF, SOAP., Amazon AWS
+
+Operating Systems: Windows [ ] Server/8/7/XP/Vista/98, Unix, Linux.
+
+Big Data Tools & Packages:
+
+Hadoop, Spark, Map-Reduce, HIVE, HDFS, Pandas, Scikit-Learn, Metrices, Numpy, Scipy, MatPlotLlib,
+
+GGPlot, Jupyter, Spyder, RStudio, Tableau, Excel

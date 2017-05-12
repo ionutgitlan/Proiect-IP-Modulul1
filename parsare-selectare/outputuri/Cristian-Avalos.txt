@@ -1,0 +1,87 @@
+Cristian Avalos
+
+Fullstack Software Engineer
+
+New York, NY - Email me on Indeed: indeed.com/r/Cristian-Avalos/7050546cc5893bfe
+
+I am a full-stack software engineer with a passion for technology, algorithms and data manipulation. I have
+
+extensive experience building and architecting applications using many languages including Javascript, Java,
+
+Python , HTML , CSS, C++. I strongly believe in making applications with a beautiful UI and code reusability.
+
+Recently, I have worked with a team to create a AngularJS platform that helps users finds local music events
+
+from something as small as your favorite band on your local bar to a huge stadium concert. To obtain the
+
+data, I made RESTful calls to the Eventbrite API as well as scrapped some local websites to provide a bigger
+
+range of events. Afterwards, with flexibility in mind, I created a PostgreSQL database to store the scraped
+
+data after normalizing it to match API results. Finally, I used Git for version control and to communicate with
+
+my colleagues.
+
+I am very confident using Javascript and many JS frameworks such as AngularJS, NodeJS, ExpressJS. In
+
+addition, I have lots of experience with relational and non relational databases such as mySQL, PostgreSQL,
+
+and MongoDB . I have used Git in several of my projects, and obtained data using many modern RESTful APIs.
+
+I am looking to join a company where I can contribute since day one. A company that will help me grow as an
+
+engineer, by making an application(s) that will be used by a lot of people.
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Web Developer
+
+Freelancing - 2013 până la Prezent
+
+Created and collaborated on implementing websites adapting to client's specifications
+
+Math Tutor
+
+Hostos Community College - 2007 până la 2015
+
+HTML & CSS Instructor
+
+Hostos Community College - 2013 până la 2013
+
+EDUCATION
+
+B.S in Computer Engineering
+
+City College of New York - New York, NY
+
+2015
+
+Advance Software Engineering Immersive Program
+
+Telegraph Academy - Berkeley, CA
+
+2015
+
+LINKS
+
+http://cavalos0086.github.io
+
+http://github.com/cavalos0086
+
+https://www.linkedin.com/in/cavalos0086
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Strong:
+
+JavaScript, HTML5, CSS, AngularJS, ExpressJS, jQuery, NodeJS, Neo4j, PostgreSQL, Bootstrap, Git,
+
+Bootstrap
+
+Experienced:
+
+D3.js, Mocha, Chai, mySQL, Cypher, Java, Python, PHP, SASS

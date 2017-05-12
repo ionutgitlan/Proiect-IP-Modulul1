@@ -1,0 +1,143 @@
+Chad Cashman
+
+Developer - Beyondsoft Consulting, Inc
+
+- Email me on Indeed: indeed.com/r/Chad-Cashman/5e95994a0f46b2e1
+
+WORK EXPERIENCE
+
+Developer
+
+Beyondsoft Consulting, Inc - April 2015 to Present
+
+Developer responsible for maintaining ETLs and databases, managing version control and development
+
+workflows, and leading web development & design.
+
+Responsibilities
+
+* Documentation and conventions around use of SourceTree, Bitbucket, and Git.
+
+* Modifying the UX and maintaining the web app to capture travel information for international travel
+
+assessments for Microsoft employees.
+
+* Leading team workflow modifications to incorporate JIRA/Confluence.
+
+* Migrating databases, ETLs, and SQL Agents/Jobs to new servers and virtual machines.
+
+* Testing, and deploying web app code and databases made by the solutions team.
+
+* Modifying ETLs and databases for improved quality and performance.
+
+* Assisting with creation of conventions and standards, and acting as a guide for them during the code review
+
+process.
+
+* Developing and maintaining web apps for clients and internal use.
+
+* Creating blog posts related to technologies used by the solutions team.
+
+o How to Create a 2D Game Map
+
+o Creating an NPC on your 2D Game Map
+
+Environment: C#, PHP, JavaScript, jQuery, Visual Studio, ASP.NET MVC, ASP.NET Web API,
+
+WordPress, HTML, CSS, Bootstrap, Jira/Confluence, Git, SourceTree, Bitbucket, SSMS, SSIS, PowerBI,
+
+PowerPivot, Excel, TFS, Microsoft Office, Powershell, Sitecore, SharePoint Online
+
+Jr. Web Developer
+
+Various Things Live - January 2014 to April 2015
+
+Full-stack developer responsible for turning mock-ups into fully developed applications and websites.
+
+Responsibilities
+
+* Creating a procedure which consumes API data and siloes it off into related groups.
+
+* Developed and maintained web applications, microsites, and related databases.
+
+* Created an AngularJS application for scheduling interviews for a career-based service.
+
+Environment: PHP, JavaScript, jQuery, Drupal, WordPress, ModX, AngularJS, HTML, CSS, SCSS, Jade,
+
+Jira/Confluence, Git, SourceTree, Bitbucket, MySQL, Navicat, PHPStorm
+
+Web Developer
+
+RevoTech - March 2013 to January 2014
+
+Web Developer responsible for designing mock ups, maintaining client relationships, and developing
+
+web applications based on approved mock-ups.
+
+Responsibilities
+
+* Created many websites incorporating social media features and custom user experiences in the interface.
+
+* Consulted with clients on what content to include and best practices in their websites and blog posts for
+
+SEO performance.
+
+Environment: PHP, JavaScript, jQuery, WordPress, HTML, CSS, Adobe Suite, MySQL, PHPStorm
+
+IS Support Intern
+
+US Signal, Inc - September 2012 to March 2013
+
+First tier support responsible for managing support tickets, web development, and database
+
+administration.
+
+Responsibilities
+
+* Maintained reports on dark fiber, billing, and P&L.
+
+* Set up laptops and mobile phones for new employees. Returned and restored them when employees left
+
+the company.
+
+* Debugged and fixed internal hardware and our internal billing and sales software. Escalated when
+
+appropriate.
+
+* Managed the ticket system, daily burn-down chart, and scrum board for our stand ups.
+
+Environment: PHP, Python, JavaScript, jQuery, Zend Framework, HTML, CSS, Git, PostgreSQL, Excel,
+
+PHPStorm, Eclipse, LAMP, Microsoft Office
+
+EDUCATION
+
+Database Design & Development
+
+Grand Rapids Community College
+
+August 2010 to December 2012
+
+LINKS
+
+http://chadc.me
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+
+Front-End Web: JavaScript, jQuery, HTML, Jade, CSS, SCSS, SASS, AngularJS, SEO, Adobe Photoshop,
+
+Bootstrap
+
+Back-End Web: C#, PHP, ASP.NET, Visual Basic, Zend Framework, Sitecore, Slim Framework, Python,
+
+RESTful APIs
+
+CMS: WordPress, Drupal, ModX, PHPBB, SharePoint Online
+
+Database: MySQL, Microsoft SQL Server, PostgreSQL
+
+Source Control: Git, SourceTree, Bitbucket, TFS
+
+Collaboration: JIRA/Confluence, Microsoft Office/O365

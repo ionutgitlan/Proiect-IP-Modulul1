@@ -1,0 +1,159 @@
+Chaitanya Ponnapalli
+
+A self-motivated and highly passionate individual with great respect for processes
+
+and innovation, looking for the role of a Software developer.
+
+Urbandale, IA - Email me on Indeed: indeed.com/r/Chaitanya-Ponnapalli/11841769b6decf17
+
+Willing to relocate: Anywhere
+
+Sponsorship required to work in the US
+
+WORK EXPERIENCE
+
+Java Consultant
+
+Turing Consulting - Urbandale, IA - July 2016 to Present
+
+Currently working as a Java developer on aspects pertaining to developing software, technical interfaces and
+
+building flexible data models in Java and various AWS technologies.
+
+Software Developer
+
+Eternus Solutions pvt ltd. - Pune, Maharashtra - May 2013 to May 2014
+
+Responsibilities
+
+Worked as a software developer in various technologies such as C++, Java, Salesforce.com, Java Spring,
+
+Hibernate, Javascript and HTML, etc.
+
+Accomplishments
+
+Worked on three live projects:
+
+Project1: Jenzabar- Higher Education Management software
+
+Role: Developer
+
+Description: Worked on Jenzabar, which is a leading service provider for many higher educational institutions.
+
+This project involved integration of client's legacy systems with Salesforce.com, using REST API. Worked
+
+on building workflow rules between different objects (database tables) to enforce key business processes,
+
+creating triggers, migration of data, scheduling tasks or events among many others.
+
+Project 2: Google LMS
+
+Role: Developer
+
+Description: Worked on Google GO technology, on the migration of data onto Google's own cloud database
+
+- Google Datastore.
+
+Successfully reduced the time and efforts needed to manually insert the data into the datastore
+
+Project 3: AWS S3 custom application
+
+Role: Developer
+
+Description: Worked on Amazon simple storage services (S3), building a custom application using basic Java
+
+framework with Amazon's S3 API.
+
+Skills Used
+
+C++, Java, Salesforce.com, Java Spring, Hibernate, Javascript and HTML technologies
+
+Software Developer
+
+CMC Limited - Pune, Maharashtra - December 2011 to May 2013
+
+Responsibilities
+
+Worked as a software developer in various technologies such as C++, Java, Oracle Application Development
+
+Framework(ADF), Java Spring, Hibernate, Javascript and HTML, CSS, etc.
+
+Accomplishments
+
+Worked on a live project for Government of Maharashtra, India during my time at CMC Limited.
+
+Project: Comprehensive e-Governance System
+
+Role: Developer
+
+Description: Comprehensive E-Governance system is a web portal which provides the user various facilities
+
+such as information regarding educational bodies like schools, colleges, Universities, ITIs, Agencies to
+
+students. Also dealt with facilitating information transfer between educational agencies, employment agencies
+
+and students. Won appreciation from advisor of the Prime Minister of India, who was heading the National
+
+Skill Development Agency at the time.
+
+Responsibilities:
+
+1. Interact and communicate with the business user from the client side in order to understand the business
+
+requirements
+
+2. Create the SRS and Software design documentations based on the user requirements, which served as
+
+the base for the development.
+
+3. Understand the application's existing data model and modified the same to include updates.
+
+4. Create and design database tables and develop forms to implement the custom UI requirement, in multiple
+
+languages using Unicode converters.
+
+5. Design and develop Java classes to implement custom business logic for various functionality.
+
+6. Develop Test cases and test the application to ensure that the developed code is working as expected for
+
+all use cases involved in the application
+
+Skills Used
+
+C++, Java, Oracle Application Development Framework(ADF), Java Spring, Hibernate, Javascript and HTML,
+
+CSS
+
+EDUCATION
+
+Master's in Computer Science
+
+California State University-Chico - Chico, CA
+
+2014 to 2016
+
+Bachelor's in Electronics & Telecommunication Engineering
+
+Dr .D.Y. Patil College of Engineering, Pune University - Pune, Maharashtra
+
+2007 to 2011
+
+SKILLS
+
+Java Developer (2 years), Salesforce.com developer (Less than 1 year), Oracle ADF (1 year)
+
+LINKS
+
+https://www.linkedin.com/in/chaitanya-ponnapalli-55b36779
+
+CERTIFICATIONS/LICENSES
+
+Salesforce.com Certified Developer
+
+AWS Certified Solutions Architect
+
+March 2017 to March 2019
+
+AWS Certified Developer
+
+February 2017 to February 2019

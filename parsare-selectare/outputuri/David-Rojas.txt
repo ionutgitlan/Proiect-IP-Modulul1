@@ -1,0 +1,121 @@
+David Rojas
+
+Freelance full-stack developer
+
+Bogota, NJ - Email me on Indeed: indeed.com/r/David-Rojas/a22cf7e2f5a40ac6
+
+Hi, i'm software developer with 2 years of experience working in various technologies. I like mathematics and
+
+work on complex problems, i started developing since i had 12 years old, and now i did of a hobbie a good job.
+
+Specifically i have worked with the following languages and libraries C, C++ (Qt, WxWidgets), Python, Java
+
+(JSE), C#, .NET, Verilog, VHDL, (HTML/CSS), JQuery, Ajax, PHP(Laravel, Eloquent), Mysql, Java (JEE,
+
+Swing, JSF, JPA, Hibernate), SQL Server, SQLite 3, Pl-SQL.
+
+I'm an autodidact that love learn new things each day, i like read history, learn about science specifically
+
+Mathematics, Physics, Chemistry and Biology, and learn distinct languages, actually i'm studying German
+
+(Deutsch).
+
+Always that i start a new job i dedicate some of my own time for learn some topics that maybe i don't know,
+
+i'm a person that believe that all is possible with effort and discipline.
+
+WORK EXPERIENCE
+
+WEB DEVELOPER
+
+UNIVERSIDAD NACIONAL DE COLOMBIA - iulie 2016 până la noiembrie 2016
+
+In this university i worked as web developer making a web platform for the information management of ethnic
+
+communities of the country that participate in courses of projects formulation organizated by the university
+
+and a public
+
+organization called DNP(Departament of national planning). For the development of the website i needed
+
+conform with the CMS that the university use (Concrete 5), but I only used some functions of these CMS and
+
+all website was maked
+
+using PHP, Jquery, Ajax directly.
+
+WEB DEVELOPER
+
+ETHOS SOLUCIONES - noiembrie 2015 până la martie 2016
+
+In this company i worked as web developer for solidary products software, here i work on many web pages
+
+for big data
+
+management in the two sides: backend and frontend using languages like JEE (Spring, JSF),
+
+Javascript(Jquery, Ajax), JSE,
+
+HTML5 and CSS3 developing for clients like Edupol, Cacsa, Coopedac, Financiar and Inntegra.
+
+GAME DEVELOPER
+
+EFECTO STUDIOS - martie 2015 până la august 2015
+
+In Efecto Studios i worked as game developer, participating in projects as Grab (Grabbity successor), a driving
+
+simulator
+
+that use VR (Occulus rift) and REAKTIO (game based in autonomous simulation of battles). Working in the
+
+development of AI, UI and GamePlay using the languages C++, C# and graphic scripting (Blueprints).
+
+DEVELOPER
+
+INFOTRACK S. A - noiembrie 2014 până la aprilie 2015
+
+In this company i worked as software engineer level 1, making applications and functionalities on C# in web
+
+and mobile
+
+devices (PDA) for big data management of the following companies: Codensa, Acueducto, Meals, Novartis.
+
+Specifically
+
+development of Web Services, integration of RFID readers (Impinj devices), implementing new functionalities
+
+to the aplications (WEB y PDA), bugs solution and giving software support.
+
+INFORMATIC ASSISTANT AND FREE COURSES TEACHER
+
+UNIVERSIDAD NACIONAL DE COLOMBIA - februarie 2014 până la decembrie 2014
+
+In the university Universidad Nacional de Colombia i worked as assistant for social sciences faculty, working
+
+in hardware
+
+maintenance, attention to students, software maintenance (Windows y Linux) and as teacher of free courses
+
+for students
+
+teaching the use of qualitative software like Atlas.ti, NVivo and QDA Miner.
+
+Fullstack developer and C++/Python/Java developer
+
+- noiembrie 2012 până la februarie 2013
+
+In this company i worked giving multimedia and technical support to E-Learning platform that was on
+
+development.
+
+EDUCATION
+
+Mathematics
+
+Universidad Nacional de Colombia
+
+Systems engineer and computer science
+
+Universidad nacional de colombia - Bogota, NJ
+
+ianuarie 2013 până la decembrie 2015

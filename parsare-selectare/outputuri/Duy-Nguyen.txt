@@ -1,0 +1,111 @@
+Duy Nguyen
+
+Software Developer - Guidance Software
+
+Pasadena, CA - Email me on Indeed: indeed.com/r/Duy-Nguyen/9f4d3f6adc887f43
+
+Willing to relocate: Anywhere
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Software Developer
+
+Guidance Software - Pasadena, CA - March 2015 to Present
+
+* Automated software licensing and encryption system for new software products in C#
+
+* Implemented licensing interface with third party tool C#/C++
+
+* Created an API that generates licenses for customer ordering system C#
+
+* Refactored and consolidated automated build scripts using Python
+
+Senior Release Engineer
+
+4over Inc - Glendale, CA - August 2014 to March 2015
+
+* Created guidelines for release process.
+
+* Implemented git flow branching and merging strategy for entire development team.
+
+* Created framework for automated regression testing for core API builds using python.
+
+* Enabled team to move closer towards agile project management and release process.
+
+Senior Release Engineer
+
+Guidance Software - Pasadena, CA - November 2010 to July 2014
+
+* Developed product installers using WIX Toolset and C#
+
+* Designed and developed automated build scripts using PowerShell, Apache ANT
+
+* Built a distributed continuous integration system using 13 servers and Jenkins
+
+* Created framework for subset of smoke test/build acceptance automation
+
+* Created framework auto merging
+
+* Managed branching, merging, tagging of source code in Subversion repositories
+
+* Agile Scrum Master certified; served as backup scrum master
+
+Software Quality Engineer
+
+Quallion Inc - Sylmar, CA - June 2010 to November 2010
+
+* Created automated battery test software using C# that communicated with battery management software
+
+* Re-factored C-17 lithium ion battery management software (written in C++)
+
+* Re-worked software requirement documentation for C-17 lithium ion battery according to military standard
+
+Senior Software Test Engineer
+
+Medtronic - Northridge, CA - July 2002 to June 2010
+
+* Developed a data mining program for market research and device quality investigations using SQL and
+
+MATLAB
+
+* Automated patient sensor data accuracy analysis using SQL, MATLAB, and MathWorks Database Toolbox
+
+* Setup source control protocol for collaborative work with clinical research team
+
+* Designed and coded test tools that create simulated device data and perform statistical analysis using
+
+VB.NET, C#
+
+* Recruited, trained, and supervised a test team that consisted of up to 10 test engineers and/or interns
+
+* Authored a department operating procedure to streamline testing process, protocols, and increase team
+
+efficiency
+
+* Collaborated in cross-functional groups to maintain project schedule, budget, and resources
+
+EDUCATION
+
+Bachelor of Science in Biomedical Electrical Engineering
+
+University of Southern California, Viterbi School of Engineering
+
+May 2002
+
+SKILLS
+
+C# (10+ years), Subversion (3 years), C++ (2 years), PYTHON (2 years), .NET (Less than 1 year),
+
+ANDROID (Less than 1 year), BASH (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+SKILLS & PROFICIENCIES
+
+* C#, Python, Powershell, Bash, Java, C++, HTML, CSS, JQuery
+
+* Jira, Jenkins, Git, Subversion, MS Visual Studio, IntelliJ, Android Studio
+
+* Agile Scrum Master Certified

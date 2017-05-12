@@ -1,0 +1,107 @@
+Chencheng Shao
+
+Research Assistant - The University of Texas at Dallas
+
+- Email me on Indeed: indeed.com/r/Chencheng-Shao/0f01ac4ce660ca50
+
+Willing to relocate: Anywhere
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Research Assistant
+
+The University of Texas at Dallas - Richardson, TX - September 2015 to Present
+
+* Develop and test SDN orchestrator using C++ to manage multilayer network, including L0 (DWDM) and L2
+
+(Ethernet).
+
+* Research in cloud Robotic network application using ROS, C++, PCL, Gazebo.
+
+Senior Optical System Test Engineer
+
+HUAWEI TECHNOLOGIES - Plano, TX - November 2011 to January 2015
+
+Product support and system testing of optical equipment while in compliance with ITU-T standard and vendor
+
+specifications in US market and Latin American region.
+
+Lead a team to design and perform acceptance test cases to meet key Tier customers' specifications.
+
+Develop key demonstrations of Huawei's next generation WDM/OTN/ASON/40G/100G/MS-OTN/Layer-2
+
+solution to customers based on customers' requirement.
+
+Optical System Test Engineer
+
+HUAWEI TECHNOLOGIES - Shenzhen,China - November 2007 to November 2011
+
+Optical System Test Engineer
+
+Responsible for carrying out the verification and admittance testing activities for WDM/OTN products.
+
+Design and perform acceptance test cases to meet customer's specifications.
+
+Software Engineer
+
+VISIONSKY TECHNOLOGY LTD - Guangzhou, China - July 2005 to October 2007
+
+Carry out the software development and test engineering for Bank BI system using UNIX C programming.
+
+Conduct the software maintenance engineering; provide on-site support.
+
+EDUCATION
+
+Master of Telecommunication Engineering in Telecommunication Engineering
+
+The University of Texas at Dallas - Richardson, TX
+
+September 2015 to August 2017
+
+Bachelor's in Applied Mathematics
+
+SOUTH CHINA UNIVERSITY of TECHNOLOGY - Guangzhou, CN
+
+September 2001 to July 2005
+
+SKILLS
+
+C++ (4 years), SDN (2 years), DWDM/OTN (8 years)
+
+ADDITIONAL INFORMATION
+
+TECHNICAL EXPERTISE
+
+- Over 7 years of advanced experience in OTN/WDM network system testing, including Huawei and Cisco
+
+OTN/WDM equipments.
+
+- Over 4 years of programming experience in C++ on variety of field, such as SDN/Orchestrator, ROS robotics
+
+application, also familiar with Java, SQL.
+
+- Strong working experience in developing software defined networking (SDN) Orchestrator, and also good
+
+knowledge of the related open source controller (ODL, ONOS).
+
+- Strong working experience in REST, RESTCONF, JSON and XML technologies.
+
+- Expert knowledge of carrier-class networking architecture, including the following technologies: WDM/OTN,
+
+L2 Switching, and SNMP.
+
+- In-depth technical knowledge of Optical Layer-1 Transport systems, OTN, ROADM, cross-connect switching,
+
+signal grooming, provisioning, as well as ring and mesh network topologies.
+
+- Highly skilled in identifying and troubleshooting Network Element software and hardware issues.
+
+- Extensive knowledge of product test procedure, including admittance test, BBIT test, SDV, SVT and SIT.
+
+ADDITIONAL SKILLS
+
+* Expert with TL1 command line language.
+
+* Test equipment: JDSU, IXIA, Spirent Test Center, Agilent, EXFO, Smartbits.

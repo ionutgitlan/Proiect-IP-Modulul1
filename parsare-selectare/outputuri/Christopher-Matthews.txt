@@ -1,0 +1,147 @@
+Christopher Matthews
+
+iOS Developer - AgaMatrix
+
+Washington, DC - Email me on Indeed: indeed.com/r/Christopher-Matthews/1bf1cec7077085a0
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+iOS Developer
+
+AgaMatrix - Salem, NH - July 2015 to Present
+
+Currently writing data management applications for bluetooth-enabled blood glucose meters. The iOS
+
+app syncs and downloads readings from the meter. The app includes user profile management, data
+
+management (tracking glucose, insulin, carbohydrate, and weight data), data presentation, pairing and syncing
+
+with the bluetooth meter, and syncing data with the cloud. Roles and responsibilities include
+
+adding new features, as well as keeping specifications and automated tests up-to-date.
+
+Features that were added to iOS AgaMatrix Diabetes Manager Application include:
+
+- The UI workflow for bonding and syncing with the bluetooth meter.
+
+- Reminders feature: time-based, event-based, and custom reminders.
+
+- Data sharing feature with third-party vendors.
+
+- HealthKit integration.
+
+Currently working on next-gen Continuous Glucose Monitor (CGM) application. Defining the new
+
+CGM-specific application from ground up. Taking a test-driven development approach, defining all
+
+functionality, behaviors, and tests before writing code.
+
+Technologies include UIKit, CoreData, CoreBluetooth, AFNetworking, and automated testing via
+
+Cucumber and Frank, as well as XCTest.
+
+Firmware Engineer
+
+AgaMatrix - Salem, NH - October 2014 to July 2015
+
+Wrote code and tests for a cutting-edge bluetooth-enabled blood glucose meter. Code targeted a
+
+MSP430 microprocessor. Implemented a round-robin scheduler for various tasks. Wrote firmware
+
+drivers for flash, timers, I2C, SPI, UART, and OLED display. VectorCast used for unit tests and code
+
+coverage analysis.
+
+Software Engineer II/III
+
+Philips Healthcare - Andover, MA - May 2011 to October 2014
+
+Implemented image processing algorithms for 2D, 3D, and 4D cardiac ultrasound acquisitions.
+
+Algorithms quantify geometry and dynamics of heart walls and valves. The majority of my time is
+
+spent interfacing and collaborating with scientists (Investigations Group), as well as porting
+
+Investigations MATLAB algorithms into C++ product code. Extensive use of Intel Performance
+
+Primitives (IPP).
+
+- Replaced the CMQ tracking algorithm in Qlab 9. The new tracking algorithm greatly
+
+increased the accuracy and reproducibility of the Global Longitudinal Strain calculation, as well as improving
+
+regional strains.
+
+- Updated ROI editing and rendering in 2DQ and CMQ. Rendering done in GDI.
+
+- Introduced AutoROI for a2DQ/aCMQ for Qlab 10. Used a template matching technique to identify the two
+
+basal points, as well as the apex point. The result was a big leap forward towards Qlab's goal of "zero-click
+
+technology".
+
+- Replaced the 3D Mitral Valve Quantification plugin with 3D Mitral Valve Navigation plugin in Qlab 10. The
+
+new plugin uses a directed gradient search to find the mitral valve, using
+
+only four user seed points. The outcome was a reliable measurement, with less user input and much easier
+
+workflow.
+
+- Received the "Excellence in R&D Award" in September 2012.
+
+Software Engineer
+
+Herrick Tech Labs - Manchester, NH - January 2009 to May 2011
+
+Developed SIGINT and geo-location products. Worked in Linux and Windows environments, writing
+
+Qt-based C++ applications. Wrote both GUI and application layer code for PC tools. Was responsible for Qt3-
+
+to-Qt4 ports of existing applications, as well as writing new desktop applications. Developed
+
+embedded code on the TI TMS320C6400 DSP. Utilized Qt wrapper classes for TCP/IP and MySQL
+
+interactions.
+
+Involved in all phases of product development including design, specification, implementation,
+
+verification, and validation.
+
+Software Engineer
+
+Insulet Corporation - Bedford, MA - October 2007 to December 2008
+
+Worked as an embedded software engineer in an FDA-regulated medical company. The bulk amount of R&D
+
+time was allocated to a two-piece RF insulin pump system. The system consisted of a hand- held device, and
+
+a small wireless pump that adhered to the body for three days. Responsibilities
+
+included unit and functional testing, correcting bugs, creating optimizations, and proposing new
+
+features. Worked with various microprocessors, flash, timers, I2C, RS-232, UART, USB, RFIC, and IR
+
+communications. Coded mostly in ISO C 99, with some ARM9 assembly.
+
+EDUCATION
+
+Bachelor of Science in Electrical Engineering
+
+Union College - Schenectady, NY
+
+March 1991 to April 2000
+
+SKILLS
+
+C++ (5 years), MATLAB (3 years), LINUX (2 years), .NET (Less than 1 year), ECLIPSE (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Computer Skills
+
+C, C++, Qt Toolkit, Objective-C, MATLAB, git, svn, MS Visual Studio, Xcode, Eclipse,
+
+Linux/UNIX environments

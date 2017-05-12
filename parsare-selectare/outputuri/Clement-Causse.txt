@@ -1,0 +1,173 @@
+Clement Causse
+
+IT Engineer
+
+Des Moines, IA - Email me on Indeed: indeed.com/r/Clement-Causse/c83381d1a08b0ab8
+
+My name is Clément Causse, I am looking for a job in Des Moines in Engineering.
+
+I obtained a Masters degree in Information Technology and Management at the Illinois Institute of Technology
+
+(IIT), I also have a Master of Science in Electrical/Electronics and Computer Science Engineering from Ecole
+
+Nationale de l'Electronique et de ses Applications (ENSEA) in France.
+
+It was during my studies and internship experience that I found a passion in IT and Electrical/Electronics
+
+engineering.
+
+If you have further questions please do not hesitate to contact me by email at ccausse@hawk.iit.edu or by
+
+phone at [ ]
+
+Sponsorship required to work in the US
+
+WORK EXPERIENCE
+
+Data Analyst / Software Engineer
+
+AllCell Technologies LLC - Chicago, IL - June 2016 to February 2017
+
+The Battery Management System (BMS) is an electronic board that manufacturers connect to the battery to
+
+monitor it.
+
+- Collected and analyzed data to improve battery testing results and reduced costs (Excel, database
+
+management: SQL, Business Analysis)
+
+- Wrote process sheets and documentations for testing and usage of machines (ISO and data documentation)
+
+- Designed and developed internal databases and responsible for the summarization of data (SQL, Oracle)
+
+- Worked directly with third party and helped developing data usage (work with the Business Consultant)
+
+- Designed and realized electronic board tests for clients and wrote report (client interaction) and tested
+
+batteries before shipping
+
+- Updated BMS software and hardware (algorithmic development, C language, microcontroller development,
+
+electronics board improvement)
+
+Teacher Assistant
+
+Illinois Institute of Technology - Chicago, IL - January 2016 to May 2016
+
+Correct homework, exams and track student progress for the 440-540 class: Introduction to Data Networks
+
+and the Internet
+
+Software Engineering Intern
+
+AllCell Technologies LLC - Chicago, IL - June 2015 to August 2015
+
+- Analyzed, collected and interpretation of batteries test results (MS Access and Excel)
+
+- SQL database management (MySQL, Oracle)
+
+- Worked with Visual Studio and CodeWarrior (software development and I �C hardware)
+
+- Created programs for an intern use (.NET development C#)
+
+- Wrote test plans, test cases / scripts, executed all functional testing and documented / tracked defects.
+
+Hardware Design Intern
+
+Algodone - Montpellier, VI - June 2014 to July 2014
+
+Algodone is a start-up in partnership with the Laboratory of Computer Science, Robotics and Microelectronics
+
+of Montpellier. The start-up wants to propose a solution to limit industrial scale counterfeiting of digital integrated
+
+circuits.
+
+* Designed a portability and make a migration of an existing design on another platform design (Xilinx to Altera)
+
+* Worked on CAD (Altera & Xilinx) and automation scripts.
+
+* Studied an identification of an integrated circuit through the PUF (physically unclonable functions)
+
+* Created architectures by PUF hard macro (Altera / Xilinx / Quartus II)
+
+* Worked with protection of hardware building blocks (IP encryption and licensing), control traceability and
+
+activation circuits
+
+EDUCATION
+
+Master of Science in Electronics/Electrical and Computer Science
+
+Ecole Nationale Supérieure de l'Electronique et de ses Applications - Paris, France
+
+September 2011 to November 2016
+
+Master of Science in Information Technology and Management
+
+Illinois Institute of Technology - Chicago, IL
+
+August 2015 to May 2016
+
+Bachelor of Science in Electronics/Electrical and Computer Science
+
+Ecole Nationale Supérieure de l'Electronique et de ses Applications - Paris, France
+
+September 2011 to September 2014
+
+SKILLS
+
+Excel (5 years), SQL (4 years), Computer Hardware (4 years), Unix Administration (2 years), Word (7
+
+years), Powerpoint (7 years), Windows (7 years), Oracle (3 years), MySQL (3 years), C++ (3 years), C#
+
+(3 years), C (3 years), Visual Basic (2 years), Visual Studio (2 years), Indesign (3 years), .NET (3 years),
+
+Database Management (4 years), Linux (3 years), Virtualization (1 year), Ubuntu (3 years), Java (2 years),
+
+PHP (2 years), VOIP (2 years), TCP/IP (2 years), Wireless (2 years), Network Administration (2 years),
+
+HTML (2 years), RS323 (2 years)
+
+LINKS
+
+https://www.linkedin.com/in/clementcausse
+
+CERTIFICATIONS/LICENSES
+
+Driver's License
+
+May 2010 to Present
+
+GROUPS
+
+Treasurer of the ENSEA Sailing Race association
+
+June 2014 to June 2015
+
+Organized the event, Solicited sponsors, Managed a 24,000.00€ budget, Ensured transport and housing to
+
+support our participation at the biggest European student regatta (24 students participated to the race).
+
+Member of the Illinois Tech Tennis travel team
+
+August 2015 to May 2016
+
+Tournaments in the Midwest, 15 students from IIT in the team
+
+ADDITIONAL INFORMATION
+
+Sports: Tennis - 7 years (competition), swimming - 3 years, Soccer - 4 years, Rowing and Sailing (cruising
+
+race participation).
+
+Voyages: Canada, Greece, Spain, Italy, Belgium, Croatia, Slovenia, Hungary, Slovakia, Austria, Czech
+
+Republic, Netherlands, Mexico.
+
+Associations: Treasurer of the ENSEA Sailing Race association, in charge of organizing different association
+
+activities and finding sponsors to support our participation at the biggest European student regatta: "La course
+
+Croisière EDHEC". Member of the Junior ENSEA Association. Member of the Illinois Tech Tennis travel team
+
+(tournaments in the Midwest).

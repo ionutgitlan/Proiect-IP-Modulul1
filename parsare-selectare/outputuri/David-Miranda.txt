@@ -1,0 +1,263 @@
+David Miranda
+
+Senior Software Engineer - URL INTEGRATION, INC
+
+Parker, CO - Email me on Indeed: indeed.com/r/David-Miranda/628f14cd38b63370
+
+Senior level programmer/analyst with diverse experience in many areas of Information Technology. Strong
+
+analytic and problem solving skills. Extensive background from system administration and configuration to
+
+hardware maintenance. Background in managing small groups of developers.
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+
+URL INTEGRATION, INC - Englewood, CO - 2016 to Present
+
+Develop and maintain software related to the exchange of data between different judicial entities using SOAP
+
+web services
+
+* Windows/Linux/Java environment using Tomcat and Spring
+
+* Migrated local systems to AWS including Jenkins, Artifactory, Oracle 11g and Windows servers
+
+* Integrated with 3rd party API's using Java
+
+* Technologies used: Java, Spring, AWS, Tomcat, Jenkins, Maven, Subversion, Ant, Linux, HAProxy,
+
+Netbeans, iBatis, XML, SQL, JDBC, SQL Server
+
+Lead generation
+
+HOMETOWN QUOTES - Parker, CO - 2011 to 2016
+
+for the insurance industry.
+
+Software Engineer
+
+* Developed and maintained software related to the generation, buying and selling of insurance leads
+
+* Full Linux/Java environment using Tomcat and Spring
+
+* Integrated a combination of Amazon AWS/EC2 and external data center
+
+* Developed B2B integrations with over 100 different companies using Java, XML and JSON
+
+* Maintained a legacy Java system with over 1 million lines of code
+
+* Developed new Java REST micro services
+
+* Integrated with 3rd party API's using Java
+
+* Technologies used: Java, Spring, AWS, Tomcat, Jenkins, Maven, Subversion, Ant, MySql, Linux, NGINX,
+
+HAProxy, Eclipse, Intellij, MyBatis, XML, JSON, SQL, JDBC
+
+Senior Programmer/Analyst
+
+J & H SOFTWARE, INC - Evergreen, CO - 2010 to 2011
+
+* Developed and maintained a software system using Java with Web Services and SOAP/ReST.
+
+* Planned and upgraded to a Power 7 and iOS 7.1.
+
+* Team member for migrating hardware and network to a colocation site.
+
+* Implemented remote journaling between 2 iSeries DB2 databases.
+
+* Utilized SQL with JDBC for database access.
+
+Senior Programmer/Analyst
+
+MASTERCRAFT CABINETS, INC - Aurora, CO - 2006 to 2010
+
+Aurora, CO 2006-2010
+
+$50 million company that manufactures cabinetry for the home building industry.
+
+Senior Programmer/Analyst
+
+* Worked with vendor contracts for software licenses and hardware acquisition.
+
+* Performed system administration using Windows AD Tools, Exchange and Cisco.
+
+* Implemented barcode scanners for the manufacturing floor that included inventory, production and shipping.
+
+This led to the elimination of a yearly inventory.
+
+* Developed and maintained a Friedman Frontier manufacturing ERP system on an iSeries using RPG, Java,
+
+XML, JSP, CL and the standard iSeries tools.
+
+* Created Java web based applications to interface with the iSeries database.
+
+* Performed release upgrades on the OS as well as Friedman Frontier and Global GL accounting software.
+
+* Installed and configured Friedman Frontier iProducts software on a WebSphere application server running
+
+on Windows servers and iSeries.
+
+* Performed all system configurations and upgrades on the iSeries including but not limited to i5/OS upgrade
+
+from 5.3 to 5.4, PTF installs, WebSphere upgrades, hardware upgrades, ODBC configuration, system memory
+
+pool configuration and Client Access installs.
+
+* Used SQL extensively for a data conversion project to a Progress database.
+
+Senior Programmer/Analyst
+
+OPPENHEIMER FUNDS, INC - Centennial, CO - 2004 to 2006
+
+Centennial, CO 2004-2006
+
+One of the largest and most respected asset management companies in the United States.
+
+Senior Programmer/Analyst
+
+* Developed financial application software on an AS/400 using RPG, Java, CL and various AS/400 tools.
+
+* Created Java programs to integrate with the AS/400 database.
+
+* Called existing legacy RPG programs from Java as web applications and native AS/400 batch and interactive
+
+processes.
+
+* Used JDBC and SQL for all DB2/400 database access.
+
+* Introduced ODBC data access from MS Excel to iSeries database. This allowed users to create simple ad
+
+hoc reports without the need for IT support.
+
+Senior Programmer/Analyst
+
+TRANSMONSTAIGNE, INC - Denver, CO - 2002 to 2004
+
+Analyze, code, document and test software in an AS/400 environment using RPG/400, RPG IV, ILE and CL.
+
+* Main application was an ERP system for the petroleum industry.
+
+Senior Programmer/Software Manager
+
+MDC HOLDINGS, INC - Denver, CO - 1994 to 2002
+
+Led a group of 3 programmers.
+
+* Migrated environment to WebSphere 4.0.
+
+* Designed, wrote and implemented the first Java/WebSphere web application for this company using Visual
+
+Age for Java, JSP, HTML and WebSphere 3.5 which included JDBC to an AS/400 legacy database.
+
+* Analyze, code, test and document software in an AS/400 environment using
+
+* RPG/400 and CL. Main application was tracking including financial and mortgage systems.
+
+* Project manager on extensive Year 2000 project.
+
+* Assist and advise the Technical Services Manager on AS/400 configuration and system maintenance
+
+issues.
+
+* Involved in implementing new technologies to the AS/400 such as Web, C/C++ and data access.
+
+* Configured NT/2000 Server and Professional hardware.
+
+* Configured MS IIS server.
+
+* Troubleshot NT/2000 Server and Professional problems.
+
+Consultant Programmer
+
+VARIOUS CLIENTS, INC - Denver, CO - 1991 to 1994
+
+Denver, CO 1991-1994
+
+Software development for clients that included a credit card company and a software development company.
+
+Consultant Programmer
+
+* Consulted for various clients in Denver and Colorado Springs.
+
+* Worked on diverse projects in AS/400 environments using RPG/400 and CL.
+
+* Conducted analysis and design, coding, testing, documentation, system administration, security and training.
+
+* Used all the standard AS/400 tools such as PDM, SEU, Query, DFU and Debug.
+
+* Configured MS Windows servers for a LAN/WAN.
+
+Software Manager
+
+UNITED STATES OLYMPIC COMMITTEE - 1988 to 1991
+
+Oversaw all software development and maintenance on an AS/400 using RPG/400, CL and all of the AS/400
+
+programming utilities.
+
+* Supervised a staff of four programmers.
+
+* Oversaw and performed all system administrator duties and OS/400 system maintenance and upgrades.
+
+Configured Novell Netware Servers.
+
+Programmer Analyst
+
+UNITED STATES OLYMPIC COMMITTEE - Colorado Springs, CO - 1984 to 1991
+
+The governing body for American Olympic sports.
+
+Senior Programmer/Analyst
+
+UNITED STATES OLYMPIC COMMITTEE - 1986 to 1988
+
+Directed, analyzed and advised on software development including working with users to determine project
+
+requests.
+
+* Applications: Financial, Association Management, Hotel Management, Athlete History and other assorted
+
+systems unique to amateur sports and the Olympic games.
+
+Programmer/Analyst
+
+UNITED STATES OLYMPIC COMMITTEE - 1985 to 1986
+
+Maintained software from user requests under the supervision of the Software Manager.
+
+Computer Operator
+
+UNITED STATES OLYMPIC COMMITTEE - 1984 to 1985
+
+Handled all aspects of computer operations including backup and hardware maintenance.
+
+EDUCATION
+
+A.A.S. in Computer Science
+
+Blair Jr. College - Colorado Springs, CO
+
+1982 to 1984
+
+SKILLS
+
+RPG (10+ years), JAVA (10+ years), JDBC (10+ years), SQL (10+ years), XML (10+ years), AWS (2 years)
+
+ADDITIONAL INFORMATION
+
+TECHNOLOGIES
+
+Java JDBC SQL MySQL XML JSON
+
+Tomcat JQuery Spring Linux Windows Maven
+
+SOA JUnit Eclipse NetBeans Intellij Subversion
+
+HTML JavaScript SOA ReST AWS HAProxy
+
+Mybatis iSeries iOS RPG CL DB2/400

@@ -1,0 +1,107 @@
+Erik Larsen
+
+SENIOR SOFTWARE ENGINEER
+
+Austin, TX - Email me on Indeed: indeed.com/r/Erik-Larsen/68d94c5ac4b8e922
+
+Senior Software Engineer looking for a challenging position in an energetic environment
+
+utilizing Java technologies. Results-driven, customer-focused, articulate and analytical.
+
+Experience with web development, all layers, from database to services to user interfaces.
+
+WORK EXPERIENCE
+
+SENIOR SOFTWARE ENGINEER
+
+ORACLE CORPORATION - January 2010 to November 2016
+
+- 2015-2016 JDK Performance Testing Infrastructure, sustaining Engineering. Transferred
+
+5 years of JDK Performance testing data (for JDK versions 1.4 through 9.0 - 7 billion test
+
+runs), from an Oracle DB to Elasticsearch, leveraging JMS.
+
+- 2012-2014 Java Licensee Reporting Infrastructure. Created comprehensive reporting
+
+site for statistics Java Source Licensee (Java Card, Java ME, Java SE, Java EE).
+
+Leveraged a confluence instance running on Tomcat to generated the reports.
+
+- 2010-2011 Developed and maintained process by which JDK bugs were extracted from internal Leveraged
+
+Confluence/JIRA rest api to extract and filter bug information to
+
+publish to the Java Licensee Support website.
+
+Member
+
+- 1999 to 2015
+
+of development team that created and maintained 4 generations of the Java Partner website, customer facing
+
+site for Java Source Licensees.
+
+Developed, maintained and automated the Technology bundle delivery mechanism to the
+
+Java Partner website. Worked with the JDK Release Engineering team to establish
+
+consistent package and naming conventions
+
+- 1996 - 1998 JDK sustaining engineering: Bug fixes JDK 1.1.x / 1.2 Java and C.
+
+Customer Technical Escalations
+
+SENIOR SOFTWARE ENGINEER
+
+SUN MICROSYSTEMS INC - December 1996 to January 2010
+
+SOFTWARE ENGINEER
+
+CAERE CORPORATION - Los Gatos, CA - January 1995 to July 1996
+
+Member of OmniPage Pro 8.0 OCR Software (Optical Character Recognition)
+
+development team. Windows application development using C++.
+
+SOFTWARE QA ENGINEER
+
+CALERA CORPORATION - January 1993 to December 1994
+
+Software QA Engineer - Worked closely with lead developers to develop and test the
+
+WordScan Plus OCR product. Prepared test designs based on documented requirements.
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+
+San Jose State University - San Jose, CA
+
+1993
+
+SKILLS
+
+JAVA (10+ years), ORACLE (6 years), TOMCAT (6 years), APACHE (7 years), APPLICATION SERVER (7
+
+years)
+
+ADDITIONAL INFORMATION
+
+Skills
+
+* Java, J2EE, Oracle DB, JDBC
+
+* Experience with Glassfish and Apache Tomcat Application Server
+
+* SOA and web services (REST, SOAP, XML, JSON)
+
+* maven, subversion, cvs
+
+* Comfortable in Linux/Solaris environments.
+
+* Javascript HTML/CSS
+
+* Agile and Scrum Methodologies
+
+* Excellent communication and collaboration skills.

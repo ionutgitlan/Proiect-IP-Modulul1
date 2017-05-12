@@ -1,0 +1,257 @@
+Calin Teodorescu
+
+Senior Software Engineer
+
+Decatur, GA - Email me on Indeed: indeed.com/r/Calin-Teodorescu/afa54b6426be728a
+
+Authorized to work in the US for any employer
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+
+NCR - Duluth, GA - December 2014 to February 2017
+
+maintained a C++ / C# / Java Script / XML / Visual Basic based Point of Sale Client - Server Product; debugged
+
+and solved Server Side defects in .NET based Components ( C++, C#, Visual Basic ); used VMWare to
+
+Virtualize Lab / Production Systems into Development Environments; customized and redesigned a Java
+
+Script based POS Component; used Atlassian( JIRA, Confluence, FishEye ) for supporting the Software
+
+Development Process
+
+New York based, contractor
+
+Liquid Holdings - August 2012 to December 2014
+
+Senior Developer, designed and implemented an Excel based Trading Front End ( C#, VSTO, Windows )
+
+Senior Developer on the Advanced Solutions Team, in the Tax Reporting/Payment
+
+Products Group
+
+BSI Inc - Atlanta, GA - April 2011 to August 2012
+
+C++, C, SQL, Unix, Windows );
+
+* maintenance, new features design and implementation for the Components of the Server Side of the System
+
+* the Server was running on multiple platforms ( Unix - AIX, HP, Solaris, Linux; Windows ) connected for
+
+persistency to SQL Databases ( Oracle, Sybase, Microsoft SQL ); the daily tasks implied also running SQL
+
+queries in order to troubleshoot bugs and maintaining embedded SQL or stored procedures in order implement
+
+new functionality;
+
+Trader
+
+Individual Investor - New York, NY - July 2010 to April 2011
+
+Lead Developer / Project Manager
+
+Assent LLC - Hoboken, NJ - November 2000 to July 2010
+
+Owned the Development / Maintenance of the company's proprietary Equity and Options Trading System
+
+( a Client-Server, real time, low latency, Distributed Messaging System ); shared responsibility of its daily
+
+Operations ( C++, SQL, Windows, TCPIP, Multicast, Trading Protocols )
+
+* major contributor to the firm's successful business development, which in only five years evolved from a niche
+
+player within the Active Investor Businesses to one of the most sought after Trading Platforms, well known for
+
+the stability and performance of its technology
+
+* rearchitected the Proprietary Trading System and implemented the resulting changes to achieve the
+
+necessary performance in order to maintain the best realtimeness / low messaging latency on both its Client
+
+and Server sides
+
+* managed a team of 3 to 4 developers
+
+* kept the Trading System up-to-date feature wise with the new Trading Products offered by the US Stock
+
+Exchanges; used the published protocol documentations to architect / design / implement new components
+
+and maintain existing ones
+
+◦ data feed servers ( NASDAQ Books, NQDS-NTDS, NYSE CTS-CQS, NYSE Open Book, BATS / EDGE
+
+Books )
+
+◦ execution line servers ( NYSE - SuperDOT, NASDAQ - SOES ); FIXDrivers to All Exchanges supporting
+
+FIX, FIX Drop Copies
+
+* upgraded the Trading System from the 32 bit to the 64 bit hardware platform
+
+* acted as a technology adviser to the business executives
+
+* daily activities implied running SQL queries in order to troubleshoot trading activity
+
+VoiceXML product architect, Senior Software Engineer
+
+Comverse Network Systems - New York, NY - July 1999 to November 2000
+
+for Telecom Software Systems ( C++, C, Unix, Windows, Telecom Protocols )
+
+* prototyped an architecture to implement the VoiceXML Protocol
+
+* architected / designed / implemented a Compiler for the ASN.1 ( Abstract Syntax Notation ) Protocol; ASN.1
+
+is widely used by Telecom Systems to describe the structure of messages exchanged by telecommunication
+
+protocols; the protocol is described in a grammar text file; the compiler offers an API which allows to initialize
+
+( compile ) the protocol description, decode the structure of a given binary message using the compiled
+
+grammar, encode in a binary representation a given ASN.1 value, change values or a set of values in a given
+
+message ( given as binary or ASN.1 ); the compiler speeds up the development process by encapsulating
+
+the formal language related operations involved in a protocol implementation; the Compiler was used for the
+
+following Production Systems
+
+◦ a Session Manager for a Number Portability application
+
+◦ IVR ( Interactive Voice Response ) Servers for the IS41 and CS2 protocols
+
+Senior Software Engineer
+
+Salomon Smith Barney - New York, NY - May 1998 to July 1999
+
+C++, SQL, Solaris )
+
+* as part of the team maintaining a Deals Accounting System used by Investment Bankers, was in charge of
+
+maintaining the Client-Server System and of adding new features (UNIX-like parameters application launcher,
+
+transformed a Motif application in a Rogueview based one, solved core dumps, added a printing tool / an
+
+interrupt mechanism to a Client-Server package and other functionality enhancements)
+
+* the system was essentially creating SQL queries on a fly in order to obtain the data from which different type
+
+of reports were produced
+
+Software Engineer
+
+Imagine Software - New York, NY - October 1996 to May 1998
+
+C++, SQL, Solaris )
+
+* involved in the full development cycle ( analysis, design, implementation, testing and maintenance ) of a
+
+real-time trading system; analysis, design and implementation of GUI modules allowing database interaction;
+
+quadratic fitting of the volatilities computed from the real-time prices; determine the nature of a bug in a SUN's
+
+C++ compiler upgrade; distributed interlocking mechanism; hierarchical registry
+
+Software Engineer
+
+Computron Software - Rutherford, NJ - October 1995 to October 1996
+
+C++, C, Unix, Windows )
+
+* involved in the full development cycle ( analysis, design, implementation, testing, maintenance ) of a multi-
+
+platform client/server accounting and imaging System
+
+Researcher, Senior Software Engineer
+
+Research Institute for Informatics, Artificial Intelligence Department - Bucharest, RO - January 1994 to
+
+September 1995
+
+developed a research project concerning the reverse engineering of C programs
+
+Senior Software Engineer
+
+Computing Center of the Ministry of Tourism - Bucharest, RO - October 1993 to January 1994
+
+designed and implemented the necessary software in C/DOS for connecting a telephone system (PBX) with
+
+a PC for automatic billing
+
+Senior Software Engineer
+
+Romanian-American Company SCAIGLASS SRL - October 1992 to October 1993
+
+provided the computing support for various company departments
+
+Software Engineer
+
+- October 1988 to October 1992
+
+* Designed and developed a CAD application
+
+* Designed and developed financial and computer aided manufacturing applications in C, Pascal
+
+EDUCATION
+
+Logic
+
+University of Bucharest
+
+1994 to 1995
+
+MS in Computer Science
+
+"Politehnica" University of Bucharest
+
+1983 to 1988
+
+SKILLS
+
+C++ (10+ years), C# (6 years), Java Script (3 years), Asp.Net (3 years), MVC (3 years)
+
+ADDITIONAL INFORMATION
+
+Areas of Expertise
+
+* object oriented architectures, design, implementation best practices
+
+* high performance, low latency distributed messaging systems
+
+* Point Of Sale - Retail Software Systems
+
+* communication protocols ( Multicast, TCPIP, X25 )
+
+* Retail Industry
+
+* Financial Industry ( Equity and Options Trading Technologies expert experience )
+
+* Telecom Software Systems
+
+* frontend / backend development; .NET based Systems
+
+* extensive experience in all the phases of the development cycle and production release
+
+* extensive experience in employing the Agile Development Paradigm to drive the development cycle
+
+* excellent client interaction
+
+* excellent verbal and written communication skills
+
+Technical Proficiencies
+
+* Languages: C++, C#, Java Script, C, SQL, Pascal, Lisp, Prolog, Bison, Flex, shell scripting, XML, VoiceXML
+
+* Development Tools: Microsoft Visual Studio, Visual Source Safe, VMWare, .NET, Atlassian( JIRA,
+
+Confluence, FishEye ), Git, SUN "Workshop" for Solaris ( debugger, code browser, code manager ),
+
+BoundsChecker, Metrowerks Hierarchical Profiler, Purify
+
+* Operating Systems: Windows, Unix
+
+* Hardware: Intel based Servers, SUN workstations
+
+* Exposure: CASE Tools (Rational Rose, MagicDraw)

@@ -1,0 +1,77 @@
+Do Om
+
+IT Support - University at Buffalo IT Help Center
+
+Buffalo, NY - Email me on Indeed: indeed.com/r/Do-Om/c256de797c6d9e40
+
+WORK EXPERIENCE
+
+IT Support
+
+University at Buffalo IT Help Center - Buffalo, NY - September 2016 to Present
+
+Provide IT support for students, alumni, and faculty
+
+* Troubleshoot hardware and software problems, manage accounts and passwords, and give
+
+general information to prospective students.
+
+Intern
+
+Brookhaven National Laboratory RHIC-ATLAS Computing Facility - Upton, NY - June 2015 to June 2015
+
+Wrote a web application that modeled the layout of the facility's data center
+
+* Created an interface that provides search functionality of all their servers, returning and displaying statistical
+
+and locational data about each one.
+
+* Written using JavaScript, PHP, HTML, CSS, MySQL
+
+South Korea - ESL Teacher
+
+Chung Ang High School - Seoul, KR - September 2009 to March 2014
+
+Created and used my own curriculum for three grade levels during the regular school year, as well as for winter
+
+and summer classes
+
+* Organized a variety of after school activities, including tutoring sessions, public speaking
+
+contests, and an English newspaper.
+
+EDUCATION
+
+BS in Computer Engineering
+
+University at Buffalo - Buffalo, NY
+
+January 2016 to June 2018
+
+AS in Engineering
+
+Suffolk County Community College - Selden, NY
+
+September 2014 to December 2015
+
+SKILLS
+
+C++ (Less than 1 year), Git (Less than 1 year), MATHEMATICS (Less than 1 year), CSS (Less than 1 year),
+
+HTML (Less than 1 year)
+
+LINKS
+
+http://doyom123.github.io
+
+ADDITIONAL INFORMATION
+
+Skills
+
+C, C++, HTML/CSS, JavaScript, Git, ASM
+
+Additional Experience And Awards
+
+* 2016 Dr. Robert Frey Family Mathematics Scholarship
+
+* 2015 National Science Foundation S-STEM Scholar

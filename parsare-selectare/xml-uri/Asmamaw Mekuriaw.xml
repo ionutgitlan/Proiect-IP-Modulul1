@@ -77,7 +77,7 @@
 <OrganizationName/>
 </OrgName>
 <OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
-<Description>Managed development of Java and PHP web applications, with involvement in the full software development lifecycle. Handled web services, with AJAX for autocomplete and dependency selection. Coordinated systems integration, centralized system authentication, and development of a messenger application. Developed forms for user input. Implemented Iterative and Incremental SDLC principles into the lifecycle. Achievements: * Improved user experience, responsiveness through JavaScript, jQuery, AJAX, Bootstrap, and autocomplete. * Implemented a new online application enabling student enrollment and course selection, with instructor evaluation, online student exam results, student program placement, student graduation, alumni service, and report generation. * Designed and implemented a User Administration System handled integration with other systems. * Boosted team productivity during development through Intellij IDE, Git, and Trello. * Prepared developer and system documentation, user manuals, and end-user training. * Achieved Oracle Java 7 Associate & Professional, Big Data Specialist certifications and other trainings. * Awarded a Certificate of Recognition for the accomplishment of Student Information Management System Project. Technologies: Java, PHP, JSP, Servlets, Spring, Hibernate, Doctrine, HTML5, CSS3, JavaScript, AJAX, jQuery, XML, MySQL, SQLite, JDBC, Eclipse, NetBeans, Intellij, VIM, XAMP, Linux, Windows, Android. ASMAMAW LASHITEW MEKURIAW * * 202.730.5661 * asmamawmekuriaw@gmail.com
+<Description>Managed development of Java and PHP web applications, with involvement in the full software development lifecycle. Handled web services, with AJAX for autocomplete and dependency selection. Coordinated systems integration, centralized system authentication, and development of a messenger application. Developed forms for user input. Implemented Iterative and Incremental SDLC principles into the lifecycle. Achievements: * Improved user experience, responsiveness through JavaScript, jQuery, AJAX, Bootstrap, and autocomplete. * Implemented a new online application enabling student enrollment and course selection, with instructor evaluation, online student exam results, student program placement, student graduation, alumni service, and report generation. * Designed and implemented a User Administration System handled integration with other systems. * Boosted team productivity during development through Intellij IDE, Git, and Trello. * Prepared developer and system documentation, user manuals, and end-user training. * Achieved Oracle Java 7 Associate and Professional, Big Data Specialist certifications and other trainings. * Awarded a Certificate of Recognition for the accomplishment of Student Information Management System Project. Technologies: Java, PHP, JSP, Servlets, Spring, Hibernate, Doctrine, HTML5, CSS3, JavaScript, AJAX, jQuery, XML, MySQL, SQLite, JDBC, Eclipse, NetBeans, Intellij, VIM, XAMP, Linux, Windows, Android. ASMAMAW LASHITEW MEKURIAW * * 202.730.5661 * asmamawmekuriaw@gmail.com
 </Description>
 <StartDate>
 <AnyDate>2012-01-01</AnyDate>
@@ -172,7 +172,7 @@
 <Name>Symfony PHP Framework</Name>
 </LicenseOrCertification>
 <LicenseOrCertification>
-<Name>Linux Professional Institute ( 101 & 102 )</Name>
+<Name>Linux Professional Institute ( 101 and 102 )</Name>
 </LicenseOrCertification>
 </LicensesAndCertifications>
 <Qualifications>

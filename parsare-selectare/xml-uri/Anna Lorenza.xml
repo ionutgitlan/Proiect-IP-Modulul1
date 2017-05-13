@@ -39,7 +39,7 @@
 <InternetEmailAddress>lorenza.anna@yahoo.co.uk</InternetEmailAddress>
 </ContactMethod>
 </ContactInfo>
-<ExecutiveSummary>Areas of Expertise * Customer Liaison * Negotiating * Microsoft Office * Database Management * Relationship Management * Sage 1 Computer System * Accounts Payable & Receivable * Inventory Control * Data Entry QUALIFICATIONS Carlette Park College Wirral, Physical Education</ExecutiveSummary>
+<ExecutiveSummary>Areas of Expertise * Customer Liaison * Negotiating * Microsoft Office * Database Management * Relationship Management * Sage 1 Computer System * Accounts Payable and Receivable * Inventory Control * Data Entry QUALIFICATIONS Carlette Park College Wirral, Physical Education</ExecutiveSummary>
 <EmploymentHistory>
 <EmployerOrg>
 <EmployerOrgName>A D Systems Uk ltd - Preston</EmployerOrgName>
@@ -64,7 +64,7 @@
 <EmployerOrgName>Enthusiastic</EmployerOrgName>
 <JobType/>
 <PositionHistory>
-<Title>Administrative & Customer Service Professional</Title>
+<Title>Administrative and Customer Service Professional</Title>
 <OrgName>
 <OrganizationName/>
 </OrgName>
@@ -83,7 +83,7 @@
 <EmployerOrgName>Office Angels Recruitment</EmployerOrgName>
 <JobType/>
 <PositionHistory>
-<Title>Badenock & Clerk Recruitment</Title>
+<Title>Badenock and Clerk Recruitment</Title>
 <OrgName>
 <OrganizationName/>
 </OrgName>
@@ -99,7 +99,7 @@
 </PositionHistory>
 </EmployerOrg>
 <EmployerOrg>
-<EmployerOrgName>Hays Recruitment & Clayton Recruitment</EmployerOrgName>
+<EmployerOrgName>Hays Recruitment and Clayton Recruitment</EmployerOrgName>
 <JobType>Temp/Seasonal</JobType>
 <PositionHistory>
 <Title>Temporary Employee</Title>
@@ -231,7 +231,7 @@
 </PositionHistory>
 </EmployerOrg>
 <EmployerOrg>
-<EmployerOrgName>Clarke & Partners</EmployerOrgName>
+<EmployerOrgName>Clarke and Partners</EmployerOrgName>
 <JobType/>
 <PositionHistory>
 <Title>Service Administrator</Title>
@@ -471,10 +471,10 @@
 <NumericValue description="Range in years of experience">1</NumericValue>
 </CompetencyEvidence>
 </Competency>
-<Competency name="Staffing & Recruitment">
+<Competency name="Staffing and Recruitment">
 <CompetencyId description="HireAbility taxonomy" id="14179" idOwner="HireAbility"/>
 <TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
-<CompetencyEvidence name="Staffing & Recruitment">
+<CompetencyEvidence name="Staffing and Recruitment">
 <NumericValue description="Range in years of experience">1</NumericValue>
 </CompetencyEvidence>
 </Competency>

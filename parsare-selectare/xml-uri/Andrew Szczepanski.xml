@@ -75,7 +75,7 @@
 </PositionLocation>
 </OrgInfo>
 <OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
-<Description>* Participated in Software Development Process in a MIL-STD-498 environment * Developed design diagrams for Concept of Execution section of F-35 Joint Strike Fighter Primary Flight Control Software Design Document (SDD) for Hamilton Sundstrand * Reverse-engineered software using Code Composer Studio * Developed flow chart diagrams using Visio * Participated in peer reviews of design diagrams with software engineers * Performed Code Walkthroughs utilizing LDRA software analysis tool * Developed Software Interface Design Document COURSEWORK * Algorithms and Complexity * Algorithms & Data Struct. * Computer Architecture * Computing * Data Structures * Digital Logic * Discrete Mathematics * Ethics in Computing * Fund. of Circuit Analysis * Introduction to Computing * Operating Systems * Program Language Translation * Parallel Systems * Prob. Analysis of Comp. Systems * Senior Design Lab * Signals and Systems * Software Engineering * Theory of Computation
+<Description>* Participated in Software Development Process in a MIL-STD-498 environment * Developed design diagrams for Concept of Execution section of F-35 Joint Strike Fighter Primary Flight Control Software Design Document (SDD) for Hamilton Sundstrand * Reverse-engineered software using Code Composer Studio * Developed flow chart diagrams using Visio * Participated in peer reviews of design diagrams with software engineers * Performed Code Walkthroughs utilizing LDRA software analysis tool * Developed Software Interface Design Document COURSEWORK * Algorithms and Complexity * Algorithms and Data Struct. * Computer Architecture * Computing * Data Structures * Digital Logic * Discrete Mathematics * Ethics in Computing * Fund. of Circuit Analysis * Introduction to Computing * Operating Systems * Program Language Translation * Parallel Systems * Prob. Analysis of Comp. Systems * Senior Design Lab * Signals and Systems * Software Engineering * Theory of Computation
 </Description>
 <StartDate>
 <AnyDate>2005-05-01</AnyDate>
@@ -442,10 +442,10 @@
 <NumericValue description="Range in years of experience">1</NumericValue>
 </CompetencyEvidence>
 </Competency>
-<Competency name="PVCS Version Manager (Configuration & Version Control tool)">
+<Competency name="PVCS Version Manager (Configuration and Version Control tool)">
 <CompetencyId description="HireAbility taxonomy" id="6496" idOwner="HireAbility"/>
 <TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
-<CompetencyEvidence name="PVCS Version Manager (Configuration & Version Control tool)">
+<CompetencyEvidence name="PVCS Version Manager (Configuration and Version Control tool)">
 <NumericValue description="Range in years of experience">1</NumericValue>
 </CompetencyEvidence>
 </Competency>

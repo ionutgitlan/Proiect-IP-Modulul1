@@ -55,7 +55,7 @@
 <EmployerOrgName>CustomEyes.me - London</EmployerOrgName>
 <JobType/>
 <PositionHistory>
-<Title>Android & Front-end Web Developer</Title>
+<Title>Android and Front-end Web Developer</Title>
 <OrgName>
 <OrganizationName/>
 </OrgName>
@@ -113,7 +113,7 @@
 </PositionLocation>
 </OrgInfo>
 <OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
-<Description>At StartupMajestic, we give you a platform to easily create your own web site & landing pages, sell digital products, collect payments and run a complete online business without writing a single line of code. http://www.startupmajestic.com MasterCard Global Hackathon
+<Description>At StartupMajestic, we give you a platform to easily create your own web site and landing pages, sell digital products, collect payments and run a complete online business without writing a single line of code. http://www.startupmajestic.com MasterCard Global Hackathon
 </Description>
 <StartDate>
 <AnyDate>2015-11-01</AnyDate>
@@ -160,7 +160,7 @@
 </PositionLocation>
 </OrgInfo>
 <OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
-<Description>On Crowdpolicy #transport hackathon (http://crowdhackathon.com/transport/) I developed a game that motivtes its user to use public transport. The application was awarded with the 5th place award in this vent The project has been covered by these Articles of the biggest newspapes in Greece: http://www.kathimerini.gr/838611/article/epikairothta/ellada/oi-sygkoinwnies-gennoyn-idees http://www.ethnos.gr/article.asp*catid=22768&subid=2&pubid=64291123 Unfortunately the game is not yet available on the web but you can read and fork the code on https://github.com/ kawai-developers/faster
+<Description>On Crowdpolicy #transport hackathon (http://crowdhackathon.com/transport/) I developed a game that motivtes its user to use public transport. The application was awarded with the 5th place award in this vent The project has been covered by these Articles of the biggest newspapes in Greece: http://www.kathimerini.gr/838611/article/epikairothta/ellada/oi-sygkoinwnies-gennoyn-idees http://www.ethnos.gr/article.asp*catid=22768andsubid=2andpubid=64291123 Unfortunately the game is not yet available on the web but you can read and fork the code on https://github.com/ kawai-developers/faster
 </Description>
 <StartDate>
 <AnyDate>2015-06-01</AnyDate>
@@ -181,7 +181,7 @@
 </PostalAddress>
 <Degree>
 <DegreeMajor>
-<Name>IT Engineering & Telecommunications</Name>
+<Name>IT Engineering and Telecommunications</Name>
 </DegreeMajor>
 <DatesOfAttendance currentlyEnrolled="true">
 <StartDate>

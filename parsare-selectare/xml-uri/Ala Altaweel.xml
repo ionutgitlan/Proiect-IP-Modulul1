@@ -102,7 +102,7 @@
 </SchoolOrInstitution>
 <SchoolOrInstitution schoolType="university">
 <School>
-<SchoolName>Texas A&M University</SchoolName>
+<SchoolName>Texas AandM University</SchoolName>
 </School>
 <PostalAddress>
 <CountryCode>US</CountryCode>
@@ -147,7 +147,7 @@
 </SchoolOrInstitution>
 <SchoolOrInstitution schoolType="university">
 <School>
-<SchoolName>Texas A&M University</SchoolName>
+<SchoolName>Texas AandM University</SchoolName>
 </School>
 <Degree degreeType="masters">
 <DegreeName>Master of Science</DegreeName>

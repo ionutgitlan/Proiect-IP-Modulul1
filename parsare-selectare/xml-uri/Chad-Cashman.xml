@@ -27,7 +27,7 @@
 <OrganizationName/>
 </OrgName>
 <OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
-<Description>Developer responsible for maintaining ETLs and databases, managing version control and development workflows, and leading web development & design. Responsibilities * Documentation and conventions around use of SourceTree, Bitbucket, and Git. * Modifying the UX and maintaining the web app to capture travel information for international travel assessments for Microsoft employees. * Leading team workflow modifications to incorporate JIRA/Confluence. * Migrating databases, ETLs, and SQL Agents/Jobs to new servers and virtual machines. * Testing, and deploying web app code and databases made by the solutions team. * Modifying ETLs and databases for improved quality and performance. * Assisting with creation of conventions and standards, and acting as a guide for them during the code review process. * Developing and maintaining web apps for clients and internal use. * Creating blog posts related to technologies used by the solutions team. o How to Create a 2D Game Map o Creating an NPC on your 2D Game Map Environment: C#, PHP, JavaScript, jQuery, Visual Studio, ASP.NET MVC, ASP.NET Web API, WordPress, HTML, CSS, Bootstrap, Jira/Confluence, Git, SourceTree, Bitbucket, SSMS, SSIS, PowerBI, PowerPivot, Excel, TFS, Microsoft Office, Powershell, Sitecore, SharePoint Online
+<Description>Developer responsible for maintaining ETLs and databases, managing version control and development workflows, and leading web development and design. Responsibilities * Documentation and conventions around use of SourceTree, Bitbucket, and Git. * Modifying the UX and maintaining the web app to capture travel information for international travel assessments for Microsoft employees. * Leading team workflow modifications to incorporate JIRA/Confluence. * Migrating databases, ETLs, and SQL Agents/Jobs to new servers and virtual machines. * Testing, and deploying web app code and databases made by the solutions team. * Modifying ETLs and databases for improved quality and performance. * Assisting with creation of conventions and standards, and acting as a guide for them during the code review process. * Developing and maintaining web apps for clients and internal use. * Creating blog posts related to technologies used by the solutions team. o How to Create a 2D Game Map o Creating an NPC on your 2D Game Map Environment: C#, PHP, JavaScript, jQuery, Visual Studio, ASP.NET MVC, ASP.NET Web API, WordPress, HTML, CSS, Bootstrap, Jira/Confluence, Git, SourceTree, Bitbucket, SSMS, SSIS, PowerBI, PowerPivot, Excel, TFS, Microsoft Office, Powershell, Sitecore, SharePoint Online
 </Description>
 <StartDate>
 <AnyDate>2015-04-01</AnyDate>
@@ -97,7 +97,7 @@
 <OrganizationName/>
 </OrgName>
 <OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
-<Description>First tier support responsible for managing support tickets, web development, and database administration. Responsibilities * Maintained reports on dark fiber, billing, and P&L. * Set up laptops and mobile phones for new employees. Returned and restored them when employees left the company. * Debugged and fixed internal hardware and our internal billing and sales software. Escalated when appropriate. * Managed the ticket system, daily burn-down chart, and scrum board for our stand ups. Environment: PHP, Python, JavaScript, jQuery, Zend Framework, HTML, CSS, Git, PostgreSQL, Excel, PHPStorm, Eclipse, LAMP, Microsoft Office
+<Description>First tier support responsible for managing support tickets, web development, and database administration. Responsibilities * Maintained reports on dark fiber, billing, and PandL. * Set up laptops and mobile phones for new employees. Returned and restored them when employees left the company. * Debugged and fixed internal hardware and our internal billing and sales software. Escalated when appropriate. * Managed the ticket system, daily burn-down chart, and scrum board for our stand ups. Environment: PHP, Python, JavaScript, jQuery, Zend Framework, HTML, CSS, Git, PostgreSQL, Excel, PHPStorm, Eclipse, LAMP, Microsoft Office
 </Description>
 <StartDate>
 <AnyDate>2012-09-01</AnyDate>
@@ -118,7 +118,7 @@
 <AnyDate>2012-12-01</AnyDate>
 </DegreeDate>
 <DegreeMajor>
-<Name>Database Design & Development</Name>
+<Name>Database Design and Development</Name>
 </DegreeMajor>
 <DatesOfAttendance currentlyEnrolled="false">
 <StartDate>
@@ -328,10 +328,10 @@
 <NumericValue description="Range in years of experience">2</NumericValue>
 </CompetencyEvidence>
 </Competency>
-<Competency name="P&L">
+<Competency name="PandL">
 <CompetencyId description="HireAbility taxonomy" id="15505" idOwner="HireAbility"/>
 <TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
-<CompetencyEvidence name="P&L" lastUsed="2013-01-01">
+<CompetencyEvidence name="PandL" lastUsed="2013-01-01">
 <NumericValue description="Range in years of experience">1</NumericValue>
 </CompetencyEvidence>
 </Competency>

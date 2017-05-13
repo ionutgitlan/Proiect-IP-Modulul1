@@ -117,7 +117,7 @@
 </PositionLocation>
 </OrgInfo>
 <OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
-<Description>Algodone is a start-up in partnership with the Laboratory of Computer Science, Robotics and Microelectronics of Montpellier. The start-up wants to propose a solution to limit industrial scale counterfeiting of digital integrated circuits. * Designed a portability and make a migration of an existing design on another platform design (Xilinx to Altera) * Worked on CAD (Altera & Xilinx) and automation scripts. * Studied an identification of an integrated circuit through the PUF (physically unclonable functions) * Created architectures by PUF hard macro (Altera / Xilinx / Quartus II) * Worked with protection of hardware building blocks (IP encryption and licensing), control traceability and activation circuits
+<Description>Algodone is a start-up in partnership with the Laboratory of Computer Science, Robotics and Microelectronics of Montpellier. The start-up wants to propose a solution to limit industrial scale counterfeiting of digital integrated circuits. * Designed a portability and make a migration of an existing design on another platform design (Xilinx to Altera) * Worked on CAD (Altera and Xilinx) and automation scripts. * Studied an identification of an integrated circuit through the PUF (physically unclonable functions) * Created architectures by PUF hard macro (Altera / Xilinx / Quartus II) * Worked with protection of hardware building blocks (IP encryption and licensing), control traceability and activation circuits
 </Description>
 <StartDate>
 <AnyDate>2014-06-01</AnyDate>

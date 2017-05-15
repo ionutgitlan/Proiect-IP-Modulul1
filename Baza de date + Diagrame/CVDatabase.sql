@@ -21,6 +21,7 @@ DROP TABLE Hobbies;
 /
 DROP TABLE SoftSkills;
 /
+DROP TABLE Cluster;
 
 
 CREATE TABLE CurriculumVitae(
@@ -90,5 +91,11 @@ CREATE TABLE SoftSkills(
   CONSTRAINT fk_ssk
     FOREIGN KEY (CV_ID)
     REFERENCES CurriculumVitae(ID)
+);
+/
+
+CREATE TABLE Cluster(
+  CLUSTER_ID NUMBER,
+  CENTER_OF_GRAVITY NUMBER
 );
 /

@@ -21,7 +21,7 @@ DROP TABLE Hobbies;
 /
 DROP TABLE SoftSkills;
 /
-DROP TABLE Cluster;
+DROP TABLE Clustering;
 
 
 CREATE TABLE CurriculumVitae(
@@ -94,7 +94,7 @@ CREATE TABLE SoftSkills(
 );
 /
 
-CREATE TABLE Cluster(
+CREATE TABLE Clustering(
   CLUSTER_ID NUMBER,
   CENTER_OF_GRAVITY NUMBER
 );

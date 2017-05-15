@@ -39,7 +39,7 @@ public class Main {
         if (skill.toLowerCase().contains("java")) {
             return 20;
         }
-        if (skill.toLowerCase().contains(" c ")|skill.toLowerCase().contains("c/")) {
+        if (skill.toLowerCase().contains(" c ") | skill.toLowerCase().contains("c/")) {
             return 19;
         }
         if (skill.toLowerCase().contains("c++")) {
@@ -104,7 +104,7 @@ public class Main {
         String email = CV.getEmail(path);
         List<WorkExperience> workExperience = CV.getWorkExperience(path);
 
-        CV.getStudiesExperience(path);
+        int studies[] = CV.getStudiesExperience(path);
         List<String> skills = CV.getSkills(path);
         Connection con = DB.GetConn();
         int var = 0;
@@ -143,6 +143,14 @@ public class Main {
             pstmt.close();
         }
 
+        pstmt.close();
+        
+        pstmt = con.prepareStatement("insert into studies (cv_id,certificate,study_years) values (?,?,?)");
+
+        pstmt.setInt(1, numar);
+        pstmt.setInt(2, studies[0]);
+        pstmt.setInt(3, studies[1]);
+        pstmt.executeUpdate();
         pstmt.close();
     }
 

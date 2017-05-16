@@ -8,6 +8,8 @@ ALTER TABLE Hobbies DROP CONSTRAINT fk_hob;
 /
 ALTER TABLE SoftSkills DROP CONSTRAINT fk_ssk;
 /
+ALTER TABLE TechnicalSkills DROP CONSTRAINT fk_tsk;
+/
 
 DROP TABLE CurriculumVitae;
 /
@@ -20,6 +22,8 @@ DROP TABLE LanguageSkills;
 DROP TABLE Hobbies;
 /
 DROP TABLE SoftSkills;
+/
+DROP TABKE TechnicalSkills;
 /
 DROP TABLE Clustering;
 
@@ -41,6 +45,7 @@ CREATE TABLE Experience(
   CV_ID NUMBER,
   JOB_TITLE VARCHAR2(256),
   EXPERIENCE_YEARS NUMBER,
+  VALOARE NUMBER,
   
   CONSTRAINT fk_exp
     FOREIGN KEY (CV_ID)
@@ -56,6 +61,7 @@ CREATE TABLE Studies(
 --  6 - DOCTORAT
   CERTIFICATE NUMBER,
   STUDY_YEARS NUMBER,
+  VALOARE NUMBER,
   
   CONSTRAINT fk_std
     FOREIGN KEY (CV_ID)
@@ -93,7 +99,16 @@ CREATE TABLE SoftSkills(
     REFERENCES CurriculumVitae(ID)
 );
 /
+CREATE TABLE TechnicalSkills(
+  CV_ID NUMBER,
+  SKILL CLOB,
+  VALOARE NUMBER,
 
+  CONSTRAINT fk_tsk
+     FOREIGN KEY (CV_ID)
+     REFERENCES CurriculumVitae(ID)
+);
+/
 CREATE TABLE Clustering(
   CLUSTER_ID NUMBER,
   CENTER_OF_GRAVITY NUMBER

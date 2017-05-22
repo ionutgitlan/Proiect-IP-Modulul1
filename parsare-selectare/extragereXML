@@ -1,7 +1,9 @@
-
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
@@ -15,15 +17,6 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-/**
- *
- * @author Grozavu
- */
 public class CV {
 
     public static String getName(String path) { //returneaza numele persoanei
@@ -45,7 +38,7 @@ public class CV {
                     name = eElement.getElementsByTagName("FormattedName").item(0).getTextContent();
                 }
             }
-        } catch (IOException | ParserConfigurationException | DOMException | SAXException e) {
+        } catch (IOException | ParserConfigurationException | DOMException | SAXException | NullPointerException e) {
         }
         return name;
     }
@@ -69,9 +62,43 @@ public class CV {
                     email = eElement.getElementsByTagName("InternetEmailAddress").item(0).getTextContent();
                 }
             }
-        } catch (IOException | ParserConfigurationException | DOMException | SAXException e) {
+        } catch (IOException | ParserConfigurationException | DOMException | SAXException | NullPointerException e) {
         }
         return email;
+    }
+
+    public static float getWorkExperienceValue(String job, int experienceYears) {
+        Map<String, Float> valuesMap = new HashMap<String,Float>();
+        File file=new File("C:\\Users\\Dell\\Desktop\\top.txt");
+        float value=0;
+        float woExValue=0;
+        try (BufferedReader bufferedReader = new BufferedReader(new FileReader(file))) {
+            String line;
+            while ((line = bufferedReader.readLine()) != null) {
+                String[] splitLine=line.split(" "); 
+                String jobTitle="";
+                for(int i=0;i<splitLine.length-2;i++){
+                    jobTitle=jobTitle+splitLine[i]+" ";
+                }
+                jobTitle=jobTitle+splitLine[splitLine.length-2];
+                value = Float.parseFloat(splitLine[splitLine.length-1]);
+                valuesMap.put(jobTitle,value);                
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        for (String key : valuesMap.keySet()) {
+            //System.out.println(key + ":" + valuesMap.get(key));
+            if(job.toLowerCase().contains(key.toLowerCase())) {
+                if(valuesMap.get(key)<=2){
+                    woExValue=woExValue*valuesMap.get(key);
+                }
+                else {
+                    woExValue=woExValue+valuesMap.get(key);
+                }
+            }
+        }
+        return woExValue+experienceYears;
     }
 
     public static List<WorkExperience> getWorkExperience(String path) { //returneaza array de obiecte WorkExperience cu toate atributele
@@ -92,6 +119,7 @@ public class CV {
                 String startDate = "";
                 String endDate = "Present";
                 int experienceYears;
+                float value=0;
                 Node nNode = nList.item(i);
                 if (nNode.getNodeType() == Node.ELEMENT_NODE) {
                     Element eElement = (Element) nNode;
@@ -107,9 +135,11 @@ public class CV {
                 } else {
                     experienceYears = 2017 - Integer.parseInt(startDate.substring(1, 5));
                 }
-                workExperience.add(new WorkExperience(jobTitle, experienceYears));
+                value=getWorkExperienceValue(jobTitle, experienceYears);
+                System.out.println(jobTitle+"  "+experienceYears+" "+value);
+                workExperience.add(new WorkExperience(jobTitle, experienceYears, value));
             }
-        } catch (IOException | ParserConfigurationException | DOMException | SAXException e) {
+        } catch (IOException | ParserConfigurationException | DOMException | SAXException | NumberFormatException | NullPointerException e) {
         }
         return workExperience;
     }
@@ -117,7 +147,7 @@ public class CV {
     public static int[] getStudiesExperience(String path) { //returneaza un array. [0]-returneaza certificate [1]-returneaza study years
         int degree = 0;
         int studiesYears = 0;
-        int[] studies=new int[2];
+        int[] studies = new int[2];
         try {
             File fXmlFile = new File(path);
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -168,18 +198,19 @@ public class CV {
                 }
             }
 
-        } catch (IOException | ParserConfigurationException | DOMException | SAXException e) {
+        } catch (IOException | ParserConfigurationException | DOMException | SAXException | NullPointerException | NumberFormatException e) {
         }
-        
-        studies[0]=degree;
-        studies[1]=studiesYears;
+
+        studies[0] = degree;
+        studies[1] = studiesYears;
         return studies;
     }
-     public static List<String> getSkills(String path) throws SAXException, ParserConfigurationException {
-         List<String> skills;
-         skills= new ArrayList<>();
-         String skill=null;
-         Map<String, String> map = new LinkedHashMap<>();
+
+    public static List<String> getSkills(String path) throws SAXException, ParserConfigurationException {
+        List<String> skills;
+        skills = new ArrayList<>();
+        String skill = null;
+        Map<String, String> map = new LinkedHashMap<>();
         try {
             File fXmlFile = new File(path);
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -190,13 +221,13 @@ public class CV {
 
             NodeList nList = doc.getElementsByTagName("Qualifications");
             Element qualificationsElement = (Element) nList.item(0);
-            findElementsWithValues(map, qualificationsElement,skills);
-            }
-        catch (IOException | ParserConfigurationException | DOMException | SAXException e) {
+            findElementsWithValues(map, qualificationsElement, skills);
+        } catch (IOException | ParserConfigurationException | DOMException | SAXException e) {
         }
         return skills;
     }
-     private static void findElementsWithValues(Map<String, String> map, Element rootElement,List<String> skills) {
+
+    private static void findElementsWithValues(Map<String, String> map, Element rootElement, List<String> skills) {
         NodeList childNodes = rootElement.getChildNodes();
         for (int i = 0; i < childNodes.getLength(); i++) {
             Node node = childNodes.item(i);
@@ -207,10 +238,10 @@ public class CV {
                     String tagName = element.getTagName();
                     map.put(tagName, value);
                     skills.add(value);
-                }else{
-                    findElementsWithValues(map, element,skills);
+                } else {
+                    findElementsWithValues(map, element, skills);
                 }
             }
         }
-   }
+    }
 }

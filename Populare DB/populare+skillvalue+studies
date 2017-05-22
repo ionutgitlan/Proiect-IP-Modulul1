@@ -60,6 +60,24 @@ public class Main {
         reader.close();
         return sum;
     }
+    
+    public static int softskillsValoare(String skill) throws FileNotFoundException, IOException{
+        HashMap<String, Integer> dictionary = new HashMap<>();
+        String CurrentLine;
+        int sum = 0;
+        try (BufferedReader br = new BufferedReader(new FileReader("Dictionar.txt"))) {
+            while ((CurrentLine = br.readLine()) != null) {
+                String[] arr = CurrentLine.split(", ");
+                dictionary.put(arr[0],Integer.parseInt(arr[1]));
+            }
+            for (String key : dictionary.keySet()) {
+                if(skill.toLowerCase().contains(key.toLowerCase())) {
+                    sum = sum + dictionary.get(key);
+                }
+            }
+        }
+        return sum;
+    }
 
     private static void populate(String path, int numar) throws SAXException, ParserConfigurationException, SQLException {
         String name = CV.getName(path);

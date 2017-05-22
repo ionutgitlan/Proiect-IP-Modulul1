@@ -1,0 +1,94 @@
+account management, 5
+account manager, 5
+accounting, 5
+accounts payable, 5
+accounts receivable, 5
+aquisitions, 4
+administrative assistant, 4
+advertising, 5
+agile, 7
+agile methodologies, 6
+agile methodology, 6
+analytical skills, 5
+assessments, 5
+asset management, 5
+associate in risk management, 6
+attention to detail, 8
+audit, 6
+budgeting, 5
+business analysis, 5
+business development, 5
+business development manager, 6
+business management, 6
+business requirements, 5
+buying, 3
+call center, 4
+change management, 4
+coaching, 4
+code review, 7
+communication skills, 8
+communications, 8
+complaints, 4
+configuration management, 5
+confluence, 4
+consulting, 4
+corporate training, 6
+customer accounts, 5
+customer relationship management, 4
+customer service, 5
+document management, 5
+end-user training, 6
+entrepreneurship, 3
+equity, 3
+excellent communication skills, 8
+excellent problem solving skills, 6
+financials, 1
+focus, 5
+full project lifecycle, 5
+gathering requirements, 3
+generally accepted accounting principles, 6
+hr, 7
+help desk, 4
+human resources, 7
+management, 3
+management trainee, 2
+marketing management, 3
+monthly financial statements, 2
+new business development, 3
+people management, 6
+planning, 6
+problem solving, 6
+problem solving skills, 6
+program management, 6
+product management, 6
+project closure, 7
+project leader, 7
+project management, 7
+project manager, 7
+project planning, 7
+recruiter, 7
+recruiting, 7
+reliability, 2
+requirements management, 7
+resource management, 6
+reviews, 2
+risk analysis, 6
+risk assessment, 6
+scrum, 6
+sales support, 1
+scrum master, 7
+staffing and recruitment, 5
+statistical analysis, 6
+statistics, 4
+strategic planning, 6
+strategic vision, 4
+strong leader, 7
+support, 1
+team lead, 7
+team player, 7
+technical lead, 6
+vendor management, 5
+verbal communication, 8
+verbal communication skills, 8
+written communication, 8
+written communication skills, 8

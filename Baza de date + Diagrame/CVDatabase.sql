@@ -23,7 +23,7 @@ DROP TABLE Hobbies;
 /
 DROP TABLE SoftSkills;
 /
-DROP TABKE TechnicalSkills;
+DROP TABLE TechnicalSkills;
 /
 DROP TABLE Clustering;
 

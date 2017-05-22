@@ -8,15 +8,7 @@ import java.util.List;
 import javax.xml.parsers.ParserConfigurationException;
 import org.xml.sax.SAXException;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-/**
- *
- * @author Grozavu
- */
+
 public class Main {
 
     private static void getFiles(final File folder) throws IOException, SAXException, ParserConfigurationException, SQLException {
@@ -35,67 +27,37 @@ public class Main {
         }
     }
 
-    private static int valoare(String skill) {
-        if (skill.toLowerCase().contains("java")) {
-            return 20;
+    public static int valoare(String skill, String tipCautare) throws FileNotFoundException, IOException {
+        String filePath = null;
+        if (tipCautare.equals("oop")) {
+            filePath = "top-oop.txt";
+        } else if (tipCautare.equals("web")) {
+            filePath = "top-web.txt";
+        } else if (tipCautare.equals("general")) {
+            filePath = "top-general.txt";
         }
-        if (skill.toLowerCase().contains(" c ") | skill.toLowerCase().contains("c/")) {
-            return 19;
+        HashMap<String, Integer> map = new HashMap<String, Integer>();
+
+        String line;
+        BufferedReader reader = new BufferedReader(new FileReader(filePath));
+        while ((line = reader.readLine()) != null) {
+            String[] parts = line.split(":", 2);
+            if (parts.length >= 2) {
+                String key = parts[0];
+                int value = Integer.parseInt(parts[1]);
+                map.put(key, value);
+            } else {
+                System.out.println("ignoring line: " + line);
+            }
         }
-        if (skill.toLowerCase().contains("c++")) {
-            return 18;
+
+        for (String key : map.keySet()) {
+//            System.out.println(key + ":" + map.get(key));
+            if(skill.toLowerCase().contains(key.toLowerCase())) {
+                return map.get(key);
+            }
         }
-        if (skill.toLowerCase().contains("c#")) {
-            return 17;
-        }
-        if (skill.toLowerCase().contains("python")) {
-            return 16;
-        }
-        if (skill.toLowerCase().contains("php")) {
-            return 15;
-        }
-        if (skill.toLowerCase().contains("javascript")) {
-            return 14;
-        }
-        if (skill.toLowerCase().contains(".net")) {
-            return 13;
-        }
-        if (skill.toLowerCase().contains("pascal")) {
-            return 12;
-        }
-        if (skill.toLowerCase().contains("perl")) {
-            return 11;
-        }
-        if (skill.toLowerCase().contains("ruby")) {
-            return 10;
-        }
-        if (skill.toLowerCase().contains("swift")) {
-            return 9;
-        }
-        if (skill.toLowerCase().contains("assembly")) {
-            return 8;
-        }
-        if (skill.toLowerCase().contains("go ")) {
-            return 7;
-        }
-        if (skill.toLowerCase().contains(" r ")) {
-            return 6;
-        }
-        if (skill.toLowerCase().contains("visual basic")) {
-            return 5;
-        }
-        if (skill.toLowerCase().contains("matlab")) {
-            return 4;
-        }
-        if (skill.toLowerCase().contains("pl/sql")) {
-            return 3;
-        }
-        if (skill.toLowerCase().contains("objective-c")) {
-            return 2;
-        }
-        if (skill.toLowerCase().contains("scratch")) {
-            return 1;
-        }
+        reader.close();
         return 0;
     }
 

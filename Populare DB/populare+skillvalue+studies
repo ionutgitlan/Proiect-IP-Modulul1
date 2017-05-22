@@ -27,7 +27,7 @@ public class Main {
         }
     }
 
-    public static int valoare(String skill, String tipCautare) throws FileNotFoundException, IOException {
+    public static int valoareTSkill(String skill, String tipCautare) throws FileNotFoundException, IOException {
         String filePath = null;
         if (tipCautare.equals("oop")) {
             filePath = "top-oop.txt";

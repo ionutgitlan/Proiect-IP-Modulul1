@@ -1,0 +1,20 @@
+engineer 2
+developer 1.75
+programmer 1.65
+test 1.5
+design 1.4
+leader 1.2
+scrum master 1.2
+coordinator 1.2
+manager 1
+technician 0.7
+suport 0.5
+consultant 0.5
+specialist 0.5
+software 11
+java 10
+web 9
+hardware 8
+database 7
+dba 7
+ios 6

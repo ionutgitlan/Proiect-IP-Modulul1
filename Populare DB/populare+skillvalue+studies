@@ -37,7 +37,7 @@ public class Main {
             filePath = "top-general.txt";
         }
         HashMap<String, Integer> map = new HashMap<String, Integer>();
-
+ 
         String line;
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         while ((line = reader.readLine()) != null) {
@@ -50,15 +50,15 @@ public class Main {
                 System.out.println("ignoring line: " + line);
             }
         }
-
+        int sum = 0;
         for (String key : map.keySet()) {
 //            System.out.println(key + ":" + map.get(key));
             if(skill.toLowerCase().contains(key.toLowerCase())) {
-                return map.get(key);
+                sum = sum + map.get(key);
             }
         }
         reader.close();
-        return 0;
+        return sum;
     }
 
     private static void populate(String path, int numar) throws SAXException, ParserConfigurationException, SQLException {

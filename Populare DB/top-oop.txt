@@ -1,0 +1,21 @@
+C++:20
+C#:19
+Delphi:18
+Java:17
+PHP:16
+Python:15
+Visual Basic:14
+ColdFusion:13
+Common Lisp:12
+COOL:11
+CorbaScript:10
+Curl:9
+D:8
+Dart:7
+DataFlex:6
+Dylan:6
+E:5
+Eiffel:4
+Graphtalk:3	
+IDLscript:2	
+JADE:1

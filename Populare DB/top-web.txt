@@ -1,0 +1,11 @@
+JavaScript:10
+Java:9
+Python:8
+Elixir:7
+Rust:6
+Go:5
+TypeScript:4
+PHP:3
+Ruby on Rails:2
+C#:1
+Swift:0

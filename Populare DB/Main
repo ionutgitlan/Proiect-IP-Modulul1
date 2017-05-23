@@ -30,7 +30,7 @@ public class Main {
         }
     }
 
-    public static int valueTechnicalSkill(String skill, String cautare) throws FileNotFoundException, IOException {
+    public static int technicalSkillsValue(String skill, String cautare) throws FileNotFoundException, IOException {
         String filePath = "top-" + cautare + ".txt";
         HashMap<String, Integer> map = new HashMap<String, Integer>();
 
@@ -38,14 +38,10 @@ public class Main {
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         while ((line = reader.readLine()) != null) {
             String[] parts = line.split(":", 2);
-            if (parts.length >= 2) {
-                String key = parts[0];
-                int value = Integer.parseInt(parts[1]);
-                map.put(key, value);
-            }
-//            } else {
-//                System.out.println("ignoring line: " + line);
-//            }
+            String key = parts[0];
+            int value = Integer.parseInt(parts[1]);
+            map.put(key, value);
+
         }
 
         int sum = 0;

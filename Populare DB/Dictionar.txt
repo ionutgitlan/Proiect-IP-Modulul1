@@ -7,8 +7,8 @@ aquisitions, 4
 administrative assistant, 4
 advertising, 5
 agile, 7
-agile methodologies, 6
-agile methodology, 6
+agile methodologies, 1
+agile methodology, 1
 analytical skills, 5
 assessments, 5
 asset management, 5
@@ -51,14 +51,14 @@ hr, 7
 help desk, 4
 human resources, 7
 management, 3
-management trainee, 2
+management trainee, 1
 marketing management, 3
 monthly financial statements, 2
 new business development, 3
 people management, 6
 planning, 6
 problem solving, 6
-problem solving skills, 6
+problem solving skills, 1
 program management, 6
 product management, 6
 project closure, 7
@@ -76,7 +76,7 @@ risk analysis, 6
 risk assessment, 6
 scrum, 6
 sales support, 1
-scrum master, 7
+scrum master, 1
 staffing and recruitment, 5
 statistical analysis, 6
 statistics, 4
@@ -88,7 +88,7 @@ team lead, 7
 team player, 7
 technical lead, 6
 vendor management, 5
-verbal communication, 8
-verbal communication skills, 8
-written communication, 8
-written communication skills, 8
+verbal communication, 2
+verbal communication skills, 1
+written communication, 2
+written communication skills, 1

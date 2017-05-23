@@ -1,13 +1,16 @@
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
+import java.util.HashMap;
 import java.util.List;
 import javax.xml.parsers.ParserConfigurationException;
 import org.xml.sax.SAXException;
-
 
 public class Main {
 
@@ -27,7 +30,7 @@ public class Main {
         }
     }
 
-    public static int valoareTSkill(String skill, String tipCautare) throws FileNotFoundException, IOException {
+    public static int technicalSkillsValue(String skill, String tipCautare) throws FileNotFoundException, IOException {
         String filePath = null;
         if (tipCautare.equals("oop")) {
             filePath = "top-oop.txt";
@@ -37,7 +40,7 @@ public class Main {
             filePath = "top-general.txt";
         }
         HashMap<String, Integer> map = new HashMap<String, Integer>();
- 
+
         String line;
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         while ((line = reader.readLine()) != null) {
@@ -53,25 +56,25 @@ public class Main {
         int sum = 0;
         for (String key : map.keySet()) {
 //            System.out.println(key + ":" + map.get(key));
-            if(skill.toLowerCase().contains(key.toLowerCase())) {
+            if (skill.toLowerCase().contains(key.toLowerCase())) {
                 sum = sum + map.get(key);
             }
         }
         reader.close();
         return sum;
     }
-    
-    public static int softskillsValoare(String skill) throws FileNotFoundException, IOException{
+
+    public static int softSkillsValue(String skill) throws FileNotFoundException, IOException {
         HashMap<String, Integer> dictionary = new HashMap<>();
         String CurrentLine;
         int sum = 0;
         try (BufferedReader br = new BufferedReader(new FileReader("Dictionar.txt"))) {
             while ((CurrentLine = br.readLine()) != null) {
                 String[] arr = CurrentLine.split(", ");
-                dictionary.put(arr[0],Integer.parseInt(arr[1]));
+                dictionary.put(arr[0], Integer.parseInt(arr[1]));
             }
             for (String key : dictionary.keySet()) {
-                if(skill.toLowerCase().contains(key.toLowerCase())) {
+                if (skill.toLowerCase().contains(key.toLowerCase())) {
                     sum = sum + dictionary.get(key);
                 }
             }
@@ -79,7 +82,16 @@ public class Main {
         return sum;
     }
 
-    private static void populate(String path, int numar) throws SAXException, ParserConfigurationException, SQLException {
+    private static int studiesValue(String path) throws SAXException, ParserConfigurationException, SQLException {
+        int[] Studies = new int[2];
+        int values;
+        Connection con = DB.GetConn();
+        Studies = CV.getStudiesExperience(path);
+        values = Studies[0] * 100 + Studies[1];
+        return values;
+    }
+
+    private static void populate(String path, int numar) throws SAXException, ParserConfigurationException, SQLException, IOException {
         String name = CV.getName(path);
         String email = CV.getEmail(path);
         List<WorkExperience> workExperience = CV.getWorkExperience(path);
@@ -115,16 +127,16 @@ public class Main {
         pstmt.close();
 
         for (int i = 0; i < skills.size(); i++) {
-            pstmt = con.prepareStatement("insert into softskills (cv_id,skill,valoare) values (?,?,?)");
+            pstmt = con.prepareStatement("insert into softskills (cv_id,skill,value) values (?,?,?)");
             pstmt.setInt(1, numar);
             pstmt.setString(2, skills.get(i));
-            pstmt.setInt(3, valoare(skills.get(i)));
+            pstmt.setInt(3, softSkillsValue(skills.get(i)));
             pstmt.executeUpdate();
             pstmt.close();
         }
 
         pstmt.close();
-        
+
         pstmt = con.prepareStatement("insert into studies (cv_id,certificate,study_years) values (?,?,?)");
 
         pstmt.setInt(1, numar);

@@ -6,7 +6,9 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.HashMap;
 import java.util.List;
 import javax.xml.parsers.ParserConfigurationException;
@@ -24,7 +26,7 @@ public class Main {
                 path += "\\" + fileEntry.getName();
                 System.out.println(path);
                 numar++;
-                System.out.println(numar);
+                System.out.println("cv : "+numar);
                 populate(path, numar);
             }
         }
@@ -84,13 +86,16 @@ public class Main {
     private static void populate(String path, int numar) throws SAXException, ParserConfigurationException, SQLException, IOException {
         String name = CV.getName(path);
         String email = CV.getEmail(path);
-        List<WorkExperience> workExperience = CV.getWorkExperience(path);
+        String workExperiencePath="C:\\Users\\Grozavu\\Desktop\\Topuri\\workExperienceTop.txt";
+        List<WorkExperience> workExperience = CV.getWorkExperience(path,workExperiencePath);
 
         int studies[] = CV.getStudiesExperience(path);
         List<String> skills = CV.getSkills(path);
         Connection con = DB.GetConn();
         int var = 0;
         PreparedStatement pstmt;
+        
+        //////////////////////////////////curriculum vitae///////////////////////////////////
         pstmt = con.prepareStatement("insert into curriculumvitae (id,name,email) values (?,?,?)");
 
         pstmt.setInt(1, numar);
@@ -99,39 +104,77 @@ public class Main {
         pstmt.executeUpdate();
         pstmt.close();
 
+        
+        //////////////////////////////////work experience////////////////////////////////////
         for (int i = 0; i < workExperience.size(); i++) {
-            pstmt = con.prepareStatement("insert into experience (cv_id,job_title,experience_years) values (?,?,?)");
+            pstmt = con.prepareStatement("insert into experience (cv_id,job_title,experience_years,value) values (?,?,?,?)");
             pstmt.setInt(1, numar);
             pstmt.setString(2, workExperience.get(i).jobTitle);
             pstmt.setInt(3, workExperience.get(i).experienceYears);
+            pstmt.setInt(4, workExperience.get(i).value);
             pstmt.executeUpdate();
             var += workExperience.get(i).experienceYears;
             pstmt.close();
         }
 
         pstmt.close();
-        pstmt = con.prepareStatement("update curriculumvitae set experience_years = (?) where id =10");
-
-        pstmt.setInt(1, var);
-        pstmt.executeUpdate();
-        pstmt.close();
-
-        for (int i = 0; i < skills.size(); i++) {
-            pstmt = con.prepareStatement("insert into softskills (cv_id,skill,value) values (?,?,?)");
-            pstmt.setInt(1, numar);
-            pstmt.setString(2, skills.get(i));
-            pstmt.setInt(3, softSkillsValue(skills.get(i)));
+        
+        ///////////////////////   suma experience years   //////////////////////////////////
+        Statement stmt = con.createStatement();
+        int c = 0;
+        ResultSet rs;
+        String query;
+        for (int i = 101; i <= 198; i++) {
+            query = "select sum(experience_years) from experience where cv_id= " + i;
+            rs = stmt.executeQuery(query);
+            while (rs.next()) {
+                c = rs.getInt("sum(experience_years)");
+            }
+            pstmt = con.prepareStatement("update curriculumvitae set experience_years = (?) where id =" + i);
+            pstmt.setInt(1, c);
             pstmt.executeUpdate();
+            pstmt.close();
+        }
+        stmt.close();
+        
+
+        ////////////////////////// technical skills///////////////////////////////////
+        for (int i = 0; i < skills.size(); i++) {
+            pstmt = con.prepareStatement("insert into technicalskills (cv_id,skill,value) values (?,?,?)");
+            if(technicalSkillsValue(skills.get(i),"oop")!=0)
+            {
+                pstmt.setInt(1, numar);
+                pstmt.setString(2, skills.get(i));
+                pstmt.setInt(3, technicalSkillsValue(skills.get(i),"oop"));
+                pstmt.executeUpdate();
+            }
+            pstmt.close();
+        }
+
+        pstmt.close();
+        
+        ////////////////////////// soft skills///////////////////////////////////
+        for (int i = 0; i < skills.size(); i++) {
+            pstmt = con.prepareStatement("insert into spftskills (cv_id,skill,value) values (?,?,?)");
+            if(softSkillsValue(skills.get(i))!=0)
+            {
+                pstmt.setInt(1, numar);
+                pstmt.setString(2, skills.get(i));
+                pstmt.setInt(3, softSkillsValue(skills.get(i)));
+                pstmt.executeUpdate();
+            }
             pstmt.close();
         }
 
         pstmt.close();
 
-        pstmt = con.prepareStatement("insert into studies (cv_id,certificate,study_years) values (?,?,?)");
+        ///////////////////////////////////studies//////////////////////////////////
+        pstmt = con.prepareStatement("insert into studies (cv_id,certificate,study_years,value) values (?,?,?,?)");
 
         pstmt.setInt(1, numar);
         pstmt.setInt(2, studies[0]);
         pstmt.setInt(3, studies[1]);
+        pstmt.setInt(4, studiesValue(path));
         pstmt.executeUpdate();
         pstmt.close();
     }

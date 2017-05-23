@@ -69,26 +69,6 @@ CREATE TABLE Studies(
 );
 /
 
-CREATE TABLE LanguageSkills(
-  CV_ID NUMBER not null,
-  LANGUAGE CLOB,
-  
-  CONSTRAINT fk_lng
-    FOREIGN KEY (CV_ID)
-    REFERENCES CurriculumVitae(ID)
-);
-/
-
-CREATE TABLE Hobbies(
-  CV_ID NUMBER not null,
-  HOBBY CLOB,
-  
-  CONSTRAINT fk_hob
-    FOREIGN KEY (CV_ID)
-    REFERENCES CurriculumVitae(ID)
-);
-/
-
 CREATE TABLE SoftSkills(
   CV_ID NUMBER,
   SKILL CLOB,

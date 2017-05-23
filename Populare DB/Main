@@ -30,15 +30,8 @@ public class Main {
         }
     }
 
-    public static int technicalSkillsValue(String skill, String tipCautare) throws FileNotFoundException, IOException {
-        String filePath = null;
-        if (tipCautare.equals("oop")) {
-            filePath = "top-oop.txt";
-        } else if (tipCautare.equals("web")) {
-            filePath = "top-web.txt";
-        } else if (tipCautare.equals("general")) {
-            filePath = "top-general.txt";
-        }
+    public static int valueTechnicalSkill(String skill, String cautare) throws FileNotFoundException, IOException {
+        String filePath = "top-" + cautare + ".txt";
         HashMap<String, Integer> map = new HashMap<String, Integer>();
 
         String line;
@@ -49,13 +42,14 @@ public class Main {
                 String key = parts[0];
                 int value = Integer.parseInt(parts[1]);
                 map.put(key, value);
-            } else {
-                System.out.println("ignoring line: " + line);
             }
+//            } else {
+//                System.out.println("ignoring line: " + line);
+//            }
         }
+
         int sum = 0;
         for (String key : map.keySet()) {
-//            System.out.println(key + ":" + map.get(key));
             if (skill.toLowerCase().contains(key.toLowerCase())) {
                 sum = sum + map.get(key);
             }

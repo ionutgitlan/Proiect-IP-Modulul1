@@ -1,0 +1,6 @@
+In arhiva exista tot proiectul pentru popularea bazei de date.
+
+1. Adaugati jar-ul pt conectarea la baza de date
+2. Pt populare aveti nevoie si de fisierul cu xml-urile cv-urilor
+3. Inlocuiti unde exista path-uri de fisiere cu path-ul din calculatorul vostru
+4. Daca vreti sa inserati un cv nou in baza de date puteti apela functia 'populate(path_xml)' din clasa Main

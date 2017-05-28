@@ -56,21 +56,21 @@ public class Main {
         return sum;
     }
 
-    public static int softskillsValoare(String skill, String fileName) throws FileNotFoundException, IOException {
+    public static int softSkillsValue(String skill) throws FileNotFoundException, IOException {
         HashMap<String, Integer> dictionary = new HashMap<>();
         String CurrentLine;
         int sum = 0;
-        BufferedReader br = new BufferedReader(new FileReader(fileName));
-        while ((CurrentLine = br.readLine()) != null) {
-            String[] arr = CurrentLine.split(", ");
-            dictionary.put(arr[0], Integer.parseInt(arr[1]));
-        }
-        for (String key : dictionary.keySet()) {
-            if (skill.toLowerCase().contains(key.toLowerCase())) {
-                sum = sum + dictionary.get(key);
+        try (BufferedReader br = new BufferedReader(new FileReader("Dictionar.txt"))) {
+            while ((CurrentLine = br.readLine()) != null) {
+                String[] arr = CurrentLine.split(", ");
+                dictionary.put(arr[0], Integer.parseInt(arr[1]));
+            }
+            for (String key : dictionary.keySet()) {
+                if (skill.toLowerCase().contains(key.toLowerCase())) {
+                    sum = sum + dictionary.get(key);
+                }
             }
         }
-
         return sum;
     }
 
@@ -137,7 +137,6 @@ public class Main {
         }
         stmt.close();
         
-
         ////////////////////////// technical skills///////////////////////////////////
         for (int i = 0; i < skills.size(); i++) {
             pstmt = con.prepareStatement("insert into technicalskills (cv_id,skill,value) values (?,?,?)");
@@ -155,7 +154,7 @@ public class Main {
         
         ////////////////////////// soft skills///////////////////////////////////
         for (int i = 0; i < skills.size(); i++) {
-            pstmt = con.prepareStatement("insert into spftskills (cv_id,skill,value) values (?,?,?)");
+            pstmt = con.prepareStatement("insert into softskills (cv_id,skill,value) values (?,?,?)");
             if(softSkillsValue(skills.get(i))!=0)
             {
                 pstmt.setInt(1, numar);

@@ -10,7 +10,7 @@ public class CVTest {
         int experienceYears = 10;
         int expResult = 210;
         String path="C:\\Users\\Dell\\Desktop\\top-jobs.txt";
-        float result = CV.getWorkExperienceValue(job, experienceYears,path);
+        int result = CV.getWorkExperienceValue(job, experienceYears,path);
         assertEquals(expResult, result, 0.0);
     }
     
@@ -20,7 +20,7 @@ public class CVTest {
         int experienceYears= 5;
         int expResult=340;
         String path="C:\\Users\\Dell\\Desktop\\top-jobs.txt";
-        float result=CV.getWorkExperienceValue(job,experienceYears,path);
+        int result=CV.getWorkExperienceValue(job,experienceYears,path);
         assertEquals(expResult,result,0.0);
     }
     
@@ -30,7 +30,7 @@ public class CVTest {
         int experienceYears= 5;
         int expResult=340;
         String path="C:\\Users\\Dell\\Desktop\\top-jobs.txt";
-        float result=CV.getWorkExperienceValue(job,experienceYears,path);
+        int result=CV.getWorkExperienceValue(job,experienceYears,path);
         assertEquals(expResult,result,0.0);
     }
     
@@ -40,7 +40,7 @@ public class CVTest {
         int experienceYears= 5;
         int expResult=340;
         String path="C:\\Users\\Dell\\Desktop\\top-jobs.txt";
-        float result=CV.getWorkExperienceValue(job,experienceYears,path);
+        int result=CV.getWorkExperienceValue(job,experienceYears,path);
         assertEquals(expResult,result,0.0);
     }
     
@@ -50,7 +50,7 @@ public class CVTest {
         int experienceYears= 12;
         int expResult=12;
         String path="C:\\Users\\Dell\\Desktop\\top-jobs.txt";
-        float result=CV.getWorkExperienceValue(job,experienceYears,path);
+        int result=CV.getWorkExperienceValue(job,experienceYears,path);
         assertEquals(expResult,result,0.0);
     }
     
@@ -60,7 +60,7 @@ public class CVTest {
         int experienceYears = 0;
         int expResult = 0;
         String path="C:\\Users\\Dell\\Desktop\\top-jobs.txt";
-        float result = CV.getWorkExperienceValue(job, experienceYears,path);
+        int result = CV.getWorkExperienceValue(job, experienceYears,path);
         assertEquals(expResult, result, 0.0);
     }
     

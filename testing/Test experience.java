@@ -8,8 +8,7 @@ public class CVTest {
     public void testGetWorkExperienceValueGeneral() {
         String job = "I am a manager";
         int experienceYears = 10;
-        int expResult = 210;
-        
+        int expResult = 210;       
         float result = CV.getWorkExperienceValue(job, experienceYears);
         assertEquals(expResult, result, 0.0);
     }
@@ -54,8 +53,7 @@ public class CVTest {
     public void testGetWorkExperienceValueEmpty() {
         String job = "";
         int experienceYears = 0;
-        int expResult = 0;
-        
+        int expResult = 0;       
         float result = CV.getWorkExperienceValue(job, experienceYears);
         assertEquals(expResult, result, 0.0);
     }

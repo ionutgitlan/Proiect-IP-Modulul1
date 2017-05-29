@@ -67,7 +67,7 @@ public class CV {
         return email;
     }
 
-    public static int getWorkExperienceValue(String job, int experienceYears, String path) {
+    public static int getWorkExperienceValue(String job, int experienceYears, String path) { //calculeaza experienta persoanei
         Map<String, Integer> valuesMap = new HashMap<String,Integer>();
         File file=new File(path);
         int value=1;

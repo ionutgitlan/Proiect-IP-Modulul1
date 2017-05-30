@@ -71,7 +71,7 @@ public class CV {
         Map<String, Integer> valuesMap = new HashMap<String,Integer>();
         File file=new File(path);
         int value=1;
-        int woExValue=0;
+        int woExValue=1;
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader(file))) {
             String line;
             while ((line = bufferedReader.readLine()) != null) {
@@ -90,12 +90,7 @@ public class CV {
         for (String key : valuesMap.keySet()) {
             //System.out.println(key + ":" + valuesMap.get(key));
             if(job.toLowerCase().contains(key.toLowerCase())) {
-                if(valuesMap.get(key)>=50){
-                    woExValue=woExValue*valuesMap.get(key);
-                }
-                else {
-                    woExValue=woExValue+valuesMap.get(key);
-                }
+                woExValue=woExValue+valuesMap.get(key);
             }
         }
         return woExValue+experienceYears;
